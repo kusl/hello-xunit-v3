@@ -1,0 +1,689 @@
+===============================================================================
+PROJECT EXPORT
+Generated (UTC): 2026-09-25 22:23:34
+Project Path:    /home/kushal/src/dotnet/HelloXUnit
+Git Commit:      bfd335be1646c1a0d5f4252bdac09d944fa65f76
+Git Branch:      master
+.NET SDK:        10.0.112
+Files Exported:  11
+===============================================================================
+
+DIRECTORY STRUCTURE:
+===================
+
+.
+├── CSharpClassLibrary
+│   ├── CSharpClassLibrary.csproj
+│   └── FilenameString.cs
+├── CSharpConsoleApp
+│   ├── CSharpConsoleApp.csproj
+│   └── Program.cs
+├── CSharpUnitTests
+│   ├── CSharpUnitTests.csproj
+│   └── FilenameStringTests.cs
+├── Directory.Build.props
+├── Directory.Packages.props
+├── export.sh
+├── .gitignore
+├── global.json
+├── HelloXUnit.sln.DotSettings.user
+└── HelloXUnit.slnx
+
+
+FILE CONTENTS:
+==============
+
+================================================================================
+FILE:     CSharpClassLibrary/CSharpClassLibrary.csproj
+SIZE:     0.28 KB (282 bytes)
+LINES:    10
+SHA256:   2e6b3aa0597c66a6220f2e16c7cd95d4d6eab15f9659197ff946fc171a0fd2cd
+MODIFIED: 2026-09-25 18:08:51
+================================================================================
+
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>HelloXUnitCSharp</RootNamespace>
+    </PropertyGroup>
+
+</Project>
+
+
+================================================================================
+FILE:     CSharpClassLibrary/FilenameString.cs
+SIZE:     2.34 KB (2401 bytes)
+LINES:    92
+SHA256:   e4c33167c22cae422c90415ba5e66b00d70dc1f0cb319abbbd3da481362e7f61
+MODIFIED: 2026-09-25 18:23:30
+================================================================================
+
+namespace CSharpClassLibrary;
+
+public class FilenameString(string fullName)
+{
+    public string FullName { get; } = fullName;
+    public static string Ellipsis => "...";
+    private static readonly int EllipsisLength = 10;
+
+    public string EllipsisName => GetEllipsisName();
+
+    private string GetEllipsisName()
+    {
+        if (string.IsNullOrWhiteSpace(FullName))
+        {
+            return "";
+        }
+
+        ParseNameAndExtension(out string baseName, out string extension);
+
+        if (baseName.Length <= EllipsisLength)
+        {
+            return FullName;
+        }
+
+        return GetScottJensenEllipsis(baseName, extension);
+    }
+
+    private void ParseNameAndExtension(out string baseName, out string extension)
+    {
+        if (string.IsNullOrEmpty(FullName))
+        {
+            baseName = "";
+            extension = "";
+            return;
+        }
+
+        int firstDot = FullName.IndexOf('.');
+        int lastDot = FullName.LastIndexOf('.');
+
+        if (firstDot == 0 && lastDot == 0)
+        {
+            baseName = FullName;
+            extension = "";
+            return;
+        }
+
+        string[] compoundExtensions = { ".tar.gz", ".tar.bz2", ".tar.xz" };
+        foreach (var compExt in compoundExtensions)
+        {
+            if (FullName.EndsWith(compExt, StringComparison.OrdinalIgnoreCase) && FullName.Length > compExt.Length)
+            {
+                baseName = FullName[..^compExt.Length];
+                extension = FullName[^compExt.Length..];
+                return;
+            }
+        }
+
+        if (lastDot > 0)
+        {
+            baseName = FullName[..lastDot];
+            extension = FullName[lastDot..];
+        }
+        else
+        {
+            baseName = FullName;
+            extension = "";
+        }
+    }
+
+    private string GetScottJensenEllipsis(string baseName, string extension)
+    {
+        if (baseName.Length <= EllipsisLength)
+        {
+            return baseName + extension;
+        }
+
+        int charsLeft = EllipsisLength - Ellipsis.Length;
+
+        if (charsLeft <= 0)
+        {
+            return Ellipsis + extension;
+        }
+
+        int front = (int)Math.Ceiling(charsLeft / 2.0);
+        int back = charsLeft - front;
+
+        string initialPortion = baseName[..front];
+        string laterPortion = baseName[^back..];
+
+        return initialPortion + Ellipsis + laterPortion + extension;
+    }
+}
+
+
+================================================================================
+FILE:     CSharpConsoleApp/CSharpConsoleApp.csproj
+SIZE:     0.37 KB (382 bytes)
+LINES:    14
+SHA256:   5e482eca2ace41f10dbfcc43217cf5c1ca30ee30ca4098e1ae2aae7a210c35fc
+MODIFIED: 2026-09-25 18:07:20
+================================================================================
+
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CSharpClassLibrary\CSharpClassLibrary.csproj" />
+    </ItemGroup>
+
+</Project>
+
+
+================================================================================
+FILE:     CSharpConsoleApp/Program.cs
+SIZE:     0.22 KB (228 bytes)
+LINES:    5
+SHA256:   31c0336ea2cc1f34ee109e047209827d40d9f4a822d79669540e0f4ee685b932
+MODIFIED: 2026-09-25 18:01:24
+================================================================================
+
+﻿using HelloXUnitCSharp;
+
+FilenameString filenameString = new FilenameString("hello_there_I_have_a_surprise_final_final_really.pdf");
+Console.WriteLine(filenameString.FullName);
+Console.WriteLine(filenameString.EllipsisName);
+
+
+================================================================================
+FILE:     CSharpUnitTests/CSharpUnitTests.csproj
+SIZE:     0.81 KB (829 bytes)
+LINES:    23
+SHA256:   2240799c742ac434a2a6a65e2e1c2db7ae2d595df2e26985ae9ce31bbc0d4199
+MODIFIED: 2026-09-25 18:08:13
+================================================================================
+
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>HelloXUnitCSharp</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" />
+        <PackageReference Include="xunit.runner.visualstudio">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="xunit.v3" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\CSharpClassLibrary\CSharpClassLibrary.csproj" />
+    </ItemGroup>
+</Project>
+
+
+================================================================================
+FILE:     CSharpUnitTests/FilenameStringTests.cs
+SIZE:     3.89 KB (3987 bytes)
+LINES:    124
+SHA256:   3b53ac0a84f52659dbd3b8752e6b6783b6e6af35cf33565840d28c7f5751950d
+MODIFIED: 2026-09-25 18:23:30
+================================================================================
+
+using CSharpClassLibrary;
+using Xunit;
+
+namespace CSharpUnitTests;
+
+public class FilenameStringTests
+{
+    [Theory]
+    [InlineData("ValidName.txt")]
+    [InlineData("")]
+    [InlineData(" ")]
+    public void Constructor_AssignsFullName(string expected)
+    {
+        var sut = new FilenameString(expected);
+        Assert.Equal(expected, sut.FullName);
+    }
+
+    [Fact]
+    public void Constructor_AcceptsNull()
+    {
+        var sut = new FilenameString(null!);
+        Assert.Null(sut.FullName);
+    }
+
+    [Fact]
+    public void EllipsisName_WhenFullNameIsNull_ReturnsEmptyString()
+    {
+        var sut = new FilenameString(null!);
+        Assert.Equal(string.Empty, sut.EllipsisName);
+    }
+
+    [Fact]
+    public void EllipsisName_WhenLengthIsZero_ReturnsEmptyString()
+    {
+        var sut = new FilenameString("");
+        Assert.Equal(string.Empty, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData(" ")]
+    [InlineData("   ")]
+    public void EllipsisName_WhenWhitespace_ReturnsEmptyString(string input)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal("", sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData("1")]
+    [InlineData("12345")]
+    [InlineData("12345.txt")]
+    [InlineData("1234567890")]
+    [InlineData("1234567890.pdf")]
+    public void EllipsisName_WhenBaseNameIsTenOrLess_ReturnsFullName(string input)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(input, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData("12345678901", "1234...901")]
+    [InlineData("very_long_name", "very...ame")]
+    public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithoutExtension_ReturnsMiddleEllipsis(string input, string expected)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(expected, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData("12345678901.txt", "1234...901.txt")]
+    [InlineData("very_long_name.pdf", "very...ame.pdf")]
+    [InlineData("ScottArthurJenson.pdf", "Scot...son.pdf")]
+    public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithExtension_ReturnsMiddleEllipsisPreservingExtension(string input, string expected)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(expected, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData(".gitignore", ".git...ore")]
+    [InlineData(".dockerignore", ".doc...ore")]
+    [InlineData(".verylonghiddenfile", ".ver...ile")]
+    public void EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(string input, string expected)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(expected, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData(".hidden.txt")]
+    [InlineData(".short.longextension")]
+    public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsShort_ReturnsFullName(string input)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(input, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData(".superlonghidden.txt", ".sup...den.txt")]
+    [InlineData(".verylongconfigfile.json", ".ver...ile.json")]
+    public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsLong_TruncatesBaseName(string input, string expected)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(expected, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData("archive.tar.gz", "archive.tar.gz")]
+    [InlineData("verylongarchive.tar.gz", "very...ive.tar.gz")]
+    [InlineData("backup_database.tar.bz2", "back...ase.tar.bz2")]
+    public void EllipsisName_WithCompoundExtension_PreservesFullCompoundExtension(string input, string expected)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(expected, sut.EllipsisName);
+    }
+
+    [Theory]
+    [InlineData("long_file_name.", "long...ame.")]
+    public void EllipsisName_WithTrailingDot_PreservesTrailingDot(string input, string expected)
+    {
+        var sut = new FilenameString(input);
+        Assert.Equal(expected, sut.EllipsisName);
+    }
+}
+
+
+================================================================================
+FILE:     Directory.Build.props
+SIZE:     0.41 KB (417 bytes)
+LINES:    11
+SHA256:   af0e19bdbc5104a6ab04de94ed5c2abfa4ba799391e637cb49587b1ea6dcfaf4
+MODIFIED: 2026-09-25 17:22:08
+================================================================================
+
+<Project>
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+        <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    </PropertyGroup>
+</Project>
+
+================================================================================
+FILE:     Directory.Packages.props
+SIZE:     0.47 KB (486 bytes)
+LINES:    11
+SHA256:   49a3d7bdacd51eec53db6201f8163189dbb7df156d1a9bf7f0ff64746b9eb438
+MODIFIED: 2026-09-25 17:06:35
+================================================================================
+
+<Project>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+        <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageVersion Include="xunit.v3" Version="4.0.1" />
+        <PackageVersion Include="xunit.runner.visualstudio" Version="4.0.0" />
+        <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.10.1" />
+    </ItemGroup>
+</Project>
+
+================================================================================
+FILE:     HelloXUnit.slnx
+SIZE:     0.21 KB (211 bytes)
+LINES:    5
+SHA256:   a2a1b98fb021ff5e816bd6bc62019ea4ad23dc9495de48cea6e79f76d867e4f0
+MODIFIED: 2026-09-25 18:17:10
+================================================================================
+
+<Solution>
+  <Project Path="CSharpClassLibrary/CSharpClassLibrary.csproj" />
+  <Project Path="CSharpConsoleApp/CSharpConsoleApp.csproj" />
+  <Project Path="CSharpUnitTests/CSharpUnitTests.csproj" />
+</Solution>
+
+
+================================================================================
+FILE:     export.sh
+SIZE:     7.80 KB (7990 bytes)
+LINES:    233
+SHA256:   ab5335de1d35ce5a2ff824724d20fb56d4464e03e8b03c058e155bbedf3a2c3a
+MODIFIED: 2026-09-25 18:21:54
+================================================================================
+
+#!/usr/bin/env bash
+#
+# Export project source into a single, self-describing text file.
+#
+# Improvements over the previous POSIX version:
+#   * Uses `git ls-files` (tracked + untracked-but-not-ignored) for an accurate,
+#     reproducible file list, with a `find` fallback outside a git checkout.
+#   * NUL-safe throughout (handles paths with spaces or newlines).
+#   * Records per-file SHA-256, byte size, and line count, plus a header with
+#     the git commit, branch, generation time, dotnet version, and totals.
+#   * Includes shell (.sh) and Markdown (.md) files, which the old exporter
+#     skipped, so docs and scripts are captured too.
+#   * Emits a SHA-256 of the finished dump so its integrity can be verified.
+#
+# Usage: ./export.sh [PROJECT_PATH] [OUTPUT_FILE]
+#   PROJECT_PATH  defaults to the script's own directory
+#   OUTPUT_FILE   defaults to docs/llm/dump.txt (relative to PROJECT_PATH)
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+PROJECT_PATH="${1:-$SCRIPT_DIR}"
+OUTPUT_FILE="${2:-docs/llm/dump.txt}"
+
+# Extensions to include.
+INCLUDE_EXTENSIONS="cs json xml csproj sln slnx props config cshtml razor js css scss html yml yaml sql sh md"
+
+# Directory names to exclude anywhere in the tree.
+EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea docs"
+
+# Resolve to an absolute path and work from there so all paths are relative.
+PROJECT_PATH="$(cd "$PROJECT_PATH" && pwd)"
+cd "$PROJECT_PATH"
+
+OUTPUT_PATH="$PROJECT_PATH/$OUTPUT_FILE"
+OUTPUT_DIR="$(dirname "$OUTPUT_PATH")"
+mkdir -p "$OUTPUT_DIR"
+
+# Path of the output file relative to the project root (for self-exclusion).
+OUTPUT_REL="${OUTPUT_PATH#"$PROJECT_PATH"/}"
+
+# Colours only when writing to a terminal.
+if [ -t 1 ]; then
+    GREEN='\033[0;32m'; YELLOW='\033[0;33m'; CYAN='\033[0;36m'; NC='\033[0m'
+else
+    GREEN=''; YELLOW=''; CYAN=''; NC=''
+fi
+log() { printf "%b%s%b\n" "$1" "$2" "$NC"; }
+
+# --- portable helpers --------------------------------------------------------
+
+sha256_of() {
+    if command -v sha256sum >/dev/null 2>&1; then
+        sha256sum "$1" | awk '{print $1}'
+    elif command -v shasum >/dev/null 2>&1; then
+        shasum -a 256 "$1" | awk '{print $1}'
+    else
+        printf 'unavailable'
+    fi
+}
+
+mod_time_of() {
+    if stat --version >/dev/null 2>&1; then
+        stat -c '%y' "$1" 2>/dev/null | cut -d'.' -f1
+    else
+        stat -f '%Sm' -t '%Y-%m-%d %H:%M:%S' "$1" 2>/dev/null
+    fi
+}
+
+has_included_extension() {
+    local ext="${1##*.}"
+    [ "$ext" != "$1" ] || return 1
+    local inc
+    for inc in $INCLUDE_EXTENSIONS; do
+        [ "$ext" = "$inc" ] && return 0
+    done
+    return 1
+}
+
+is_in_excluded_dir() {
+    local path="$1" dir
+    for dir in $EXCLUDE_DIRS; do
+        case "$path" in
+            "$dir"/*|*/"$dir"/*) return 0 ;;
+        esac
+    done
+    return 1
+}
+
+in_git_repo() { git rev-parse --is-inside-work-tree >/dev/null 2>&1; }
+
+# --- gather the file list (NUL-delimited) ------------------------------------
+
+log "$GREEN" "Starting project export..."
+log "$YELLOW" "Project Path: $PROJECT_PATH"
+log "$YELLOW" "Output File:  $OUTPUT_PATH"
+
+RAW_LIST="$(mktemp)"
+FILE_LIST="$(mktemp)"
+trap 'rm -f "$RAW_LIST" "$FILE_LIST"' EXIT
+
+if in_git_repo; then
+    log "$CYAN" "Listing files via git..."
+    git ls-files -z --cached --others --exclude-standard > "$RAW_LIST"
+else
+    log "$YELLOW" "Not a git repo; falling back to find..."
+    find . -type f -print0 > "$RAW_LIST"
+fi
+
+# Filter: drop excluded dirs, the output file itself, and non-included types.
+while IFS= read -r -d '' file; do
+    rel="${file#./}"
+    [ "$rel" = "$OUTPUT_REL" ] && continue
+    is_in_excluded_dir "$rel" && continue
+    has_included_extension "$rel" || continue
+    printf '%s\0' "$rel"
+done < "$RAW_LIST" | LC_ALL=C sort -z -u > "$FILE_LIST"
+
+FILE_COUNT=0
+while IFS= read -r -d '' _; do FILE_COUNT=$((FILE_COUNT + 1)); done < "$FILE_LIST"
+log "$GREEN" "Found $FILE_COUNT files to export"
+
+# --- header ------------------------------------------------------------------
+
+GIT_COMMIT="n/a"; GIT_BRANCH="n/a"
+if in_git_repo; then
+    # --verify --quiet prints nothing (rather than echoing "HEAD") when there
+    # is no commit yet, so an unborn branch does not corrupt the header.
+    commit="$(git rev-parse --verify --quiet HEAD 2>/dev/null || true)"
+    [ -n "$commit" ] && GIT_COMMIT="$commit"
+    branch="$(git branch --show-current 2>/dev/null || true)"
+    [ -n "$branch" ] && GIT_BRANCH="$branch"
+fi
+DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
+
+{
+    echo "==============================================================================="
+    echo "PROJECT EXPORT"
+    echo "Generated (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')"
+    echo "Project Path:    $PROJECT_PATH"
+    echo "Git Commit:      $GIT_COMMIT"
+    echo "Git Branch:      $GIT_BRANCH"
+    echo ".NET SDK:        $DOTNET_VERSION"
+    echo "Files Exported:  $FILE_COUNT"
+    echo "==============================================================================="
+    echo
+    echo "DIRECTORY STRUCTURE:"
+    echo "==================="
+    echo
+} > "$OUTPUT_PATH"
+
+if command -v tree >/dev/null 2>&1; then
+    TREE_IGNORE="$(echo "$EXCLUDE_DIRS" | tr ' ' '|')"
+    tree -a -I "$TREE_IGNORE" --noreport >> "$OUTPUT_PATH" 2>/dev/null || true
+else
+    while IFS= read -r -d '' rel; do
+        depth="$(printf '%s' "$rel" | tr -cd '/' | wc -c | tr -d ' ')"
+        indent=""; i=0
+        while [ "$i" -lt "$depth" ]; do indent="$indent    "; i=$((i + 1)); done
+        printf '%s+-- %s\n' "$indent" "$(basename "$rel")" >> "$OUTPUT_PATH"
+    done < "$FILE_LIST"
+fi
+
+printf '\n\n' >> "$OUTPUT_PATH"
+
+# --- file contents -----------------------------------------------------------
+
+{
+    echo "FILE CONTENTS:"
+    echo "=============="
+    echo
+} >> "$OUTPUT_PATH"
+
+TOTAL_BYTES=0
+CURRENT=0
+while IFS= read -r -d '' rel; do
+    CURRENT=$((CURRENT + 1))
+    full="$PROJECT_PATH/$rel"
+    [ -f "$full" ] || continue
+
+    size="$(wc -c < "$full" | tr -d ' ')"
+    lines="$(wc -l < "$full" | tr -d ' ')"
+    size_kb="$(awk "BEGIN {printf \"%.2f\", $size / 1024}")"
+    hash="$(sha256_of "$full")"
+    modified="$(mod_time_of "$full")"
+    TOTAL_BYTES=$((TOTAL_BYTES + size))
+
+    log "$CYAN" "Processing ($CURRENT/$FILE_COUNT): $rel"
+
+    {
+        echo "================================================================================"
+        echo "FILE:     $rel"
+        echo "SIZE:     ${size_kb} KB (${size} bytes)"
+        echo "LINES:    $lines"
+        echo "SHA256:   $hash"
+        echo "MODIFIED: $modified"
+        echo "================================================================================"
+        echo
+    } >> "$OUTPUT_PATH"
+
+    if [ -s "$full" ]; then
+        cat "$full" >> "$OUTPUT_PATH" 2>/dev/null || echo "[ERROR READING FILE]" >> "$OUTPUT_PATH"
+    else
+        echo "[EMPTY FILE]" >> "$OUTPUT_PATH"
+    fi
+
+    printf '\n\n' >> "$OUTPUT_PATH"
+done < "$FILE_LIST"
+
+TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
+
+# --- footer ------------------------------------------------------------------
+
+{
+    echo "==============================================================================="
+    echo "EXPORT COMPLETED (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')"
+    echo "Total Files Exported:   $FILE_COUNT"
+    echo "Total Source Size:      ${TOTAL_MB} MB (${TOTAL_BYTES} bytes)"
+    echo "Output File:            $OUTPUT_PATH"
+    echo "==============================================================================="
+} >> "$OUTPUT_PATH"
+
+# Self-hash: covers everything written so far (i.e. the whole file except the
+# single line we are about to append). Verify with:
+#   head -n -1 dump.txt | sha256sum
+DUMP_HASH="$(sha256_of "$OUTPUT_PATH")"
+echo "DUMP SHA256 (of all lines above this one): $DUMP_HASH" >> "$OUTPUT_PATH"
+
+log "$GREEN" ""
+log "$GREEN" "Export completed successfully!"
+log "$YELLOW" "Output file: $OUTPUT_PATH"
+log "$CYAN" "Total source size: ${TOTAL_MB} MB across ${FILE_COUNT} files"
+
+
+================================================================================
+FILE:     global.json
+SIZE:     0.14 KB (141 bytes)
+LINES:    9
+SHA256:   925ac158eb7dd10cf82702ed4fbf092b83aeb79c17b66fa577ea7a5316d7b2c6
+MODIFIED: 2026-09-25 18:20:26
+================================================================================
+
+{
+  "sdk": {
+    "version": "10.0.104",
+    "rollForward": "latestFeature"
+  },
+  "test": {
+    "runner": "Microsoft.Testing.Platform"
+  }
+}
+
+
+===============================================================================
+EXPORT COMPLETED (UTC): 2026-09-25 22:23:34
+Total Files Exported:   11
+Total Source Size:      0.02 MB (17354 bytes)
+Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+===============================================================================
+DUMP SHA256 (of all lines above this one): 4c2b03b11bd92042c6cec562dcdd0678ce715de63c71da59cb0ab90c2bdde74f

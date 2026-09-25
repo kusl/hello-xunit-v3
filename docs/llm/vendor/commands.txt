@@ -1,0 +1,1 @@
+cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; time bash export.sh; time dotnet list package; time dotnet list package --outdated;

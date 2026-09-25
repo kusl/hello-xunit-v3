@@ -1,0 +1,110 @@
+kushal@fedora:~/src/dotnet/terlingua$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; time bash export.sh; time dotnet list package; time dotnet list package --outdated;
+Unable to fix CS0246. Code fix CSharpMakeMethodAsynchronousCodeFixProvider didn't return a Fix All action.
+Unable to fix CS0246. Code fix CSharpGenerateVariableCodeFixProvider doesn't support Fix All in Solution.
+Unable to fix CS0246. Code fix CSharpMakeMethodAsynchronousCodeFixProvider didn't return a Fix All action.
+Unable to fix CS0246. Code fix CSharpGenerateVariableCodeFixProvider doesn't support Fix All in Solution.
+Unable to fix CS0246. Code fix CSharpMakeMethodAsynchronousCodeFixProvider didn't return a Fix All action.
+Unable to fix CS0246. Code fix CSharpGenerateVariableCodeFixProvider doesn't support Fix All in Solution.
+
+real	0m5.691s
+user	0m5.744s
+sys	0m0.702s
+
+Build succeeded in 0.4s
+
+real	0m0.584s
+user	0m0.590s
+sys	0m0.118s
+Restore complete (0.4s)
+  CSharpClassLibrary net10.0 succeeded (0.2s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpConsoleApp net10.0 failed with 1 error(s) (0.2s)
+    /home/kushal/src/dotnet/HelloXUnit/CSharpConsoleApp/Program.cs(1,7): error CS0246: The type or namespace name 'HelloXUnitCSharp' could not be found (are you missing a using directive or an assembly reference?)
+  CSharpUnitTests net10.0 succeeded (0.3s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+
+Build failed with 1 error(s) in 1.1s
+
+real	0m1.303s
+user	0m1.122s
+sys	0m0.243s
+Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+failed CSharpUnitTests.FilenameStringTests.EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(input: ".gitignore", expected: ".git...ore") (3ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Strings differ
+                 ↓ (pos 4)
+  Expected: ".git...ore"
+  Actual:   ".gitignore"
+                 ↑ (pos 4)
+    at CSharpUnitTests.FilenameStringTests.EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(String input, String expected) in CSharpUnitTests/FilenameStringTests.cs:86
+    at InvokeStub_FilenameStringTests.EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(Object, Span`1)
+    at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (615ms)
+Exit code: 2
+
+Test run summary: Failed!
+  total: 29
+  failed: 1
+  succeeded: 28
+  skipped: 0
+  duration: 807ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
+
+real	0m1.907s
+user	0m1.890s
+sys	0m0.340s
+Starting project export...
+Project Path: /home/kushal/src/dotnet/HelloXUnit
+Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Listing files via git...
+Found 11 files to export
+Processing (1/11): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (2/11): CSharpClassLibrary/FilenameString.cs
+Processing (3/11): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (4/11): CSharpConsoleApp/Program.cs
+Processing (5/11): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (6/11): CSharpUnitTests/FilenameStringTests.cs
+Processing (7/11): Directory.Build.props
+Processing (8/11): Directory.Packages.props
+Processing (9/11): HelloXUnit.slnx
+Processing (10/11): export.sh
+Processing (11/11): global.json
+
+Export completed successfully!
+Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Total source size: 0.02 MB across 11 files
+
+real	0m0.245s
+user	0m0.144s
+sys	0m0.128s
+Restore complete (0.4s)
+
+Build succeeded in 0.5s
+Project 'CSharpClassLibrary' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpConsoleApp' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpUnitTests' has the following package references
+   [net10.0]: 
+   Top-level Package                Requested   Resolved
+   > Microsoft.NET.Test.Sdk         18.10.1     18.10.1 
+   > xunit.runner.visualstudio      4.0.0       4.0.0   
+   > xunit.v3                       4.0.1       4.0.1   
+
+
+real	0m1.488s
+user	0m1.354s
+sys	0m0.328s
+Restore complete (0.4s)
+
+Build succeeded in 0.5s
+
+The following sources were used:
+   https://api.nuget.org/v3/index.json
+
+The given project `CSharpClassLibrary` has no updates given the current sources.
+The given project `CSharpConsoleApp` has no updates given the current sources.
+The given project `CSharpUnitTests` has no updates given the current sources.
+
+real	0m1.878s
+user	0m1.503s
+sys	0m0.325s
+kushal@fedora:~/src/dotnet/HelloXUnit$ 

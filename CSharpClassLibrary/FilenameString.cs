@@ -75,7 +75,7 @@ public class FilenameString(string fullName)
         }
 
         int charsLeft = EllipsisLength - Ellipsis.Length;
-        
+
         if (charsLeft <= 0)
         {
             return Ellipsis + extension;
