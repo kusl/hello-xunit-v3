@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CSharpConsoleApp/CSharpConsoleApp.csproj" />
   <Project Path="HelloXUnitCSharp/HelloXUnitCSharp.csproj" />
 </Solution>
