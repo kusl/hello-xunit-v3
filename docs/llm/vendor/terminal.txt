@@ -1,31 +1,24 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; time bash export.sh; time dotnet list package; time dotnet list package --outdated;
-Unable to fix CS0246. Code fix CSharpMakeMethodAsynchronousCodeFixProvider didn't return a Fix All action.
-Unable to fix CS0246. Code fix CSharpGenerateVariableCodeFixProvider doesn't support Fix All in Solution.
-Unable to fix CS0246. Code fix CSharpMakeMethodAsynchronousCodeFixProvider didn't return a Fix All action.
-Unable to fix CS0246. Code fix CSharpGenerateVariableCodeFixProvider doesn't support Fix All in Solution.
-Unable to fix CS0246. Code fix CSharpMakeMethodAsynchronousCodeFixProvider didn't return a Fix All action.
-Unable to fix CS0246. Code fix CSharpGenerateVariableCodeFixProvider doesn't support Fix All in Solution.
 
-real	0m5.443s
-user	0m5.599s
-sys	0m0.628s
+real	0m5.362s
+user	0m5.515s
+sys	0m0.605s
 
 Build succeeded in 0.4s
 
-real	0m0.578s
-user	0m0.576s
-sys	0m0.127s
-Restore complete (0.4s)
+real	0m0.571s
+user	0m0.568s
+sys	0m0.128s
+Restore complete (0.5s)
   CSharpClassLibrary net10.0 succeeded (0.2s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 failed with 1 error(s) (0.2s)
-    /home/kushal/src/dotnet/HelloXUnit/CSharpConsoleApp/Program.cs(1,7): error CS0246: The type or namespace name 'HelloXUnitCSharp' could not be found (are you missing a using directive or an assembly reference?)
+  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.3s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build failed with 1 error(s) in 1.1s
+Build succeeded in 1.2s
 
-real	0m1.296s
-user	0m1.115s
-sys	0m0.247s
+real	0m1.312s
+user	0m1.156s
+sys	0m0.227s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
 failed CSharpUnitTests.FilenameStringTests.EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(input: ".gitignore", expected: ".git...ore") (3ms)
   from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
@@ -37,7 +30,7 @@ failed CSharpUnitTests.FilenameStringTests.EllipsisName_WithHiddenFileAndNoOther
     at CSharpUnitTests.FilenameStringTests.EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(String input, String expected) in CSharpUnitTests/FilenameStringTests.cs:86
     at InvokeStub_FilenameStringTests.EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(Object, Span`1)
     at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (555ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (567ms)
 Exit code: 2
 
 Test run summary: Failed!
@@ -45,12 +38,12 @@ Test run summary: Failed!
   failed: 1
   succeeded: 28
   skipped: 0
-  duration: 747ms
+  duration: 763ms
 Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m1.844s
-user	0m1.850s
-sys	0m0.323s
+real	0m1.853s
+user	0m1.901s
+sys	0m0.295s
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -72,9 +65,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.02 MB across 11 files
 
-real	0m0.236s
-user	0m0.141s
-sys	0m0.129s
+real	0m0.235s
+user	0m0.145s
+sys	0m0.122s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -90,9 +83,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.391s
-user	0m1.353s
-sys	0m0.296s
+real	0m1.392s
+user	0m1.374s
+sys	0m0.292s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -104,7 +97,8 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.466s
-user	0m1.452s
+real	0m1.402s
+user	0m1.384s
 sys	0m0.277s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
+

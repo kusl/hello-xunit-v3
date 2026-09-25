@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-25 22:25:07
+Generated (UTC): 2026-09-25 22:26:18
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      c2f7535616220933e378bd1a6e57f9e0d224fc07
+Git Commit:      d88bbedd4c546536c0cf99564ce9fe0a9a934578
 Git Branch:      master
 .NET SDK:        10.0.112
 Files Exported:  11
@@ -35,10 +35,10 @@ FILE CONTENTS:
 
 ================================================================================
 FILE:     CSharpClassLibrary/CSharpClassLibrary.csproj
-SIZE:     0.28 KB (282 bytes)
-LINES:    10
-SHA256:   2e6b3aa0597c66a6220f2e16c7cd95d4d6eab15f9659197ff946fc171a0fd2cd
-MODIFIED: 2026-09-25 18:08:51
+SIZE:     0.22 KB (226 bytes)
+LINES:    9
+SHA256:   0f5a214b0e88209f70d8d949052778cb1d883851d6db92d257a4d0d6e5d7356a
+MODIFIED: 2026-09-25 18:25:24
 ================================================================================
 
 ﻿<Project Sdk="Microsoft.NET.Sdk">
@@ -47,7 +47,6 @@ MODIFIED: 2026-09-25 18:08:51
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>HelloXUnitCSharp</RootNamespace>
     </PropertyGroup>
 
 </Project>
@@ -181,13 +180,13 @@ MODIFIED: 2026-09-25 18:07:20
 
 ================================================================================
 FILE:     CSharpConsoleApp/Program.cs
-SIZE:     0.22 KB (228 bytes)
+SIZE:     0.22 KB (230 bytes)
 LINES:    5
-SHA256:   31c0336ea2cc1f34ee109e047209827d40d9f4a822d79669540e0f4ee685b932
-MODIFIED: 2026-09-25 18:01:24
+SHA256:   7a985e5643a52ae4fd09dd61f817d09fdb229c31e3dec36abd0f966c009a6245
+MODIFIED: 2026-09-25 18:25:40
 ================================================================================
 
-﻿using HelloXUnitCSharp;
+﻿using CSharpClassLibrary;
 
 FilenameString filenameString = new FilenameString("hello_there_I_have_a_surprise_final_final_really.pdf");
 Console.WriteLine(filenameString.FullName);
@@ -196,10 +195,10 @@ Console.WriteLine(filenameString.EllipsisName);
 
 ================================================================================
 FILE:     CSharpUnitTests/CSharpUnitTests.csproj
-SIZE:     0.81 KB (829 bytes)
-LINES:    23
-SHA256:   2240799c742ac434a2a6a65e2e1c2db7ae2d595df2e26985ae9ce31bbc0d4199
-MODIFIED: 2026-09-25 18:08:13
+SIZE:     0.75 KB (773 bytes)
+LINES:    22
+SHA256:   5ec62ba4fb48b77922b8d294e1bb5782b1232703ab585f206f4fac7ac5cf346d
+MODIFIED: 2026-09-25 18:25:45
 ================================================================================
 
 ﻿<Project Sdk="Microsoft.NET.Sdk">
@@ -209,7 +208,6 @@ MODIFIED: 2026-09-25 18:08:13
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>HelloXUnitCSharp</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -681,9 +679,9 @@ MODIFIED: 2026-09-25 18:20:26
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-25 22:25:07
+EXPORT COMPLETED (UTC): 2026-09-25 22:26:18
 Total Files Exported:   11
-Total Source Size:      0.02 MB (17354 bytes)
+Total Source Size:      0.02 MB (17244 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): bf11ba13e1e69a4a72fbe5f70d39a7a13a0ea44c860f2e9549ce735df65f8707
+DUMP SHA256 (of all lines above this one): 47b2953612a2a7ad20854b454dc4f7679916a34df65b9e1f9015f3637829080a
