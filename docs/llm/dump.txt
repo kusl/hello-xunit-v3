@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-25 22:28:10
+Generated (UTC): 2026-09-25 22:33:21
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      a7a0bc6e796fb240ff452a3a457031305649c8b9
+Git Commit:      4c4b0bce9849d74399272f0f8ea87f0784c34d58
 Git Branch:      master
 .NET SDK:        10.0.112
 Files Exported:  11
@@ -227,10 +227,10 @@ MODIFIED: 2026-09-25 18:25:45
 
 ================================================================================
 FILE:     CSharpUnitTests/FilenameStringTests.cs
-SIZE:     3.89 KB (3987 bytes)
+SIZE:     3.90 KB (3997 bytes)
 LINES:    124
-SHA256:   3b53ac0a84f52659dbd3b8752e6b6783b6e6af35cf33565840d28c7f5751950d
-MODIFIED: 2026-09-25 18:23:30
+SHA256:   f69eb2fae5afaa2671b55c301ff6dd51fec6c6d4ecedc469f35ed3781279eb9a
+MODIFIED: 2026-09-25 18:33:06
 ================================================================================
 
 using CSharpClassLibrary;
@@ -312,9 +312,9 @@ public class FilenameStringTests
     }
 
     [Theory]
-    [InlineData(".gitignore", ".git...ore")]
+    [InlineData(".gitignore", ".gitignore")]
     [InlineData(".dockerignore", ".doc...ore")]
-    [InlineData(".verylonghiddenfile", ".ver...ile")]
+    [InlineData(".very_long_hidden_file", ".ver...ile")]
     public void EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(string input, string expected)
     {
         var sut = new FilenameString(input);
@@ -331,8 +331,8 @@ public class FilenameStringTests
     }
 
     [Theory]
-    [InlineData(".superlonghidden.txt", ".sup...den.txt")]
-    [InlineData(".verylongconfigfile.json", ".ver...ile.json")]
+    [InlineData(".super_long_hidden.txt", ".sup...den.txt")]
+    [InlineData(".very_long_config_file.json", ".ver...ile.json")]
     public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsLong_TruncatesBaseName(string input, string expected)
     {
         var sut = new FilenameString(input);
@@ -341,7 +341,7 @@ public class FilenameStringTests
 
     [Theory]
     [InlineData("archive.tar.gz", "archive.tar.gz")]
-    [InlineData("verylongarchive.tar.gz", "very...ive.tar.gz")]
+    [InlineData("very_long_archive.tar.gz", "very...ive.tar.gz")]
     [InlineData("backup_database.tar.bz2", "back...ase.tar.bz2")]
     public void EllipsisName_WithCompoundExtension_PreservesFullCompoundExtension(string input, string expected)
     {
@@ -679,9 +679,9 @@ MODIFIED: 2026-09-25 18:20:26
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-25 22:28:10
+EXPORT COMPLETED (UTC): 2026-09-25 22:33:21
 Total Files Exported:   11
-Total Source Size:      0.02 MB (17244 bytes)
+Total Source Size:      0.02 MB (17254 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): d2521a757f0e336ed723f0c06e686c3f2c05f96ea52e89d7ec2f2f19e5da9d34
+DUMP SHA256 (of all lines above this one): bcc7a059559569dc77b09d5b2e03bbcda8dfd4715dda63ba77632d3f9561ec5d

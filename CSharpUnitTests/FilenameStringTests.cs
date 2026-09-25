@@ -77,9 +77,9 @@ public class FilenameStringTests
     }
 
     [Theory]
-    [InlineData(".gitignore", ".git...ore")]
+    [InlineData(".gitignore", ".gitignore")]
     [InlineData(".dockerignore", ".doc...ore")]
-    [InlineData(".verylonghiddenfile", ".ver...ile")]
+    [InlineData(".very_long_hidden_file", ".ver...ile")]
     public void EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(string input, string expected)
     {
         var sut = new FilenameString(input);
@@ -96,8 +96,8 @@ public class FilenameStringTests
     }
 
     [Theory]
-    [InlineData(".superlonghidden.txt", ".sup...den.txt")]
-    [InlineData(".verylongconfigfile.json", ".ver...ile.json")]
+    [InlineData(".super_long_hidden.txt", ".sup...den.txt")]
+    [InlineData(".very_long_config_file.json", ".ver...ile.json")]
     public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsLong_TruncatesBaseName(string input, string expected)
     {
         var sut = new FilenameString(input);
@@ -106,7 +106,7 @@ public class FilenameStringTests
 
     [Theory]
     [InlineData("archive.tar.gz", "archive.tar.gz")]
-    [InlineData("verylongarchive.tar.gz", "very...ive.tar.gz")]
+    [InlineData("very_long_archive.tar.gz", "very...ive.tar.gz")]
     [InlineData("backup_database.tar.bz2", "back...ase.tar.bz2")]
     public void EllipsisName_WithCompoundExtension_PreservesFullCompoundExtension(string input, string expected)
     {
