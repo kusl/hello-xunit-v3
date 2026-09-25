@@ -243,7 +243,6 @@ public class FilenameString(string fullName)
         [Fact]
         public void PrivateProperty_Ellipsis_ReturnsExactlyThreeDots()
         {
-            var sut = new FilenameString("test");
             Assert.Equal("...", Ellipsis);
         }
 
