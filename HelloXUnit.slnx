@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="CSharpClassLibrary\CSharpClassLibrary.csproj" />
+  <Project Path="CSharpClassLibrary/CSharpClassLibrary.csproj" />
   <Project Path="CSharpConsoleApp/CSharpConsoleApp.csproj" />
   <Project Path="CSharpUnitTests/CSharpUnitTests.csproj" />
 </Solution>
