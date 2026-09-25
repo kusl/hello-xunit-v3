@@ -1,4 +1,4 @@
-using HelloXUnitCSharp;
+using CSharpClassLibrary;
 using Xunit;
 
 namespace CSharpUnitTests;

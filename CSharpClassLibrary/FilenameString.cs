@@ -1,4 +1,4 @@
-namespace HelloXUnitCSharp;
+namespace CSharpClassLibrary;
 
 public class FilenameString(string fullName)
 {
