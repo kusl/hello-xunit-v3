@@ -1,32 +1,25 @@
-using System;
-using System.IO;
 using Xunit;
 
 namespace HelloXUnitCSharp;
 
-public class FilenameString
+public class FilenameString(string fullName)
 {
-    public string FullName { get; }
-    private string _Ellipsis => "...";
-    private static readonly int _EllipsisLength = 10;
-
-    public FilenameString(string fullName)
-    {
-        FullName = fullName;
-    }
+    public string FullName { get; } = fullName;
+    private string Ellipsis => "...";
+    private static readonly int EllipsisLength = 10;
 
     public string EllipsisName => GetEllipsisName();
 
     private string GetEllipsisName()
     {
-        if (string.IsNullOrEmpty(FullName))
+        if (string.IsNullOrWhiteSpace(FullName))
         {
-            return FullName ?? string.Empty;
+            return "";
         }
 
         string baseName = Path.GetFileNameWithoutExtension(FullName);
 
-        if (baseName.Length <= _EllipsisLength)
+        if (baseName.Length <= EllipsisLength)
         {
             return FullName;
         }
@@ -39,14 +32,14 @@ public class FilenameString
         string extension = Path.GetExtension(FullName);
         string baseName = Path.GetFileNameWithoutExtension(FullName);
 
-        int charsLeft = _EllipsisLength - _Ellipsis.Length;
+        int charsLeft = EllipsisLength - Ellipsis.Length;
         int front = (int)Math.Ceiling(charsLeft / 2.0);
         int back = charsLeft - front;
 
         string initialPortion = baseName.Substring(0, front);
         string laterPortion = baseName.Substring(baseName.Length - back);
 
-        return initialPortion + _Ellipsis + laterPortion + extension;
+        return initialPortion + Ellipsis + laterPortion + extension;
     }
 
     public class FilenameStringTests
@@ -105,7 +98,7 @@ public class FilenameString
 
         [Theory]
         [InlineData("12345678901", "1234...901")]
-        [InlineData("verylongname", "very...ame")]
+        [InlineData("very_long_name", "very...ame")]
         public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithoutExtension_ReturnsMiddleEllipsis(string input, string expected)
         {
             var sut = new FilenameString(input);
@@ -114,7 +107,7 @@ public class FilenameString
 
         [Theory]
         [InlineData("12345678901.txt", "1234...901.txt")]
-        [InlineData("verylongname.pdf", "very...ame.pdf")]
+        [InlineData("very_long_name.pdf", "very...ame.pdf")]
         [InlineData("ScottArthurJenson.pdf", "Scot...son.pdf")]
         public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithExtension_ReturnsMiddleEllipsisPreservingExtension(string input, string expected)
         {
@@ -132,8 +125,8 @@ public class FilenameString
         }
 
         [Theory]
-        [InlineData(".gitignore", ".gitignore")]
-        [InlineData(".dockerignore", ".dockerignore")]
+        [InlineData(".gitignore")]
+        [InlineData(".dockerignore")]
         public void EllipsisName_WithOnlyExtension_ReturnsFullName(string input)
         {
             var sut = new FilenameString(input);
@@ -149,7 +142,7 @@ public class FilenameString
         }
 
         [Theory]
-        [InlineData("longfilename.", "long...ame.")]
+        [InlineData("long_file_name.", "long...ame.")]
         public void EllipsisName_WithTrailingDot_PreservesTrailingDot(string input, string expected)
         {
             var sut = new FilenameString(input);
@@ -160,13 +153,13 @@ public class FilenameString
         public void PrivateProperty_Ellipsis_ReturnsExactlyThreeDots()
         {
             var sut = new FilenameString("test");
-            Assert.Equal("...", sut._Ellipsis);
+            Assert.Equal("...", sut.Ellipsis);
         }
 
         [Fact]
         public void PrivateField_EllipsisLength_IsStaticallySetToTen()
         {
-            Assert.Equal(10, FilenameString._EllipsisLength);
+            Assert.Equal(10, FilenameString.EllipsisLength);
         }
 
         [Fact]
@@ -180,7 +173,7 @@ public class FilenameString
         public void GetScottJensenEllipsis_ThrowsNullReferenceException_WhenFullNameIsNull()
         {
             var sut = new FilenameString(null!);
-            Assert.Throws<ArgumentNullException>(() => sut.GetScottJensenEllipsis());
+            Assert.Throws<ArgumentNullException>(sut.GetScottJensenEllipsis);
         }
     }
 }
