@@ -1,3 +1,4 @@
+using System;
 using Xunit;
 
 namespace HelloXUnitCSharp;
@@ -17,37 +18,72 @@ public class FilenameString(string fullName)
             return "";
         }
 
-        int lastDotIndex = FullName.LastIndexOf('.');
-        string baseName = lastDotIndex >= 0 ? FullName[..lastDotIndex] : FullName;
+        ParseNameAndExtension(out string baseName, out string extension);
 
         if (baseName.Length <= EllipsisLength)
         {
             return FullName;
         }
 
-        return GetScottJensenEllipsis();
+        return GetScottJensenEllipsis(baseName, extension);
     }
 
-    private string GetScottJensenEllipsis()
+    private void ParseNameAndExtension(out string baseName, out string extension)
     {
-        ArgumentNullException.ThrowIfNull(FullName);
-
-        int lastDotIndex = FullName.LastIndexOf('.');
-        string baseName;
-        string extension;
-
-        if (lastDotIndex >= 0)
+        if (string.IsNullOrEmpty(FullName))
         {
-            baseName = FullName[..lastDotIndex];
-            extension = FullName[lastDotIndex..];
+            baseName = "";
+            extension = "";
+            return;
+        }
+
+        int firstDot = FullName.IndexOf('.');
+        int lastDot = FullName.LastIndexOf('.');
+
+        if (firstDot == 0 && lastDot == 0)
+        {
+            baseName = FullName;
+            extension = "";
+            return;
+        }
+
+        string[] compoundExtensions = { ".tar.gz", ".tar.bz2", ".tar.xz" };
+        foreach (var compExt in compoundExtensions)
+        {
+            if (FullName.EndsWith(compExt, StringComparison.OrdinalIgnoreCase) && FullName.Length > compExt.Length)
+            {
+                baseName = FullName[..^compExt.Length];
+                extension = FullName[^compExt.Length..];
+                return;
+            }
+        }
+
+        if (lastDot > 0)
+        {
+            baseName = FullName[..lastDot];
+            extension = FullName[lastDot..];
         }
         else
         {
             baseName = FullName;
             extension = "";
         }
+    }
+
+    private string GetScottJensenEllipsis(string baseName, string extension)
+    {
+        if (baseName.Length <= EllipsisLength)
+        {
+            return baseName + extension;
+        }
 
         int charsLeft = EllipsisLength - Ellipsis.Length;
+        
+        if (charsLeft <= 0)
+        {
+            return Ellipsis + extension;
+        }
+
         int front = (int)Math.Ceiling(charsLeft / 2.0);
         int back = charsLeft - front;
 
@@ -131,18 +167,18 @@ public class FilenameString(string fullName)
         }
 
         [Theory]
-        [InlineData("archive.tar.gz", "arch...tar.gz")]
-        [InlineData("backup.1234567890.zip", "back...890.zip")]
-        public void EllipsisName_WithMultipleDots_TreatsLastDotAsExtension(string input, string expected)
+        [InlineData(".gitignore", ".git...ore")]
+        [InlineData(".dockerignore", ".doc...ore")]
+        [InlineData(".verylonghiddenfile", ".ver...ile")]
+        public void EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(string input, string expected)
         {
             var sut = new FilenameString(input);
             Assert.Equal(expected, sut.EllipsisName);
         }
 
         [Theory]
-        [InlineData(".gitignore")]
-        [InlineData(".dockerignore")]
-        [InlineData(".hidden.longextension")]
+        [InlineData(".hidden.txt")]
+        [InlineData(".short.longextension")]
         public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsShort_ReturnsFullName(string input)
         {
             var sut = new FilenameString(input);
@@ -159,11 +195,50 @@ public class FilenameString(string fullName)
         }
 
         [Theory]
+        [InlineData("archive.tar.gz", "archive.tar.gz")] 
+        [InlineData("verylongarchive.tar.gz", "very...ive.tar.gz")]
+        [InlineData("backup_database.tar.bz2", "back...ase.tar.bz2")]
+        public void EllipsisName_WithCompoundExtension_PreservesFullCompoundExtension(string input, string expected)
+        {
+            var sut = new FilenameString(input);
+            Assert.Equal(expected, sut.EllipsisName);
+        }
+
+        [Theory]
         [InlineData("long_file_name.", "long...ame.")]
         public void EllipsisName_WithTrailingDot_PreservesTrailingDot(string input, string expected)
         {
             var sut = new FilenameString(input);
             Assert.Equal(expected, sut.EllipsisName);
+        }
+
+        [Theory]
+        [InlineData("file.txt", "file", ".txt")]
+        [InlineData(".gitignore", ".gitignore", "")]
+        [InlineData(".hidden.txt", ".hidden", ".txt")]
+        [InlineData("archive.tar.gz", "archive", ".tar.gz")]
+        [InlineData("noextension", "noextension", "")]
+        [InlineData("trailingdot.", "trailingdot", ".")]
+        [InlineData(".tar.gz", ".tar", ".gz")] 
+        public void ParseNameAndExtension_ParsesCorrectly(string input, string expectedBase, string expectedExt)
+        {
+            var sut = new FilenameString(input);
+            sut.ParseNameAndExtension(out string baseName, out string extension);
+            
+            Assert.Equal(expectedBase, baseName);
+            Assert.Equal(expectedExt, extension);
+        }
+
+        [Theory]
+        [InlineData("verylongbasename", ".txt", "very...ame.txt")]
+        [InlineData("12345678901", "", "1234...901")]
+        [InlineData("short", ".pdf", "short.pdf")]
+        public void GetScottJensenEllipsis_DirectCall_CalculatesCorrectly(string baseName, string ext, string expected)
+        {
+            var sut = new FilenameString("dummy");
+            var result = sut.GetScottJensenEllipsis(baseName, ext);
+            
+            Assert.Equal(expected, result);
         }
 
         [Fact]
@@ -177,20 +252,6 @@ public class FilenameString(string fullName)
         public void PrivateField_EllipsisLength_IsStaticallySetToTen()
         {
             Assert.Equal(10, FilenameString.EllipsisLength);
-        }
-
-        [Fact]
-        public void GetScottJensenEllipsis_WhenCalledDirectly_CalculatesCorrectly()
-        {
-            var sut = new FilenameString("12345678901.pdf");
-            Assert.Equal("1234...901.pdf", sut.GetScottJensenEllipsis());
-        }
-
-        [Fact]
-        public void GetScottJensenEllipsis_ThrowsArgumentNullException_WhenFullNameIsNull()
-        {
-            var sut = new FilenameString(null!);
-            Assert.Throws<ArgumentNullException>(sut.GetScottJensenEllipsis);
         }
     }
 }
