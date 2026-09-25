@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-25 22:33:21
+Generated (UTC): 2026-09-25 22:41:24
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      4c4b0bce9849d74399272f0f8ea87f0784c34d58
+Git Commit:      9cda45cd6e2deb85b1c304930d7dcf1d5be87ff5
 Git Branch:      master
 .NET SDK:        10.0.112
 Files Exported:  11
@@ -227,10 +227,10 @@ MODIFIED: 2026-09-25 18:25:45
 
 ================================================================================
 FILE:     CSharpUnitTests/FilenameStringTests.cs
-SIZE:     3.90 KB (3997 bytes)
-LINES:    124
-SHA256:   f69eb2fae5afaa2671b55c301ff6dd51fec6c6d4ecedc469f35ed3781279eb9a
-MODIFIED: 2026-09-25 18:33:06
+SIZE:     3.98 KB (4079 bytes)
+LINES:    125
+SHA256:   536ee68ce3b5ded8cbf7707b7b4b590ce90970258c273f44b03dcf60c2f1833e
+MODIFIED: 2026-09-25 18:40:50
 ================================================================================
 
 using CSharpClassLibrary;
@@ -305,6 +305,7 @@ public class FilenameStringTests
     [InlineData("12345678901.txt", "1234...901.txt")]
     [InlineData("very_long_name.pdf", "very...ame.pdf")]
     [InlineData("ScottArthurJenson.pdf", "Scot...son.pdf")]
+    [InlineData("ScottArthurJenson final for real (2012).pdf", "Scot...12).pdf")]
     public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithExtension_ReturnsMiddleEllipsisPreservingExtension(string input, string expected)
     {
         var sut = new FilenameString(input);
@@ -679,9 +680,9 @@ MODIFIED: 2026-09-25 18:20:26
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-25 22:33:21
+EXPORT COMPLETED (UTC): 2026-09-25 22:41:24
 Total Files Exported:   11
-Total Source Size:      0.02 MB (17254 bytes)
+Total Source Size:      0.02 MB (17336 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): bcc7a059559569dc77b09d5b2e03bbcda8dfd4715dda63ba77632d3f9561ec5d
+DUMP SHA256 (of all lines above this one): 1d073255e47d233135bd23a0c2325f794b7d1382e47e7f64a7d3e3bb51496055

@@ -70,6 +70,7 @@ public class FilenameStringTests
     [InlineData("12345678901.txt", "1234...901.txt")]
     [InlineData("very_long_name.pdf", "very...ame.pdf")]
     [InlineData("ScottArthurJenson.pdf", "Scot...son.pdf")]
+    [InlineData("ScottArthurJenson final for real (2012).pdf", "Scot...12).pdf")]
     public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithExtension_ReturnsMiddleEllipsisPreservingExtension(string input, string expected)
     {
         var sut = new FilenameString(input);
