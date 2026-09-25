@@ -1,4 +1,3 @@
-using System;
 using Xunit;
 
 namespace HelloXUnitCSharp;
@@ -6,7 +5,7 @@ namespace HelloXUnitCSharp;
 public class FilenameString(string fullName)
 {
     public string FullName { get; } = fullName;
-    private string Ellipsis => "...";
+    private static string Ellipsis => "...";
     private static readonly int EllipsisLength = 10;
 
     public string EllipsisName => GetEllipsisName();
@@ -245,7 +244,7 @@ public class FilenameString(string fullName)
         public void PrivateProperty_Ellipsis_ReturnsExactlyThreeDots()
         {
             var sut = new FilenameString("test");
-            Assert.Equal("...", sut.Ellipsis);
+            Assert.Equal("...", Ellipsis);
         }
 
         [Fact]
