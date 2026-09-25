@@ -1,0 +1,24 @@
+<Project>
+    <!--
+      Shared build properties for all projects in the solution.
+      
+      ANALYSIS LEVEL NOTE:
+      We use 'latest-recommended' instead of 'latest-all' because 'latest-all'
+      enables rules that are impractical for a console application:
+      - CA1303: Requires resource files for ALL literal strings
+      - CA1848: Requires LoggerMessage for ALL log calls
+      - CA1873: Flags log argument evaluation - same family as CA1848
+      - CA2007: Requires ConfigureAwait everywhere (not needed in console apps)
+      
+      These rules are valuable for large libraries but overkill here.
+    -->
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+        <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    </PropertyGroup>
+</Project>
