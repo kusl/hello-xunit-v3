@@ -1,3 +1,4 @@
+using System;
 using Xunit;
 
 namespace HelloXUnitCSharp;
@@ -18,7 +19,7 @@ public class FilenameString(string fullName)
         }
 
         int lastDotIndex = FullName.LastIndexOf('.');
-        string baseName = lastDotIndex > 0 ? FullName[..lastDotIndex] : FullName;
+        string baseName = lastDotIndex >= 0 ? FullName[..lastDotIndex] : FullName;
 
         if (baseName.Length <= EllipsisLength)
         {
@@ -36,7 +37,7 @@ public class FilenameString(string fullName)
         string baseName;
         string extension;
 
-        if (lastDotIndex > 0)
+        if (lastDotIndex >= 0)
         {
             baseName = FullName[..lastDotIndex];
             extension = FullName[lastDotIndex..];
