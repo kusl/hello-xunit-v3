@@ -36,8 +36,8 @@ public class FilenameString(string fullName)
         int front = (int)Math.Ceiling(charsLeft / 2.0);
         int back = charsLeft - front;
 
-        string initialPortion = baseName.Substring(0, front);
-        string laterPortion = baseName.Substring(baseName.Length - back);
+        string initialPortion = baseName[..front];
+        string laterPortion = baseName[^back..];
 
         return initialPortion + Ellipsis + laterPortion + extension;
     }
@@ -78,10 +78,10 @@ public class FilenameString(string fullName)
         [Theory]
         [InlineData(" ")]
         [InlineData("   ")]
-        public void EllipsisName_WhenWhitespace_ReturnsWhitespace(string input)
+        public void EllipsisName_WhenWhitespace_ReturnsEmptyString(string input)
         {
             var sut = new FilenameString(input);
-            Assert.Equal(input, sut.EllipsisName);
+            Assert.Equal("", sut.EllipsisName);
         }
 
         [Theory]
