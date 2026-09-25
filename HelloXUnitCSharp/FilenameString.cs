@@ -17,7 +17,8 @@ public class FilenameString(string fullName)
             return "";
         }
 
-        string baseName = Path.GetFileNameWithoutExtension(FullName);
+        int lastDotIndex = FullName.LastIndexOf('.');
+        string baseName = lastDotIndex > 0 ? FullName[..lastDotIndex] : FullName;
 
         if (baseName.Length <= EllipsisLength)
         {
@@ -29,8 +30,22 @@ public class FilenameString(string fullName)
 
     private string GetScottJensenEllipsis()
     {
-        string extension = Path.GetExtension(FullName);
-        string baseName = Path.GetFileNameWithoutExtension(FullName);
+        ArgumentNullException.ThrowIfNull(FullName);
+
+        int lastDotIndex = FullName.LastIndexOf('.');
+        string baseName;
+        string extension;
+
+        if (lastDotIndex > 0)
+        {
+            baseName = FullName[..lastDotIndex];
+            extension = FullName[lastDotIndex..];
+        }
+        else
+        {
+            baseName = FullName;
+            extension = "";
+        }
 
         int charsLeft = EllipsisLength - Ellipsis.Length;
         int front = (int)Math.Ceiling(charsLeft / 2.0);
@@ -127,15 +142,17 @@ public class FilenameString(string fullName)
         [Theory]
         [InlineData(".gitignore")]
         [InlineData(".dockerignore")]
-        public void EllipsisName_WithOnlyExtension_ReturnsFullName(string input)
+        [InlineData(".hidden.longextension")]
+        public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsShort_ReturnsFullName(string input)
         {
             var sut = new FilenameString(input);
             Assert.Equal(input, sut.EllipsisName);
         }
 
         [Theory]
-        [InlineData(".hidden.longextension", ".hid...ion")]
-        public void EllipsisName_WithHiddenFileAndExtension_TruncatesBaseName(string input, string expected)
+        [InlineData(".superlonghidden.txt", ".sup...den.txt")]
+        [InlineData(".verylongconfigfile.json", ".ver...ile.json")]
+        public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsLong_TruncatesBaseName(string input, string expected)
         {
             var sut = new FilenameString(input);
             Assert.Equal(expected, sut.EllipsisName);
@@ -170,7 +187,7 @@ public class FilenameString(string fullName)
         }
 
         [Fact]
-        public void GetScottJensenEllipsis_ThrowsNullReferenceException_WhenFullNameIsNull()
+        public void GetScottJensenEllipsis_ThrowsArgumentNullException_WhenFullNameIsNull()
         {
             var sut = new FilenameString(null!);
             Assert.Throws<ArgumentNullException>(sut.GetScottJensenEllipsis);
