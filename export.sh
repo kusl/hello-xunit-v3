@@ -1,26 +1,4 @@
 #!/usr/bin/env bash
-#
-# Export project source into a single, self-describing text file.
-#
-#   * The file list comes from `git ls-files` (tracked + untracked-but-not-ignored),
-#     with a `find` fallback outside a git checkout. Tracked files that have been
-#     deleted from the working tree are skipped rather than counted.
-#   * The directory tree is rendered from that same list, so it shows exactly the
-#     files that are exported: no ignored, user-local, or build-output files.
-#   * NUL-safe throughout (handles paths with spaces or newlines).
-#   * Per-file SHA-256, byte size, line count, and modification time (UTC, like
-#     the header), plus a header with the git commit, branch, whether the working
-#     tree has uncommitted changes, generation time, and .NET SDK version.
-#   * Written to a temp file and moved into place, so a failed run never leaves
-#     a half-written dump behind.
-#   * Ends with a SHA-256 of the finished dump so its integrity can be verified.
-#   * Works with the bash 3.2 that ships with macOS as well as GNU/Linux.
-#
-# Usage: ./export.sh [PROJECT_PATH] [OUTPUT_FILE]
-#   PROJECT_PATH  defaults to the script's own directory
-#   OUTPUT_FILE   defaults to docs/llm/dump.txt; relative paths are resolved
-#                 against PROJECT_PATH, absolute paths are used as given
-
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -28,16 +6,10 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_PATH="${1:-$SCRIPT_DIR}"
 OUTPUT_FILE="${2:-docs/llm/dump.txt}"
 
-# Extensions to include (compared case-insensitively).
 INCLUDE_EXTENSIONS="cs csproj sln slnx props targets json xml config editorconfig cshtml razor js css scss html yml yaml sql sh md"
-
-# Exact file names to include even though they have no matching extension.
 INCLUDE_NAMES=".gitignore .gitattributes .editorconfig Dockerfile LICENSE README"
-
-# Directory names to exclude anywhere in the tree.
 EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea TestResults"
 
-# Resolve to an absolute path and work from there so all paths are relative.
 PROJECT_PATH="$(cd "$PROJECT_PATH" && pwd)"
 cd "$PROJECT_PATH"
 
@@ -48,19 +20,14 @@ esac
 OUTPUT_DIR="$(dirname "$OUTPUT_PATH")"
 mkdir -p "$OUTPUT_DIR"
 
-# Path of the output file relative to the project root (for self-exclusion).
-# If the output lives outside the project this stays absolute and never matches.
 OUTPUT_REL="${OUTPUT_PATH#"$PROJECT_PATH"/}"
 
-# Colours only when writing to a terminal.
 if [ -t 1 ]; then
     GREEN='\033[0;32m'; YELLOW='\033[0;33m'; CYAN='\033[0;36m'; NC='\033[0m'
 else
     GREEN=''; YELLOW=''; CYAN=''; NC=''
 fi
 log() { printf "%b%s%b\n" "$1" "$2" "$NC"; }
-
-# --- portable helpers --------------------------------------------------------
 
 sha256_of() {
     if command -v sha256sum >/dev/null 2>&1; then
@@ -72,19 +39,16 @@ sha256_of() {
     fi
 }
 
-# Modification time in UTC, to match the "Generated (UTC)" header.
 mod_time_utc_of() {
     local epoch
     if epoch="$(stat -c '%Y' "$1" 2>/dev/null)"; then
-        date -u -d "@$epoch" '+%Y-%m-%d %H:%M:%S'      # GNU
+        date -u -d "@$epoch" '+%Y-%m-%d %H:%M:%S'
     else
         epoch="$(stat -f '%m' "$1")"
-        date -u -r "$epoch" '+%Y-%m-%d %H:%M:%S'       # BSD / macOS
+        date -u -r "$epoch" '+%Y-%m-%d %H:%M:%S'
     fi
 }
 
-# Counts lines the way a person would: a final line without a trailing newline
-# still counts (`wc -l` would miss it).
 line_count_of() {
     awk 'END { print NR }' "$1"
 }
@@ -115,8 +79,6 @@ is_in_excluded_dir() {
 
 in_git_repo() { git rev-parse --is-inside-work-tree >/dev/null 2>&1; }
 
-# Prints the exported files as an indented tree, directories suffixed with "/".
-# Input must be sorted so each directory's contents are contiguous.
 render_tree() {
     local -a parts prev
     local rel n common i j indent
@@ -126,7 +88,6 @@ render_tree() {
         IFS='/' read -r -d '' -a parts < <(printf '%s\0' "$rel") || true
         n=${#parts[@]}
 
-        # How many leading directories this path shares with the previous one.
         common=0
         while [ "$common" -lt $((n - 1)) ] && [ "$common" -lt "${#prev[@]}" ] \
               && [ "${parts[$common]}" = "${prev[$common]}" ]; do
@@ -151,16 +112,15 @@ render_tree() {
     done < "$FILE_LIST"
 }
 
-# --- gather the file list (NUL-delimited) ------------------------------------
-
 log "$GREEN" "Starting project export..."
 log "$YELLOW" "Project Path: $PROJECT_PATH"
 log "$YELLOW" "Output File:  $OUTPUT_PATH"
 
 RAW_LIST="$(mktemp)"
 FILE_LIST="$(mktemp)"
-TMP_OUTPUT="$(mktemp "$OUTPUT_DIR/.export.XXXXXX")"
-trap 'rm -f "$RAW_LIST" "$FILE_LIST" "$TMP_OUTPUT"' EXIT
+TMP_OUTPUT=""
+cleanup() { rm -f "$RAW_LIST" "$FILE_LIST" ${TMP_OUTPUT:+"$TMP_OUTPUT"}; }
+trap cleanup EXIT
 
 if in_git_repo; then
     log "$CYAN" "Listing files via git..."
@@ -170,8 +130,6 @@ else
     find . -type f -print0 > "$RAW_LIST"
 fi
 
-# Filter: drop the output file, excluded dirs, non-included types, and tracked
-# files that no longer exist on disk.
 while IFS= read -r -d '' file; do
     rel="${file#./}"
     [ "$rel" = "$OUTPUT_REL" ] && continue
@@ -185,18 +143,13 @@ FILE_COUNT=0
 while IFS= read -r -d '' _; do FILE_COUNT=$((FILE_COUNT + 1)); done < "$FILE_LIST"
 log "$GREEN" "Found $FILE_COUNT files to export"
 
-# --- header ------------------------------------------------------------------
-
 GIT_COMMIT="n/a"; GIT_BRANCH="n/a"; GIT_DIRTY="n/a"
 if in_git_repo; then
-    # --verify --quiet prints nothing (rather than echoing "HEAD") when there
-    # is no commit yet, so an unborn branch does not corrupt the header.
     commit="$(git rev-parse --verify --quiet HEAD 2>/dev/null || true)"
     [ -n "$commit" ] && GIT_COMMIT="$commit"
     branch="$(git branch --show-current 2>/dev/null || true)"
     [ -n "$branch" ] && GIT_BRANCH="$branch"
 
-    # Ignore the dump itself, otherwise regenerating it always looks "dirty".
     status_args=(status --porcelain)
     case "$OUTPUT_REL" in
         /*) ;;
@@ -209,6 +162,8 @@ if in_git_repo; then
     fi
 fi
 DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
+
+TMP_OUTPUT="$(mktemp "$OUTPUT_DIR/.export.XXXXXX")"
 
 {
     echo "==============================================================================="
@@ -231,8 +186,6 @@ DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
     echo "=============="
     echo
 } > "$TMP_OUTPUT"
-
-# --- file contents -----------------------------------------------------------
 
 TOTAL_BYTES=0
 CURRENT=0
@@ -271,8 +224,6 @@ done < "$FILE_LIST"
 
 TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
 
-# --- footer ------------------------------------------------------------------
-
 {
     echo "==============================================================================="
     echo "EXPORT COMPLETED (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')"
@@ -282,16 +233,12 @@ TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
     echo "==============================================================================="
 } >> "$TMP_OUTPUT"
 
-# Self-hash: covers everything written so far (i.e. the whole file except the
-# single line we are about to append). Verify on Linux or macOS with:
-#   sed '$d' dump.txt | sha256sum        (or: sed '$d' dump.txt | shasum -a 256)
 DUMP_HASH="$(sha256_of "$TMP_OUTPUT")"
 echo "DUMP SHA256 (of all lines above this one): $DUMP_HASH" >> "$TMP_OUTPUT"
 
-# mktemp creates the file as 0600; give the dump normal permissions, then move
-# it into place in one step.
 chmod 0644 "$TMP_OUTPUT"
 mv -f "$TMP_OUTPUT" "$OUTPUT_PATH"
+TMP_OUTPUT=""
 
 log "$GREEN" ""
 log "$GREEN" "Export completed successfully!"
