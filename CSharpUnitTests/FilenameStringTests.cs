@@ -5,121 +5,208 @@ namespace CSharpUnitTests;
 
 public class FilenameStringTests
 {
+    private const string LongName = "hello_there_I_have_a_surprise_final_final_really.pdf";
+
+    // ---- construction -------------------------------------------------------
+
+    [Fact]
+    public void Constructor_WhenNameIsNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>(() => new FilenameString(null!));
+    }
+
     [Theory]
-    [InlineData("ValidName.txt")]
+    [InlineData("report.pdf")]
     [InlineData("")]
-    [InlineData(" ")]
-    public void Constructor_AssignsFullName(string expected)
-    {
-        var sut = new FilenameString(expected);
-        Assert.Equal(expected, sut.FullName);
-    }
-
-    [Fact]
-    public void Constructor_AcceptsNull()
-    {
-        var sut = new FilenameString(null!);
-        Assert.Null(sut.FullName);
-    }
-
-    [Fact]
-    public void EllipsisName_WhenFullNameIsNull_ReturnsEmptyString()
-    {
-        var sut = new FilenameString(null!);
-        Assert.Equal(string.Empty, sut.EllipsisName);
-    }
-
-    [Fact]
-    public void EllipsisName_WhenLengthIsZero_ReturnsEmptyString()
-    {
-        var sut = new FilenameString("");
-        Assert.Equal(string.Empty, sut.EllipsisName);
-    }
-
-    [Theory]
-    [InlineData(" ")]
     [InlineData("   ")]
-    public void EllipsisName_WhenWhitespace_ReturnsEmptyString(string input)
+    public void Constructor_AssignsFullName(string name)
     {
-        var sut = new FilenameString(input);
-        Assert.Equal("", sut.EllipsisName);
+        Assert.Equal(name, new FilenameString(name).FullName);
+    }
+
+    [Fact]
+    public void ToString_ReturnsFullName()
+    {
+        Assert.Equal("report.pdf", new FilenameString("report.pdf").ToString());
+    }
+
+    // ---- extension detection ------------------------------------------------
+
+    [Theory]
+    [InlineData("report.pdf", ".pdf")]
+    [InlineData("archive.tar.gz", ".tar.gz")]
+    [InlineData("ARCHIVE.TAR.GZ", ".TAR.GZ")]
+    [InlineData(".tar.gz", ".gz")]
+    [InlineData(".hidden.txt", ".txt")]
+    [InlineData(".gitignore", "")]
+    [InlineData("notes.", "")]
+    [InlineData("noextension", "")]
+    [InlineData("Meeting notes v2.0 final", "")]
+    [InlineData("", "")]
+    public void Extension_IsDetectedCorrectly(string name, string expected)
+    {
+        Assert.Equal(expected, new FilenameString(name).Extension);
+    }
+
+    // ---- length is measured in user-perceived characters -------------------
+
+    [Theory]
+    [InlineData("", 0)]
+    [InlineData("report.pdf", 10)]
+    [InlineData("e\u0301", 1)]
+    [InlineData("\U0001F600.png", 5)]
+    [InlineData("\U0001F468\u200D\U0001F469\u200D\U0001F467\u200D\U0001F466", 1)]
+    public void Length_CountsGraphemeClusters(string name, int expected)
+    {
+        Assert.Equal(expected, new FilenameString(name).Length);
+    }
+
+    // ---- Truncate(int) ------------------------------------------------------
+
+    [Theory]
+    [InlineData(0)]
+    [InlineData(-1)]
+    public void Truncate_WhenMaxLengthIsLessThanOne_Throws(int maxLength)
+    {
+        var sut = new FilenameString("report.pdf");
+        Assert.Throws<ArgumentOutOfRangeException>(() => sut.Truncate(maxLength));
     }
 
     [Theory]
-    [InlineData("1")]
-    [InlineData("12345")]
-    [InlineData("12345.txt")]
-    [InlineData("1234567890")]
-    [InlineData("1234567890.pdf")]
-    public void EllipsisName_WhenBaseNameIsTenOrLess_ReturnsFullName(string input)
+    [InlineData("", 1)]
+    [InlineData("a", 1)]
+    [InlineData("   ", 3)]
+    [InlineData("report.pdf", 10)]
+    [InlineData("report.pdf", 50)]
+    public void Truncate_WhenNameFits_ReturnsItUnchanged(string name, int maxLength)
     {
-        var sut = new FilenameString(input);
-        Assert.Equal(input, sut.EllipsisName);
+        Assert.Equal(name, new FilenameString(name).Truncate(maxLength));
     }
 
     [Theory]
-    [InlineData("12345678901", "1234...901")]
-    [InlineData("very_long_name", "very...ame")]
-    public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithoutExtension_ReturnsMiddleEllipsis(string input, string expected)
+    [InlineData("abcdefghijklmnopqrstuvwxyz", 10, "abcde…wxyz")]
+    [InlineData("abcdefghijklmnopqrstuvwxyz", 11, "abcde…vwxyz")]
+    [InlineData(LongName, 20, "hello_ther…eally.pdf")]
+    [InlineData(".dockerignore", 8, ".doc…ore")]
+    [InlineData("long_file_name.", 10, "long_…ame.")]
+    [InlineData("Meeting notes v2.0 final", 10, "Meeti…inal")]
+    public void Truncate_RemovesCharactersFromTheMiddle(string name, int maxLength, string expected)
     {
-        var sut = new FilenameString(input);
-        Assert.Equal(expected, sut.EllipsisName);
+        Assert.Equal(expected, new FilenameString(name).Truncate(maxLength));
     }
 
     [Theory]
-    [InlineData("12345678901.txt", "1234...901.txt")]
-    [InlineData("very_long_name.pdf", "very...ame.pdf")]
-    [InlineData("ScottArthurJenson.pdf", "Scot...son.pdf")]
-    [InlineData("ScottArthurJenson final for real (2012).pdf", "Scot...12).pdf")]
-    public void EllipsisName_WhenBaseNameIsGreaterThanTen_WithExtension_ReturnsMiddleEllipsisPreservingExtension(string input, string expected)
+    [InlineData("very_long_name.pdf", 8, "ver….pdf")]
+    [InlineData("very_long_name.pdf", 6, "v….pdf")]
+    [InlineData("very_long_archive.tar.gz", 12, "very….tar.gz")]
+    [InlineData(".very_long_config_file.json", 10, ".ver….json")]
+    public void Truncate_WhenBudgetIsTight_KeepsExtensionWhole(string name, int maxLength, string expected)
     {
-        var sut = new FilenameString(input);
-        Assert.Equal(expected, sut.EllipsisName);
+        Assert.Equal(expected, new FilenameString(name).Truncate(maxLength));
     }
 
     [Theory]
-    [InlineData(".gitignore", ".gitignore")]
-    [InlineData(".dockerignore", ".doc...ore")]
-    [InlineData(".very_long_hidden_file", ".ver...ile")]
-    public void EllipsisName_WithHiddenFileAndNoOtherDots_TreatsAsBaseNameAndTruncates(string input, string expected)
+    [InlineData(5, "ve…df")]
+    [InlineData(3, "v…f")]
+    [InlineData(2, "v…")]
+    [InlineData(1, "…")]
+    public void Truncate_WhenExtensionCannotFit_FallsBackToPlainMiddleTruncation(int maxLength, string expected)
     {
-        var sut = new FilenameString(input);
-        Assert.Equal(expected, sut.EllipsisName);
+        Assert.Equal(expected, new FilenameString("very_long_name.pdf").Truncate(maxLength));
+    }
+
+    [Fact]
+    public void Truncate_ResultIsExactlyMaxLengthWhenTruncated()
+    {
+        var sut = new FilenameString(LongName);
+        for (int maxLength = 1; maxLength <= LongName.Length + 5; maxLength++)
+        {
+            string result = sut.Truncate(maxLength);
+            Assert.Equal(Math.Min(maxLength, LongName.Length), result.Length);
+        }
+    }
+
+    [Fact]
+    public void Truncate_KeepsExtensionForEveryBudgetThatCanHoldIt()
+    {
+        var sut = new FilenameString("very_long_name.pdf");
+
+        // One leading character + ellipsis + ".pdf" needs 6.
+        for (int maxLength = 6; maxLength <= 18; maxLength++)
+        {
+            Assert.EndsWith(".pdf", sut.Truncate(maxLength));
+        }
+    }
+
+    [Fact]
+    public void Truncate_KeepsNamesThatDifferOnlyAtTheEndDistinguishable()
+    {
+        // The point of middle truncation: end truncation would render both as "hello_there_I_have…".
+        var really = new FilenameString("hello_there_I_have_a_surprise_final_final_really.pdf");
+        var v2 = new FilenameString("hello_there_I_have_a_surprise_final_final_v2.pdf");
+
+        Assert.NotEqual(really.Truncate(20), v2.Truncate(20));
+    }
+
+    public static TheoryData<string> Graphemes =>
+    [
+        "\U0001F600",                                                   // emoji (surrogate pair)
+        "e\u0301",                                                      // e + combining acute accent
+        "\U0001F468\u200D\U0001F469\u200D\U0001F467\u200D\U0001F466",   // ZWJ family sequence
+        "\U0001F1FA\U0001F1F8",                                         // regional-indicator flag
+    ];
+
+    [Theory]
+    [MemberData(nameof(Graphemes))]
+    public void Truncate_NeverSplitsGraphemeClusters(string grapheme)
+    {
+        string name = string.Concat(Enumerable.Repeat(grapheme, 12)) + ".png";
+        string expected = string.Concat(Enumerable.Repeat(grapheme, 5)) + "…" + ".png";
+
+        Assert.Equal(expected, new FilenameString(name).Truncate(10));
+    }
+
+    // ---- Truncate(double, Func<string, double>) -----------------------------
+
+    [Fact]
+    public void TruncateByWidth_WithMonospaceMeasure_MatchesCharacterCount()
+    {
+        var sut = new FilenameString(LongName);
+        static double Monospace(string s) => s.Length * 7.0;
+
+        Assert.Equal(sut.Truncate(20), sut.Truncate(140.0, Monospace));
+    }
+
+    [Fact]
+    public void TruncateByWidth_WithProportionalMeasure_KeepsFewerWideCharacters()
+    {
+        // 'W' is three units wide, everything else one.
+        static double Proportional(string s) => s.Sum(c => c == 'W' ? 3.0 : 1.0);
+        var sut = new FilenameString("WWWWWWWWaaaaaaaa");
+
+        Assert.Equal("WWW…aa", sut.Truncate(12.0, Proportional));
+    }
+
+    [Fact]
+    public void TruncateByWidth_WhenEvenEllipsisDoesNotFit_ReturnsEllipsis()
+    {
+        var sut = new FilenameString("report.pdf");
+        Assert.Equal(FilenameString.Ellipsis, sut.Truncate(0.5, s => s.Length));
     }
 
     [Theory]
-    [InlineData(".hidden.txt")]
-    [InlineData(".short.longextension")]
-    public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsShort_ReturnsFullName(string input)
+    [InlineData(-1.0)]
+    [InlineData(double.NaN)]
+    public void TruncateByWidth_WhenWidthIsInvalid_Throws(double maxWidth)
     {
-        var sut = new FilenameString(input);
-        Assert.Equal(input, sut.EllipsisName);
+        var sut = new FilenameString("report.pdf");
+        Assert.Throws<ArgumentOutOfRangeException>(() => sut.Truncate(maxWidth, s => s.Length));
     }
 
-    [Theory]
-    [InlineData(".super_long_hidden.txt", ".sup...den.txt")]
-    [InlineData(".very_long_config_file.json", ".ver...ile.json")]
-    public void EllipsisName_WithHiddenFileAndExtension_WhenBaseNameIsLong_TruncatesBaseName(string input, string expected)
+    [Fact]
+    public void TruncateByWidth_WhenMeasureIsNull_Throws()
     {
-        var sut = new FilenameString(input);
-        Assert.Equal(expected, sut.EllipsisName);
-    }
-
-    [Theory]
-    [InlineData("archive.tar.gz", "archive.tar.gz")]
-    [InlineData("very_long_archive.tar.gz", "very...ive.tar.gz")]
-    [InlineData("backup_database.tar.bz2", "back...ase.tar.bz2")]
-    public void EllipsisName_WithCompoundExtension_PreservesFullCompoundExtension(string input, string expected)
-    {
-        var sut = new FilenameString(input);
-        Assert.Equal(expected, sut.EllipsisName);
-    }
-
-    [Theory]
-    [InlineData("long_file_name.", "long...ame.")]
-    public void EllipsisName_WithTrailingDot_PreservesTrailingDot(string input, string expected)
-    {
-        var sut = new FilenameString(input);
-        Assert.Equal(expected, sut.EllipsisName);
+        var sut = new FilenameString("report.pdf");
+        Assert.Throws<ArgumentNullException>(() => sut.Truncate(10.0, null!));
     }
 }

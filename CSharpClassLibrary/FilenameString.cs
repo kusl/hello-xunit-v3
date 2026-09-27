@@ -1,92 +1,206 @@
+using System.Globalization;
+
 namespace CSharpClassLibrary;
 
-public class FilenameString(string fullName)
+/// <summary>
+/// A file name that can be shortened for display the way the macOS Finder does it:
+/// characters are removed from the <em>middle</em> and replaced with a single ellipsis
+/// character, so both the start of the name and its end (which usually holds the
+/// distinguishing part, such as "final_v2", and the extension) stay visible.
+/// </summary>
+/// <remarks>
+/// <para>
+/// Finder does not use a fixed character count. It truncates to whatever width the label
+/// or column has available, measured in points in the current font (AppKit's
+/// middle-truncation line break mode). <see cref="Truncate(double, Func{string, double})"/>
+/// models that with a caller-supplied width function; <see cref="Truncate(int)"/> is the
+/// same algorithm with every user-perceived character (grapheme cluster) counted as width 1.
+/// </para>
+/// <para>
+/// Truncation never splits a grapheme cluster, so emoji, flags and accented letters built
+/// from combining marks are either kept whole or removed whole.
+/// </para>
+/// <para>
+/// On top of plain middle truncation, the extension is kept whole whenever the budget
+/// allows at least one leading character plus the extension, so "report.pdf" never
+/// turns into "rep…df" when "re….pdf" would fit.
+/// </para>
+/// </remarks>
+public sealed class FilenameString
 {
-    public string FullName { get; } = fullName;
-    public static string Ellipsis => "...";
-    private static readonly int EllipsisLength = 10;
+    /// <summary>The horizontal ellipsis character (U+2026) that macOS uses, not three periods.</summary>
+    public const string Ellipsis = "\u2026";
 
-    public string EllipsisName => GetEllipsisName();
+    private static readonly string[] CompoundExtensions = [".tar.gz", ".tar.bz2", ".tar.xz", ".tar.zst"];
 
-    private string GetEllipsisName()
+    // _boundaries[k] is the char index at which text element k starts.
+    // The final entry is FullName.Length, so there are Length + 1 entries.
+    private readonly int[] _boundaries;
+    private readonly int _extensionLength;
+
+    public FilenameString(string fullName)
     {
-        if (string.IsNullOrWhiteSpace(FullName))
+        ArgumentNullException.ThrowIfNull(fullName);
+
+        FullName = fullName;
+        Extension = GetExtension(fullName);
+        _boundaries = GetTextElementBoundaries(fullName);
+        _extensionLength = CountTextElements(Extension);
+    }
+
+    /// <summary>The complete, untruncated file name.</summary>
+    public string FullName { get; }
+
+    /// <summary>
+    /// The extension including its leading dot (for example ".pdf" or ".tar.gz"), or an
+    /// empty string when the name has none. A leading dot (".gitignore"), a trailing dot
+    /// ("notes.") and a "suffix" containing whitespace ("Minutes v2.0 final") are not
+    /// treated as extensions.
+    /// </summary>
+    public string Extension { get; }
+
+    /// <summary>The number of user-perceived characters (grapheme clusters) in the name.</summary>
+    public int Length => _boundaries.Length - 1;
+
+    /// <summary>
+    /// Shortens the name to at most <paramref name="maxLength"/> user-perceived characters,
+    /// including the ellipsis, by removing characters from the middle.
+    /// </summary>
+    /// <exception cref="ArgumentOutOfRangeException"><paramref name="maxLength"/> is less than 1.</exception>
+    public string Truncate(int maxLength)
+    {
+        ArgumentOutOfRangeException.ThrowIfLessThan(maxLength, 1);
+        return Truncate(maxLength, static s => CountTextElements(s));
+    }
+
+    /// <summary>
+    /// Shortens the name so that <paramref name="measureWidth"/> of the result is at most
+    /// <paramref name="maxWidth"/>, keeping as many characters as possible. This is how Finder
+    /// behaves: the available width comes from the column or icon label, and the width
+    /// function would measure text in the font being drawn.
+    /// </summary>
+    /// <param name="maxWidth">The available width, in whatever unit <paramref name="measureWidth"/> returns.</param>
+    /// <param name="measureWidth">
+    /// Measures the rendered width of a string. It is expected to grow (or stay the same) as
+    /// characters are added, which lets the search for the longest result that fits be a binary search.
+    /// </param>
+    /// <returns>
+    /// The full name if it fits; otherwise the longest middle-truncated form that fits. If not
+    /// even the ellipsis on its own fits, the ellipsis is returned, since there is nothing shorter
+    /// that still signals a name is there.
+    /// </returns>
+    public string Truncate(double maxWidth, Func<string, double> measureWidth)
+    {
+        if (double.IsNaN(maxWidth) || maxWidth < 0)
         {
-            return "";
+            throw new ArgumentOutOfRangeException(nameof(maxWidth), maxWidth, "Width must be a non-negative number.");
         }
 
-        ParseNameAndExtension(out string baseName, out string extension);
+        ArgumentNullException.ThrowIfNull(measureWidth);
 
-        if (baseName.Length <= EllipsisLength)
+        if (measureWidth(FullName) <= maxWidth)
         {
             return FullName;
         }
 
-        return GetScottJensenEllipsis(baseName, extension);
-    }
-
-    private void ParseNameAndExtension(out string baseName, out string extension)
-    {
-        if (string.IsNullOrEmpty(FullName))
+        // Find the largest number of kept characters whose truncated form still fits.
+        int best = 0;
+        int low = 1;
+        int high = Length - 1;
+        while (low <= high)
         {
-            baseName = "";
-            extension = "";
-            return;
-        }
-
-        int firstDot = FullName.IndexOf('.');
-        int lastDot = FullName.LastIndexOf('.');
-
-        if (firstDot == 0 && lastDot == 0)
-        {
-            baseName = FullName;
-            extension = "";
-            return;
-        }
-
-        string[] compoundExtensions = { ".tar.gz", ".tar.bz2", ".tar.xz" };
-        foreach (var compExt in compoundExtensions)
-        {
-            if (FullName.EndsWith(compExt, StringComparison.OrdinalIgnoreCase) && FullName.Length > compExt.Length)
+            int mid = low + ((high - low) / 2);
+            if (measureWidth(BuildTruncated(mid)) <= maxWidth)
             {
-                baseName = FullName[..^compExt.Length];
-                extension = FullName[^compExt.Length..];
-                return;
+                best = mid;
+                low = mid + 1;
+            }
+            else
+            {
+                high = mid - 1;
             }
         }
 
-        if (lastDot > 0)
-        {
-            baseName = FullName[..lastDot];
-            extension = FullName[lastDot..];
-        }
-        else
-        {
-            baseName = FullName;
-            extension = "";
-        }
+        return BuildTruncated(best);
     }
 
-    private string GetScottJensenEllipsis(string baseName, string extension)
+    public override string ToString() => FullName;
+
+    /// <summary>Keeps <paramref name="keep"/> text elements in total, split around one ellipsis.</summary>
+    private string BuildTruncated(int keep)
     {
-        if (baseName.Length <= EllipsisLength)
+        // Plain middle truncation; the extra character on odd counts goes to the front,
+        // because the start of a name is what people scan first.
+        int head = (keep + 1) / 2;
+        int tail = keep - head;
+
+        // Grow the tail to cover the extension when that still leaves at least one leading character.
+        if (_extensionLength > tail && _extensionLength < keep)
         {
-            return baseName + extension;
+            tail = _extensionLength;
+            head = keep - tail;
         }
 
-        int charsLeft = EllipsisLength - Ellipsis.Length;
+        string front = FullName[.._boundaries[head]];
+        string back = FullName[_boundaries[Length - tail]..];
+        return front + Ellipsis + back;
+    }
 
-        if (charsLeft <= 0)
+    private static string GetExtension(string name)
+    {
+        foreach (string compound in CompoundExtensions)
         {
-            return Ellipsis + extension;
+            if (name.Length > compound.Length && name.EndsWith(compound, StringComparison.OrdinalIgnoreCase))
+            {
+                return name[^compound.Length..];
+            }
         }
 
-        int front = (int)Math.Ceiling(charsLeft / 2.0);
-        int back = charsLeft - front;
+        int lastDot = name.LastIndexOf('.');
 
-        string initialPortion = baseName[..front];
-        string laterPortion = baseName[^back..];
+        // No dot, a hidden file with no other dot (".gitignore"), or a trailing dot ("notes.").
+        if (lastDot <= 0 || lastDot == name.Length - 1)
+        {
+            return "";
+        }
 
-        return initialPortion + Ellipsis + laterPortion + extension;
+        string extension = name[lastDot..];
+
+        // "Minutes v2.0 final" has no extension; ".0 final" is just part of the name.
+        foreach (char c in extension)
+        {
+            if (char.IsWhiteSpace(c))
+            {
+                return "";
+            }
+        }
+
+        return extension;
+    }
+
+    private static int[] GetTextElementBoundaries(string text)
+    {
+        var boundaries = new List<int> { 0 };
+        int index = 0;
+        while (index < text.Length)
+        {
+            index += StringInfo.GetNextTextElementLength(text.AsSpan(index));
+            boundaries.Add(index);
+        }
+
+        return [.. boundaries];
+    }
+
+    private static int CountTextElements(string text)
+    {
+        int count = 0;
+        int index = 0;
+        while (index < text.Length)
+        {
+            index += StringInfo.GetNextTextElementLength(text.AsSpan(index));
+            count++;
+        }
+
+        return count;
     }
 }

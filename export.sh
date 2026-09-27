@@ -2,19 +2,24 @@
 #
 # Export project source into a single, self-describing text file.
 #
-# Improvements over the previous POSIX version:
-#   * Uses `git ls-files` (tracked + untracked-but-not-ignored) for an accurate,
-#     reproducible file list, with a `find` fallback outside a git checkout.
+#   * The file list comes from `git ls-files` (tracked + untracked-but-not-ignored),
+#     with a `find` fallback outside a git checkout. Tracked files that have been
+#     deleted from the working tree are skipped rather than counted.
+#   * The directory tree is rendered from that same list, so it shows exactly the
+#     files that are exported: no ignored, user-local, or build-output files.
 #   * NUL-safe throughout (handles paths with spaces or newlines).
-#   * Records per-file SHA-256, byte size, and line count, plus a header with
-#     the git commit, branch, generation time, dotnet version, and totals.
-#   * Includes shell (.sh) and Markdown (.md) files, which the old exporter
-#     skipped, so docs and scripts are captured too.
-#   * Emits a SHA-256 of the finished dump so its integrity can be verified.
+#   * Per-file SHA-256, byte size, line count, and modification time (UTC, like
+#     the header), plus a header with the git commit, branch, whether the working
+#     tree has uncommitted changes, generation time, and .NET SDK version.
+#   * Written to a temp file and moved into place, so a failed run never leaves
+#     a half-written dump behind.
+#   * Ends with a SHA-256 of the finished dump so its integrity can be verified.
+#   * Works with the bash 3.2 that ships with macOS as well as GNU/Linux.
 #
 # Usage: ./export.sh [PROJECT_PATH] [OUTPUT_FILE]
 #   PROJECT_PATH  defaults to the script's own directory
-#   OUTPUT_FILE   defaults to docs/llm/dump.txt (relative to PROJECT_PATH)
+#   OUTPUT_FILE   defaults to docs/llm/dump.txt; relative paths are resolved
+#                 against PROJECT_PATH, absolute paths are used as given
 
 set -euo pipefail
 
@@ -23,21 +28,28 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_PATH="${1:-$SCRIPT_DIR}"
 OUTPUT_FILE="${2:-docs/llm/dump.txt}"
 
-# Extensions to include.
-INCLUDE_EXTENSIONS="cs json xml csproj sln slnx props config cshtml razor js css scss html yml yaml sql sh md"
+# Extensions to include (compared case-insensitively).
+INCLUDE_EXTENSIONS="cs csproj sln slnx props targets json xml config editorconfig cshtml razor js css scss html yml yaml sql sh md"
+
+# Exact file names to include even though they have no matching extension.
+INCLUDE_NAMES=".gitignore .gitattributes .editorconfig Dockerfile LICENSE README"
 
 # Directory names to exclude anywhere in the tree.
-EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea docs"
+EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea TestResults"
 
 # Resolve to an absolute path and work from there so all paths are relative.
 PROJECT_PATH="$(cd "$PROJECT_PATH" && pwd)"
 cd "$PROJECT_PATH"
 
-OUTPUT_PATH="$PROJECT_PATH/$OUTPUT_FILE"
+case "$OUTPUT_FILE" in
+    /*) OUTPUT_PATH="$OUTPUT_FILE" ;;
+    *)  OUTPUT_PATH="$PROJECT_PATH/$OUTPUT_FILE" ;;
+esac
 OUTPUT_DIR="$(dirname "$OUTPUT_PATH")"
 mkdir -p "$OUTPUT_DIR"
 
 # Path of the output file relative to the project root (for self-exclusion).
+# If the output lives outside the project this stays absolute and never matches.
 OUTPUT_REL="${OUTPUT_PATH#"$PROJECT_PATH"/}"
 
 # Colours only when writing to a terminal.
@@ -60,18 +72,31 @@ sha256_of() {
     fi
 }
 
-mod_time_of() {
-    if stat --version >/dev/null 2>&1; then
-        stat -c '%y' "$1" 2>/dev/null | cut -d'.' -f1
+# Modification time in UTC, to match the "Generated (UTC)" header.
+mod_time_utc_of() {
+    local epoch
+    if epoch="$(stat -c '%Y' "$1" 2>/dev/null)"; then
+        date -u -d "@$epoch" '+%Y-%m-%d %H:%M:%S'      # GNU
     else
-        stat -f '%Sm' -t '%Y-%m-%d %H:%M:%S' "$1" 2>/dev/null
+        epoch="$(stat -f '%m' "$1")"
+        date -u -r "$epoch" '+%Y-%m-%d %H:%M:%S'       # BSD / macOS
     fi
 }
 
-has_included_extension() {
-    local ext="${1##*.}"
-    [ "$ext" != "$1" ] || return 1
-    local inc
+# Counts lines the way a person would: a final line without a trailing newline
+# still counts (`wc -l` would miss it).
+line_count_of() {
+    awk 'END { print NR }' "$1"
+}
+
+is_included_file() {
+    local name="${1##*/}" ext inc
+    for inc in $INCLUDE_NAMES; do
+        [ "$name" = "$inc" ] && return 0
+    done
+    ext="${name##*.}"
+    [ "$ext" != "$name" ] || return 1
+    ext="$(printf '%s' "$ext" | tr '[:upper:]' '[:lower:]')"
     for inc in $INCLUDE_EXTENSIONS; do
         [ "$ext" = "$inc" ] && return 0
     done
@@ -90,6 +115,42 @@ is_in_excluded_dir() {
 
 in_git_repo() { git rev-parse --is-inside-work-tree >/dev/null 2>&1; }
 
+# Prints the exported files as an indented tree, directories suffixed with "/".
+# Input must be sorted so each directory's contents are contiguous.
+render_tree() {
+    local -a parts prev
+    local rel n common i j indent
+    prev=()
+    echo "."
+    while IFS= read -r -d '' rel; do
+        IFS='/' read -r -d '' -a parts < <(printf '%s\0' "$rel") || true
+        n=${#parts[@]}
+
+        # How many leading directories this path shares with the previous one.
+        common=0
+        while [ "$common" -lt $((n - 1)) ] && [ "$common" -lt "${#prev[@]}" ] \
+              && [ "${parts[$common]}" = "${prev[$common]}" ]; do
+            common=$((common + 1))
+        done
+
+        for ((i = common; i < n; i++)); do
+            indent="    "
+            for ((j = 0; j < i; j++)); do indent="$indent    "; done
+            if [ "$i" -lt $((n - 1)) ]; then
+                printf '%s%s/\n' "$indent" "${parts[$i]}"
+            else
+                printf '%s%s\n' "$indent" "${parts[$i]}"
+            fi
+        done
+
+        if [ "$n" -gt 1 ]; then
+            prev=("${parts[@]:0:$((n - 1))}")
+        else
+            prev=()
+        fi
+    done < "$FILE_LIST"
+}
+
 # --- gather the file list (NUL-delimited) ------------------------------------
 
 log "$GREEN" "Starting project export..."
@@ -98,7 +159,8 @@ log "$YELLOW" "Output File:  $OUTPUT_PATH"
 
 RAW_LIST="$(mktemp)"
 FILE_LIST="$(mktemp)"
-trap 'rm -f "$RAW_LIST" "$FILE_LIST"' EXIT
+TMP_OUTPUT="$(mktemp "$OUTPUT_DIR/.export.XXXXXX")"
+trap 'rm -f "$RAW_LIST" "$FILE_LIST" "$TMP_OUTPUT"' EXIT
 
 if in_git_repo; then
     log "$CYAN" "Listing files via git..."
@@ -108,12 +170,14 @@ else
     find . -type f -print0 > "$RAW_LIST"
 fi
 
-# Filter: drop excluded dirs, the output file itself, and non-included types.
+# Filter: drop the output file, excluded dirs, non-included types, and tracked
+# files that no longer exist on disk.
 while IFS= read -r -d '' file; do
     rel="${file#./}"
     [ "$rel" = "$OUTPUT_REL" ] && continue
     is_in_excluded_dir "$rel" && continue
-    has_included_extension "$rel" || continue
+    is_included_file "$rel" || continue
+    [ -f "$rel" ] || continue
     printf '%s\0' "$rel"
 done < "$RAW_LIST" | LC_ALL=C sort -z -u > "$FILE_LIST"
 
@@ -123,7 +187,7 @@ log "$GREEN" "Found $FILE_COUNT files to export"
 
 # --- header ------------------------------------------------------------------
 
-GIT_COMMIT="n/a"; GIT_BRANCH="n/a"
+GIT_COMMIT="n/a"; GIT_BRANCH="n/a"; GIT_DIRTY="n/a"
 if in_git_repo; then
     # --verify --quiet prints nothing (rather than echoing "HEAD") when there
     # is no commit yet, so an unborn branch does not corrupt the header.
@@ -131,6 +195,18 @@ if in_git_repo; then
     [ -n "$commit" ] && GIT_COMMIT="$commit"
     branch="$(git branch --show-current 2>/dev/null || true)"
     [ -n "$branch" ] && GIT_BRANCH="$branch"
+
+    # Ignore the dump itself, otherwise regenerating it always looks "dirty".
+    status_args=(status --porcelain)
+    case "$OUTPUT_REL" in
+        /*) ;;
+        *)  status_args+=(-- . ":(exclude)$OUTPUT_REL") ;;
+    esac
+    if [ -n "$(git "${status_args[@]}" 2>/dev/null || true)" ]; then
+        GIT_DIRTY="yes (uncommitted changes are included below)"
+    else
+        GIT_DIRTY="no"
+    fi
 fi
 DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
 
@@ -141,49 +217,34 @@ DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
     echo "Project Path:    $PROJECT_PATH"
     echo "Git Commit:      $GIT_COMMIT"
     echo "Git Branch:      $GIT_BRANCH"
+    echo "Git Dirty:       $GIT_DIRTY"
     echo ".NET SDK:        $DOTNET_VERSION"
     echo "Files Exported:  $FILE_COUNT"
     echo "==============================================================================="
     echo
-    echo "DIRECTORY STRUCTURE:"
-    echo "==================="
+    echo "DIRECTORY STRUCTURE (exported files only):"
+    echo "=========================================="
     echo
-} > "$OUTPUT_PATH"
-
-if command -v tree >/dev/null 2>&1; then
-    TREE_IGNORE="$(echo "$EXCLUDE_DIRS" | tr ' ' '|')"
-    tree -a -I "$TREE_IGNORE" --noreport >> "$OUTPUT_PATH" 2>/dev/null || true
-else
-    while IFS= read -r -d '' rel; do
-        depth="$(printf '%s' "$rel" | tr -cd '/' | wc -c | tr -d ' ')"
-        indent=""; i=0
-        while [ "$i" -lt "$depth" ]; do indent="$indent    "; i=$((i + 1)); done
-        printf '%s+-- %s\n' "$indent" "$(basename "$rel")" >> "$OUTPUT_PATH"
-    done < "$FILE_LIST"
-fi
-
-printf '\n\n' >> "$OUTPUT_PATH"
-
-# --- file contents -----------------------------------------------------------
-
-{
+    render_tree
+    printf '\n\n'
     echo "FILE CONTENTS:"
     echo "=============="
     echo
-} >> "$OUTPUT_PATH"
+} > "$TMP_OUTPUT"
+
+# --- file contents -----------------------------------------------------------
 
 TOTAL_BYTES=0
 CURRENT=0
 while IFS= read -r -d '' rel; do
     CURRENT=$((CURRENT + 1))
     full="$PROJECT_PATH/$rel"
-    [ -f "$full" ] || continue
 
     size="$(wc -c < "$full" | tr -d ' ')"
-    lines="$(wc -l < "$full" | tr -d ' ')"
+    lines="$(line_count_of "$full")"
     size_kb="$(awk "BEGIN {printf \"%.2f\", $size / 1024}")"
     hash="$(sha256_of "$full")"
-    modified="$(mod_time_of "$full")"
+    modified="$(mod_time_utc_of "$full")"
     TOTAL_BYTES=$((TOTAL_BYTES + size))
 
     log "$CYAN" "Processing ($CURRENT/$FILE_COUNT): $rel"
@@ -194,18 +255,18 @@ while IFS= read -r -d '' rel; do
         echo "SIZE:     ${size_kb} KB (${size} bytes)"
         echo "LINES:    $lines"
         echo "SHA256:   $hash"
-        echo "MODIFIED: $modified"
+        echo "MODIFIED: $modified (UTC)"
         echo "================================================================================"
         echo
-    } >> "$OUTPUT_PATH"
+    } >> "$TMP_OUTPUT"
 
     if [ -s "$full" ]; then
-        cat "$full" >> "$OUTPUT_PATH" 2>/dev/null || echo "[ERROR READING FILE]" >> "$OUTPUT_PATH"
+        cat "$full" >> "$TMP_OUTPUT" 2>/dev/null || echo "[ERROR READING FILE]" >> "$TMP_OUTPUT"
     else
-        echo "[EMPTY FILE]" >> "$OUTPUT_PATH"
+        echo "[EMPTY FILE]" >> "$TMP_OUTPUT"
     fi
 
-    printf '\n\n' >> "$OUTPUT_PATH"
+    printf '\n\n' >> "$TMP_OUTPUT"
 done < "$FILE_LIST"
 
 TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
@@ -219,13 +280,18 @@ TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
     echo "Total Source Size:      ${TOTAL_MB} MB (${TOTAL_BYTES} bytes)"
     echo "Output File:            $OUTPUT_PATH"
     echo "==============================================================================="
-} >> "$OUTPUT_PATH"
+} >> "$TMP_OUTPUT"
 
 # Self-hash: covers everything written so far (i.e. the whole file except the
-# single line we are about to append). Verify with:
-#   head -n -1 dump.txt | sha256sum
-DUMP_HASH="$(sha256_of "$OUTPUT_PATH")"
-echo "DUMP SHA256 (of all lines above this one): $DUMP_HASH" >> "$OUTPUT_PATH"
+# single line we are about to append). Verify on Linux or macOS with:
+#   sed '$d' dump.txt | sha256sum        (or: sed '$d' dump.txt | shasum -a 256)
+DUMP_HASH="$(sha256_of "$TMP_OUTPUT")"
+echo "DUMP SHA256 (of all lines above this one): $DUMP_HASH" >> "$TMP_OUTPUT"
+
+# mktemp creates the file as 0600; give the dump normal permissions, then move
+# it into place in one step.
+chmod 0644 "$TMP_OUTPUT"
+mv -f "$TMP_OUTPUT" "$OUTPUT_PATH"
 
 log "$GREEN" ""
 log "$GREEN" "Export completed successfully!"

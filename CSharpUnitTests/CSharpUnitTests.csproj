@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+    <!-- TargetFramework, ImplicitUsings, Nullable, etc. come from Directory.Build.props. -->
     <PropertyGroup>
+        <!-- xunit.v3 test projects are executables. -->
         <OutputType>Exe</OutputType>
-        <TargetFramework>net10.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <ItemGroup>
+        <!-- Versions are managed centrally in Directory.Packages.props. -->
         <PackageReference Include="Microsoft.NET.Test.Sdk" />
         <PackageReference Include="xunit.runner.visualstudio">
             <PrivateAssets>all</PrivateAssets>
@@ -17,6 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\CSharpClassLibrary\CSharpClassLibrary.csproj" />
+        <ProjectReference Include="../CSharpClassLibrary/CSharpClassLibrary.csproj" />
     </ItemGroup>
+
 </Project>
