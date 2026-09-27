@@ -33,8 +33,6 @@ public sealed class FilenameString
 
     private static readonly string[] CompoundExtensions = [".tar.gz", ".tar.bz2", ".tar.xz", ".tar.zst"];
 
-    // _boundaries[k] is the char index at which text element k starts.
-    // The final entry is FullName.Length, so there are Length + 1 entries.
     private readonly int[] _boundaries;
     private readonly int _extensionLength;
 
@@ -70,7 +68,7 @@ public sealed class FilenameString
     public string Truncate(int maxLength)
     {
         ArgumentOutOfRangeException.ThrowIfLessThan(maxLength, 1);
-        return Truncate(maxLength, static s => CountTextElements(s));
+        return Length <= maxLength ? FullName : BuildTruncated(maxLength - 1);
     }
 
     /// <summary>
@@ -80,10 +78,7 @@ public sealed class FilenameString
     /// function would measure text in the font being drawn.
     /// </summary>
     /// <param name="maxWidth">The available width, in whatever unit <paramref name="measureWidth"/> returns.</param>
-    /// <param name="measureWidth">
-    /// Measures the rendered width of a string. It is expected to grow (or stay the same) as
-    /// characters are added, which lets the search for the longest result that fits be a binary search.
-    /// </param>
+    /// <param name="measureWidth">Measures the rendered width of a string.</param>
     /// <returns>
     /// The full name if it fits; otherwise the longest middle-truncated form that fits. If not
     /// even the ellipsis on its own fits, the ellipsis is returned, since there is nothing shorter
@@ -103,38 +98,25 @@ public sealed class FilenameString
             return FullName;
         }
 
-        // Find the largest number of kept characters whose truncated form still fits.
-        int best = 0;
-        int low = 1;
-        int high = Length - 1;
-        while (low <= high)
+        for (int keep = Length - 1; keep > 0; keep--)
         {
-            int mid = low + ((high - low) / 2);
-            if (measureWidth(BuildTruncated(mid)) <= maxWidth)
+            string candidate = BuildTruncated(keep);
+            if (measureWidth(candidate) <= maxWidth)
             {
-                best = mid;
-                low = mid + 1;
-            }
-            else
-            {
-                high = mid - 1;
+                return candidate;
             }
         }
 
-        return BuildTruncated(best);
+        return Ellipsis;
     }
 
     public override string ToString() => FullName;
 
-    /// <summary>Keeps <paramref name="keep"/> text elements in total, split around one ellipsis.</summary>
     private string BuildTruncated(int keep)
     {
-        // Plain middle truncation; the extra character on odd counts goes to the front,
-        // because the start of a name is what people scan first.
         int head = (keep + 1) / 2;
         int tail = keep - head;
 
-        // Grow the tail to cover the extension when that still leaves at least one leading character.
         if (_extensionLength > tail && _extensionLength < keep)
         {
             tail = _extensionLength;
@@ -158,7 +140,6 @@ public sealed class FilenameString
 
         int lastDot = name.LastIndexOf('.');
 
-        // No dot, a hidden file with no other dot (".gitignore"), or a trailing dot ("notes.").
         if (lastDot <= 0 || lastDot == name.Length - 1)
         {
             return "";
@@ -166,7 +147,6 @@ public sealed class FilenameString
 
         string extension = name[lastDot..];
 
-        // "Minutes v2.0 final" has no extension; ".0 final" is just part of the name.
         foreach (char c in extension)
         {
             if (char.IsWhiteSpace(c))
