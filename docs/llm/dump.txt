@@ -1,10 +1,10 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-27 23:41:13
+Generated (UTC): 2026-09-27 23:52:59
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      77d8c261f77a629091740679fcaba4693dc46e08
+Git Commit:      cd8778675f3545106c1a2eb78051ae6dc85610a2
 Git Branch:      master
-Git Dirty:       yes (uncommitted changes are included below)
+Git Dirty:       no
 .NET SDK:        10.0.112
 Files Exported:  14
 ===============================================================================
@@ -567,10 +567,10 @@ MODIFIED: 2026-09-27 06:38:39 (UTC)
 
 ================================================================================
 FILE:     CSharpClassLibrary/FilenameString.cs
-SIZE:     7.48 KB (7655 bytes)
-LINES:    206
-SHA256:   53abc26fccafe48022807f7279c9fa35d95298f4426b41e3b6c1a27df26c4010
-MODIFIED: 2026-09-27 06:37:13 (UTC)
+SIZE:     6.39 KB (6544 bytes)
+LINES:    186
+SHA256:   4399b7de2770762595e7cad5c70a90014ed0ce3d5c31a9c197c54c38841f352e
+MODIFIED: 2026-09-27 23:51:50 (UTC)
 ================================================================================
 
 using System.Globalization;
@@ -608,8 +608,6 @@ public sealed class FilenameString
 
     private static readonly string[] CompoundExtensions = [".tar.gz", ".tar.bz2", ".tar.xz", ".tar.zst"];
 
-    // _boundaries[k] is the char index at which text element k starts.
-    // The final entry is FullName.Length, so there are Length + 1 entries.
     private readonly int[] _boundaries;
     private readonly int _extensionLength;
 
@@ -645,7 +643,7 @@ public sealed class FilenameString
     public string Truncate(int maxLength)
     {
         ArgumentOutOfRangeException.ThrowIfLessThan(maxLength, 1);
-        return Truncate(maxLength, static s => CountTextElements(s));
+        return Length <= maxLength ? FullName : BuildTruncated(maxLength - 1);
     }
 
     /// <summary>
@@ -655,10 +653,7 @@ public sealed class FilenameString
     /// function would measure text in the font being drawn.
     /// </summary>
     /// <param name="maxWidth">The available width, in whatever unit <paramref name="measureWidth"/> returns.</param>
-    /// <param name="measureWidth">
-    /// Measures the rendered width of a string. It is expected to grow (or stay the same) as
-    /// characters are added, which lets the search for the longest result that fits be a binary search.
-    /// </param>
+    /// <param name="measureWidth">Measures the rendered width of a string.</param>
     /// <returns>
     /// The full name if it fits; otherwise the longest middle-truncated form that fits. If not
     /// even the ellipsis on its own fits, the ellipsis is returned, since there is nothing shorter
@@ -678,38 +673,25 @@ public sealed class FilenameString
             return FullName;
         }
 
-        // Find the largest number of kept characters whose truncated form still fits.
-        int best = 0;
-        int low = 1;
-        int high = Length - 1;
-        while (low <= high)
+        for (int keep = Length - 1; keep > 0; keep--)
         {
-            int mid = low + ((high - low) / 2);
-            if (measureWidth(BuildTruncated(mid)) <= maxWidth)
+            string candidate = BuildTruncated(keep);
+            if (measureWidth(candidate) <= maxWidth)
             {
-                best = mid;
-                low = mid + 1;
-            }
-            else
-            {
-                high = mid - 1;
+                return candidate;
             }
         }
 
-        return BuildTruncated(best);
+        return Ellipsis;
     }
 
     public override string ToString() => FullName;
 
-    /// <summary>Keeps <paramref name="keep"/> text elements in total, split around one ellipsis.</summary>
     private string BuildTruncated(int keep)
     {
-        // Plain middle truncation; the extra character on odd counts goes to the front,
-        // because the start of a name is what people scan first.
         int head = (keep + 1) / 2;
         int tail = keep - head;
 
-        // Grow the tail to cover the extension when that still leaves at least one leading character.
         if (_extensionLength > tail && _extensionLength < keep)
         {
             tail = _extensionLength;
@@ -733,7 +715,6 @@ public sealed class FilenameString
 
         int lastDot = name.LastIndexOf('.');
 
-        // No dot, a hidden file with no other dot (".gitignore"), or a trailing dot ("notes.").
         if (lastDot <= 0 || lastDot == name.Length - 1)
         {
             return "";
@@ -741,7 +722,6 @@ public sealed class FilenameString
 
         string extension = name[lastDot..];
 
-        // "Minutes v2.0 final" has no extension; ".0 final" is just part of the name.
         foreach (char c in extension)
         {
             if (char.IsWhiteSpace(c))
@@ -1469,9 +1449,9 @@ MODIFIED: 2026-09-27 06:37:13 (UTC)
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-27 23:41:13
+EXPORT COMPLETED (UTC): 2026-09-27 23:52:59
 Total Files Exported:   14
-Total Source Size:      0.03 MB (34068 bytes)
+Total Source Size:      0.03 MB (32957 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): e624de85a85f073af8c265ccfcbbcf57319e79b481c2aed14a70075b4d43832a
+DUMP SHA256 (of all lines above this one): 6c723694494aa45ed190c6ad250854a833807c3e8be5780aa60998b860a095a3

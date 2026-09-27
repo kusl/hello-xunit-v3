@@ -1,58 +1,42 @@
-kushal@fedora:~/src/dotnet/TermRacer$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.060s
-user	0m6.010s
-sys	0m0.716s
+real	0m5.366s
+user	0m5.601s
+sys	0m0.604s
 
 Build succeeded in 0.4s
 
-real	0m0.578s
-user	0m0.591s
-sys	0m0.112s
+real	0m0.585s
+user	0m0.571s
+sys	0m0.141s
 Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (2.6s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (2.5s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.5s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 3.8s
+Build succeeded in 3.6s
 
-real	0m3.957s
-user	0m1.403s
+real	0m3.749s
+user	0m1.369s
 sys	0m0.254s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-failed CSharpUnitTests.FilenameStringTests.TruncateByWidth_WhenKeepingExtensionNarrowsResult_StillFindsLongestFit (4ms)
-  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-  Assert.Equal() Failure: Strings differ
-              ↓ (pos 1)
-  Expected: "W….pdf"
-  Actual:   "WW…f"
-              ↑ (pos 1)
-    at CSharpUnitTests.FilenameStringTests.TruncateByWidth_WhenKeepingExtensionNarrowsResult_StillFindsLongestFit() in CSharpUnitTests/FilenameStringTests.cs:183
-    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
-    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (599ms)
-Exit code: 2
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (580ms)
 
-Test run summary: Failed!
+Test run summary: Passed!
   total: 55
-  failed: 1
-  succeeded: 54
+  failed: 0
+  succeeded: 55
   skipped: 0
-  duration: 792ms
-Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
+  duration: 775ms
 
-real	0m1.946s
-user	0m2.015s
-sys	0m0.345s
+real	0m1.848s
+user	0m1.883s
+sys	0m0.328s
 On branch master
-Your branch is up to date with 'origin/master'.
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   CSharpUnitTests/FilenameStringTests.cs
-
-no changes added to commit (use "git add" and/or "git commit -a")
+nothing to commit, working tree clean
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -77,12 +61,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.03 MB across 14 files
 
-real	0m0.329s
-user	0m0.174s
-sys	0m0.168s
+real	0m0.305s
+user	0m0.182s
+sys	0m0.155s
 Restore complete (0.4s)
 
-Build succeeded in 0.6s
+Build succeeded in 0.5s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -95,9 +79,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.505s
-user	0m1.379s
-sys	0m0.352s
+real	0m1.407s
+user	0m1.385s
+sys	0m0.283s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -109,9 +93,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.892s
-user	0m1.520s
-sys	0m0.334s
+real	0m1.451s
+user	0m1.427s
+sys	0m0.285s
 hello_there_I_have_a_surprise_final_final_really.pdf
   40  middle: hello_there_I_have_a…al_final_really.pdf  end: hello_there_I_have_a_surprise_final_fin…
   24  middle: hello_there_…_really.pdf                  end: hello_there_I_have_a_su…
@@ -137,7 +121,7 @@ very_long_archive.tar.gz
   10  middle: ve….tar.gz                                end: very_long…
 
 
-real	0m1.309s
-user	0m1.276s
-sys	0m0.181s
+real	0m1.283s
+user	0m1.231s
+sys	0m0.206s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
