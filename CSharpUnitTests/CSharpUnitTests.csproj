@@ -1,13 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-    <!-- TargetFramework, ImplicitUsings, Nullable, etc. come from Directory.Build.props. -->
     <PropertyGroup>
-        <!-- xunit.v3 test projects are executables. -->
         <OutputType>Exe</OutputType>
     </PropertyGroup>
 
     <ItemGroup>
-        <!-- Versions are managed centrally in Directory.Packages.props. -->
         <PackageReference Include="Microsoft.NET.Test.Sdk" />
         <PackageReference Include="xunit.runner.visualstudio">
             <PrivateAssets>all</PrivateAssets>
