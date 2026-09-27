@@ -1,18 +1,19 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-27 06:27:03
+Generated (UTC): 2026-09-27 06:40:21
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      fdcde59bb05e18e3b212bab81b16068708b4f587
+Git Commit:      78de14f70591dae7fa99af88f31b2f4f83f3ac77
 Git Branch:      master
-Git Dirty:       yes (uncommitted changes are included below)
+Git Dirty:       no
 .NET SDK:        10.0.112
-Files Exported:  12
+Files Exported:  14
 ===============================================================================
 
 DIRECTORY STRUCTURE (exported files only):
 ==========================================
 
 .
+    .editorconfig
     .gitignore
     CSharpClassLibrary/
         CSharpClassLibrary.csproj
@@ -26,6 +27,7 @@ DIRECTORY STRUCTURE (exported files only):
     Directory.Build.props
     Directory.Packages.props
     HelloXUnit.slnx
+    README.md
     export.sh
     global.json
 
@@ -34,11 +36,36 @@ FILE CONTENTS:
 ==============
 
 ================================================================================
+FILE:     .editorconfig
+SIZE:     0.23 KB (238 bytes)
+LINES:    15
+SHA256:   0ba4ac274160a5da05b0fb1c13048df406582954f36aaed5b2f18f9bbab75b5a
+MODIFIED: 2026-09-27 06:38:25 (UTC)
+================================================================================
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{cs,csproj,props,targets,sh}]
+indent_style = space
+indent_size = 4
+
+[*.{json,slnx,md}]
+indent_style = space
+indent_size = 2
+
+
+================================================================================
 FILE:     .gitignore
 SIZE:     7.83 KB (8014 bytes)
 LINES:    482
 SHA256:   6aa7efd10031401107668b4157e5994c1919ea7705ac1cc0cffa92acc02cd9a2
-MODIFIED: 2026-09-25 21:02:58 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 ## Ignore Visual Studio temporary files, build results, and
@@ -527,15 +554,13 @@ $RECYCLE.BIN/
 
 ================================================================================
 FILE:     CSharpClassLibrary/CSharpClassLibrary.csproj
-SIZE:     0.14 KB (144 bytes)
-LINES:    5
-SHA256:   8b7216356693dc3758f9b8c97864278608959f7c535a34f7949d773fd8ffa48a
-MODIFIED: 2026-09-27 06:05:20 (UTC)
+SIZE:     0.04 KB (46 bytes)
+LINES:    3
+SHA256:   0e18f178a380a51c6f1f0dddfa2d993c1188e1512824e27001e60f3bb33f2581
+MODIFIED: 2026-09-27 06:38:39 (UTC)
 ================================================================================
 
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-    <!-- TargetFramework, ImplicitUsings, Nullable, etc. come from Directory.Build.props. -->
+<Project Sdk="Microsoft.NET.Sdk">
 
 </Project>
 
@@ -545,7 +570,7 @@ FILE:     CSharpClassLibrary/FilenameString.cs
 SIZE:     7.48 KB (7655 bytes)
 LINES:    206
 SHA256:   53abc26fccafe48022807f7279c9fa35d95298f4426b41e3b6c1a27df26c4010
-MODIFIED: 2026-09-27 06:04:13 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 using System.Globalization;
@@ -758,15 +783,14 @@ public sealed class FilenameString
 
 ================================================================================
 FILE:     CSharpConsoleApp/CSharpConsoleApp.csproj
-SIZE:     0.33 KB (343 bytes)
-LINES:    12
-SHA256:   e3ec65b0380696e9bada35e3f7d7e6f4098360b6154464dfc85ee69e23871056
-MODIFIED: 2026-09-27 06:05:31 (UTC)
+SIZE:     0.24 KB (246 bytes)
+LINES:    11
+SHA256:   835e11cd3e9de9898a21b1aee67585633d8e58b24d9644cd7eeab0c86e88f862
+MODIFIED: 2026-09-27 06:38:48 (UTC)
 ================================================================================
 
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
-    <!-- TargetFramework, ImplicitUsings, Nullable, etc. come from Directory.Build.props. -->
     <PropertyGroup>
         <OutputType>Exe</OutputType>
     </PropertyGroup>
@@ -780,16 +804,15 @@ MODIFIED: 2026-09-27 06:05:31 (UTC)
 
 ================================================================================
 FILE:     CSharpConsoleApp/Program.cs
-SIZE:     1.21 KB (1239 bytes)
-LINES:    37
-SHA256:   44406f50e626e786b08eb700c7ef3d18c3156dffb8becf5d9411f78e5f08e034
-MODIFIED: 2026-09-27 06:20:40 (UTC)
+SIZE:     0.83 KB (851 bytes)
+LINES:    33
+SHA256:   a993ef1b25abe5a2b4e3b3e247be22c210ed8ab978e808818072c2b8ed366b4d
+MODIFIED: 2026-09-27 06:39:33 (UTC)
 ================================================================================
 
-﻿using System.Text;
+using System.Text;
 using CSharpClassLibrary;
 
-// The ellipsis is U+2026; make sure it survives on consoles that don't default to UTF-8.
 Console.OutputEncoding = Encoding.UTF8;
 
 string[] names =
@@ -800,7 +823,6 @@ string[] names =
     "very_long_archive.tar.gz",
 ];
 
-// Stand-ins for different Finder column widths, in characters.
 int[] widths = [40, 24, 16, 10];
 
 foreach (string name in names)
@@ -818,31 +840,26 @@ foreach (string name in names)
     Console.WriteLine();
 }
 
-// End truncation, for comparison only. Both "final_final_…" names above collapse to the
-// same string this way, which is exactly the problem middle truncation solves.
-// (Char-based, which is fine for these ASCII sample names.)
 static string TruncateEnd(string name, int maxLength) =>
     name.Length <= maxLength ? name : name[..(maxLength - 1)] + FilenameString.Ellipsis;
 
 
+
 ================================================================================
 FILE:     CSharpUnitTests/CSharpUnitTests.csproj
-SIZE:     0.85 KB (867 bytes)
-LINES:    23
-SHA256:   7f603ebf51f148156fb1ff192ac99d00e918ed178f54f618517787a29bde1b13
-MODIFIED: 2026-09-27 06:05:43 (UTC)
+SIZE:     0.62 KB (636 bytes)
+LINES:    20
+SHA256:   009b458d7b841871ae49a7288b84e16cec3f65ca8f8ea6fd21af59767bf3cd4b
+MODIFIED: 2026-09-27 06:38:55 (UTC)
 ================================================================================
 
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
-    <!-- TargetFramework, ImplicitUsings, Nullable, etc. come from Directory.Build.props. -->
     <PropertyGroup>
-        <!-- xunit.v3 test projects are executables. -->
         <OutputType>Exe</OutputType>
     </PropertyGroup>
 
     <ItemGroup>
-        <!-- Versions are managed centrally in Directory.Packages.props. -->
         <PackageReference Include="Microsoft.NET.Test.Sdk" />
         <PackageReference Include="xunit.runner.visualstudio">
             <PrivateAssets>all</PrivateAssets>
@@ -863,7 +880,7 @@ FILE:     CSharpUnitTests/FilenameStringTests.cs
 SIZE:     7.28 KB (7456 bytes)
 LINES:    212
 SHA256:   d367a834e26359e21dd06f5636cb998e2a001ca367465a22e7729dc58b58940f
-MODIFIED: 2026-09-27 06:04:25 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 using CSharpClassLibrary;
@@ -1085,7 +1102,7 @@ FILE:     Directory.Build.props
 SIZE:     0.41 KB (417 bytes)
 LINES:    12
 SHA256:   af0e19bdbc5104a6ab04de94ed5c2abfa4ba799391e637cb49587b1ea6dcfaf4
-MODIFIED: 2026-09-25 21:22:08 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 <Project>
@@ -1106,7 +1123,7 @@ FILE:     Directory.Packages.props
 SIZE:     0.47 KB (486 bytes)
 LINES:    12
 SHA256:   49a3d7bdacd51eec53db6201f8163189dbb7df156d1a9bf7f0ff64746b9eb438
-MODIFIED: 2026-09-25 21:06:35 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 <Project>
@@ -1127,7 +1144,7 @@ FILE:     HelloXUnit.slnx
 SIZE:     0.21 KB (211 bytes)
 LINES:    5
 SHA256:   a2a1b98fb021ff5e816bd6bc62019ea4ad23dc9495de48cea6e79f76d867e4f0
-MODIFIED: 2026-09-25 22:17:10 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 <Solution>
@@ -1138,36 +1155,57 @@ MODIFIED: 2026-09-25 22:17:10 (UTC)
 
 
 ================================================================================
+FILE:     README.md
+SIZE:     0.80 KB (816 bytes)
+LINES:    33
+SHA256:   9ca229947394f91514819bbc1c9a7e271cb300f92d4bb95fc88f41b5a6a9e200
+MODIFIED: 2026-09-27 06:39:36 (UTC)
+================================================================================
+
+# HelloXUnit
+
+Sandbox for xUnit v3 on .NET 10 with Microsoft.Testing.Platform, central package management, and warnings as errors.
+
+`FilenameString` middle-truncates file names like the macOS Finder, so names that differ only at the end stay distinguishable:
+
+| Width 24 | Result |
+|---|---|
+| middle | `hello_there_…inal_v2.pdf` |
+| end | `hello_there_I_have_a_su…` |
+
+It keeps the extension when it fits and never splits grapheme clusters.
+
+## Projects
+
+- `CSharpClassLibrary`: `FilenameString`
+- `CSharpConsoleApp`: middle vs. end truncation demo
+- `CSharpUnitTests`: tests
+
+## Usage
+
+```bash
+dotnet format
+dotnet test
+dotnet run --project CSharpConsoleApp
+bash export.sh
+```
+
+`export.sh` writes all exported sources to `docs/llm/dump.txt`. Verify it with:
+
+```bash
+sed '$d' docs/llm/dump.txt | sha256sum
+```
+
+
+================================================================================
 FILE:     export.sh
-SIZE:     10.47 KB (10725 bytes)
-LINES:    299
-SHA256:   8709e747484f44cd1b4ea527e3f998e5e2f03105f2adfa30d5605a823b544c56
-MODIFIED: 2026-09-27 06:05:04 (UTC)
+SIZE:     7.32 KB (7498 bytes)
+LINES:    246
+SHA256:   7783f2d68c2576c85e6b1451b368b50901a6c4607affd7fa0b33e3dbeea0a298
+MODIFIED: 2026-09-27 06:37:41 (UTC)
 ================================================================================
 
 #!/usr/bin/env bash
-#
-# Export project source into a single, self-describing text file.
-#
-#   * The file list comes from `git ls-files` (tracked + untracked-but-not-ignored),
-#     with a `find` fallback outside a git checkout. Tracked files that have been
-#     deleted from the working tree are skipped rather than counted.
-#   * The directory tree is rendered from that same list, so it shows exactly the
-#     files that are exported: no ignored, user-local, or build-output files.
-#   * NUL-safe throughout (handles paths with spaces or newlines).
-#   * Per-file SHA-256, byte size, line count, and modification time (UTC, like
-#     the header), plus a header with the git commit, branch, whether the working
-#     tree has uncommitted changes, generation time, and .NET SDK version.
-#   * Written to a temp file and moved into place, so a failed run never leaves
-#     a half-written dump behind.
-#   * Ends with a SHA-256 of the finished dump so its integrity can be verified.
-#   * Works with the bash 3.2 that ships with macOS as well as GNU/Linux.
-#
-# Usage: ./export.sh [PROJECT_PATH] [OUTPUT_FILE]
-#   PROJECT_PATH  defaults to the script's own directory
-#   OUTPUT_FILE   defaults to docs/llm/dump.txt; relative paths are resolved
-#                 against PROJECT_PATH, absolute paths are used as given
-
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -1175,16 +1213,10 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_PATH="${1:-$SCRIPT_DIR}"
 OUTPUT_FILE="${2:-docs/llm/dump.txt}"
 
-# Extensions to include (compared case-insensitively).
 INCLUDE_EXTENSIONS="cs csproj sln slnx props targets json xml config editorconfig cshtml razor js css scss html yml yaml sql sh md"
-
-# Exact file names to include even though they have no matching extension.
 INCLUDE_NAMES=".gitignore .gitattributes .editorconfig Dockerfile LICENSE README"
-
-# Directory names to exclude anywhere in the tree.
 EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea TestResults"
 
-# Resolve to an absolute path and work from there so all paths are relative.
 PROJECT_PATH="$(cd "$PROJECT_PATH" && pwd)"
 cd "$PROJECT_PATH"
 
@@ -1195,19 +1227,14 @@ esac
 OUTPUT_DIR="$(dirname "$OUTPUT_PATH")"
 mkdir -p "$OUTPUT_DIR"
 
-# Path of the output file relative to the project root (for self-exclusion).
-# If the output lives outside the project this stays absolute and never matches.
 OUTPUT_REL="${OUTPUT_PATH#"$PROJECT_PATH"/}"
 
-# Colours only when writing to a terminal.
 if [ -t 1 ]; then
     GREEN='\033[0;32m'; YELLOW='\033[0;33m'; CYAN='\033[0;36m'; NC='\033[0m'
 else
     GREEN=''; YELLOW=''; CYAN=''; NC=''
 fi
 log() { printf "%b%s%b\n" "$1" "$2" "$NC"; }
-
-# --- portable helpers --------------------------------------------------------
 
 sha256_of() {
     if command -v sha256sum >/dev/null 2>&1; then
@@ -1219,19 +1246,16 @@ sha256_of() {
     fi
 }
 
-# Modification time in UTC, to match the "Generated (UTC)" header.
 mod_time_utc_of() {
     local epoch
     if epoch="$(stat -c '%Y' "$1" 2>/dev/null)"; then
-        date -u -d "@$epoch" '+%Y-%m-%d %H:%M:%S'      # GNU
+        date -u -d "@$epoch" '+%Y-%m-%d %H:%M:%S'
     else
         epoch="$(stat -f '%m' "$1")"
-        date -u -r "$epoch" '+%Y-%m-%d %H:%M:%S'       # BSD / macOS
+        date -u -r "$epoch" '+%Y-%m-%d %H:%M:%S'
     fi
 }
 
-# Counts lines the way a person would: a final line without a trailing newline
-# still counts (`wc -l` would miss it).
 line_count_of() {
     awk 'END { print NR }' "$1"
 }
@@ -1262,8 +1286,6 @@ is_in_excluded_dir() {
 
 in_git_repo() { git rev-parse --is-inside-work-tree >/dev/null 2>&1; }
 
-# Prints the exported files as an indented tree, directories suffixed with "/".
-# Input must be sorted so each directory's contents are contiguous.
 render_tree() {
     local -a parts prev
     local rel n common i j indent
@@ -1273,7 +1295,6 @@ render_tree() {
         IFS='/' read -r -d '' -a parts < <(printf '%s\0' "$rel") || true
         n=${#parts[@]}
 
-        # How many leading directories this path shares with the previous one.
         common=0
         while [ "$common" -lt $((n - 1)) ] && [ "$common" -lt "${#prev[@]}" ] \
               && [ "${parts[$common]}" = "${prev[$common]}" ]; do
@@ -1298,16 +1319,15 @@ render_tree() {
     done < "$FILE_LIST"
 }
 
-# --- gather the file list (NUL-delimited) ------------------------------------
-
 log "$GREEN" "Starting project export..."
 log "$YELLOW" "Project Path: $PROJECT_PATH"
 log "$YELLOW" "Output File:  $OUTPUT_PATH"
 
 RAW_LIST="$(mktemp)"
 FILE_LIST="$(mktemp)"
-TMP_OUTPUT="$(mktemp "$OUTPUT_DIR/.export.XXXXXX")"
-trap 'rm -f "$RAW_LIST" "$FILE_LIST" "$TMP_OUTPUT"' EXIT
+TMP_OUTPUT=""
+cleanup() { rm -f "$RAW_LIST" "$FILE_LIST" ${TMP_OUTPUT:+"$TMP_OUTPUT"}; }
+trap cleanup EXIT
 
 if in_git_repo; then
     log "$CYAN" "Listing files via git..."
@@ -1317,8 +1337,6 @@ else
     find . -type f -print0 > "$RAW_LIST"
 fi
 
-# Filter: drop the output file, excluded dirs, non-included types, and tracked
-# files that no longer exist on disk.
 while IFS= read -r -d '' file; do
     rel="${file#./}"
     [ "$rel" = "$OUTPUT_REL" ] && continue
@@ -1332,18 +1350,13 @@ FILE_COUNT=0
 while IFS= read -r -d '' _; do FILE_COUNT=$((FILE_COUNT + 1)); done < "$FILE_LIST"
 log "$GREEN" "Found $FILE_COUNT files to export"
 
-# --- header ------------------------------------------------------------------
-
 GIT_COMMIT="n/a"; GIT_BRANCH="n/a"; GIT_DIRTY="n/a"
 if in_git_repo; then
-    # --verify --quiet prints nothing (rather than echoing "HEAD") when there
-    # is no commit yet, so an unborn branch does not corrupt the header.
     commit="$(git rev-parse --verify --quiet HEAD 2>/dev/null || true)"
     [ -n "$commit" ] && GIT_COMMIT="$commit"
     branch="$(git branch --show-current 2>/dev/null || true)"
     [ -n "$branch" ] && GIT_BRANCH="$branch"
 
-    # Ignore the dump itself, otherwise regenerating it always looks "dirty".
     status_args=(status --porcelain)
     case "$OUTPUT_REL" in
         /*) ;;
@@ -1356,6 +1369,8 @@ if in_git_repo; then
     fi
 fi
 DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
+
+TMP_OUTPUT="$(mktemp "$OUTPUT_DIR/.export.XXXXXX")"
 
 {
     echo "==============================================================================="
@@ -1378,8 +1393,6 @@ DOTNET_VERSION="$(dotnet --version 2>/dev/null || echo 'not installed')"
     echo "=============="
     echo
 } > "$TMP_OUTPUT"
-
-# --- file contents -----------------------------------------------------------
 
 TOTAL_BYTES=0
 CURRENT=0
@@ -1418,8 +1431,6 @@ done < "$FILE_LIST"
 
 TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
 
-# --- footer ------------------------------------------------------------------
-
 {
     echo "==============================================================================="
     echo "EXPORT COMPLETED (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')"
@@ -1429,16 +1440,12 @@ TOTAL_MB="$(awk "BEGIN {printf \"%.2f\", $TOTAL_BYTES / 1048576}")"
     echo "==============================================================================="
 } >> "$TMP_OUTPUT"
 
-# Self-hash: covers everything written so far (i.e. the whole file except the
-# single line we are about to append). Verify on Linux or macOS with:
-#   sed '$d' dump.txt | sha256sum        (or: sed '$d' dump.txt | shasum -a 256)
 DUMP_HASH="$(sha256_of "$TMP_OUTPUT")"
 echo "DUMP SHA256 (of all lines above this one): $DUMP_HASH" >> "$TMP_OUTPUT"
 
-# mktemp creates the file as 0600; give the dump normal permissions, then move
-# it into place in one step.
 chmod 0644 "$TMP_OUTPUT"
 mv -f "$TMP_OUTPUT" "$OUTPUT_PATH"
+TMP_OUTPUT=""
 
 log "$GREEN" ""
 log "$GREEN" "Export completed successfully!"
@@ -1451,7 +1458,7 @@ FILE:     global.json
 SIZE:     0.14 KB (141 bytes)
 LINES:    9
 SHA256:   925ac158eb7dd10cf82702ed4fbf092b83aeb79c17b66fa577ea7a5316d7b2c6
-MODIFIED: 2026-09-25 22:20:26 (UTC)
+MODIFIED: 2026-09-27 06:37:13 (UTC)
 ================================================================================
 
 {
@@ -1466,9 +1473,9 @@ MODIFIED: 2026-09-25 22:20:26 (UTC)
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-27 06:27:03
-Total Files Exported:   12
-Total Source Size:      0.04 MB (37698 bytes)
+EXPORT COMPLETED (UTC): 2026-09-27 06:40:21
+Total Files Exported:   14
+Total Source Size:      0.03 MB (34711 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): 802aa00de3ce3bfdac5430479a95afd0419878e4c70e10e6f16659efd62e5525
+DUMP SHA256 (of all lines above this one): bfc6e60e960b5c29ed3c31bbdaa6e2b2b4022d23c6d3142bff8853340318de52

@@ -67,11 +67,11 @@ Project 'CSharpClassLibrary' has the following package references
 Project 'CSharpConsoleApp' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpUnitTests' has the following package references
-   [net10.0]: 
+   [net10.0]:
    Top-level Package                Requested   Resolved
-   > Microsoft.NET.Test.Sdk         18.10.1     18.10.1 
-   > xunit.runner.visualstudio      4.0.0       4.0.0   
-   > xunit.v3                       4.0.1       4.0.1   
+   > Microsoft.NET.Test.Sdk         18.10.1     18.10.1
+   > xunit.runner.visualstudio      4.0.0       4.0.0
+   > xunit.v3                       4.0.1       4.0.1
 
 
 real	0m1.838s
@@ -119,4 +119,128 @@ very_long_archive.tar.gz
 real	0m1.748s
 user	0m1.665s
 sys	0m0.290s
-kushal@fedora:~/src/dotnet/HelloXUnit$ 
+kushal@fedora:~/src/dotnet/HelloXUnit$ git ls-files -z | xargs -0 sed -i '1s/^\xEF\xBB\xBF//'
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
+
+real	0m5.848s
+user	0m6.297s
+sys	0m0.717s
+
+Build succeeded in 0.4s
+
+real	0m0.601s
+user	0m0.597s
+sys	0m0.141s
+Restore complete (0.5s)
+  CSharpClassLibrary net10.0 succeeded (2.7s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpConsoleApp net10.0 succeeded (0.2s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpUnitTests net10.0 succeeded (0.3s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+
+Build succeeded in 3.7s
+
+real	0m3.843s
+user	0m1.416s
+sys	0m0.250s
+Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (628ms)
+
+Test run summary: Passed!
+  total: 54
+  failed: 0
+  succeeded: 54
+  skipped: 0
+  duration: 824ms
+
+real	0m1.961s
+user	0m2.034s
+sys	0m0.314s
+On branch master
+nothing to commit, working tree clean
+Starting project export...
+Project Path: /home/kushal/src/dotnet/HelloXUnit
+Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Listing files via git...
+Found 14 files to export
+Processing (1/14): .editorconfig
+Processing (2/14): .gitignore
+Processing (3/14): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (4/14): CSharpClassLibrary/FilenameString.cs
+Processing (5/14): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (6/14): CSharpConsoleApp/Program.cs
+Processing (7/14): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (8/14): CSharpUnitTests/FilenameStringTests.cs
+Processing (9/14): Directory.Build.props
+Processing (10/14): Directory.Packages.props
+Processing (11/14): HelloXUnit.slnx
+Processing (12/14): README.md
+Processing (13/14): export.sh
+Processing (14/14): global.json
+
+Export completed successfully!
+Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Total source size: 0.03 MB across 14 files
+
+real	0m0.316s
+user	0m0.171s
+sys	0m0.176s
+Restore complete (0.5s)
+
+Build succeeded in 0.6s
+Project 'CSharpClassLibrary' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpConsoleApp' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpUnitTests' has the following package references
+   [net10.0]:
+   Top-level Package                Requested   Resolved
+   > Microsoft.NET.Test.Sdk         18.10.1     18.10.1
+   > xunit.runner.visualstudio      4.0.0       4.0.0
+   > xunit.v3                       4.0.1       4.0.1
+
+
+real	0m1.459s
+user	0m1.445s
+sys	0m0.286s
+Restore complete (0.5s)
+
+Build succeeded in 0.6s
+
+The following sources were used:
+   https://api.nuget.org/v3/index.json
+
+The given project `CSharpClassLibrary` has no updates given the current sources.
+The given project `CSharpConsoleApp` has no updates given the current sources.
+The given project `CSharpUnitTests` has no updates given the current sources.
+
+real	0m2.151s
+user	0m1.657s
+sys	0m0.321s
+hello_there_I_have_a_surprise_final_final_really.pdf
+  40  middle: hello_there_I_have_a…al_final_really.pdf  end: hello_there_I_have_a_surprise_final_fin…
+  24  middle: hello_there_…_really.pdf                  end: hello_there_I_have_a_su…
+  16  middle: hello_th…lly.pdf                          end: hello_there_I_h…
+  10  middle: hello….pdf                                end: hello_the…
+
+hello_there_I_have_a_surprise_final_final_v2.pdf
+  40  middle: hello_there_I_have_a…_final_final_v2.pdf  end: hello_there_I_have_a_surprise_final_fin…
+  24  middle: hello_there_…inal_v2.pdf                  end: hello_there_I_have_a_su…
+  16  middle: hello_th…_v2.pdf                          end: hello_there_I_h…
+  10  middle: hello….pdf                                end: hello_the…
+
+Quarterly Report 2026 (draft).docx
+  40  middle: Quarterly Report 2026 (draft).docx        end: Quarterly Report 2026 (draft).docx
+  24  middle: Quarterly Re…draft).docx                  end: Quarterly Report 2026 (…
+  16  middle: Quarterl…t).docx                          end: Quarterly Repor…
+  10  middle: Quar….docx                                end: Quarterly…
+
+very_long_archive.tar.gz
+  40  middle: very_long_archive.tar.gz                  end: very_long_archive.tar.gz
+  24  middle: very_long_archive.tar.gz                  end: very_long_archive.tar.gz
+  16  middle: very_lon….tar.gz                          end: very_long_archi…
+  10  middle: ve….tar.gz                                end: very_long…
+
+
+real	0m1.378s
+user	0m1.317s
+sys	0m0.218s
+kushal@fedora:~/src/dotnet/HelloXUnit$
