@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using CSharpClassLibrary;
 
 // The ellipsis is U+2026; make sure it survives on consoles that don't default to UTF-8.
