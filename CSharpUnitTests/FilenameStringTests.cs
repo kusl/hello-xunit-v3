@@ -7,7 +7,7 @@ public class FilenameStringTests
 {
     private const string LongName = "hello_there_I_have_a_surprise_final_final_really.pdf";
 
-    // ---- construction -------------------------------------------------------
+    private static double Proportional(string s) => s.Sum(c => c == 'W' ? 3.0 : 1.0);
 
     [Fact]
     public void Constructor_WhenNameIsNull_Throws()
@@ -30,8 +30,6 @@ public class FilenameStringTests
         Assert.Equal("report.pdf", new FilenameString("report.pdf").ToString());
     }
 
-    // ---- extension detection ------------------------------------------------
-
     [Theory]
     [InlineData("report.pdf", ".pdf")]
     [InlineData("archive.tar.gz", ".tar.gz")]
@@ -48,8 +46,6 @@ public class FilenameStringTests
         Assert.Equal(expected, new FilenameString(name).Extension);
     }
 
-    // ---- length is measured in user-perceived characters -------------------
-
     [Theory]
     [InlineData("", 0)]
     [InlineData("report.pdf", 10)]
@@ -60,8 +56,6 @@ public class FilenameStringTests
     {
         Assert.Equal(expected, new FilenameString(name).Length);
     }
-
-    // ---- Truncate(int) ------------------------------------------------------
 
     [Theory]
     [InlineData(0)]
@@ -131,7 +125,6 @@ public class FilenameStringTests
     {
         var sut = new FilenameString("very_long_name.pdf");
 
-        // One leading character + ellipsis + ".pdf" needs 6.
         for (int maxLength = 6; maxLength <= 18; maxLength++)
         {
             Assert.EndsWith(".pdf", sut.Truncate(maxLength));
@@ -141,7 +134,6 @@ public class FilenameStringTests
     [Fact]
     public void Truncate_KeepsNamesThatDifferOnlyAtTheEndDistinguishable()
     {
-        // The point of middle truncation: end truncation would render both as "hello_there_I_have…".
         var really = new FilenameString("hello_there_I_have_a_surprise_final_final_really.pdf");
         var v2 = new FilenameString("hello_there_I_have_a_surprise_final_final_v2.pdf");
 
@@ -150,10 +142,10 @@ public class FilenameStringTests
 
     public static TheoryData<string> Graphemes =>
     [
-        "\U0001F600",                                                   // emoji (surrogate pair)
-        "e\u0301",                                                      // e + combining acute accent
-        "\U0001F468\u200D\U0001F469\u200D\U0001F467\u200D\U0001F466",   // ZWJ family sequence
-        "\U0001F1FA\U0001F1F8",                                         // regional-indicator flag
+        "\U0001F600",
+        "e\u0301",
+        "\U0001F468\u200D\U0001F469\u200D\U0001F467\u200D\U0001F466",
+        "\U0001F1FA\U0001F1F8",
     ];
 
     [Theory]
@@ -165,8 +157,6 @@ public class FilenameStringTests
 
         Assert.Equal(expected, new FilenameString(name).Truncate(10));
     }
-
-    // ---- Truncate(double, Func<string, double>) -----------------------------
 
     [Fact]
     public void TruncateByWidth_WithMonospaceMeasure_MatchesCharacterCount()
@@ -180,11 +170,17 @@ public class FilenameStringTests
     [Fact]
     public void TruncateByWidth_WithProportionalMeasure_KeepsFewerWideCharacters()
     {
-        // 'W' is three units wide, everything else one.
-        static double Proportional(string s) => s.Sum(c => c == 'W' ? 3.0 : 1.0);
         var sut = new FilenameString("WWWWWWWWaaaaaaaa");
 
         Assert.Equal("WWW…aa", sut.Truncate(12.0, Proportional));
+    }
+
+    [Fact]
+    public void TruncateByWidth_WhenKeepingExtensionNarrowsResult_StillFindsLongestFit()
+    {
+        var sut = new FilenameString("WWWWWWWW.pdf");
+
+        Assert.Equal("W….pdf", sut.Truncate(8.0, Proportional));
     }
 
     [Fact]
