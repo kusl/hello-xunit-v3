@@ -35,4 +35,3 @@ foreach (string name in names)
 // (Char-based, which is fine for these ASCII sample names.)
 static string TruncateEnd(string name, int maxLength) =>
     name.Length <= maxLength ? name : name[..(maxLength - 1)] + FilenameString.Ellipsis;
-    
