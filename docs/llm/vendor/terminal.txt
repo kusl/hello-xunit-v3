@@ -1,39 +1,49 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.967s
-user	0m10.710s
-sys	0m0.820s
+real	0m5.980s
+user	0m10.509s
+sys	0m0.804s
 
 Build succeeded in 0.4s
 
-real	0m0.566s
-user	0m0.601s
-sys	0m0.103s
+real	0m0.576s
+user	0m0.572s
+sys	0m0.126s
 Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (3.0s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.4s
+Build succeeded in 4.2s
 
-real	0m1.536s
-user	0m1.193s
-sys	0m0.288s
+real	0m4.395s
+user	0m1.508s
+sys	0m0.259s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (680ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (1ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 21
+  Actual:   22
+    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
+    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (711ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 872ms
+  duration: 907ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m1.975s
-user	0m2.282s
-sys	0m0.438s
+real	0m1.997s
+user	0m2.434s
+sys	0m0.417s
 On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
+Your branch is ahead of 'origin/master' by 4 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +73,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.315s
-user	0m0.173s
-sys	0m0.185s
+real	0m0.354s
+user	0m0.198s
+sys	0m0.165s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +91,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.383s
-user	0m1.322s
-sys	0m0.322s
+real	0m1.371s
+user	0m1.344s
+sys	0m0.269s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +105,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.395s
-user	0m1.365s
-sys	0m0.280s
+real	0m1.722s
+user	0m1.445s
+sys	0m0.288s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -1460,7 +1470,7 @@ OpenAI also released GPT-6.1 Sol, a cheaper model that it said approached the ab
 
 ================================================================================
 openai-warnings-security.html
-Source: PreloadedData  Paragraphs: 31  Words: 1300/1302
+Source: PreloadedData  Paragraphs: 31  Words: 1302/1304
 ================================================================================
 
 SUMMARY
@@ -1509,7 +1519,7 @@ Two OpenAI employees said workers had raised concerns for months about potential
 
 Security researchers said they had been met with a similar reception when they told OpenAI about other vulnerabilities.
 
-In July, researchers at the security company Hacktron said they told OpenAI about how they had found a way to break into the company’s systems with the help of an A.I. model created by its rival Anthropic. OpenAI initially dismissed their findings, they said.
+In July, researchers at the security company Hacktron said they told OpenAI about how they had found a way to break into the company’s systems with the help of an A.I. model created by its rival Anthropic. OpenAI initially took issue with their approach, they said.
 
 In a shared channel on the messaging platform Slack, Mr. Stuckey of OpenAI wrote that it was “pretty sad” that Hacktron’s researchers had gone to such lengths to demonstrate the company’s vulnerabilities, according to copies of the communications seen by The Times.
 
@@ -1729,6 +1739,103 @@ Tom Perez, who was the Democratic National Committee chairman in 2018, acknowled
 “You don’t want to wake up the day after and see that you lost by three points somewhere because you didn’t do anything,” he said.
 
 ================================================================================
+jack-smith-congress-testimony.html
+Source: PreloadedData  Paragraphs: 39  Words: 1468/1470
+================================================================================
+
+SUMMARY
+
+It was meant to be a dramatic confrontation, a public accusation of perjury against Jack Smith, the special counsel who investigated Donald J. Trump. During a four-hour Senate Judiciary Committee hearing, Mr. Schmitt, a Republican from Missouri, struck a conspiratorial tone and asked Mr. Smith if he had attended an Atlanta Hawks home game in February 2024. Mr. Schmitt focused on the basketball game in the hopes that he could show Mr. Smith had perjured himself and was involved in a conspiracy with local Atlanta prosecutors to ensnare Mr. Trump.
+
+ARTICLE
+
+As Jack Smith Testifies, a Senator’s Accusation of Perjury Falls Apart
+A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts.
+By Devlin Barrett and Charlie Savage
+Published 2026-09-29 09:30 UTC
+https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html
+
+It was meant to be a dramatic confrontation, a public accusation of perjury against Jack Smith, the special counsel who investigated Donald J. Trump. Instead, Senator Eric Schmitt’s amateur sleuthing into basketball led him to the wrong game, league and state.
+
+During a four-hour Senate Judiciary Committee hearing, Mr. Schmitt, a Republican from Missouri, struck a conspiratorial tone and asked Mr. Smith if he had attended an Atlanta Hawks home game in February 2024.
+
+Mr. Schmitt focused on the basketball game in the hopes that he could show Mr. Smith had perjured himself and was involved in a conspiracy with local Atlanta prosecutors to ensnare Mr. Trump. In a hearing where Republicans repeatedly accused Mr. Smith of lying, what Mr. Schmitt first presented as smoking-gun evidence against Mr. Smith turned out to be a misfire.
+
+During his testimony, Mr. Smith appeared deeply confused by Mr. Schmitt’s question. “I definitely did not go to a Hawks game,” he said. “I’m sure of that.”
+
+Mr. Schmitt seemed confident he had just caught Mr. Smith in a lie. It was part of a broader effort by Mr. Trump’s Republican allies to characterize Mr. Smith as politically partisan, a man with an ax to grind not just against a former president, but also the Republican establishment. Mr. Smith has already defended his work before Congress, and Republicans have claimed that his past testimony included perjury.
+
+On Tuesday, Mr. Schmitt argued that Mr. Smith had lied again, this time about a basketball game. If the prosecutor was in Atlanta, Mr. Schmitt suggested, he might have met with the local district attorney, Fani Willis, who also pursued a criminal case against Mr. Trump.
+
+Mr. Schmitt’s Republican colleague from Louisiana, John Kennedy, stood next to him helping hold up a poster board showing text messages among members of Mr. Smith’s special counsel team from Feb. 3, 2024, discussing seats at a basketball game.
+
+“I don’t think you know we have this stuff, so I’ll give you a second to process it so you don’t perjure yourself,” Mr. Schmitt said, even as the poster board was swiftly taken down, too quickly for most in the room to read it.
+
+When the former special counsel insisted he had not gone to see the Atlanta Hawks play in that time period, Mr. Schmitt declared, “I think you’ve already perjured yourself,” and called Mr. Smith a “dirtbag.”
+
+The accusation appeared to unravel almost immediately.
+
+Invited to respond by Senator Amy Klobuchar, a Minnesota Democrat, Mr. Smith said he had, in fact, attended a basketball game on that day, but it was to see the Iowa Hawkeyes at the University of Maryland. That night, Caitlin Clark, the star point guard who now plays in the W.N.B.A., scored 38 points and had 12 assists.
+
+Ms. Klobuchar suggested that Mr. Schmitt’s accusation was rooted in the senator’s confusion between the “Hawks” of Atlanta and the “Hawkeyes” of Iowa.
+
+Mr. Schmitt declared that he still stood by calling Mr. Smith a “dirtbag,” then left the hearing.
+
+The exchange took up just four minutes of the hearing. But it showed how eager the Republicans were to paint Mr. Smith as an out-of-control partisan — and to find a basis to accuse him of a crime at a time when the Justice Department has proved receptive to pursuing the people who investigated Mr. Trump.
+
+A central issue was Mr. Smith’s subpoenas for lawmakers’ phone records as he and his team sought to trace Mr. Trump’s pressure campaign on Congress to block Joseph R. Biden Jr.’s Electoral College certification.
+
+As part of that effort, investigators also examined whether Mr. Trump had defrauded his supporters when he raised vast sums after the election promising to expose fraud that did not happen. They also subpoenaed financial records of Republican-aligned groups as they traced what actually happened to the money.
+
+That effort did not result in charges.
+
+Senator Ted Cruz, Republican of Texas, and others argued that when Mr. Smith subpoenaed phone records of Republican lawmakers, and sought court orders keeping those subpoenas secret, he showed that his prosecutorial ambitions extended far beyond Mr. Trump.
+
+“Is it a crime to be a Republican?” Mr. Cruz asked angrily. “Absolutely not,” replied Mr. Smith.
+
+Senator Darline Graham, the sister of Senator Lindsey Graham, who died in July, also confronted Mr. Smith over a subpoena of her brother’s phone records. Like Mr. Cruz, she focused on how an application for nondisclosure order to the phone companies raised the risk that if the subpoena became public, a target could destroy evidence or intimidate witnesses.
+
+“Do you really believe that Lindsey was going to destroy evidence that was not even in his possession?” she asked.
+
+“No, I believe your brother was a patriotic public servant. He was not a target of our investigation, and in fact he likely would have been a witness in our case” against Mr. Trump, Mr. Smith replied.
+
+He told both Mr. Cruz and Ms. Graham that his team sought the records to investigate the conduct of Mr. Trump, not the lawmakers. The concern was not whether the lawmakers would destroy evidence or intimidate witnesses, but whether Mr. Trump or his associates would seek to do so.
+
+Democrats countered Republican accusations by pointing to the evidence Mr. Smith gathered against Mr. Trump, leading to indictments for his efforts to undo the results of the 2020 election, and for his handling of classified documents at his Mar-a-Lago home in Florida.
+
+Senator Adam Schiff, Democrat of California, said the G.O.P. anger directed at Mr. Smith and the F.B.I. was a smoke screen for facts they would rather not face — that the former president had engaged in wrongdoing, and that the witnesses against him in both cases were largely Republicans.
+
+Senator Cory Booker, a New Jersey Democrat, called the hearing “a farce.” The Republicans attacking Mr. Smith, he added, “choose Trump over truth, corruption and crimes over the Constitution, and I’ve had enough of it.”
+
+For his part, Mr. Smith maintained a measured, even meek, tone as lawmakers on the panel alternated between describing him as a pinnacle of his profession and a poster boy for improper conduct.
+
+“If asked whether to prosecute a former president today, based on the same facts, I would do so regardless of whether that president was a Republican or a Democrat,” he said, adding: “I will not be silenced by continued threats of prosecution from the president or others.”
+
+In early 2022, the Justice Department opened two investigations involving Mr. Trump. One was into his campaign’s plan to create false slates of electors as a pretext to block Mr. Biden’s certification, and the other was into Mr. Trump’s hoarding of classified documents while out of office, and his obstruction of efforts to retrieve them.
+
+In November 2022, after Mr. Trump announced he would run for president again, Mr. Smith, a former prosecutor of federal corruption and international war crimes, was tapped to take over the inquiries as a special counsel. The next year, Mr. Smith brought two indictments against Mr. Trump.
+
+Mr. Smith insisted that he brought charges because Mr. Trump “engaged in criminal activity,” and not because of any political agenda to stop Mr. Trump’s resurgence, as the president’s Republican allies have asserted. Mr. Trump triumphed over the two federal cases by winning re-election in 2024, leading to Mr. Smith’s resignation.
+
+Since leaving government, Mr. Smith has said that the Justice Department has been “corrupted” by Trump loyalists who have wrecked its credibility and sought to undermine the rule of law.
+
+Attorney General Todd Blanche, in testimony to Congress in July, suggested the department would investigate Mr. Smith to determine if he had lied to Congress.
+
+Much of Tuesday’s hearing covered familiar ground — including whether investigators’ effort to collect lawmakers’ call records violated the Constitution’s “speech or debate” clause, as Republican lawmakers insisted.
+
+That issue is contested. Everyone agrees members of Congress cannot be prosecuted or forced to testify about their legislative acts. But appeals courts have disagreed about whether it also creates a confidentiality shield, and no court has interpreted it as barring subpoenas to phone companies for call logs.
+
+The Justice Department’s public integrity section signed off on the subpoenas, Mr. Smith said. But while he defended the investigation’s work as carefully following the law, Justice Department rules, and best practices for prosecutors, he did offer one regret for how he had done the job.
+
+Mr. Smith noted that he had come from a generation of prosecutors who spoke almost exclusively in courtrooms, and not in public, even to defend the integrity of the work or the prosecution team.
+
+Following that tradition proved costly in the cases against Mr. Trump, he said.
+
+“I do agree that prosecutors in the future need to learn to be able to communicate to the outside world,” Mr. Smith said.
+
+Glenn Thrush contributed reporting.
+
+================================================================================
 james-talarico-ken-paxton-texas-senate-race-money.html
 Source: PreloadedData  Paragraphs: 19  Words: 832/832
 ================================================================================
@@ -1784,13 +1891,122 @@ But now that Mr. Paxton has the financial edge, Mr. Holm said, he can use the in
 “As long as Paxton has the money,” Mr. Holm said, “he’ll be fine.”
 
 ================================================================================
-supreme-court-deportations-third-country.html
-Source: PreloadedData  Paragraphs: 15  Words: 563/563
+republicans-senate-midterms-trump-campaign.html
+Source: PreloadedData  Paragraphs: 34  Words: 1097/1097
 ================================================================================
 
 SUMMARY
 
-The Trump administration can resume rapidly deporting immigrants to countries other than their own, the Supreme Court agreed on Tuesday. The decision was a victory for the administration, which has made sending immigrants to so-called third countries, including those that have faced allegations of human rights abuses, a major part of its mass deportation efforts. Since then, the Trump administration has continued to deport immigrants under the program, including to authoritarian countries with histories of human rights abuses.
+President Trump has said he plans to campaign for dozens of Republicans running in competitive races in the lead-up to the midterm election on Nov. 3. For Republicans running in the most competitive Senate races, Mr. Trump can pose a dilemma. But Mr. Marshall’s campaign did not respond to requests for comment on whether he would be open to campaigning with Mr. Trump before the election.
+
+ARTICLE
+
+In Nine Key Senate Races, Five Republicans Won’t Commit to Campaigning With Trump
+Three campaigns left their positions unclear, and two said they would not join the president on the trail.
+By Tim Balk
+Published 2026-09-29 17:40 UTC
+https://www.nytimes.com/2026/09/29/us/politics/republicans-senate-midterms-trump-campaign.html
+
+President Trump has said he plans to campaign for dozens of Republicans running in competitive races in the lead-up to the midterm election on Nov. 3.
+
+Mr. Trump has several stops scheduled in the coming days, including visits to heavily Republican states such as Oklahoma, Alabama and Tennessee. But the president is deeply unpopular, and some Republicans in battleground states have started to separate themselves from his administration, his costly war with Iran and his polarizing immigration policies.
+
+For Republicans running in the most competitive Senate races, Mr. Trump can pose a dilemma. His super PAC is flush with cash that could help them, and he remains popular with the Republican base. But he could be toxic with swing voters.
+
+Among the nine Republicans whose races are expected to be crucial in determining Senate control, four would like Mr. Trump to join them on the trail ahead of the election, or are open to the possibility, according to their campaigns. Three campaigns left their positions unclear, and two said they would not join the president on the trail.
+
+Here’s where the candidates stand on whether they would campaign with Mr. Trump in their home states. (These nine candidates are running in races that the nonpartisan Cook Political Report rates as the most competitive: tossups and races leaning toward Democrats or Republicans.)
+
+Yes
+
+Senator Dan Sullivan of Alaska
+
+Mr. Sullivan has “every intention” of campaigning with Mr. Trump in Alaska at some point in October, said a campaign spokesman, Nate Adams. Mr. Trump said at a news conference this month that he would visit conservative-leaning Alaska in the last 30 days of the campaign.
+
+Plans for a visit have not been firmed up, Mr. Adams said.
+
+Mr. Sullivan is trying to fend off former Representative Mary Peltola, an independent-minded Democrat who finished first in the all-party primary in August.
+
+Michael Whatley of North Carolina
+
+Perhaps more than any Republican running in a competitive Senate race, Mr. Whatley has stood by Mr. Trump. Two weeks ago, the two campaigned together in Gastonia, N.C., near Charlotte, where Mr. Whatley declared, “I am still with that guy,” referring to the president.
+
+A spokesman for Mr. Whatley, DJ Griffin, said the candidate would welcome further opportunities to campaign with the president.
+
+Mr. Whatley faces former Gov. Roy Cooper, a popular Democrat, in a swing state that Mr. Trump carried narrowly in 2024. Mr. Cooper leads in the polls.
+
+Senator Jon Husted of Ohio
+
+Mr. Husted is scheduled to be joined by Mr. Trump at a rally on Saturday in Vandalia, which is north of Dayton. “We look forward to hosting President Trump in Ohio this weekend,” Amy Natoce, a campaign spokeswoman, said in a statement.
+
+Mr. Husted is trying to fend off Sherrod Brown, a Democratic former senator and longtime fixture of Ohio politics.
+
+Ken Paxton of Texas
+
+Mr. Paxton, the scandal-plagued Texas attorney general, has aligned himself closely with Mr. Trump, campaigning with the president more than once this year and speaking at Mr. Trump’s midterm convention this month.
+
+A spokesman for Mr. Paxton, Nick Maddux, said in a text message that Mr. Paxton would “of course” be open to campaigning with Mr. Trump again in the lead-up to the election.
+
+Mr. Trump is visiting Denton, Texas, on Thursday for an event focused on his economic agenda, said Olivia Wales, a White House spokeswoman. Mr. Paxton will be in West Texas for previously scheduled events, including a rally in Amarillo, Mr. Maddux said.
+
+Mr. Paxton is in a tight race with James Talarico, a Democratic state lawmaker and seminarian.
+
+No
+
+Senator Susan Collins of Maine
+
+Ms. Collins, a centrist who has had a turbulent relationship with Mr. Trump, has long ruled out campaigning with him in her Democratic-leaning state.
+
+“That’s just not going to happen” Ms. Collins said in an interview in June, adding, “I’m happy running my own campaign.”
+
+Ms. Collins is running against Troy Jackson, a Democratic former state lawmaker who was once was president of the Maine Senate.
+
+John E. Sununu of New Hampshire
+
+Mr. Sununu’s campaign has signaled he has no interest in being joined by Mr. Trump on the trail in Democratic-leaning New Hampshire.
+
+“John’s focus the entire campaign has been on New Hampshire,” Mike Schrimpf, a campaign spokesman, said in a statement, adding that Mr. Sununu “doesn’t plan to campaign with anyone from outside New Hampshire.”
+
+Mr. Sununu is running against Representative Chris Pappas, a four-term Democrat.
+
+Unclear or no comment
+
+Mike Rogers of Michigan
+
+Mr. Rogers, who joined two rallies with the president during the summer, is walking a general-election tightrope in Michigan, a swing state that went narrowly for Mr. Trump in 2024.
+
+A spokeswoman for Mr. Rogers, Abby Ronson, said the campaign had no comment on whether Mr. Rogers would be open to campaigning with Mr. Trump before the general election.
+
+Mr. Rogers faces Dr. Abdul El-Sayed, a progressive Democrat running as a populist outsider.
+
+Representative Ashley Hinson of Iowa
+
+Ms. Hinson received Mr. Trump’s endorsement for Senate last September, early in the election cycle, and defended him earlier in 2025 at testy town halls where she was heckled. She also appeared with Mr. Trump in the Oval Office on Monday, where she expressed appreciation for his agenda.
+
+At the same time, Ms. Hinson, whose race is considered a tossup, has sought distance from Mr. Trump and called for an “immediate” end to the Iran war.
+
+At the White House, Mr. Trump told Ms. Hinson that he planned to campaign with her at a “great rally” in Iowa. Ms. Hinson, nodding, replied, “We’ll save you a good Iowa pork chop, sir.”
+
+Still, Ms. Hinson’s representatives did not respond to numerous requests for comment on whether she would be open to campaigning with Mr. Trump. When Vice President JD Vance visited the state for a campaign rally this month, Ms. Hinson did not join him.
+
+She is running against Josh Turek, a Democratic state lawmaker.
+
+Senator Roger Marshall of Kansas
+
+Mr. Marshall, a first-term senator, has generally been a reliable defender of Mr. Trump, braving boos to defend the president’s tariffs during a candidate’s debate this month. He also appeared with Mr. Vance at an event in the Kansas City area this month.
+
+But Mr. Marshall’s campaign did not respond to requests for comment on whether he would be open to campaigning with Mr. Trump before the election.
+
+Mr. Marshall is trying to fend off the Rev. Adam Hamilton, a Democrat, in a traditionally conservative state. Kansas’s agriculture-heavy economy has been hit hard by the war with Iran and the administration’s tariff policies.
+
+================================================================================
+supreme-court-deportations-third-country.html
+Source: PreloadedData  Paragraphs: 21  Words: 765/765
+================================================================================
+
+SUMMARY
+
+The Supreme Court on Tuesday gave President Trump a temporary victory on a central piece of his mass deportation agenda, agreeing the administration can, for now, resume rapidly deporting immigrants to countries other than their own. The court, she said in a statement, “has allowed the administration to resume sending people to third countries where they face persecution or torture.” Since then, the Trump administration has continued to deport immigrants under the program, including to authoritarian countries with histories of human rights abuses.
 
 ARTICLE
 
@@ -1800,25 +2016,37 @@ By Abbie VanSickle
 Published 2026-09-29 19:15 UTC
 https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html
 
-The Trump administration can resume rapidly deporting immigrants to countries other than their own, the Supreme Court agreed on Tuesday.
+The Supreme Court on Tuesday gave President Trump a temporary victory on a central piece of his mass deportation agenda, agreeing the administration can, for now, resume rapidly deporting immigrants to countries other than their own.
 
-The one-page emergency ruling was unsigned and gave no vote count, as is typical in such cases. Although the justices cleared the way, for now, for the swift removals to continue, the court also announced that it would fast-track the case and hear oral arguments about it in December, setting up a final ruling on the issue next year.
+Although the justices cleared the way for the policy to continue, they also announced that the court would fast-track the case and hear oral arguments about it in December, setting up a final ruling on the issue next year and a new test for presidential power at the court.
+
+The one-page emergency ruling was unsigned and gave no vote count, as is typical in such cases.
+
+On the line in December will be Mr. Trump’s policy of sending people to countries where they have no ties, including nations that have faced allegations of human rights abuses. Among the countries migrants have been sent to are Liberia, Equatorial Guinea, Costa Rica, Honduras and the Central African Republic.
 
 The court’s three liberal justices noted that they would have denied the government’s request to resume the deportations.
 
-The decision was a victory for the administration, which has made sending immigrants to so-called third countries, including those that have faced allegations of human rights abuses, a major part of its mass deportation efforts.
+The justices asked the lawyers for the administration and the immigrants who challenged the policy to focus their briefing for the December argument on whether the lower court judge who had paused the swift deportations had the authority to do so, and whether the policy violated the Constitution and international protections against torture.
 
-The deportation flights had been blocked in recent weeks, however, after a federal court ruled the administration could not deport migrants to third countries unless they were given an opportunity to contest their removals, including to voice concerns that they might be persecuted or tortured abroad.
+James Percival, the top lawyer at the Department of Homeland Security, celebrated the court’s ruling. In a statement, he called it a “victory.”
+
+“A bad day for criminal illegals and open borders activists alike,” he said. “It’s not too late to get $3,000 and a flight home.” He ended his statement with a link to department instructions for immigrants on how to self-deport.
+
+Trina A. Realmuto, a lawyer for the National Immigration Litigation Alliance and part of the team representing the immigrants, called the emergency decision “a devastating result.” The court, she said in a statement, “has allowed the administration to resume sending people to third countries where they face persecution or torture.”
+
+But she pointed out that the court had agreed to hear full argument in December, saying that Tuesday’s decision “does not decide that the policy is lawful.”
+
+The deportations had been blocked recently after a federal court ruled the administration could not deport migrants to third countries unless they were given an opportunity to contest their removals, including to voice concerns that they might be persecuted or tortured abroad.
 
 The justices’ ruling means that the administration can, for now, continue its program and conduct rapid deportations including to countries like Equatorial Guinea, where U.S. deportees were hooded, bound and beaten by the police, according to reporting by The New York Times.
 
-The Supreme Court had weighed in previously on the administration’s efforts to send immigrants to third countries.
+The justices had weighed in previously on the administration’s efforts to send immigrants to third countries.
 
 In May 2025, the Trump administration asked the justices to step in and clear the way for third-country deportations after a federal judge in Massachusetts temporarily blocked the administration from sending people to countries not their own — in that case South Sudan — without the chance to object.
 
 In a one-paragraph ruling, the court’s conservatives allowed the administration to continue the deportations over the noted dissents of the three liberals.
 
-Since then, the Trump administration has continued to deport immigrants under the program, including to authoritarian countries with histories of human rights abuses. So far, the administration has sent more than 25,000 people to third countries as part of its mass deportation efforts, according to a social media post by James Percival, the top lawyer at the Department of Homeland Security. Among the countries were Liberia, Equatorial Guinea, Costa Rica, Honduras and the Central African Republic.
+Since then, the Trump administration has continued to deport immigrants under the program, including to authoritarian countries with histories of human rights abuses. So far, the administration has sent more than 25,000 people to third countries as part of its mass deportation efforts, according to a social media post by Mr. Percival.
 
 Some immigration and human rights experts have asserted that the third-country deportations may be part of a broader strategy by the Trump administration to encourage undocumented immigrants to leave on their own, rather than face the fear of being sent to a country where they have no ties.
 
@@ -1963,7 +2191,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.378s
-user	0m1.453s
-sys	0m0.291s
+real	0m1.448s
+user	0m1.571s
+sys	0m0.300s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
