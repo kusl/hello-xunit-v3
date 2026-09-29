@@ -17,4 +17,8 @@
         <ProjectReference Include="../CSharpClassLibrary/CSharpClassLibrary.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+        <None Include="../CSharpConsoleApp/nytimes/**/*.html" Link="nytimes/%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
 </Project>

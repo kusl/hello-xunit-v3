@@ -3,31 +3,22 @@ using CSharpClassLibrary;
 
 Console.OutputEncoding = Encoding.UTF8;
 
-string[] names =
-[
-    "hello_there_I_have_a_surprise_final_final_really.pdf",
-    "hello_there_I_have_a_surprise_final_final_v2.pdf",
-    "Quarterly Report 2026 (draft).docx",
-    "very_long_archive.tar.gz",
-];
+string[] inputs = args.Length > 0 ? args : [Path.Combine(AppContext.BaseDirectory, "nytimes")];
 
-int[] widths = [40, 24, 16, 10];
-
-foreach (string name in names)
+try
 {
-    var filename = new FilenameString(name);
-    Console.WriteLine(filename.FullName);
+    IReadOnlyList<string> paths = ArticleFiles.Resolve(inputs);
+    IReadOnlyList<ArticleDigest> digests = await ArticleProcessor.Default.ProcessFilesAsync(paths);
 
-    foreach (int width in widths)
+    foreach ((string path, ArticleDigest digest) in paths.Zip(digests))
     {
-        string middle = filename.Truncate(width);
-        string end = TruncateEnd(name, width);
-        Console.WriteLine($"  {width,2}  middle: {middle,-40}  end: {end}");
+        Console.WriteLine(DigestReport.Render(path, digest));
     }
 
-    Console.WriteLine();
+    return 0;
 }
-
-static string TruncateEnd(string name, int maxLength) =>
-    name.Length <= maxLength ? name : name[..(maxLength - 1)] + FilenameString.Ellipsis;
-
+catch (Exception exception) when (exception is FileNotFoundException or ArticleExtractionException)
+{
+    await Console.Error.WriteLineAsync(exception.Message);
+    return 1;
+}

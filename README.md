@@ -11,10 +11,16 @@ Sandbox for xUnit v3 on .NET 10 with Microsoft.Testing.Platform, central package
 
 It keeps the extension when it fits and never splits grapheme clusters.
 
+`ArticleProcessor` turns a saved news article page into clean prose and an extractive summary. It tries, in order:
+
+1. `window.__preloadedData` JSON (full NYT body, even behind the paywall spinner)
+2. JSON-LD `articleBody`
+3. Rendered `<p>` elements
+
 ## Projects
 
-- `CSharpClassLibrary`: `FilenameString`
-- `CSharpConsoleApp`: middle vs. end truncation demo
+- `CSharpClassLibrary`: `FilenameString`, `ArticleExtraction.cs`
+- `CSharpConsoleApp`: prints a summary and the full prose for each HTML file under `nytimes/` or the given paths
 - `CSharpUnitTests`: tests
 
 ## Usage
@@ -23,6 +29,7 @@ It keeps the extension when it fits and never splits grapheme clusters.
 dotnet format
 dotnet test
 dotnet run --project CSharpConsoleApp
+dotnet run --project CSharpConsoleApp -- path/to/page.html path/to/dir
 bash export.sh
 ```
 

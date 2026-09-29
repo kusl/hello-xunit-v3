@@ -8,4 +8,8 @@
         <ProjectReference Include="../CSharpClassLibrary/CSharpClassLibrary.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+        <None Update="nytimes/**/*.html" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
 </Project>
