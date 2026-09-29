@@ -1,39 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.741s
-user	0m5.998s
-sys	0m0.635s
+real	0m6.064s
+user	0m10.604s
+sys	0m0.810s
 
 Build succeeded in 0.4s
 
-real	0m0.596s
-user	0m0.596s
-sys	0m0.136s
+real	0m0.575s
+user	0m0.562s
+sys	0m0.127s
 Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (0.2s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (2.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.2s
+Build succeeded in 4.1s
 
-real	0m1.399s
-user	0m1.175s
-sys	0m0.259s
+real	0m4.258s
+user	0m1.407s
+sys	0m0.262s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (577ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (1s 819ms)
 
 Test run summary: Passed!
-  total: 55
+  total: 217
   failed: 0
-  succeeded: 55
+  succeeded: 217
   skipped: 0
-  duration: 768ms
+  duration: 2s 005ms
 
-real	0m1.895s
-user	0m1.968s
-sys	0m0.309s
+real	0m3.396s
+user	0m2.381s
+sys	0m0.414s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -41,35 +41,38 @@ Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Listing files via git...
-Found 17 files to export
-Processing (1/17): .editorconfig
-Processing (2/17): .gitignore
-Processing (3/17): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (4/17): CSharpClassLibrary/FilenameString.cs
-Processing (5/17): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (6/17): CSharpConsoleApp/Program.cs
-Processing (7/17): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
-Processing (8/17): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
-Processing (9/17): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
-Processing (10/17): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (11/17): CSharpUnitTests/FilenameStringTests.cs
-Processing (12/17): Directory.Build.props
-Processing (13/17): Directory.Packages.props
-Processing (14/17): HelloXUnit.slnx
-Processing (15/17): README.md
-Processing (16/17): export.sh
-Processing (17/17): global.json
+Found 20 files to export
+Processing (1/20): .editorconfig
+Processing (2/20): .gitignore
+Processing (3/20): CSharpClassLibrary/ArticleExtraction.cs
+Processing (4/20): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (5/20): CSharpClassLibrary/FilenameString.cs
+Processing (6/20): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (7/20): CSharpConsoleApp/Program.cs
+Processing (8/20): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
+Processing (9/20): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
+Processing (10/20): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
+Processing (11/20): CSharpUnitTests/ArticleExtractionTests.cs
+Processing (12/20): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (13/20): CSharpUnitTests/FilenameStringTests.cs
+Processing (14/20): Directory.Build.props
+Processing (15/20): Directory.Packages.props
+Processing (16/20): HelloXUnit.slnx
+Processing (17/20): README.md
+Processing (18/20): docs/llm/vendor/claude-001.md
+Processing (19/20): export.sh
+Processing (20/20): global.json
 
 Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 0.96 MB across 17 files
+Total source size: 1.07 MB across 20 files
 
-real	0m0.345s
-user	0m0.203s
-sys	0m0.182s
+real	0m0.397s
+user	0m0.222s
+sys	0m0.199s
 Restore complete (0.4s)
 
-Build succeeded in 0.6s
+Build succeeded in 0.5s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -82,9 +85,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.437s
-user	0m1.387s
-sys	0m0.295s
+real	0m1.311s
+user	0m1.288s
+sys	0m0.262s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -96,35 +99,230 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.501s
-user	0m1.435s
-sys	0m0.324s
-hello_there_I_have_a_surprise_final_final_really.pdf
-  40  middle: hello_there_I_have_a…al_final_really.pdf  end: hello_there_I_have_a_surprise_final_fin…
-  24  middle: hello_there_…_really.pdf                  end: hello_there_I_have_a_su…
-  16  middle: hello_th…lly.pdf                          end: hello_there_I_h…
-  10  middle: hello….pdf                                end: hello_the…
+real	0m1.744s
+user	0m1.472s
+sys	0m0.284s
+================================================================================
+john-husted-ohio-president-trump-midterms.html
+Source: PreloadedData  Paragraphs: 32  Words: 1442/1444
+================================================================================
 
-hello_there_I_have_a_surprise_final_final_v2.pdf
-  40  middle: hello_there_I_have_a…_final_final_v2.pdf  end: hello_there_I_have_a_surprise_final_fin…
-  24  middle: hello_there_…inal_v2.pdf                  end: hello_there_I_have_a_su…
-  16  middle: hello_th…_v2.pdf                          end: hello_there_I_h…
-  10  middle: hello….pdf                                end: hello_the…
+SUMMARY
 
-Quarterly Report 2026 (draft).docx
-  40  middle: Quarterly Report 2026 (draft).docx        end: Quarterly Report 2026 (draft).docx
-  24  middle: Quarterly Re…draft).docx                  end: Quarterly Report 2026 (…
-  16  middle: Quarterl…t).docx                          end: Quarterly Repor…
-  10  middle: Quar….docx                                end: Quarterly…
+Senator Jon Husted of Ohio appears to have an additional challenge: Even some of the state’s most devoted conservatives don’t know who he is. Mr. Husted’s Democratic opponent is Sherrod Brown, a fixture in Ohio politics since the 1970s, who lost his Senate seat two years ago. “I don’t know a whole lot about Husted,” said Debbie Grenko, 67, a Republican, as she stroked her pony, Spirit, at the Delaware County Fair in central Ohio last week.
 
-very_long_archive.tar.gz
-  40  middle: very_long_archive.tar.gz                  end: very_long_archive.tar.gz
-  24  middle: very_long_archive.tar.gz                  end: very_long_archive.tar.gz
-  16  middle: very_lon….tar.gz                          end: very_long_archi…
-  10  middle: ve….tar.gz                                end: very_long…
+ARTICLE
+
+In Ohio, a Humbling Question for Senator Jon Husted: Are You the Incumbent?
+Even some devoted conservatives know more about Sherrod Brown, the Democratic challenger, than the Republican incumbent, who needs the MAGA base to turn out.
+By Emily Davies
+Published 2026-09-28 16:31 UTC
+https://www.nytimes.com/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
+
+Republican senators vying for re-election this year have had to contend with a cratering economy and an unpopular president. Senator Jon Husted of Ohio appears to have an additional challenge: Even some of the state’s most devoted conservatives don’t know who he is.
+
+Mr. Husted’s Democratic opponent is Sherrod Brown, a fixture in Ohio politics since the 1970s, who lost his Senate seat two years ago. Mr. Brown’s renown has become something of a liability for the sitting senator, who needs the state’s MAGA-friendly Republican base to care enough about the seat to vote in a year when President Trump is not on the ballot.
+
+But being perceived as the challenger may also benefit Mr. Husted at a moment when voters are struggling economically and don’t think Congress has done enough to help. With polls showing Mr. Brown and Mr. Husted in a tightening race, the Republican’s campaign has leaned into the misconception, spending millions of dollars on ads that refer to his opponent as “Senator Sherrod Brown.”
+
+“I don’t know a whole lot about Husted,” said Debbie Grenko, 67, a Republican, as she stroked her pony, Spirit, at the Delaware County Fair in central Ohio last week. “It’s Sherrod Brown in there, right?”
+
+One Republican strategist in Ohio, granted anonymity to speak candidly about the race, said the campaign was intentionally casting Mr. Brown as the incumbent, a rare opportunity amid dismal Republican approval ratings for the party to harness anger at the status quo.
+
+“Name ID is not everything,” said Drew Thompson, Mr. Husted’s campaign manager. Ohioans, he said, “are familiar” with Mr. Brown’s record “and they rejected it two years ago.”
+
+The approach has reached some voters, including Ted Hull, who on Wednesday night was watching a “wiener dog race” at the Delaware County Fair. He said he planned to vote for Mr. Husted. Mr. Hull, 72, said that Mr. Brown, who he thought was still in office, seemed to have “become lazy” on the job.
+
+“There should be term limits,” Mr. Hull said.
+
+Mr. Brown served for nearly two decades in the Senate and 14 years in the House of Representatives. Mr. Husted was appointed to the Senate two years ago, when JD Vance vacated the seat to become vice president. A former lieutenant governor and speaker of the Ohio House of Representatives, Mr. Husted is far from the firebrand that many have come to associate with the modern Republican Party. He is mild-mannered and more comfortable talking about economic policy than rousing a crowd.
+
+Quality polling on Ohio is limited, but one poll released last week found that nearly a quarter of voters believed Mr. Brown was the incumbent.
+
+The high-stakes race has become one of the most expensive in the country, with nearly $400 million of spending on advertisements, according to AdImpact, for a seat that both parties believe could determine control of the Senate. So far, Republicans have outspent Democrats by more than $75 million. The cryptocurrency industry’s main super PAC, Fairshake, launched a $30 million advertising campaign against Mr. Brown last week.
+
+Mr. Trump plans to campaign in Ohio on Saturday, the Republican National Committee announced. It will be the first of “more than two” trips the president hopes to make before Election Day, according to one person familiar with his plans who was granted anonymity to discuss campaign strategy.
+
+In Washington, Senate Republicans are also hoping to help Mr. Husted this week by voting on a bill to address the growing data center backlash by encouraging — but not requiring — state utility regulators to insulate consumers from rising energy costs associated with the facilities. Mr. Husted put the bill forward himself, after Democrats blitzed the airwaves with ads seeking to define Mr. Husted as the “face of data centers” in Ohio.
+
+As lieutenant governor, before public backlash had emerged about rising energy costs and unsightly development associated with data centers, Mr. Husted supported tax incentives for such projects. In August, the National Republican Senatorial Committee circulated a memo warning that data center politics was endangering him.
+
+All of these dynamics have left both sides bracing for a nail-biter in a red state that Mr. Trump won two years ago by double digits, according to a half-dozen Democratic and Republican operatives interviewed by The New York Times.
+
+“The environment is bad, but there is a sense in D.C. that this race is over, and it’s not,” said Jai Chabria, another Republican strategist in Ohio and one of Mr. Vance’s top political advisers. “Senator Husted is in a much better position than is conventional wisdom.”
+
+The landscape is tough across the country for Republican incumbents, with prices persistently high and Mr. Trump’s approval rating hovering near an all-time low for modern presidencies. In Ohio, fluorescent signs remind voters that gas frequently costs more than $4.40 per gallon. At the height of harvest season, diesel was even more.
+
+For their part, Mr. Brown and Democrat-backed PACs have sought to take advantage of Mr. Husted’s relative unknown, with ad after ad trying to define him before voters hear from the senator himself. Aside from data centers, the ads also highlighted Mr. Husted’s votes to cut federal health care benefits.
+
+“Sherrod has done a really good job reminding Ohio voters that he was one of the original economic populists in Ohio,” said Aaron Pickrell, a Democratic strategist who ran former President Barack Obama’s campaign in Ohio in 2012, the last year the state was truly a presidential battleground. “This race is extraordinarily close.”
+
+Some of the attacks against Mr. Husted appear to be working. Ben Meddles, 55, a firefighter in central Ohio, said he regretted voting for Mr. Trump, and that in turn was affecting his choice for Senate.
+
+“You go in to vote and you feel good,” said Mr. Meddles, watching his daughter’s dachshund Frankie compete in the “wiener” dog race. “And then sometimes, six months to a year later, you’re sorry for the way you voted.”
+
+He said he was frustrated with the president for starting a war with Iran, imposing tariffs on Canada and spending so much time trying to take control of Greenland, which Mr. Meddles dismissed as “showboating.” It all felt like a distraction, he said, from the president’s failure to deliver his signature campaign promise: economic relief at home. That promise, Mr. Meddles said, was why he had cast three ballots for Mr. Trump over the last decade.
+
+Mr. Meddles, who said he makes about $80,000 annually, wanted to make sure he chose a candidate who had shown that they would focus on improving the economic outlook. Mr. Husted “hasn’t stood out in the crowd doing anything good,” he said.
+
+Mr. Husted will need to balance keeping enough distance from the president to retain voters frustrated by his second term while also embracing Mr. Trump enough to energize the conservative base, several Republican strategists said in interviews this week.
+
+In the last few months, Mr. Husted has spoken at the Republican Party’s midterm convention in Dallas and appeared with Mr. Vance at a steel manufacturing plant in Ohio. Last week, Mr. Husted voted to block a resolution that would have required Mr. Trump to seek congressional approval to continue the war with Iran.
+
+But he has also stressed that he wants to see a swift end to that war. On Friday, at a manufacturing company outside of Cleveland, Mr. Husted declined to answer questions from a reporter about whether he supported the White House’s handling of the war, which has driven up gas and diesel prices.
+
+At the fair, Ms. Grenko had spent nearly $7 per gallon on diesel to fill up the five trucks she needed to cart her ponies to the event.
+
+That cost had been so crippling, she said, that she swapped her favorite mac-and-cheese brand, Kraft, for the Great Value version sold at Walmart. She also started to buy off-brand coffee creamer and toilet paper, and to eat more rice each week to fill up.
+
+In some ways, Ms. Grenko embodied both the opportunities and the challenges facing Mr. Husted. A loyal Trump Republican who gets her news exclusively from Fox, Ms. Grenko said she didn’t mind making those sacrifices if Mr. Trump was doing what he thought was best for the country.
+
+But her willingness to give up comforts for Mr. Trump does not mean she will vote for Mr. Husted, given how little she knows about him.
+
+“I want him to step out, step up and say, ‘OK, this is what I think,’” she said, an American flag blowing in the wind behind her.
+
+“Like Trump,” she continued. “Trump’s not afraid to say what he stands for.”
+
+================================================================================
+oil-exports-strait-of-hormuz.html
+Source: PreloadedData  Paragraphs: 34  Words: 1285/1287
+================================================================================
+
+SUMMARY
+
+Oil exports from the Middle East have risen sharply this month, some oil analysts say, taking them closer to the level they were at before Iran shut down the Strait of Hormuz in March, a rebound that could ease some pressure on global energy prices. In September, an average of 10 million barrels of oil has gone through the waterway daily, according to Kpler, a firm that tracks oil tankers. In the last two weeks, he said, over 13 million barrels of oil a day went through the strait.
+
+ARTICLE
+
+Mideast Oil Exports Rebound Even as Prices Remain Elevated
+More tankers are moving through the Strait of Hormuz as shippers gain confidence, but the global supply of oil is still below demand.
+By Peter Eavis
+Published 2026-09-29 09:01 UTC
+https://www.nytimes.com/2026/09/29/business/oil-exports-strait-of-hormuz.html
+
+Oil exports from the Middle East have risen sharply this month, some oil analysts say, taking them closer to the level they were at before Iran shut down the Strait of Hormuz in March, a rebound that could ease some pressure on global energy prices.
+
+In September, an average of 10 million barrels of oil has gone through the waterway daily, according to Kpler, a firm that tracks oil tankers. Separately, six million barrels of crude a day has left the Persian Gulf states this month through pipelines and ports that bypass the strait, Kpler’s data shows.
+
+Before the war with Iran began at the end of February, around 19 million barrels of crude left the region daily through the waterway and other routes. Because of the difficulty in tracking tankers, export totals supplied by analysts might not reflect the true flow of oil, but most experts say volumes rose significantly this month.
+
+The turnaround has most noticeably occurred in the strait, even though Iran continues to attack tankers. A U.S. military operation aimed at protecting the vessels from the attacks appears to have encouraged more shipments by big exporting countries, like Saudi Arabia and the United Arab Emirates.
+
+“They are getting a substantial amount of oil out, and it is increasing over time as shippers’ confidence goes up,” said Eugene Gholz, an associate professor of political science at the University of Notre Dame and an expert on conflict in the strait.
+
+President Trump, members of his administration and U.S. military officials have said for weeks that the Strait of Hormuz is open, and that tankers are moving oil through the strait.
+
+Some analysts say the increase in oil exports shows that Iran may be losing its grip on the waterway. In recent months, a U.S. blockade has prevented Iran from exporting oil on tankers, cutting off a valuable source of revenue for the country.
+
+“That tells me the pressure is on Iran, not the United States,” said Martin Navias, a senior research fellow at the Center for Defense Studies at King’s College London.
+
+Despite the success in getting more oil out, the per-barrel price is still well above where it was before the war, and higher gasoline and diesel prices are weighing heavily on consumers around the world.
+
+Even with the recovery in Gulf oil exports, the global supply is below what the world needs, said Dan Pickering, chief investment officer for Pickering Energy Partners, a financial services firm based in Houston.
+
+“We’re still dealing with a tight market,” Mr. Pickering said.
+
+The 10 million barrels of oil a day that Kpler says is going through the strait is a big improvement from the trickle that made it through early in the war. But it is still well below the 16 million barrels a day that went through before the war.
+
+Some tanker tracking firms have lower numbers. TankerTrackers.com calculates that 7.4 million barrels of crude a day has gone through the strait this month.
+
+Daniel Sternoff, a senior fellow at Columbia University’s Center on Global Energy Policy, cautioned against relying on a single number from a tracker, noting that the firms’ totals often diverge. Still, he added, “They do all point to an increase of flows over September.”
+
+Experts warn that Iran could yet step up its attacks on tankers and the energy infrastructure of the Gulf states, which could cause a drop in supply and another rise in the price of oil. A big pipeline in Saudi Arabia that bypasses the strait was shut down after it was attacked this month.
+
+“Iran certainly has a big array of options to escalate if it wanted to,” said Jim Krane, a fellow in Middle East energy studies at Rice University’s Baker Institute for Public Policy. “To me, it looks like they’re holding back.”
+
+And some who have been focused on the situation for months said it was hard to declare the strait truly open.
+
+While oil is getting out in larger volumes, the U.S. military protection requires significant resources and will be hard to maintain indefinitely. Even with protection from the United States, many tankers have been hit when trying to traverse the waterway, deterring some shipping companies from returning.
+
+The strait “is not open to navigation, because it’s not safe,” Arsenio Dominguez, the secretary general of the International Maritime Organization, a United Nations agency, said in an interview last week. According to the group, 85 ships have been attacked since the war began, and 24 mariners have died.
+
+Matt Smith, director of commodity research at Kpler, said that although Gulf crude exports were around 85 percent of their prewar level, normality had not returned.
+
+“Production still needs to rise, and refineries still need to ramp back up,” he said. “This cannot fully happen until the safety risk of crossing the strait has been completely removed.”
+
+The New York Times asked three tanker-tracking firms — Kpler, Vortexa and TankerTrackers.com — for their numbers on the amount of oil going through the strait for each month of the war. Since most tankers turn off their transponders when going through the strait to avoid being easily spotted by Iran, it’s hard to see the transits as they happen.
+
+The trackers therefore piece together transponder signals outside the strait, satellite images and other data to determine which tankers went through and how much oil they carried. A large tanker can carry two million barrels of oil.
+
+In August, Vortexa said, 6.4 million barrels a day passed through the strait on average; Kpler said 5.9 million, and TankerTrackers measured 5.5 million. Those totals were up significantly from flows early in the war, but less than half the prewar totals.
+
+The Trump administration and the U.S. military have said more oil is getting out, but the data they have provided on shipments has been patchy.
+
+Adm. Brad Cooper, the head of Central Command, the arm of the U.S. military offering protection to tankers in the strait, said in a Sept. 19 video posted on X that one billion barrels of oil had been shipped out through the strait “in the last couple months.”
+
+That would equate to than 16 million barrels a day on average, equivalent to the prewar daily total, if Admiral Cooper meant that one billion barrels had gone out over two months.
+
+But Capt. Tim Hawkins, a Central Command spokesman, said “the last couple” meant “a few” months. He declined to say how much oil had, on average, gone out daily since May.
+
+In Washington, a debate is simmering over the amount of crude oil that Central Command claims has passed through the strait. Some congressional Democrats and intelligence analysts said Central Command had not been sufficiently transparent about the methodology it used to reach its estimates.
+
+These officials, speaking on the condition of anonymity to discuss confidential assessments, expressed suspicion that Central Command, under pressure from the White House, had presented inflated estimates about the total amount of oil flowing through the strait.
+
+“The facts released by CENTCOM highlighting building momentum in the Strait of Hormuz are exactly that — facts,” Captain Hawkins said. He added that Central Command gathered its ship traffic data from its own operations, the shipping industry and the Gulf states.
+
+In the last two weeks, he said, over 13 million barrels of oil a day went through the strait.
+
+The White House responded to a request for comment through the Defense Department. A spokeswoman for the department strongly rejected the notion that Central Command was under pressure and stood by its oil flow figures.
+
+“Our service members will remain undeterred and unfazed, and they will continue to ensure commercial vessels transit the strait safely,” the department’s spokeswoman, Kingsley Wilson, said in an email.
+
+Eric Schmitt contributed reporting.
+
+================================================================================
+democrats-voter-turnout.html
+Source: PreloadedData  Paragraphs: 17  Words: 660/660
+================================================================================
+
+SUMMARY
+
+From the first primaries in March through the final ones in September, Democrats’ turnout outpaced Republican voters in many key states that will decide congressional majorities next year. This primary season, perhaps the starkest example of Democratic enthusiasm came in Texas, a state Mr. Trump carried by 14 percentage points two years ago. Even in 2018, during the last Democratic wave election, 500,000 more people voted in the Republican Senate primary than in the Democratic one.
+
+ARTICLE
+
+Democratic Turnout Surged in the Primaries. Will It Matter in November?
+A voter enthusiasm gap provides another signal that Democrats are favored this fall, though Republicans still have key advantages.
+By Reid J. Epstein, Ashley Wu and Christine Zhang
+Published 2026-09-29 09:01 UTC
+https://www.nytimes.com/2026/09/29/us/politics/democrats-voter-turnout.html
+
+From the first primaries in March through the final ones in September, Democrats’ turnout outpaced Republican voters in many key states that will decide congressional majorities next year.
+
+In red states like Texas, battlegrounds like Georgia and bluer ones like New Hampshire, Democrats have raced to the polls to choose their nominees, while Republicans have not kept up.
+
+“There’s been historic enthusiasm gaps this cycle, that are real reasons to be optimistic,” said Meredith Kelly, who was a top official for the House Democratic campaign committee in 2018, the last midterm election with President Trump in office.
+
+Furious Democratic voters emerged during that campaign’s primary season and maintained their energy into November. The party flipped 42 House seats, taking the majority. Republicans gained Senate seats that year in deep-red states like Indiana, Missouri and North Dakota where they ousted Democrats who had been elected during Barack Obama’s second presidential campaign.
+
+This primary season, perhaps the starkest example of Democratic enthusiasm came in Texas, a state Mr. Trump carried by 14 percentage points two years ago. Both parties had hard-fought and expensive Senate primary campaigns there this year.
+
+About 150,000 more people voted in the Democratic primary between James Talarico, the victor, and Representative Jasmine Crockett than in the Republican contest between Senator John Cornyn and the state’s attorney general, Ken Paxton, who would go on to win in a runoff.
+
+That’s a major change from four years ago, when there were 900,000 more votes in the state’s Republican primaries for state offices than in its Democratic contests. Even in 2018, during the last Democratic wave election, 500,000 more people voted in the Republican Senate primary than in the Democratic one. That year, the last midterm election with Mr. Trump in office, Democrats flipped seats across Texas as Beto O’Rourke came the closest any Democrat had gotten in decades to winning a Senate race in the state.
+
+The lopsided Democrat turnout didn’t extend to every state, and was most notable in battleground states.
+
+Compare 2022 to 2026: Twenty-two states held contested primary elections in both parties for governor or Senate. Democratic turnout increased in three-quarters of those states this year over four years ago, while dropping in two-thirds of those states for Republicans.
+
+Going back farther, Michigan and Wisconsin held competitive Democratic primaries in both 2018 — which drew record turnouts at the time — and 2026, and both saw huge turnout increases this year.
+
+In Wisconsin, David Crowley, the Milwaukee County executive, narrowly defeated Francesca Hong, a state legislator from Madison, in a race that saw turnout jump by more than 250,000 votes — a 47 percent increase. Both the winning and losing candidates got more votes than the winner in the 2018 primary.
+
+Michigan’s numbers were nearly as striking. The state’s 2018 competitive Democratic primary for governor drew 1.1 million voters. The Senate contest last month had 1.5 million.
+
+Eight years ago, on the eve of the 2018 primaries, Nate Cohn wrote in The Times that the vote in primary races generally provides “a rough if imperfect indicator of the national political environment.”
+
+But Republicans are better prepared for a wave of Democratic enthusiasm than they were during the “blue wave” in 2018. Republicans redrew House districts across the country to create more potentially safe seats for their candidates, and the party has a large cash advantage. As in 2018, this year’s Senate battleground is being fought in red states Mr. Trump carried two years before, giving his party a distinct advantage.
+
+Tom Perez, who was the Democratic National Committee chairman in 2018, acknowledged that voter enthusiasm among Democrats wouldn’t go as far in the new political environment.
+
+“I really do believe that people are going to come out in abundance,” he said, but he added that it would require more financial investment in potentially competitive races.
+
+“You don’t want to wake up the day after and see that you lost by three points somewhere because you didn’t do anything,” he said.
 
 
-real	0m1.292s
-user	0m1.248s
-sys	0m0.191s
+real	0m1.597s
+user	0m1.367s
+sys	0m0.231s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
