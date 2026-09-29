@@ -1,39 +1,49 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.064s
-user	0m10.604s
-sys	0m0.810s
+real	0m6.179s
+user	0m10.620s
+sys	0m0.827s
 
 Build succeeded in 0.4s
 
-real	0m0.575s
-user	0m0.562s
-sys	0m0.127s
-Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (2.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+real	0m0.587s
+user	0m0.581s
+sys	0m0.124s
+Restore complete (0.4s)
+  CSharpClassLibrary net10.0 succeeded (3.0s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.1s
+Build succeeded in 4.2s
 
-real	0m4.258s
-user	0m1.407s
-sys	0m0.262s
+real	0m4.346s
+user	0m1.445s
+sys	0m0.261s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (1s 819ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (1ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 3
+  Actual:   6
+    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
+    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (711ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 2s 005ms
+  duration: 901ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m3.396s
-user	0m2.381s
-sys	0m0.414s
+real	0m2.322s
+user	0m2.406s
+sys	0m0.405s
 On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -41,35 +51,38 @@ Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Listing files via git...
-Found 20 files to export
-Processing (1/20): .editorconfig
-Processing (2/20): .gitignore
-Processing (3/20): CSharpClassLibrary/ArticleExtraction.cs
-Processing (4/20): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (5/20): CSharpClassLibrary/FilenameString.cs
-Processing (6/20): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (7/20): CSharpConsoleApp/Program.cs
-Processing (8/20): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
-Processing (9/20): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
-Processing (10/20): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
-Processing (11/20): CSharpUnitTests/ArticleExtractionTests.cs
-Processing (12/20): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (13/20): CSharpUnitTests/FilenameStringTests.cs
-Processing (14/20): Directory.Build.props
-Processing (15/20): Directory.Packages.props
-Processing (16/20): HelloXUnit.slnx
-Processing (17/20): README.md
-Processing (18/20): docs/llm/vendor/claude-001.md
-Processing (19/20): export.sh
-Processing (20/20): global.json
+Found 23 files to export
+Processing (1/23): .editorconfig
+Processing (2/23): .gitignore
+Processing (3/23): CSharpClassLibrary/ArticleExtraction.cs
+Processing (4/23): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (5/23): CSharpClassLibrary/FilenameString.cs
+Processing (6/23): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (7/23): CSharpConsoleApp/Program.cs
+Processing (8/23): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
+Processing (9/23): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
+Processing (10/23): CSharpConsoleApp/nytimes/2026/09/29/opinion/data-centers-democrats-republicans.html
+Processing (11/23): CSharpConsoleApp/nytimes/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html
+Processing (12/23): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
+Processing (13/23): CSharpConsoleApp/nytimes/2026/09/29/world/europe/ukraine-kramatorsk.html
+Processing (14/23): CSharpUnitTests/ArticleExtractionTests.cs
+Processing (15/23): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (16/23): CSharpUnitTests/FilenameStringTests.cs
+Processing (17/23): Directory.Build.props
+Processing (18/23): Directory.Packages.props
+Processing (19/23): HelloXUnit.slnx
+Processing (20/23): README.md
+Processing (21/23): docs/llm/vendor/claude-001.md
+Processing (22/23): export.sh
+Processing (23/23): global.json
 
 Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 1.07 MB across 20 files
+Total source size: 1.95 MB across 23 files
 
-real	0m0.397s
-user	0m0.222s
-sys	0m0.199s
+real	0m0.411s
+user	0m0.244s
+sys	0m0.210s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -85,9 +98,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.311s
-user	0m1.288s
-sys	0m0.262s
+real	0m1.360s
+user	0m1.296s
+sys	0m0.290s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -99,9 +112,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.744s
-user	0m1.472s
-sys	0m0.284s
+real	0m1.938s
+user	0m1.520s
+sys	0m0.273s
 ================================================================================
 john-husted-ohio-president-trump-midterms.html
 Source: PreloadedData  Paragraphs: 32  Words: 1442/1444
@@ -271,6 +284,152 @@ The White House responded to a request for comment through the Defense Departmen
 Eric Schmitt contributed reporting.
 
 ================================================================================
+data-centers-democrats-republicans.html
+Source: PreloadedData  Paragraphs: 25  Words: 1814/1836
+================================================================================
+
+SUMMARY
+
+These tied Mr. Husted to the arrival of data centers in Ohio. Most data centers have been built near cities. Ohio Republicans are trying to mitigate the political fallout of data centers while protecting their continued construction.
+
+ARTICLE
+
+Republicans Are Struggling Everywhere. This State Is the Epicenter.
+The problems of technology were there before Trump and will be there after.
+By Christopher Caldwell
+Published 2026-09-29 09:02 UTC
+https://www.nytimes.com/2026/09/29/opinion/data-centers-democrats-republicans.html
+
+At the start of this year, the largest underlying trend in national politics still seemed to be the transformation of longtime swing states into Republican bastions. Florida, Iowa, Ohio: The closer you looked, the more invulnerable President Trump’s party seemed.
+
+The situation in Ohio was stark. In 2022, the governor, Mike DeWine, had beaten his Democratic opponent by 25 points. A year ago, the Trump-allied biotech billionaire Vivek Ramaswamy, who is running for governor, held nearly a double-digit lead over his Democratic opponent, Amy Acton.
+
+Ohio’s high-tech industry was big factor. A bipartisan enthusiasm spurred by President Joe Biden’s CHIPS and Science Act of 2022, it nonetheless played to the strengths of Republican incumbents. Intel was building a huge chip plant near Columbus. Mr. Ramaswamy was promising to turn the Ohio River Valley into the next Silicon Valley. “People talk about the Rust Belt,” he said in March of last year. “I don’t want to talk about the Rust Belt. I want to lead us to the platinum belt — the sectors of the future, from semiconductors to nuclear energy to even A.I.”
+
+But times have changed. This month, a YouGov poll for Bowling Green State University found Ms. Acton leading Mr. Ramaswamy by three points. The incumbent Republican senator Jon Husted has fared similarly. Mr. Husted appeared likely at the start of the year to keep his seat. But since June, polls have shown him trailing the former senator Sherrod Brown, who was soundly defeated by the Republican Bernie Moreno in 2024.
+
+A lot has happened to sour the public on Mr. Trump’s party, including the war with Iran and rising prices, but much of the discontent involves high-tech industries (like cryptocurrencies) and their needs (like H-1B visas for tech workers). Above all, Republicans are paying a political cost for the buildout of data centers for artificial intelligence.
+
+Last month, Axios published a leaked memo from the National Republican Senatorial Committee that expressed alarm about the devastating effectiveness of video spots Mr. Brown had begun airing. These tied Mr. Husted to the arrival of data centers in Ohio. “More than any other thing in this race,” the memo said, “data centers are the anchor hanging around Husted’s neck. If he loses and data centers get the blame, politicians across the country will take notice — and they will not go near the next one.”
+
+It’s not just Ohio. Mr. Trump has been dangerously dim on the subject of data centers. “The only reason that communities throughout the U.S.A. should not want Data Centers,” he wrote on Truth Social, “is if they want to end up being backwards and poor.” He will probably hurt his party on Election Day, five weeks from now.
+
+But it will not be easy for Democrats to lay a permanent claim to the moral high ground. The problems of high-tech industries were there before Mr. Trump arrived and will be there after he leaves. At present, the A.I. buildout is driving a large share of American economic growth. There are strong incentives for both parties not to restrain or regulate it. Neither Republicans nor Democrats have come up with a trustworthy set of policies for managing artificial intelligence, the multitrillion-dollar projects required to expand its use or the newfound political power this gives the tech industry.
+
+Thousands of data centers have been built or are under construction in the United States. With 166 in operation, according to the Pew Research Center, Ohio has more than any state besides Virginia, Texas and California. Voters appear to think that’s enough. Gov. Kathy Hochul of New York has declared a moratorium on new construction. Other states are mulling outright bans.
+
+What made Ohio so hospitable to tech expansion — and so vulnerable to a political backlash — is a long story. The state has lots of people, cheap open land, abundant water and weak zoning laws. Most important, it was devastated by deindustrialization like few other places, and has spent decades pursuing an industrial revival. Starting in 2011, Gov. John Kasich, a Republican, signed into law tax reforms and exemptions that would lure Amazon, Meta and Google to build new facilities in the state. In 2022, Intel committed to a $20 billion plant investment and the Biden administration bet heavily on tech in its CHIPS Act.
+
+Last year, Ohio passed a bill that promised to fast-track data centers. In the New Albany International Business Park outside Columbus, there are already 40 data centers serving Amazon Data Services, Google, Meta and Microsoft, with 28 more planned. Last month Nvidia and partners announced an estimated $500 billion building project that will include a facility in Pike County, two hours east of Cincinnati, envisioned as one of the largest data-center complexes in the world.
+
+All of this has costs. These vast installations are wrecking the landscape in unspoiled parts of Ohio, as they have done over the past two decades in Northern Virginia. And this is happening in a national real-estate market transformed by the Covid-19 pandemic, which led millions of Americans to move to more tranquil, nonurban surroundings. Ohio’s peak electricity demand is projected to rise by 56 percent over the next two decades.
+
+Cheery projections made by Ohio politicians have not panned out. Tax exemptions intended to lure tech firms wound up costing $1.4 billion more than anticipated in 2025. Above all, the jobs have not come. Data centers are basically rows of computers sitting on racks — like a supersize version of that mysterious closet full of tangled wires and blinking lights at your workplace. Once construction is finished, no one but a couple of tech guys ever has any reason to go in there. Last year, The Wall Street Journal found that a large data center in Abilene, Texas, would employ about 100 people — a fraction of the jobs created by a cheese-packaging plant nearby. And cheese packaging doesn’t threaten to send residents’ utility bills through the roof.
+
+Most data centers have been built near cities. But two-thirds of those projected for the coming years are being built in the sticks. The voters most up in arms now include a lot of Trump supporters. Ohio Republicans are trying to mitigate the political fallout of data centers while protecting their continued construction. In August, Mr. Ramaswamy called for free electricity for people living near data centers. Mr. Husted has sponsored a Senate bill urging big electricity users to cover their own electricity costs — legislation Senate Democrats criticized as toothless.
+
+Outside of Ohio, Republican politicians appear even more worried. In August, Mike Rogers, a Senate candidate in Michigan who is not just a defender of data centers but an investor in them, called for a one-year statewide moratorium on new construction until better “guardrails” were in place. Last week, Gov. Greg Abbott of Texas, until recently an unflagging tech enthusiast, halted all permits for new data centers. Two new polls have shown the long-serving and perennially popular Mr. Abbott trailing his Democratic challenger, State Representative Gina Hinojosa.
+
+Mr. Husted has cast the argument over data centers as one in which progress is at stake. “I mean, you can go back to the bunny-ear antenna on your TV,” he said on a recent podcast. “You don’t need a data center. But if you’re connected to a wire, you’re using the data center.”
+
+That was true of the data centers that Amazon was building in 2006, but serving customers is less and less what data centers do now. Many of today’s monolithic structures exist only to train A.I.s — making models more powerful by carrying out operations that number in the trillions of trillions annually.
+
+The result is a strange partisan landscape. It’s easy to think that data centers will become the Democrats’ issue, tying in to the party’s environmentalist commitments. But that is not what’s going on. The climate journalist Robinson Meyer told David Wallace-Wells of The Times recently that environmental arguments against data centers are sometimes overblown. The main reason people say they oppose them is water use, followed by electricity prices; but when a data center gets canceled, it is most often because of noise. In this respect the uprising against data centers resembles that against wind farms, a Republican movement if ever there was one.
+
+Mr. Trump’s simple-minded online attacks on those who oppose data centers have led many partisan Democrats to deduce that the tech industry is “allying” itself with him. But the tech industry is merely taking pains, as it always does, to stay on the good side of its regulators. That effort has caused a good deal of quiet corruption through the years, and Mr. Trump’s demand for public avowals of fealty have made the corruption overt.
+
+But all the Democrats have to do is win a presidential election, and they will rediscover that there is nothing — nothing at all — inherently Trumpian about the tech industry. They will inherit all the complexities that come with trying to push back against sector that is, for now, vilified and unpopular but vital to the economy.
+
+Could they push back? Yes: If large numbers of Americans come to accept the argument of many A.I. experts that the technology itself threatens humanity with extinction, then Democrats might be emboldened to take extreme steps to rein in the industry, even on pain of economic upheaval. But in that case the party would be likely to lose its political advantage in another way: through an effort to stop A.I. that becomes bipartisan.
+
+Seventy percent of Americans now oppose having a data center near them. That’s a problem for Big Tech — one that will persist even if Republicans are routed and better policies put in place. The costs of data centers are local, the benefits national. So entrenched has inequality become on the cutting edge of our economy that any promise of eventual top-down redistribution of those benefits will be met with skepticism.
+
+This is especially true as voters grow more savvy about who gets what and from whom in the tech industry itself. There is a reason Mark Zuckerberg had to promise at least $12 billion to settle claims that his business fostered internet addiction: He is now dealing with parents who belong to his own generation — a less gullible bunch, when it comes to tech, than the analog-age parents who raised them.
+
+As the baby boomers’ presence in the electorate wanes, the millennials and their successors will be called upon to weigh A.I.’s promises against the likelihood of human extinction. You can get a sense of how they are leaning by looking at the polls: The problem of data centers is not just the inconvenience they pose; it’s also the project they serve.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+ad-watch-nebraska-senate-race.html
+Source: PreloadedData  Paragraphs: 26  Words: 818/834
+================================================================================
+
+SUMMARY
+
+A super PAC supporting Dan Osborn, the independent candidate for Senate in Nebraska, is airing a graphic new 60-second ad attacking his opponent, Senator Pete Ricketts, the Republican incumbent, for pardoning a man convicted of sexual assault nearly three decades after the assault. Pete Ricketts cast the deciding vote to pardon this man.” Mr. Ricketts and Mr. Peterson ultimately voted for the pardon.
+
+ARTICLE
+
+A Tough Ad Reminds Nebraska Voters About a Brutal Crime and a Pardon
+A group supporting Dan Osborn, the independent Senate candidate in Nebraska, is airing an ad attacking Senator Pete Ricketts, a Republican, for pardoning a man convicted of sexual assault.
+By Lisa Lerer
+Published 2026-09-29 09:03 UTC
+https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html
+
+A super PAC supporting Dan Osborn, the independent candidate for Senate in Nebraska, is airing a graphic new 60-second ad attacking his opponent, Senator Pete Ricketts, the Republican incumbent, for pardoning a man convicted of sexual assault nearly three decades after the assault.
+
+Here’s a look at the ad, its accuracy and its major takeaway.
+
+On the Screen
+
+The ad opens with a “content warning” about sexual assault and the phone number for the National Domestic Violence Hotline.
+
+It cuts to a narrator, called “Jody S.,” who says she has a “story to tell” about Mr. Ricketts.
+
+The woman describes being violently assaulted by an intruder in her home.
+
+The style is spare, with limited music and images of an empty home. Some of the woman’s words are rendered in white type over a black background.
+
+The ad pans to a series of newspaper headlines from the 1990s showing that the woman’s attacker pleaded guilty to sexual assault and was sentenced to prison.
+
+Later, a black-and-white image of a smiling Mr. Ricketts flashes on the screen. The woman says that the senator, then serving as governor and as a member of the state’s pardon board, had voted to pardon her assailant.
+
+Viewers next see a mug shot of the woman’s attacker on Nebraska’s official sex offender registry, part of the state government website. The man’s image then disappears. His pardon, the woman explains, meant that his name was removed from the registry.
+
+The Script
+
+“I have a story to tell about our senator, Pete Ricketts. On April 30, 1993, John Arias broke into my home, tied me up with parachute cord and violently raped me. My children heard everything that happened. He was caught, pled guilty and went to prison. He said I should watch my back for the rest of my life. Pete Ricketts cast the deciding vote to pardon this man.”
+
+“Governor Ricketts.”
+
+“Yes. But with that, you’ve got your pardon.”
+
+“That pardon brought back all the nightmares. I found out just totally by accident. I thought impossible that anyone would make that decision without contacting the victim. Because of Pete Ricketts, my attacker is now allowed to own a gun and had his name removed from the sex offender registry. I have no idea why Senator Ricketts chose my rapist over me.”
+
+“Nebraska Values PAC is responsible for the content of this advertising.”
+
+Accuracy
+
+The assailant, John Arias, pleaded guilty to first-degree sexual assault and was sentenced to 15 to 30 years in prison. He was released in April 2008, after serving nearly 14 years, according to state records.
+
+In September 2022, he requested a pardon from the state board of pardons, which included Mr. Ricketts, who was then governor; Doug Peterson, then the state attorney general, and Bob Evnen, the secretary of state. A pardon would not erase the crime from state records but would remove his name from the state’s sex offender registry.
+
+According to an audio recording of his 28-minute pardon hearing, Mr. Arias did not deny the assault, though he appeared to question some of the details of the victim’s account.
+
+Mr. Ricketts and Mr. Peterson ultimately voted for the pardon. Mr. Evnen opposed it, saying that he didn’t think Mr. Arias had “fully come to grips with what happened that night.”
+
+Mr. Peterson described the request as “on the bubble,” but cited Mr. Arias’s military service and volunteer work with the American Legion.
+
+“We historically have taken these types of criminal acts, like sexual assault and child abuse, very seriously,” he said.
+
+Mr. Ricketts agreed that Mr. Arias’s request was “on the bubble” but announced “you’ve got your pardon” — the line clipped in the ad.
+
+Weeks after granting the pardon, Mr. Ricketts issued a statement defending his decision, saying that Mr. Arias “has shown to be remorseful.”
+
+A few months later, the victim, who said she was not notified about the pardon or invited to participate in the hearing, testified before the State Senate in support of a bill to ensure that crime victims are notified of Nebraska Board of Pardons meetings.
+
+“His rights were restored,” she told the legislators. “I ask you, where do my rights fit in?”
+
+The Takeaway
+
+Mr. Osborn, a union leader and Navy veteran, is in a tough race against Mr. Ricketts, who served two terms as governor and won his Senate seat in a 2024 special election. While Mr. Osborn is an independent, Democratic candidates cleared the field to ease his path, and he has been endorsed by the Nebraska Democratic Party.
+
+The spot is an effort by Democrats and their allies to gain traction in a red state, where registered Republicans outnumber Democrats nearly two to one. Mr. Osborn has repeatedly cast Mr. Ricketts, one of the richest members of the Senate, as uninterested in the concerns of everyday Nebraskans. The ad is an effort to undermine his character and reinforce that image.
+
+================================================================================
 democrats-voter-turnout.html
 Source: PreloadedData  Paragraphs: 17  Words: 660/660
 ================================================================================
@@ -321,8 +480,71 @@ Tom Perez, who was the Democratic National Committee chairman in 2018, acknowled
 
 “You don’t want to wake up the day after and see that you lost by three points somewhere because you didn’t do anything,” he said.
 
+================================================================================
+ukraine-kramatorsk.html
+Source: PreloadedData  Paragraphs: 22  Words: 1002/1004
+================================================================================
 
-real	0m1.597s
-user	0m1.367s
-sys	0m0.231s
+SUMMARY
+
+On the morning of Aug. 4, two Russian guided bombs, each weighing more than 1,000 pounds, struck the residential block where I grew up in Kramatorsk, eastern Ukraine. Russian forces have been advancing on Kramatorsk slowly but steadily, and I long knew that my childhood home would eventually find itself in the fight. Two months after the war broke out, I returned to Kramatorsk to report on Russian advances in the eastern Donetsk region.
+
+ARTICLE
+
+Bomb by Bomb, the Slow Death of My Hometown in Ukraine
+It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.
+By Olha Konovalova
+Published 2026-09-29 09:01 UTC
+https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html
+
+On the morning of Aug. 4, two Russian guided bombs, each weighing more than 1,000 pounds, struck the residential block where I grew up in Kramatorsk, eastern Ukraine.
+
+I learned of the attack from social media, scrolling through videos until I recognized a neighboring building in flames. Then came the frantic search for any piece of information on whether my home had also been destroyed.
+
+Finally, a man who still lives in my building sent me a video, filmed from inside my flat. The fire had spared it, but not the blast. Shards of glass covered the floor. In the kitchen, the window frame had been torn from the wall. In the living room, the windowsill was gone entirely. Even the bathroom tiles had cracked.
+
+Russian forces have been advancing on Kramatorsk slowly but steadily, and I long knew that my childhood home would eventually find itself in the fight. Still, nothing prepares you for seeing the place you were born torn apart by bombs.
+
+This is an experience shared by millions of people across Ukraine over four and a half years of war — those now watching their homes being damaged by the approaching fight, and those who’ve already lost them.
+
+As a journalist, I have covered such stories repeatedly, watching city after city being destroyed: Sievierodonetsk, Bakhmut, Avdiivka, Pokrovsk, Kostiantynivka. Now, it’s my hometown’s turn.
+
+Kramatorsk is a small city filled with parks and childhood memories. I remember splashing in a fountain in the city center on hot summer days and sledding down the hill near my school in winter. On weekends, my mother and I would walk to the local farmers’ market to buy fresh milk and homemade cheese that we would devour with breakfast. A Georgian restaurant near our home became a favorite spot for family evenings over a khachapuri and wine, a birthday celebration or just a cup of coffee.
+
+Everything changed on Feb. 24, 2022, when Russia launched its full-scale invasion. Explosions woke my parents in Kramatorsk and they called me in a panic to ask what they should do, where they should go and what they should take with them.
+
+I was in Mariupol that day, more than 100 miles to the south, working as a producer with a CNN team. Trying to organize my parents’ evacuation over the phone, I told them to pack the essentials — documents, a change of clothes and our cat — and get out of town.
+
+They left the apartment tidy, expecting to come back soon. They’re still in Norway today, under refugee status.
+
+Two months after the war broke out, I returned to Kramatorsk to report on Russian advances in the eastern Donetsk region. Russian troops were closing in, capturing village after village. Shelling had become an almost daily occurrence. It seemed like my last chance to see home.
+
+When I opened the door, the first thing I noticed was the smell. Our apartment used to smell of my mother’s cooking. Now it smelled empty. Everything was covered in dust. Knowing I might not be able to return, I wanted to take as much as I could: family photo albums, my father’s chessboard, my grandmother’s hand-embroidered bedsheet. But it turned out a life doesn’t fit into a suitcase, and I had to leave much behind.
+
+Outside my flat, though, Kramatorsk carried on a life that was both strange and strangely ordinary. There were constant reminders of the war, of course, like gasoline shortages and the absence of Coca-Cola from supermarket shelves; we managed to get both on the black market. But food delivery services still ran, and hotels were full of journalists.
+
+Ukrainian forces pushed the Russian troops back and the city grew safer. Residents began to return. Kramatorsk became a rear base for journalists and humanitarian group staffers working at the front. Businesses reopened, including our favorite Georgian restaurant. As I began visiting Kramatorsk more often, I had lunch there.
+
+Sitting in the same place my family used to gather, it was easy to believe that Kramatorsk had escaped the fighting. The same town, the same restaurant, the same me.
+
+That, it turned out, was an illusion.
+
+I had seen it play out before, in the town of Pokrovsk, about 40 miles southwest of Kramatorsk. Pokrovsk, too, had returned to something resembling normal life after the initial Russian invasion. For the news media teams I worked with, Pokrovsk was a safe place, somewhere to sleep and eat a good meal at the end of a day at the front.
+
+But as the fighting closed in, guided bombs started to hit Pokrovsk more often. Starting in the fall of 2024, the streets grew emptier as people evacuated and shuttered their homes and businesses. Within months, Pokrovsk had emptied out, inhabited only by the soldiers preparing for the coming street fighting.
+
+On my trips back to Kramatorsk, I began to recognize the same pattern in the past few months. As Russian forces pushed closer, their drones began reaching the city, flying through my neighborhood on the eastern edge of the city.
+
+Bombs hit areas I have known my whole life. This spring, an airstrike hit the street I used to walk down to go to art school as a child, where I would stop at a little shop to buy a chocolate bar and cherry juice before class. The bomb landed a few meters away from the shop.
+
+Finally, on Aug. 4, bombs landed near home. One struck the building next to mine; the other reduced the Georgian restaurant where I had spent so many happy family moments to rubble. All around, trees were uprooted and burned-out cars lay overturned in the street. In my own building, alongside blown-out windows, damaged balcony frames hung from the upper floors. Then, in late September, another attack sparked a large blaze that ravaged several dozen flats next to mine.
+
+My home has survived, but will I have anywhere to return to, when the war is over? Deep down, I know how this story will end.
+
+Constant Méheut contributed reporting.
+
+
+real	0m1.572s
+user	0m1.345s
+sys	0m0.237s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
