@@ -1,37 +1,37 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.981s
-user	0m10.741s
-sys	0m0.800s
+real	0m5.724s
+user	0m10.244s
+sys	0m0.751s
 
 Build succeeded in 0.4s
 
-real	0m0.566s
-user	0m0.575s
-sys	0m0.117s
+real	0m0.572s
+user	0m0.572s
+sys	0m0.110s
 Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (2.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.4s
+Build succeeded in 4.1s
 
-real	0m1.514s
-user	0m1.126s
-sys	0m0.247s
+real	0m4.220s
+user	0m1.322s
+sys	0m0.244s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (916ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (903ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 1s 106ms
+  duration: 1s 094ms
 
-real	0m2.497s
-user	0m2.377s
-sys	0m0.441s
+real	0m2.149s
+user	0m2.310s
+sys	0m0.407s
 On branch master
 Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
@@ -41,38 +41,42 @@ Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Listing files via git...
-Found 23 files to export
-Processing (1/23): .editorconfig
-Processing (2/23): .gitignore
-Processing (3/23): CSharpClassLibrary/ArticleExtraction.cs
-Processing (4/23): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (5/23): CSharpClassLibrary/FilenameString.cs
-Processing (6/23): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (7/23): CSharpConsoleApp/Program.cs
-Processing (8/23): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
-Processing (9/23): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
-Processing (10/23): CSharpConsoleApp/nytimes/2026/09/29/opinion/data-centers-democrats-republicans.html
-Processing (11/23): CSharpConsoleApp/nytimes/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html
-Processing (12/23): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
-Processing (13/23): CSharpConsoleApp/nytimes/2026/09/29/world/europe/ukraine-kramatorsk.html
-Processing (14/23): CSharpUnitTests/ArticleExtractionTests.cs
-Processing (15/23): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (16/23): CSharpUnitTests/FilenameStringTests.cs
-Processing (17/23): Directory.Build.props
-Processing (18/23): Directory.Packages.props
-Processing (19/23): HelloXUnit.slnx
-Processing (20/23): README.md
-Processing (21/23): docs/llm/vendor/claude-001.md
-Processing (22/23): export.sh
-Processing (23/23): global.json
+Found 27 files to export
+Processing (1/27): .editorconfig
+Processing (2/27): .gitignore
+Processing (3/27): CSharpClassLibrary/ArticleExtraction.cs
+Processing (4/27): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (5/27): CSharpClassLibrary/FilenameString.cs
+Processing (6/27): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (7/27): CSharpConsoleApp/Program.cs
+Processing (8/27): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
+Processing (9/27): CSharpConsoleApp/nytimes/2026/09/29/business/irs-tax-returns-citizenship.html
+Processing (10/27): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
+Processing (11/27): CSharpConsoleApp/nytimes/2026/09/29/opinion/data-centers-democrats-republicans.html
+Processing (12/27): CSharpConsoleApp/nytimes/2026/09/29/us/home-mortgage-program-birthrate-decline.html
+Processing (13/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html
+Processing (14/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
+Processing (15/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/james-talarico-ken-paxton-texas-senate-race-money.html
+Processing (16/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/trump-steel-plant-iowa-midterms.html
+Processing (17/27): CSharpConsoleApp/nytimes/2026/09/29/world/europe/ukraine-kramatorsk.html
+Processing (18/27): CSharpUnitTests/ArticleExtractionTests.cs
+Processing (19/27): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (20/27): CSharpUnitTests/FilenameStringTests.cs
+Processing (21/27): Directory.Build.props
+Processing (22/27): Directory.Packages.props
+Processing (23/27): HelloXUnit.slnx
+Processing (24/27): README.md
+Processing (25/27): docs/llm/vendor/claude-001.md
+Processing (26/27): export.sh
+Processing (27/27): global.json
 
 Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 1.95 MB across 23 files
+Total source size: 3.05 MB across 27 files
 
-real	0m0.415s
-user	0m0.246s
-sys	0m0.216s
+real	0m0.474s
+user	0m0.278s
+sys	0m0.271s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -88,9 +92,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.356s
-user	0m1.333s
-sys	0m0.277s
+real	0m1.277s
+user	0m1.283s
+sys	0m0.245s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -102,9 +106,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.386s
-user	0m1.341s
-sys	0m0.300s
+real	0m2.186s
+user	0m1.541s
+sys	0m0.296s
 ================================================================================
 john-husted-ohio-president-trump-midterms.html
 Source: PreloadedData  Paragraphs: 32  Words: 1442/1444
@@ -185,6 +189,65 @@ But her willingness to give up comforts for Mr. Trump does not mean she will vot
 “I want him to step out, step up and say, ‘OK, this is what I think,’” she said, an American flag blowing in the wind behind her.
 
 “Like Trump,” she continued. “Trump’s not afraid to say what he stands for.”
+
+================================================================================
+irs-tax-returns-citizenship.html
+Source: PreloadedData  Paragraphs: 21  Words: 1283/1283
+================================================================================
+
+SUMMARY
+
+The Trump administration is preparing to add a question on next year’s tax returns asking people whether they are a citizen or legally authorized to work in the United States, expanding an attempt to cut tax refunds for immigrants or push them out of the tax system entirely. In a draft version of Form 1040, the primary tax form, the Internal Revenue Service this month included a new section that asks filers to check a box “Yes” or “No” to answer the question: “At the time you file your return, are you, and your spouse if filing jointly, a U.S. citizen, U.S. national, or an alien lawfully authorized to work in the U.S.?” The additional question comes as part of what the Trump administration has said is an effort to prevent undocumented immigrants from receiving federal tax benefits.
+
+ARTICLE
+
+Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens
+The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration.
+By Andrew Duehren
+Published 2026-09-29 14:09 UTC
+https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html
+
+The Trump administration is preparing to add a question on next year’s tax returns asking people whether they are a citizen or legally authorized to work in the United States, expanding an attempt to cut tax refunds for immigrants or push them out of the tax system entirely.
+
+In a draft version of Form 1040, the primary tax form, the Internal Revenue Service this month included a new section that asks filers to check a box “Yes” or “No” to answer the question: “At the time you file your return, are you, and your spouse if filing jointly, a U.S. citizen, U.S. national, or an alien lawfully authorized to work in the U.S.?”
+
+The additional question comes as part of what the Trump administration has said is an effort to prevent undocumented immigrants from receiving federal tax benefits. But many tax credits require recipients to have valid Social Security numbers, meaning previous tax forms already screened undocumented immigrants from receiving them. That fact has led several tax and immigration experts to conclude that the question is simply intended to scare undocumented immigrants out of filing their taxes at all.
+
+That fear first emerged last year, when the I.R.S. shared addresses it had on file for roughly 47,000 people with Immigration and Customs Enforcement. Federal law closely guards access to information submitted on tax returns, and several courts have blocked the I.R.S. from sharing bulk data with ICE. Still, even if the I.R.S. may not be able to legally do so, the addition of the citizenship question could reawaken concerns about the agency using its vast stores of information to help detain or deport people.
+
+Undocumented immigrants pay tens of billions in combined federal income, payroll and local taxes every year. Since they do not have valid Social Security numbers, undocumented immigrants are among the people who can use a separate nine-digit code called an individual taxpayer identification number to file their taxes. The I.R.S. has not in recent history asked taxpayers about their immigration status, and has instead sought to encourage every U.S. resident to file their taxes.
+
+“The I.R.S. doesn’t need this information to administer the tax law,” said Nina Olson, a former I.R.S. official and the executive director of the Center for Taxpayer Rights, which sued the I.R.S. over its previous data sharing with ICE. “The only reason you have that attestation is to deter people.”
+
+At the same time, the Treasury Department is moving forward with a push to cut off immigrants with legal status from receiving the full value of several tax credits. The administration has said those new rules are targeted at “illegal aliens,” but in reality they would affect recipients of Deferred Action for Childhood Arrivals, or DACA, as well as immigrants on work visas, among others.
+
+The question on tax forms and the stricter eligibility rules are the latest signs that the I.R.S. has become a tool in the Trump administration’s anti-immigration agenda, an important shift for an agency that for decades was narrowly focused on collecting taxes. Tax preparers and lawyers said the Trump administration’s new tax credit rules are stricter than the eligibility rules approved by Congress and threaten to create confusion for millions of tax filers next year.
+
+President Trump has in recent months also sought to build a database of U.S. citizens, and he has proposed excluding noncitizens without green cards from the census. The new tax return question would most likely not be able to feed into those other efforts, though, because of taxpayer privacy laws. The proposed changes would probably draw legal challenges.
+
+The I.R.S. did not respond to a request for comment. A representative of the Treasury Department said the citizenship question on tax forms would “provide the I.R.S. important and necessary information to help ensure tax benefits go where the law directs” without addressing specific questions about the changes.
+
+“That rationale doesn’t hold water,” said Brandon DeBot, a senior attorney adviser at New York University’s Tax Law Center. “The government already has all the information it needs for whether someone is eligible for a tax credit.”
+
+The overall effort began to take shape in August, when the Treasury Department proposed regulations outlining the new restrictions for four refundable tax credits: the earned-income tax credit, the child tax credit, the adoption tax credit and the American Opportunity tax credit, which covers education costs. In general, tax credits offset the amount of tax that someone owes, but refundable tax credits can go further, providing a payment to a filer that is larger than the balance of owed tax.
+
+This means refundable tax credits can effectively serve as cash support to poor Americans who do not make enough money to owe much income tax. (Here is a simplified example: Someone who receives a $1,000 refundable tax credit, but owes only $200 in tax, can still receive the remaining $800 in tax credit as a payment.)
+
+The Treasury regulations would, for the first time, define the money received through the tax credits — the amount beyond the tax owed — as a “federal public benefit.” That would subject this portion of the tax credit to a set of eligibility requirements laid out in a separate 1996 law, rather than the rules Congress wrote for the tax credits specifically.
+
+Under tax laws passed by Congress, three of the four credits are already limited to people with work-authorized Social Security numbers, while the adoption credit is available to a broader pool. The proposed regulations would, instead, require recipients to be a “qualified alien” under the terms of the 1996 law, called the Personal Responsibility and Work Opportunity Reconciliation Act.
+
+Several categories of immigrants are authorized to work — and therefore have Social Security numbers — but do not count as “qualified aliens” under that law. Beyond DACA recipients and people with work visas, residents with student visas or temporary protected status would no longer be able to receive the full amount of the tax credits because they are not “qualified aliens.”
+
+“This isn’t about undocumented immigrants, no matter how much they advertise it as such,” said Margot Crandall-Hollick, a researcher at the Tax Policy Center, a think tank. “This is about going after people who are allowed to be here and allowed to work here.”
+
+The additional question on Form 1040 asks only if someone is a citizen, a U.S. national or authorized to work — and not whether the filer is a “qualified alien,” meaning that the answer would not be relevant to enforcing the Treasury’s new rules. Reflecting that, the I.R.S. released a draft of a separate additional form that directly asks if someone is a “qualified alien.”
+
+“It’s a weird duplicate question,” Richard Pon, a certified public accountant in California, said of the Form 1040 change. “‘Qualified alien’ is different from the question that’s on the 1040. Why would they even ask that question about citizenship? I can’t think of any compliance reason for that.”
+
+Those hoping to receive the full value of the tax credits will now have to know whether their immigration status aligns with the complicated definition of “qualified alien.” That added complexity could cause some people who are in fact “qualified aliens,” like green card holders, to not claim the full value of the tax credits. The Treasury regulations warn of penalties for people who fill out the forms incorrectly, a potential deterrent for uncertain filers.
+
+“The design of these questions is to confuse and scare the people. Tax preparers are completely unprepared to figure out whether someone is a qualified immigrant,” Sarah Krieger, senior policy counsel at the National Immigration Law Center. “People are just going to be chilled or deterred from filing their taxes or claiming credits they’re eligible for.”
 
 ================================================================================
 oil-exports-strait-of-hormuz.html
@@ -343,6 +406,69 @@ The Times is committed to publishing a diversity of letters to the editor. We’
 Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
 
 ================================================================================
+home-mortgage-program-birthrate-decline.html
+Source: PreloadedData  Paragraphs: 23  Words: 808/807
+================================================================================
+
+SUMMARY
+
+What they found sheds new light on how personal finances affect the decision to have children: Homeownership increases the birth rate. Dr. Kearney and Dr. Dettling found a policy that did: government-backed home mortgages, mostly issued under the postwar G.I. “This mortgage program was not meant as a pronatalist policy, but it seems to have had that effect,” Dr. Kearney said.
+
+ARTICLE
+
+Could Homeownership Reverse the Decline in Birthrates?
+Researchers looked back at the baby-boom era and found that federal mortgage programs played a part in the country’s population upswing after World War II.
+By Sabrina Tavernise
+Published 2026-09-28 15:21 UTC
+https://www.nytimes.com/2026/09/28/us/home-mortgage-program-birthrate-decline.html
+
+Puzzling over the reasons for today’s baby bust, a pair of economists went back to the last baby boom for answers.
+
+What they found sheds new light on how personal finances affect the decision to have children: Homeownership increases the birth rate.
+
+Experts have long been skeptical that the two-decade decline in the birthrate was related to people’s pocketbooks. They reason that as the birthrate has been falling, household income has been rising and poorer women have been more likely to have more children than richer women.
+
+But Melissa S. Kearney, an economics professor at the University of Notre Dame, and Lisa J. Dettling, an economist at the Federal Reserve Board, found an economic connection that was less about price and more about ownership.
+
+The finding, published in its final version by the National Bureau of Economic Research in September, offers new insights into what policies could actually raise the birthrate, which has hit historic lows around the world. Governments have tried multiple strategies, including tax credits, subsidized child care and paid maternity leave, to encourage people to have more children, but nothing has made much of a difference.
+
+Dr. Kearney and Dr. Dettling found a policy that did: government-backed home mortgages, mostly issued under the postwar G.I. Bill.
+
+“This mortgage program was not meant as a pronatalist policy, but it seems to have had that effect,” Dr. Kearney said.
+
+The finding comes as the cost of living has taken center stage in midterm election campaigns. Housing in particular has felt increasingly out of reach for younger Americans: The median age of first-time home buyers rose to 40 in 2025, a historic high. Last week, mortgage rates jumped to 7 percent, the highest since January 2025, raising the hurdle to home buying even higher.
+
+The baby boom began in 1946, after the Allied victory in World War II. By 1957, the total fertility rate had risen by about 30 percent, reaching 3.7 children per woman, a modern high.
+
+Researchers over decades have tried to explain that burst of fertility. Hypotheses included the economic security that families felt in contrast to the war years and the sharp drop in health risks during pregnancy.
+
+But Dr. Kearney and Dr. Dettling wanted to look for new clues. They decided to examine homeownership, which also expanded during that time. The G.I. Bill in particular gave millions of returning soldiers the ability to buy houses with low or no down payments.
+
+That policy was transformational, helping to build the American middle class. Young families, in particular, benefited: Among Americans of childbearing age, homeownership rose to 50 percent in 1960, from 20 percent in 1940.
+
+But how could economists figure out if rising homeownership had fueled the baby boom? They discovered that the Federal Reserve held a trove of data: thousands of pages of mortgage records.
+
+Undergraduate research assistants digitized them over two years. The researchers then linked them with demographic data from each state to test if there were any effect.
+
+“We kept cutting the data and looking at it,” Dr. Kearney said. “It kept lining up.”
+
+The result was startling: For every 1,000 new mortgages issued through the government programs, there were about 300 additional births the following year.
+
+The mortgages were not the only driver, nor were they predictive for everybody: Black women, whose families were unfairly shut out of the postwar mortgage program, also had increases in childbearing.
+
+The findings also help explain a related shift in the demographics of the era, Dr. Kearney said. Women married younger, and started to have children earlier than previous generations. They also went on to have larger families.
+
+She emphasized that the effect of the government programs on births was not related to housing costs, but to homeownership. Having your name on a deed represents a certain kind of emotional and financial security, one that can create confidence in the future. Women today often say they want that before having children.
+
+Other researchers who looked at the study said it was sound, but that it was historical.
+
+“The empirical work seems pretty strong and they find a pretty good-sized effect,” said Phillip Levine, an economics professor at Wellesley College who has written papers with Dr. Kearney but was not involved in this one.
+
+But, he added, it is not clear how much the past can be applied to the present. “Does that mean that we would get the same result today? We don’t know.”
+
+Dr. Kearney said the findings are relevant today, but the context is different. Making it easier for young families to get a mortgage could still spur earlier and more childbearing. But such a policy today could also push up home prices, given that today’s supply of housing is far more restricted, compared to the mid-20th century when the suburbs were forming. That, she said, is the challenge for policymakers.
+
+================================================================================
 ad-watch-nebraska-senate-race.html
 Source: PreloadedData  Paragraphs: 26  Words: 818/834
 ================================================================================
@@ -471,6 +597,130 @@ Tom Perez, who was the Democratic National Committee chairman in 2018, acknowled
 “You don’t want to wake up the day after and see that you lost by three points somewhere because you didn’t do anything,” he said.
 
 ================================================================================
+james-talarico-ken-paxton-texas-senate-race-money.html
+Source: PreloadedData  Paragraphs: 19  Words: 832/832
+================================================================================
+
+SUMMARY
+
+Top national Democrats are preparing to make an initial investment in the Texas Senate race, a strategic shift that speaks to the party’s growing confidence in a state that has dashed its hopes for decades. The main super PAC for Senate Democrats, Senate Majority PAC, said on Tuesday that it would begin an advertising effort meant to help James Talarico, the Democratic nominee, by targeting his Republican opponent, Ken Paxton. The super PAC, which is aligned with Senator Chuck Schumer, the minority leader, had so far resisted spending money in Texas, viewing the party’s path to a majority as running through smaller states where advertising is cheaper.
+
+ARTICLE
+
+Top Democrats, Long Hesitant to Spend Money in Texas, Start to Back Talarico
+The main super PAC for Senate Democrats will begin to run digital ads in the state’s Senate race, in a sign of the party’s growing confidence.
+By Theodore Schleifer and Lauren McGaughy
+Published 2026-09-29 09:03 UTC
+https://www.nytimes.com/2026/09/29/us/politics/james-talarico-ken-paxton-texas-senate-race-money.html
+
+Top national Democrats are preparing to make an initial investment in the Texas Senate race, a strategic shift that speaks to the party’s growing confidence in a state that has dashed its hopes for decades.
+
+The main super PAC for Senate Democrats, Senate Majority PAC, said on Tuesday that it would begin an advertising effort meant to help James Talarico, the Democratic nominee, by targeting his Republican opponent, Ken Paxton.
+
+The super PAC, which is aligned with Senator Chuck Schumer, the minority leader, had so far resisted spending money in Texas, viewing the party’s path to a majority as running through smaller states where advertising is cheaper.
+
+The group declined to provide a figure or a range for its planned spending in Texas. For now, it will run statewide ads only on YouTube and other digital and streaming platforms and forgo more expensive television ads that could drain the super PAC's resources. That suggests that national Democrats are not yet prepared to go all-in for Mr. Talarico.
+
+Mr. Talarico has narrowly led in polls and his campaign has raised much more money than Mr. Paxton’s, but national Republican groups have begun spending enormous amounts to prop up their nominee, giving him an overall financial advantage. G.O.P. groups have reserved about $167 million in ads for the final two months of the race.
+
+Because the cost of political advertising in Texas is so high, with its large size and many media markets, both parties have been reluctant to invest in the state, worrying that doing so could divert resources from other top Senate races. When Senate Majority PAC announced its initial advertising plans this year, it focused on eight states and left out Texas.
+
+Unless Democrats sharply ramp up their spending, Republicans are likely to hold an advantage on television in the final weeks of the race. As of Monday, Mr. Talarico was set to be outspent by nearly five to one on all advertising in the final two months before Election Day, with only about $35 million booked on his behalf, according to AdImpact, a media tracking firm.
+
+Lauren French, a spokeswoman for Senate Majority PAC, said that its ads would run through Election Day and “focus on Paxton as a corrupt, dangerous individual.”
+
+The first ad, which will come from an allied super PAC that was created last week and is called Texas Forever, targets Mr. Paxton, the state attorney general, over his office’s handling of a prominent child abuse case.
+
+Adam Hoffman, a lawyer in Waco, Texas, was accused of sexually abusing a local boy for years. After the victim declined to testify again when the trial resulted in a hung jury, lawyers in Mr. Paxton’s office cut a deal in which Mr. Hoffman served less than a month behind bars and did not need to register as a sex offender in Texas.
+
+The arrangement set off a local outcry and allegations that Mr. Paxton had given Mr. Hoffman a sweetheart deal. Mr. Paxton has denied any wrongdoing and defended his office’s work on the case, saying it was the best deal possible while honoring the victim’s wishes. Gerry Morris, a lawyer who represented Mr. Hoffman, told The New York Times in June that while he disliked Mr. Paxton, it was “an absolute 100 percent lie” that the attorney general had done anything to sway the case’s outcome.
+
+Some Democrats have privately pined for Senate Majority PAC to get involved in Texas. Mr. Talarico’s fund-raising emails have pointed to the challenge he faces, using words like “beyond ridiculous” to describe the tens of millions of dollars flooding into the state for his opponent.
+
+Garry Jones, who leads a different pro-Talarico super PAC, Lone Star Rising, argued that money alone would not swing the race for Mr. Paxton.
+
+“We’re a few weeks into the deluge, and what we’re seeing is that there isn’t enough money in the world to make Texans forget they hate Ken Paxton,” Mr. Jones said.
+
+Lone Star Rising said it planned to spend at least another $10 million for Mr. Talarico.
+
+Mr. Paxton, who won a hard-fought Republican primary on the back of his support from President Trump and the party’s right-wing base, has long been trailed by scandal. He was indicted in 2015 on felony fraud charges, but cut a deal in 2024 to avoid trial without admitting guilt. He was impeached in 2023 over allegations of corruption but was acquitted in a State Senate trial. His wife, a state senator, has filed for divorce, citing adultery.
+
+Anthony Holm, a longtime Republican consultant who once worked for Mr. Paxton, said that for the better part of a year, Mr. Talarico had been the one with an advantage in fund-raising, and therefore in messaging.
+
+But now that Mr. Paxton has the financial edge, Mr. Holm said, he can use the influx of cash to target the meaningful chunk of voters who are still undecided.
+
+“As long as Paxton has the money,” Mr. Holm said, “he’ll be fine.”
+
+================================================================================
+trump-steel-plant-iowa-midterms.html
+Source: PreloadedData  Paragraphs: 26  Words: 1266/1266
+================================================================================
+
+SUMMARY
+
+President Trump, staring down a rough midterm season for Republicans, unveiled plans for an Iowa steel mill project on Monday that he said would plug billions into the economy and create construction jobs in a state hit hard by his policies. When a reporter in the Oval Office asked him on Monday why several Republican candidates in Iowa were working so hard to protect their seats, Mr. Trump seemed mystified. In the Oval Office on Monday, Mr. Trump, several cabinet members and Iowa Republicans said the project would remind voters that Mr. Trump’s policies have created jobs.
+
+ARTICLE
+
+How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy
+As President Trump travels the country, he is expected to focus on his economic accomplishments at a time when Americans have expressed deep frustration with his policies.
+By Katie Rogers and Farah Stockman
+Published 2026-09-29 00:19 UTC
+https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html
+
+President Trump, staring down a rough midterm season for Republicans, unveiled plans for an Iowa steel mill project on Monday that he said would plug billions into the economy and create construction jobs in a state hit hard by his policies.
+
+Voters in Midwestern states were crucial to delivering a second election win to Mr. Trump, but now, those voters are among the hardest hit by tariff-driven manufacturing costs and a rise in fuel prices driven by the war in Iran. When a reporter in the Oval Office asked him on Monday why several Republican candidates in Iowa were working so hard to protect their seats, Mr. Trump seemed mystified.
+
+“I don’t know,” said Mr. Trump, who is traveling to several states this week ahead of the midterm elections. “I love Iowa. I’ve always been very strong with Iowa.”
+
+The project in Iowa is one of several job-creation announcements Mr. Trump is expected to make as he traverses the country. He will travel to several reliably conservative states this week, including Oklahoma and Alabama. He is also scheduled to visit Ohio this weekend in support of Senator Jon Husted, an embattled incumbent facing several challenges, including a lack of name recognition among some of the state’s most devoted conservatives.
+
+Mr. Trump said on Monday that he would also visit Iowa, where he hopes the planned steel mill will boost prospects for Republicans in tight races — and perhaps his own fortunes as a kingmaker who has asked supporters to pretend he is on the ballot in November. Americans have signaled that they are doing just that, but in a way that could backfire on him. The war in Iran and the cost of living have both eroded his support.
+
+So Mr. Trump has leaned into the promise of the mill, which is part of an $18 billion investment from Mesabi Metallics. Supporters of the project say it will be one of the largest steel mills in the world when it is completed.
+
+In the Oval Office on Monday, Mr. Trump, several cabinet members and Iowa Republicans said the project would remind voters that Mr. Trump’s policies have created jobs. Representative Mariannette Miller-Meeks, who is facing a tough re-election race and who last week voted to curb Mr. Trump’s war powers, appeared to be behind Mr. Trump, telling reporters that the steel mill could create some 6,000 construction jobs and 1,750 permanent jobs, with salaries that could exceed $100,000 a year.
+
+“We’re going to mine it in America. We’re going to mill it in America, and we’re going to make it in America,” Ms. Miller-Meeks said.
+
+Mesabi Metallic is owned by Essar Group, a Mumbai-based conglomerate controlled by one of India’s wealthiest families. The Iowa mill project follows another initiative led by Mesabi: a $2.5 billion iron-ore mine and pellet plant in Nashwauk, Minn.
+
+That project, described as the first new operation of its kind in the state in about 50 years, has been supported by EXIM Bank, a U.S. federal import-export bank that announced it would extend loans to the company worth up to $10 billion. Some analysts consider the EXIM loan to be risky, because Mesabi has faced financial problems and significant delays over the years.
+
+Alec Varsamis, a spokesman for EXIM, said that Mesabi had so far been granted a $770 million loan for the iron-ore mine in Minnesota.
+
+“We are operating at no cost to the taxpayer, and we are on track to repay our congressional appropriations to the U.S. Treasury,” Mr. Varsamis said.
+
+In the Oval Office on Monday, Mr. Trump said that the project would go forward even if control of Congress changed hands, or if a “less friendly” president took over. Rewant Ruia, chairman of Mesabi’s executive board, and Ravi Ruia, co-founder and vice-chairman of the Essar Group, were also in the Oval Office for the announcement.
+
+The company filed for bankruptcy protection in 2016, and has been entangled in a lawsuit with Cleveland-Cliffs, another steel manufacturer.
+
+Mesabi executives have leaned on a Trump-world insider as the company has sought to expand its footprint in the United States. The company hired Jason Miller, a longtime Trump adviser, as its lobbyist, paying him at least $240,000 through his company SHW Partners, according to lobbying disclosure records. The government of India also hired Mr. Miller’s company, paying $150,000 per month for “strategic counsel, tactical planning and government relations assistance on policy matters before the U.S. government,” according to federal filings under the Foreign Agents Registration Act.
+
+Mr. Miller said in text messages that he had stopped his work as a lobbyist for Mesabi, adding that he deregistered with the company at the end of July, and deregistered as a lobbyist for India in June. He has since joined the administration as an unpaid special government employee. He was not present in the Oval Office and said he had “recused” himself from Monday’s announcement.
+
+Robert Weissman, co-president of Public Citizen, a nonprofit consumer advocacy organization that tracked Mr. Miller’s lobbying on behalf of Mesabi and the Indian government, said that the extension of potentially billions in taxpayer-backed loans from EXIM Bank deserved more scrutiny because of Mr. Miller’s role.
+
+“In any other administration, this would be treated as a monumental scandal,” Mr. Weissman said. “But in this one, it’s just another day.” Rewant Ruia, chairman of Mesabi Metallics, spoke in the Oval Office on Monday, and said the new steel plant in Iowa “will use the latest technology and will compete head-to-head with any steel plant in the world on size, quality and on cost.”
+
+Gov. Kim Reynolds of Iowa, a Republican who attended the Oval Office event, said in a statement that the deal would be transformative for her state.
+
+“Our commitment in Iowa to fiscal responsibility, tax competitiveness, and long-term economic stability has created one of the nation’s strongest environments for business investment,” she said. “Now, this opportunity will fundamentally change the economic trajectory of our state and the entire region for decades to come.”
+
+The steel mill project is part of a broader election-season attempt by Mr. Trump to push back against widespread voter frustration with his policies, including tariffs that have been punishing for American manufacturers, particularly in the Midwest.
+
+Mr. Trump and his advisers believe that any polling predicting a blowout for Democrats is overrated, and to some degree, they have history on their side. On Monday, Mr. Trump again called recent polling “fake,” and complained that the news media had not appropriately trumpeted employment numbers, 401(k) account gains and a host of other accomplishments.
+
+“Nobody talks about all of the incredible things,” Mr. Trump said.
+
+But this is not 2016, or 2024. In 2026, Americans are deeply unhappy with the cost of living and frustrated with the war in Iran, which has driven up prices further. In response, Mr. Trump has taken to calling the concept of affordability a Democratic hoax, while promising that prices will come down as soon as the war ends.
+
+“We’re going to win that war very soon. That’ll be over, and the gases, gas prices, will come tumbling down,” Mr. Trump said. “So nobody else could have done that. Nobody else.”
+
+Mr. Trump’s self-congratulatory messaging on the war has done little to help G.O.P. candidates in tough races across the country. In the past week, Republicans running for Senate seats in Iowa and Michigan have called on Mr. Trump to end the conflict. A slate of other candidates, including two running for governor in Wisconsin and Michigan, and Mr. Husted in Ohio, also have said that the war needs to end, and soon.
+
+================================================================================
 ukraine-kramatorsk.html
 Source: PreloadedData  Paragraphs: 22  Words: 1002/1004
 ================================================================================
@@ -534,7 +784,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.572s
-user	0m1.362s
-sys	0m0.231s
+real	0m1.347s
+user	0m1.358s
+sys	0m0.248s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
