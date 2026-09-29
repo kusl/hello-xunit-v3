@@ -8,7 +8,7 @@ OUTPUT_FILE="${2:-docs/llm/dump.txt}"
 
 INCLUDE_EXTENSIONS="cs csproj sln slnx props targets json xml config editorconfig cshtml razor js css scss html yml yaml sql sh md"
 INCLUDE_NAMES=".gitignore .gitattributes .editorconfig Dockerfile LICENSE README"
-EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea TestResults"
+EXCLUDE_DIRS="bin obj .vs .git node_modules packages .vscode .idea TestResults nytimes"
 
 PROJECT_PATH="$(cd "$PROJECT_PATH" && pwd)"
 cd "$PROJECT_PATH"
