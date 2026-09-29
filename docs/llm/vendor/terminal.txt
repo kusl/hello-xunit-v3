@@ -1,68 +1,75 @@
-kushal@fedora:~/Videos/dl$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.673s
-user	0m5.672s
-sys	0m0.644s
+real	0m5.982s
+user	0m6.166s
+sys	0m0.671s
 
 Build succeeded in 0.4s
 
-real	0m0.566s
-user	0m0.576s
-sys	0m0.114s
-Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (2.5s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+real	0m0.579s
+user	0m0.592s
+sys	0m0.118s
+Restore complete (0.4s)
+  CSharpClassLibrary net10.0 succeeded (0.2s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.5s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 3.6s
+Build succeeded in 1.2s
 
-real	0m3.765s
-user	0m1.791s
-sys	0m0.325s
+real	0m1.365s
+user	0m1.157s
+sys	0m0.256s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (559ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (592ms)
 
 Test run summary: Passed!
   total: 55
   failed: 0
   succeeded: 55
   skipped: 0
-  duration: 737ms
+  duration: 785ms
 
-real	0m1.806s
-user	0m1.850s
-sys	0m0.328s
+real	0m1.900s
+user	0m1.941s
+sys	0m0.320s
 On branch master
 Your branch is up to date with 'origin/master'.
 
-nothing to commit, working tree clean
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	CSharpConsoleApp/nytimes/
+
+nothing added to commit but untracked files present (use "git add" to track)
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Listing files via git...
-Found 14 files to export
-Processing (1/14): .editorconfig
-Processing (2/14): .gitignore
-Processing (3/14): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (4/14): CSharpClassLibrary/FilenameString.cs
-Processing (5/14): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (6/14): CSharpConsoleApp/Program.cs
-Processing (7/14): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (8/14): CSharpUnitTests/FilenameStringTests.cs
-Processing (9/14): Directory.Build.props
-Processing (10/14): Directory.Packages.props
-Processing (11/14): HelloXUnit.slnx
-Processing (12/14): README.md
-Processing (13/14): export.sh
-Processing (14/14): global.json
+Found 17 files to export
+Processing (1/17): .editorconfig
+Processing (2/17): .gitignore
+Processing (3/17): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (4/17): CSharpClassLibrary/FilenameString.cs
+Processing (5/17): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (6/17): CSharpConsoleApp/Program.cs
+Processing (7/17): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
+Processing (8/17): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
+Processing (9/17): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
+Processing (10/17): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (11/17): CSharpUnitTests/FilenameStringTests.cs
+Processing (12/17): Directory.Build.props
+Processing (13/17): Directory.Packages.props
+Processing (14/17): HelloXUnit.slnx
+Processing (15/17): README.md
+Processing (16/17): export.sh
+Processing (17/17): global.json
 
 Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 0.03 MB across 14 files
+Total source size: 0.96 MB across 17 files
 
-real	0m0.304s
-user	0m0.183s
-sys	0m0.135s
+real	0m0.344s
+user	0m0.217s
+sys	0m0.160s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -78,9 +85,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.368s
-user	0m1.308s
-sys	0m0.288s
+real	0m1.406s
+user	0m1.344s
+sys	0m0.306s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -92,9 +99,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.687s
-user	0m1.472s
-sys	0m0.295s
+real	0m1.388s
+user	0m1.370s
+sys	0m0.274s
 hello_there_I_have_a_surprise_final_final_really.pdf
   40  middle: hello_there_I_have_a…al_final_really.pdf  end: hello_there_I_have_a_surprise_final_fin…
   24  middle: hello_there_…_really.pdf                  end: hello_there_I_have_a_su…
@@ -120,7 +127,7 @@ very_long_archive.tar.gz
   10  middle: ve….tar.gz                                end: very_long…
 
 
-real	0m1.219s
-user	0m1.169s
-sys	0m0.198s
+real	0m1.249s
+user	0m1.180s
+sys	0m0.213s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
