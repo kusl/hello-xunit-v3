@@ -1,33 +1,33 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.865s
-user	0m10.512s
-sys	0m0.780s
+real	0m5.967s
+user	0m10.570s
+sys	0m0.837s
 
 Build succeeded in 0.4s
 
-real	0m0.592s
-user	0m0.602s
-sys	0m0.119s
-Restore complete (0.5s)
+real	0m0.567s
+user	0m0.567s
+sys	0m0.116s
+Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.4s
 
-real	0m1.602s
-user	0m1.203s
-sys	0m0.276s
+real	0m1.564s
+user	0m1.193s
+sys	0m0.253s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-failed CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(relative: "2026/09/29/us/politics/democrats-voter-turnout.htm"···, paragraphs: 17, reportedWords: 660, authors: 3, figures: 0, graphics: 2, notes: 0) (3ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(relative: "2026/09/29/us/politics/democrats-voter-turnout.htm"···, paragraphs: 17, reportedWords: 660, authors: 3, figures: 0, graphics: 2, notes: 0) (5ms)
   from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
   Assert.Equal() Failure: Values differ
   Expected: 17
   Actual:   16
     at CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(String relative, Int32 paragraphs, Int32 reportedWords, Int32 authors, Int32 figures, Int32 graphics, Int32 notes) in CSharpUnitTests/ArticleExtractionTests.cs:1143
     --- End of stack trace from previous location ---
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (719ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (704ms)
 Exit code: 2
 
 Test run summary: Failed!
@@ -35,14 +35,14 @@ Test run summary: Failed!
   failed: 1
   succeeded: 216
   skipped: 0
-  duration: 914ms
+  duration: 891ms
 Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m2.031s
-user	0m2.376s
-sys	0m0.426s
+real	0m1.993s
+user	0m2.368s
+sys	0m0.412s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -72,9 +72,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.338s
-user	0m0.197s
-sys	0m0.162s
+real	0m0.337s
+user	0m0.179s
+sys	0m0.170s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -90,9 +90,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.382s
-user	0m1.342s
-sys	0m0.287s
+real	0m1.364s
+user	0m1.345s
+sys	0m0.291s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -104,9 +104,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.409s
-user	0m1.390s
-sys	0m0.273s
+real	0m1.399s
+user	0m1.339s
+sys	0m0.313s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -2188,7 +2188,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.374s
-user	0m1.469s
-sys	0m0.308s
+real	0m1.366s
+user	0m1.440s
+sys	0m0.311s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
