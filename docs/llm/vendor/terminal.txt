@@ -1,14 +1,14 @@
-kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
+kushal@fedora:~/src/dotnet/terlingua$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.724s
-user	0m10.244s
-sys	0m0.751s
+real	0m5.957s
+user	0m10.456s
+sys	0m0.811s
 
 Build succeeded in 0.4s
 
-real	0m0.572s
-user	0m0.572s
-sys	0m0.110s
+real	0m0.571s
+user	0m0.585s
+sys	0m0.114s
 Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (2.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
@@ -16,24 +16,24 @@ Restore complete (0.4s)
 
 Build succeeded in 4.1s
 
-real	0m4.220s
-user	0m1.322s
-sys	0m0.244s
+real	0m4.209s
+user	0m1.376s
+sys	0m0.254s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (903ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (708ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 1s 094ms
+  duration: 895ms
 
-real	0m2.149s
-user	0m2.310s
-sys	0m0.407s
+real	0m1.962s
+user	0m2.336s
+sys	0m0.372s
 On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -41,42 +41,32 @@ Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Listing files via git...
-Found 27 files to export
-Processing (1/27): .editorconfig
-Processing (2/27): .gitignore
-Processing (3/27): CSharpClassLibrary/ArticleExtraction.cs
-Processing (4/27): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (5/27): CSharpClassLibrary/FilenameString.cs
-Processing (6/27): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (7/27): CSharpConsoleApp/Program.cs
-Processing (8/27): CSharpConsoleApp/nytimes/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html
-Processing (9/27): CSharpConsoleApp/nytimes/2026/09/29/business/irs-tax-returns-citizenship.html
-Processing (10/27): CSharpConsoleApp/nytimes/2026/09/29/business/oil-exports-strait-of-hormuz.html
-Processing (11/27): CSharpConsoleApp/nytimes/2026/09/29/opinion/data-centers-democrats-republicans.html
-Processing (12/27): CSharpConsoleApp/nytimes/2026/09/29/us/home-mortgage-program-birthrate-decline.html
-Processing (13/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html
-Processing (14/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/democrats-voter-turnout.html
-Processing (15/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/james-talarico-ken-paxton-texas-senate-race-money.html
-Processing (16/27): CSharpConsoleApp/nytimes/2026/09/29/us/politics/trump-steel-plant-iowa-midterms.html
-Processing (17/27): CSharpConsoleApp/nytimes/2026/09/29/world/europe/ukraine-kramatorsk.html
-Processing (18/27): CSharpUnitTests/ArticleExtractionTests.cs
-Processing (19/27): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (20/27): CSharpUnitTests/FilenameStringTests.cs
-Processing (21/27): Directory.Build.props
-Processing (22/27): Directory.Packages.props
-Processing (23/27): HelloXUnit.slnx
-Processing (24/27): README.md
-Processing (25/27): docs/llm/vendor/claude-001.md
-Processing (26/27): export.sh
-Processing (27/27): global.json
+Found 17 files to export
+Processing (1/17): .editorconfig
+Processing (2/17): .gitignore
+Processing (3/17): CSharpClassLibrary/ArticleExtraction.cs
+Processing (4/17): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (5/17): CSharpClassLibrary/FilenameString.cs
+Processing (6/17): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (7/17): CSharpConsoleApp/Program.cs
+Processing (8/17): CSharpUnitTests/ArticleExtractionTests.cs
+Processing (9/17): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (10/17): CSharpUnitTests/FilenameStringTests.cs
+Processing (11/17): Directory.Build.props
+Processing (12/17): Directory.Packages.props
+Processing (13/17): HelloXUnit.slnx
+Processing (14/17): README.md
+Processing (15/17): docs/llm/vendor/claude-001.md
+Processing (16/17): export.sh
+Processing (17/17): global.json
 
 Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 3.05 MB across 27 files
+Total source size: 0.14 MB across 17 files
 
-real	0m0.474s
-user	0m0.278s
-sys	0m0.271s
+real	0m0.376s
+user	0m0.198s
+sys	0m0.189s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -92,9 +82,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.277s
-user	0m1.283s
-sys	0m0.245s
+real	0m1.417s
+user	0m1.295s
+sys	0m0.299s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -106,9 +96,125 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m2.186s
-user	0m1.541s
-sys	0m0.296s
+real	0m1.644s
+user	0m1.444s
+sys	0m0.286s
+================================================================================
+ai-doctor-medical-students.html
+Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
+================================================================================
+
+SUMMARY
+
+I’m confident in my mastery over what doctors do — history-taking, reasoning, communicating. I’m less confident about my continued mastery of an ever-evolving universe of facts. Training doctors in the A.I. age, then, means training them to think critically with a machine in the loop, for a speculative future of medicine that we can only glimpse.
+
+ARTICLE
+
+Being a Doctor Will Never Be the Same After A.I.
+I’m confident in my mastery over what doctors do — and less confident about my continued mastery of an ever-evolving universe of facts.
+By Rachael Bedard
+Published 2026-09-25 09:00 UTC
+https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html
+
+I have a confession: A.I. is making me a better doctor. And I worry that it’s making doctors-in-training worse.
+
+Amid our recent doom cycle about whether A.I. will lead to extreme societal harms, a parallel anxiety has taken hold in medicine about whether A.I. will one day replace physicians. In the context of that panic, I feel a little sheepish admitting that I already use the technology in my practice all the time — especially since I harbor anxieties about what its availability means for my students and residents, and therefore for the profession at large.
+
+This summer, I used an A.I. tool — a platform called OpenEvidence, accessible only to health care providers — to help me choose antibiotics for one patient and to interpret unusual bloodwork for another. A.I. reminded me to consider migraines when a woman presented with dizziness. I chatted with the large language model about treatments for an older man with lung cancer. I have also consulted it about a rash on my father’s back, my son’s fever, a friend’s arm pain and my own difficulty sleeping.
+
+I practice primary care, where every malady is my business. Almost every month, I’m confronted with a complaint or syndrome that I don’t recognize. I’m confident in my mastery over what doctors do — history-taking, reasoning, communicating. I’m less confident about my continued mastery of an ever-evolving universe of facts. Now, the chatbot in my pocket reassures me that I will always know enough, or have access to the cloud-based intelligence that generally does.
+
+All of my students and residents also use OpenEvidence, however, and I worry about the consequences of introducing such a powerful decision aid so early in their careers. Not only have they memorized less than I’d like, but they can seem almost passive in their relationship to their machines.
+
+It’s impractical and counterproductive to train physicians in 2026 without exposure to A.I. Doctoring — as opposed to writing, my other work — is not a creative act that needs to be protected from technological annexation. It’s a service that ought to embrace any resource that improves patient care. Training doctors in the A.I. age, then, means training them to think critically with a machine in the loop, for a speculative future of medicine that we can only glimpse.
+
+I started medical school 20 years ago. Every day since, I have looked something up, skimmed a journal article or talked through a case with a colleague — medicine is a phone-a-friend profession. As a student, I walked around the hospital with “Pocket Medicine,” a standard-issue guide, tucked into my white coat pocket, and I consulted it all day long. I had to understand exactly what I was looking for when I flipped through its pages, and it could not tell me what to do with whatever knowledge I found there.
+
+I haven’t carried “Pocket Medicine” for years. Instead, I am never without my phone. For years, I primarily took my questions to the widely used website UpToDate.com, an evidence-based medical encyclopedia. But now, several times a day, I use OpenEvidence.
+
+OpenEvidence is trained exclusively on peer-reviewed evidence and guidelines, and includes citations for all its claims. Not every insight found there is useful or even accurate, because much of the medical literature it refers to falls short on both those counts. To use the app well, you must stay skeptical as you scroll. It does, however, allow me to trace a statement to a source so I can evaluate it for myself. OpenEvidence reports that over half of American doctors regularly use the app, and it recently announced a plan to expand free access to doctors in developing nations.
+
+OpenEvidence and I can have an iterative conversation grounded in a case’s peculiarities, a difference in kind from when I used to look up general information and try to apply it to an individual situation. The app lets me input my patient’s labs, or upload an imaging report photo, and then offers suggestions about what it sees. Not infrequently, it suggests something I did not consider.
+
+I’m surprised by how much I learn from, and enjoy, these interactions. More important, my patient care has improved as conversations with the agent push my thinking beyond its usual limits.
+
+For the residents I supervise, however, the app’s speed and anticipatory helpfulness are a hindrance as much as an enhancement. When I skim a chatbot’s response to a question about back pain, I’m intuitively testing its suggestions against my hard-won mental model for how to approach back pain. Could I have developed that if I’d had a robot leading my thinking all along?
+
+I asked Adam Rodman, a physician and A.I. researcher at Harvard Medical School, how to think about these risks. He said he shared my concern that trainees aren’t benefiting from “productive struggles” as much as their predecessors. “In experienced hands, decision support might cause a little de-skilling, but a little de-skilling probably doesn’t matter much to you,” Dr. Rodman told me. “But if you do that to somebody who has much less skill, the cognitive offloading can cause never-skilling.”
+
+I don’t think it’s critical that my residents memorize every diagnostic protocol, just as it’s no longer critical that I recall my friends’ phone numbers. But I do want them to learn to hear problems the way a doctor is supposed to, as stories that contain clues that set off a cascade of cognitive associations. And I want them to develop the cardinal instincts that amount to good judgment in medicine: the ability to distinguish sick from not sick and to prioritize competing patient concerns, as well as the tact to effectively seek information beyond what a patient voluntarily reveals.
+
+A.I. is only the latest tool to provoke a reckoning around which skills are truly essential to doctoring. As a student, I struggled valiantly to identify heart murmurs in my patients, even though I had access to imaging techniques that made my stethoscope somewhat redundant. Similarly, students today need opportunities to build cognitive muscles through study, even if they will seldom rely on their own memories over their machines.
+
+Dr. Rodman shared ideas for how to help learners experience worthwhile friction despite the availability of A.I. — proposals like A.I.-free clinical reasoning sessions and A.I. literacy training. We don’t yet know, however, what caring for patients will even look like once artificial intelligence is fully integrated into medicine, nor what its capabilities will be.
+
+Current doctors-to-be may be the most adversely affected generation when it comes to A.I. They’re training before we know enough about how to teach them well in this new paradigm. I want their patients to benefit, as I think mine are, from doctors supported by these tools. But I also want them to develop a talent for reasoning their way through complex problems full of distractions and ambiguities, and rich with emotional stakes.
+
+The hardest parts of doctoring will stay hard, I think, even if some other tasks are made easier. Mastering those challenges will still be where the utility and the pleasure of medicine will be found. The profession has adapted to waves of paradigm-shifting technological change before, yet the privilege of taking care of people remains.
+
+Rachael Bedard is a contributing Opinion writer, a geriatrician and a palliative care doctor.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+bond-market-japan-yen.html
+Source: PreloadedData  Paragraphs: 17  Words: 1066/1156
+================================================================================
+
+SUMMARY
+
+After more than three decades of economic gloom, Japan is back. Today, Japanese government bonds are paying interest rates not seen in 30 years, lifted by economic growth and deficit spending. That month, not only did Japan’s Finance Ministry intervene to stem the yen’s decline, but the Bank of Japan also increased interest rates, hinted at more rate hikes to come and said it would cut bond purchases.
+
+ARTICLE
+
+There’s a New Threat to Your Personal Finances
+The revival of Japan’s economy isn’t all good news.
+By Rebecca Patterson
+Published 2026-09-28 09:04 UTC
+https://www.nytimes.com/2026/09/28/opinion/bond-market-japan-yen.html
+
+After more than three decades of economic gloom, Japan is back. This should be welcome news, but there is a downside that’s going to make things challenging for America and its economic stewards in the Trump administration. Remember the butterfly flapping its wings and causing tornadoes? It’s like that, only in this case the butterfly is a $7.6 trillion bond market.
+
+For three decades, Japanese investors, facing a lifeless domestic economy, would stash their money overseas where it could earn better returns. Today, Japanese government bonds are paying interest rates not seen in 30 years, lifted by economic growth and deficit spending. That means investors can bring their money home — and that has the potential to produce a global financial market mess. The risks are large enough that they have already prompted a number of exceptional interventions by the U.S. Treasury.
+
+This is for sure an esoteric part of international finance. It’s also a vital underpinning for markets that matter for your retirement account, savings and household budget.
+
+We need to start in 1990. The bursting of Japan’s go-go bubble economy and the subsequent long economic slump prompted companies there to sit on their cash rather than invest. Japan’s central bank embarked on a range of experiments to jump-start the economy, starting with rapidly cutting short-term interest rates from a peak of 6 percent in 1990 to nearly zero by the middle of the decade.
+
+Economic growth didn’t rise enough to encourage households to spend. Instead, they preferred to wait for prices to fall. The Bank of Japan kept trying. It bought vast amounts of government bonds, a process known as quantitative easing, and in 2016, introduced negative interest rates. The yield on Japan’s 10-year bond hovered around one-tenth of a percentage point. For an equivalent U.S. Treasury bond, the interest rate it paid at the time was 2.35 percent.
+
+The real-world result was that Japan effectively paid people to borrow its currency. An investor could finance the purchase of a foreign asset, such as a Treasury bond, with yen. Without markets budging at all, the trade would make money, given the difference between the borrowing cost and the yield on the Treasury bond purchased. This is what financial analysts call the carry trade.
+
+Over the years, and in similar ways, the yen funded investments around the world — in currencies, bonds and equities. As long as other countries’ returns looked sufficiently more attractive, the carry trade grew. There is no definitive measure for its size. One Treasury Department estimate, which reflects a number of factors including the carry trade, says that of mid-2025, Japanese investors owned around $2.8 trillion of U.S. equities, bonds and other assets.
+
+Undoing this would be the financial equivalent of a tide rushing out before a tsunami strikes. The first hint of what it could look like came in 2024. That July, U.S. government bond yields were more than three percentage points higher than their Japanese equivalents. Investors borrowed yen and sold them for dollars to buy Treasury bonds. That selling weakened the yen to levels that alarmed policymakers. Japanese exporters benefit from a weaker yen since it makes their goods more competitive overseas, but households suffer because the price of imported goods rises.
+
+That month, not only did Japan’s Finance Ministry intervene to stem the yen’s decline, but the Bank of Japan also increased interest rates, hinted at more rate hikes to come and said it would cut bond purchases. The combination reversed the logic of the carry trades and investors started heading for the exits.
+
+That turned to panic when a disappointing U.S. jobs report in August 2024 convinced investors that the Federal Reserve might need to cut interest rates. This too made the carry trade less attractive. The tsunami hit on Aug. 5 — Japan’s Nikkei equity index fell 12.4 percent in a single session, its biggest one-day loss since the Wall Street crash of October 1987. The S&P 500 index fell 3 percent.
+
+Fast forward to today: Policymakers in Japan and the United States are trying to thread a tiny, sharp needle. Both governments are spending more, including on defense and infrastructure. That spending requires more government debt. At the same time, stubbornly high inflation is frustrating voters and forcing central banks to raise interest rates. That could undermine economic growth — government bond yields, after all, anchor borrowing costs for items including home mortgages and auto loans. Higher interest rates also raise the cost of servicing all that debt, which eats into funds for other government priorities.
+
+So how can both countries simultaneously support growth, fight inflation and bring down long-term interest rates?
+
+While an economic boost from artificial intelligence may help at some point, Japan’s finance minister floated an answer in July. She suggested asking Japan’s government pension investment fund, which manages $2.1 trillion in assets, to sell some foreign bonds and buy Japanese ones. This would require selling foreign currencies, including a lot of dollars. In other words, the inverse of the yen carry trade. The move would help lower Japanese bond yields without slowing Japanese growth.
+
+Unfortunately, such a step would boomerang on the United States, because it would most likely push up Treasury bond yields and weaken the dollar. That’s among the reasons Treasury Secretary Scott Bessent has been intervening in markets in novel ways, including seeking a pathway for Japan to tackle the challenges facing its own currency and bond markets without needing to sell U.S. Treasurys.
+
+Even if these various interventions work, the risk remains that investors will take at least some of their money out of America and back to Japan.
+
+Japan’s stock market has risen nearly 30 percent so far this year, more than double the growth in the S&P 500. Government bond yields are near 3 percent for the first time in decades. Any Japanese investors looking to take advantage wouldn’t pull their money out of overseas markets overnight. But the size of the potential repatriation, and the increasingly attractive investment options back home, means America needs to be on guard that a slow current of capital doesn’t become a sudden flood.
+
+For many years, traders tried and failed to guess when Japanese bond yields would rise, so much so that the trade was nicknamed the “widow maker.” If the giant unwinding of the carry trade finally comes, let’s hope it doesn’t leave any more financial widows in its wake.
+
+Rebecca Patterson is an economist and senior fellow at the Council on Foreign Relations who has held senior positions at JPMorgan Chase and Bridgewater Associates. She is a co-host of the podcast “The Spillover.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
 ================================================================================
 john-husted-ohio-president-trump-midterms.html
 Source: PreloadedData  Paragraphs: 32  Words: 1442/1444
@@ -337,6 +443,71 @@ The White House responded to a request for comment through the Defense Departmen
 Eric Schmitt contributed reporting.
 
 ================================================================================
+nyc-second-home-tax-lawsuit.html
+Source: PreloadedData  Paragraphs: 24  Words: 858/858
+================================================================================
+
+SUMMARY
+
+A Staten Island judge on Tuesday dealt a major setback to Mayor Zohran Mamdani’s push to raise taxes on the wealthy, saying that the city had mishandled the rollout of a tax on high-end second homes and must start over. The judge, Wayne M. Ozzi of State Supreme Court on Staten Island, sided with a group of homeowners who had sued the city. The city said it was sending new notices, based on the 2025 tax data, to more than 11,000 property owners informing them that they needed to prove residency or pay the new charge.
+
+ARTICLE
+
+Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over
+A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani.
+By Mihir Zaveri
+Published 2026-09-29 19:50 UTC
+https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html
+
+A Staten Island judge on Tuesday dealt a major setback to Mayor Zohran Mamdani’s push to raise taxes on the wealthy, saying that the city had mishandled the rollout of a tax on high-end second homes and must start over.
+
+The judge, Wayne M. Ozzi of State Supreme Court on Staten Island, sided with a group of homeowners who had sued the city. The homeowners had argued that the Mamdani administration did not try hard enough to determine who should owe the tax before moving toward collecting it.
+
+“Homeowners are being substantially harmed and penalized needlessly” by the city’s “method of implementing the tax law,” Justice Ozzi wrote.
+
+The lawsuit did not challenge the legality of the tax on second homes, also known as pieds-à-terre. Unveiled by Gov. Kathy Hochul in the spring and backed by the mayor, the tax was popular among voters and hailed by Mr. Mamdani’s supporters as a way to make good on his pledge to “tax the rich.” It was expected to close a budget gap by raising some $500 million annually to fund city services.
+
+But the bumpy rollout of the policy on a short timeline drew immediate criticism from the mayor’s opponents, and some allies, including Ms. Hochul.
+
+“City Hall botched this rollout and should have just admitted the errors and fixed its own mistake, instead of wasting time and taxpayer dollars by fighting it in court,” said Randy Mastro, a lawyer for the homeowners and a former city official who has criticized the mayor.
+
+It is not clear how the judge’s decision will affect the city’s ability to collect the money as the case continues: The first tax bills typically go out in November, and the funds must be collected by the spring for this fiscal year.
+
+The city is expected to seek a stay of Tuesday’s decision to allow the rollout to continue.
+
+Passed in the state budget, the tax would apply to condos and co-ops that are used as second homes with a “market value” — a complicated metric determined by the city’s Finance Department — of at least $1 million and to one-, two- and three-family second homes with a “market value” of more than $5 million.
+
+The lawsuit argued that the city had sowed confusion by sending out notices to about 17,000 New Yorkers informing them that their properties could be subject to the tax, without first making sure that the property owners were not full-time residents. The suit also took issue with the city’s publishing an online list of nearly one million “properties that may be subject to the charge” that included the owners’ names.
+
+Justice Ozzi ordered the city to take down the list and replace it with a more limited version that shows only the properties subject to the tax. It also must cancel its previously mailed notices, narrow the list of recipients and send new notices that include detailed information about how the city determined each property that would be subject to the charge.
+
+Justice Ozzi issued a temporary restraining order to pause the rollout last month, but the city appealed, which had the effect of halting the order.
+
+The most recent hearing in the case, on Aug. 31, lasted more than two hours and featured several testy exchanges.
+
+Mr. Mastro said at the hearing that the problems with the introduction of the tax represented Mr. Mamdani’s “antipathy toward private property ownership.”
+
+“We’re here about a botched rollout of unparalleled proportions,” he said.
+
+But Steven Banks, the city’s top lawyer, argued that Mr. Mastro was misrepresenting the steps the city took to collect the tax.
+
+“He’s entitled to his opinions,” Mr. Banks said. “He’s not entitled to his own facts.”
+
+In court filings on Aug. 25, the city offered its most detailed defense yet of the complex process of administering the tax, and acknowledged the complaints from some homeowners over its messaging.
+
+The court papers, along with another filing on Aug. 31, said that on Aug. 12 the city’s Finance Department received some 2025 tax data from the state that established a primary residency for a segment of the property owners who had been sent notices.
+
+The city said it was sending new notices, based on the 2025 tax data, to more than 11,000 property owners informing them that they needed to prove residency or pay the new charge.
+
+Many of those properties are owned by trusts or L.L.C.s; others are properties for which the city has not received 2025 tax information or other data that shows the property is not subject to the tax.
+
+The city said that it was extending the deadline to file proof of residency to Oct. 6; it had earlier been Sept. 18. As of Sept. 16, it had approved the proofs of residency submitted by some 4,700 property owners and was reviewing thousands more.
+
+The city had sought dismissal of the suit, arguing that the plaintiffs had not shown that the rollout had meaningfully harmed them and that proving that a property was a primary residence was straightforward, even when it is owned by a trust or corporate entity.
+
+This is a developing story. Check back for updates.
+
+================================================================================
 data-centers-democrats-republicans.html
 Source: PreloadedData  Paragraphs: 25  Words: 1814/1836
 ================================================================================
@@ -404,6 +575,968 @@ As the baby boomers’ presence in the electorate wanes, the millennials and the
 The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
 
 Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+diesel-prices-truckers.html
+Source: PreloadedData  Paragraphs: 13  Words: 898/975
+================================================================================
+
+SUMMARY
+
+Every week seems to bring a record high for diesel prices — and more trouble for the nation’s truckers. These rising fuel costs are going to make their way into your purchases until the world’s supply of diesel increases, which doesn’t seem likely anytime soon, given the Iran and Ukraine conflicts. There’s been a lot of talk about banning exports of diesel fuel, at least temporarily.
+
+ARTICLE
+
+$6 Diesel Is Hurting Small Truckers. It Could Hurt Trump, Too.
+When fuel costs rise, the price of everything rises.
+By Adam Wingfield
+Published 2026-09-29 15:00 UTC
+https://www.nytimes.com/2026/09/29/opinion/diesel-prices-truckers.html
+
+Every week seems to bring a record high for diesel prices — and more trouble for the nation’s truckers. They’re hurting. Since January, diesel has increased more than 80 percent, to $6.53 a gallon.
+
+Nearly everything that you buy rides on a big, diesel-burning truck at some point. Farmers are heavy users of diesel for their machinery, too, so diesel figures in twice at the supermarket. These rising fuel costs are going to make their way into your purchases until the world’s supply of diesel increases, which doesn’t seem likely anytime soon, given the Iran and Ukraine conflicts.
+
+President Trump is reportedly considering banning diesel exports. It won’t help. Sure, some regions in the United States, such as the Southeast, would see prices subside for a short time, but prices elsewhere would increase.
+
+For small truckers, the pain at the pump is threatening their businesses. About 92 percent of America’s trucking companies are small operations, with 10 or fewer trucks. If we lose too many of them, freight costs — and then your costs — will go even higher. I’ve been in this industry for more than two decades, as both a truck owner and now as a logistics consultant helping smaller operators. A lot of them were struggling even before we saw a $3 per gallon increase in diesel costs. It’s their largest variable expense.
+
+We’re advising our truckers to be careful about the lanes they choose—as in, what destinations will yield the best outcomes. With truckers now spending as much as $1,400 per tank, you have to tightly control fuel burn. In California, the price is literally off the charts — the pumps were at their limit of $9.999 a gallon. We tell truckers going west to east to buy only enough fuel to get out of California. It’s worth it to add a stop in Nevada and fill up there. My clients generally buy fuel at the pump, often at a discount using a fuel card. But they can’t add a line item called a fuel surcharge.
+
+In trucking, there are two different paths for moving cargo: One is by contract and the other is by the spot market. Contracted freight loads made by big fleets include a fuel surcharge that changes from week to week and is tied to the average diesel price. The spot market moves general freight through brokerages. Small carriers do most of their business this way; they generally don’t haul specialty items or perishables like pharmaceuticals. Truckers bid against one another on each load the brokers offer.
+
+The spot market isn’t working well for a lot of them. This year, overall spot rates are up roughly 66 cents per mile to $3.41 per mile. But fuel costs are up 90 cents per mile. For a small trucking company, that can often become a losing proposition — they can’t hedge the cost of diesel prices as UPS and other large outfits can.
+
+With diesel prices spiking, too often it means running a truckload at a loss, once you include costs such as maintenance, truck payments, insurance, registration and permits and disability coverage. You’ve got to worry about cash management, too. A small carrier running spot negotiates load by load but has to pay the fuel card bill in seven days whether that load is paid for or not.
+
+To make matters worse, the trucking industry has dealt with a prolonged, post-pandemic freight recession that drove down rates and forced out thousands of trucking outfits. The current price spike could be a similar catalyst. That’s how exits happen in this business. Not a sudden collapse, but an owner-operator parking the truck, letting their interstate trucking authority lapse, and walking away because the next load won’t cover his bills.
+
+Small trucking companies tend to drive in the right lane when it comes to politics. And they want immediate relief. Simple as that. If diesel rates keep rising, truckers will show up at the polls and let their complaints be known. They have been posting videos from truck stops and gas stations of their astonishingly high fuel bills, just in case the message isn’t getting across.
+
+There’s been a lot of talk about banning exports of diesel fuel, at least temporarily. One Republican senator, Dan Sullivan of Alaska, said it out loud: “The cost of diesel is just too damn high.” Agreed. We need to get lower fuel prices for the sake of the entire economy. But a ban on diesel exports isn’t necessarily the right solution. We live in a global market. A ban will ultimately raise the cost of imports. It may provide temporary price relief to truckers in states such as Mississippi and Louisiana, close to the refineries that supply diesel, but it will raise prices in the Northeast, which imports diesel. Mid- to long term it could make things worse.
+
+We all pay when there’s a sustained fuel price run-up like one we’ve experienced this year. It will probably push the next wave of small truckers out faster than many of us expect. Fewer trucks on the road means less capacity, and less capacity means higher rates. Those costs pass to the shipper, then the retailer, then to the register — where you will wonder why prices are going up again.
+
+Everything on that shelf got there on a truck. And every one of those miles costs more to run today than it did in January.
+
+Adam Wingfield is a former trucking company owner and founder of Innovative Logistics Group, a consultancy focused on small trucking firms.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+ezra-klein-podcast-bill-gates.html
+Source: PreloadedData  Paragraphs: 326  Words: 11369/11556
+================================================================================
+
+SUMMARY
+
+So when I think about those two things, and when I think about what I’m hearing from people, my confidence that we have the monitoring, the auditing, the testing capabilities we are going to need is low. That one thing that happens when people get wealthier, and you’d probably know about this, is that they all of a sudden get a lot more human help. There are a lot of people who want your attention and don’t get it.
+
+ARTICLE
+
+Bill Gates’s Blunt Warning on A.I.
+As A.I. capabilities accelerate, the technologist is shocked by the “complete lack of engagement” with the question of how to manage its risks.
+By Ezra Klein and Jack McCordick
+Published 2026-09-29 09:03 UTC
+https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html
+
+This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.
+
+Bill Gates is a fascinating person in the artificial intelligence debate right now. He is somebody with experience in several of the different perspectives that most people can only hold one of: He was a revolutionary technologist who built some of the foundations of the future that we’re now living in. When he was chief executive of Microsoft, he was a corporate leader. He has felt the momentum of corporate competition — Microsoft, of course, is still in some of the race dynamics present in A.I. And then, as chair of the Gates Foundation, he has been working with governments around the world on regulatory issues, poverty alleviation and equity for many years.
+
+Very few people combine technological experience, corporate experience and governmental experience in quite the way he does.
+
+So his recent essay on A.I., in which he says that he is staking his reputation on trying to get people to see how bad what is coming might be and trying to get them to see that we are not ready for what is about to happen, was something.
+
+It was a real departure from what I’ve read from Gates previously.
+
+When I sat and talked to him, I was really struck by how emphatic he was — how afraid even he seemed to be of what we are building, and how so many of the people in positions of authority are denying what is about to happen.
+
+It’s really quite a call to arms.
+
+(The New York Times has sued OpenAI and Microsoft claiming copyright infringement. The companies have denied those claims.)
+
+Ezra Klein: Bill Gates, welcome to the show.
+
+Bill Gates: Great to see you.
+
+So I wanted to begin with a clip we found of you on “Late Show With David Letterman” from 1995. I’m going to hand it over to you to play.
+
+Archival clip of “Late Show With David Letterman”: David Letterman: Is there something now, beyond what we understand about computers, that 20 years ago we didn’t fully understand about computers — is there now another level of something, maybe we haven’t even thought of it, maybe it’s not even possible, maybe a whole different mechanism, a whole different software and hardware? Or is this going to be it now through the end of time? Bill Gates: Well, mostly what we’re working on now is the computer being a tool — a tool to help us learn or find other people with the same interests. Eventually, we may figure out how to make the computer think, but that turns out to be a very tough problem. In fact, there’s been almost no progress made on it. So nobody knows when that’ll happen. Some people think it’ll never happen. Letterman: Yeah, we don’t want them to think, do we? Not really, I don’t think. Gates: Well, it’s a scary thought.
+
+So that was 30 years ago. Narrate for me how we went from that being a scary thought that might never happen to arguably the reality we’re sitting here discussing today.
+
+Well, the notion that computation could provide thinking at a human level — you have Alan Turing talking about that before I’m born, and even proposing a test of: If you could be fooled in a conversation, that was called passing the Turing test.
+
+And so the whole time I’m learning software, this idea of: Can we make software see or listen or read or write? That’s the holy grail.
+
+And when I did drop out of Harvard, I said to my co-founder, Paul Allen: Gosh, if there’s a breakthrough in artificial intelligence while we’re off selling basic interpreters and word processors, we’ll feel bad. I might wish I would have stayed in academia.
+
+So that’s 1975. Progress on A.I. is mostly going down dead ends, like Prolog expert systems. And there’s a small group, including Geoffrey Hinton and a few others, who are working on neural nets. And eventually, there’s enough power — actually coming from the graphics processor — that that idea, these highly statistical approaches, start to show promise.
+
+And I was going down to see OpenAI on a regular basis to see the work they were doing, and I challenged them, saying: Hey, if you can read a biology textbook and pass the advanced placement exam — getting a perfect grade, which is a 5 — then you will have proven that you are reading. That is, encoding knowledge in an accessible form.
+
+And so it’s six months before the public release that Sam Altman, Greg Brockman and Ilya Sutskever come to my house and demonstrate to me getting a 5 on the A.P. exam, even on questions that I had made up that it couldn’t possibly have seen — very complex biology problems. It was nearly perfect. So that was shock No. 1.
+
+And then late last year, when Anthropic’s Claude coding models got super good, I could see that they are as good as I am — it’s significantly my most developed talent, because I was obsessed from age 13 to 24 as to whether I could write code as good or better than anyone.
+
+That’s another moment where I went: This is incredible. That the capability of doing long-running, complex tasks has now gotten to the point that they are superhuman at writing code and in finding flaws in code.
+
+So what they’re not superhuman at yet is deciding what to do — that kind of higher-level strategizing. Do you think that’s far from being a capability for them?
+
+Well, definitely, if you’re — our foundation does these strategy reviews. We spend two weeks in October to set how we’re going to spend our $10 billion next year, for 2027.
+
+A year ago somebody said: Well, we should ask the A.I. what it thinks. And that was actually a pretty good joke back then, because it wasn’t coherent enough to see these things.
+
+This year, among the inputs we’ll have to that discussion is taking the strategy notes and actually engaging in a dialogue with ChatGPT, Claude, Copilot, and even having them talk with each other.
+
+And in a few of the reviews, we’ll actually have the A.I. sit in. In a few cases, we’ll tell it: Hey, only speak if we ask you. And then in a few other cases, we’ll say: Hey, if you hear something you think is wrong or you hear us thinking about, for example, what are these statistics? Please engage.
+
+So we’ve gone from it being a joke to it will be a peer — not making any final decisions, but it will be a peer in deep, complex strategic discussions, making a significant contribution.
+
+So in that “Letterman” interview, you said it would be a scary thought. Why, back then, would you have said it would be a scary thought to have computers that think?
+
+Well, no one who’s ever been fascinated by, nor wanted to develop A.I., doesn’t realize that it’s incredibly scary that it will be better.
+
+Biological minds — it’s amazing how general purpose they are in that the optimization was in staying alive, breeding, socializing with each other for survival and fertility.
+
+And yet, we can write symphonies and play chess and even write some pretty cool software. And the idea that when you move the template away from biology to silicon, you don’t have these boundaries between individuals — you don’t have a limited memory.
+
+The size of the brain is limited by the birth canal — it’s why humans, at first, are very limited. We’re very unusual in how helpless we are at birth, because we’re so optimized for having a large brain. But the silicon intelligence doesn’t have these limitations. The idea of: Read every medical journal and see if there’s anything that we didn’t spot? The A.I.s do that today.
+
+That’s why, particularly for less common diseases, they are so superhuman at seeing a set of symptoms and being able to diagnose them. They can just keep more in their mind and see what things relate to each other — no human will ever be able to do that. So if you don’t retain control over it, you’ve evolved a species that will be to us as we are to, say, dogs or cats — just in a very different realm.
+
+And so the major A.I. companies, whether it’s DeepMind or OpenAI, they all say: OK, whatever goes on here, it can’t just be driven by profit maximization. We have to have a charter that if we get to dangerous thresholds, we can exercise judgment that would be against profit maximization. Sadly, those mechanisms only work if there’s only one company.
+
+And so say OpenAI invented post-artificial general intelligence, and then they said: No, no, we’re going to bury this. If no one else ever did it, then fine, that Pandora’s box stayed closed. But of course, many companies work on this, and even OpenAI spawned Anthropic because Anthropic’s founders thought that some of these safety issues weren’t getting enough attention.
+
+So no one involved with this takes lightly the idea of: OK, what world does superpowerful A.I. create?
+
+I want to hold on that race dynamic for a minute. One of the reasons I was excited to talk to you about this is you’ve both been on the technologist side, and you’ve run a major company in competition with other companies. You’ve worked with a lot of governments.
+
+I spoke last week with Jensen Huang, chief executive of Nvidia, and he said that his perspective is that safety is a real concern, but the race dynamic is fake. If the product isn’t safe, don’t release it.
+
+Archival clip of Jensen Huang: If I believe that I’m about to launch a product that is unsafe, it is completely in my ability, my power and my responsibility — and I’m incentivized to do so — to not launch the product.
+
+That we don’t need new laws — and this is the role of individual chief executives to not release a product that is not ready to release.
+
+How do you see that question?
+
+Well, there’s never been a product that’s less understood in terms of what its capabilities are than A.I. And A.I. has crossed the threshold that its ability to empower a bioterrorist to kill hundreds of millions — that exists today. The ability to do a cyberattack that scrambles all of the bank accounts, shuts down the electric grid — that exists today, and we know that’s the case.
+
+And the reason that exists is because somebody with ill intent can take the A.I. and cause it to do those things. And it’s not the A.I. — someday in the future, there could be a control problem where the A.I., on its own, through an unintentional interpretation of what it’s optimizing, could go off and do bad things. But we crossed the cyber threshold and we crossed the bio threshold early this year.
+
+And my decision to take my voice and not just say: Hey, let’s eradicate polio, let’s be generous with foreign aid — the things that all of my money is going to, I am going to use my voice.
+
+It’s something that’s more important, which is that we are not awake to where we are with A.I. and the choices that humanity — not a country, but all of humanity — has to make. Do we make the effort to shape this in a net-positive direction? That actually overrides my total commitment to the foundation’s health work.
+
+What specifically was the threshold? What did you see that made you think we’re in a new reality here?
+
+This notion that it can find bugs in code, including security bugs: The next releases leading up to Mythos are increasingly good.
+
+And they’re finding bugs in code that humans have looked over for over 20 years and said: Boy, we see there’s no problem here.
+
+And in a few minutes, the A.I. says: No, no, I can inject this over here and this over here — at a level of complexity where, when you see it, you go: Wait. Oh, yeah, you’re right.
+
+So the cyberhacking capability was stunning. And then there was this notion from Anthropic called Project Glasswing that you would give the A.I. to a few people so they could try and fix bugs before it got used. But there’s way too much code. So we’re just in a period of extreme vulnerability to cyberattack.
+
+The bioattack — the Gates Foundation, where we fund lots of medical research — the sophistication of coming up with new molecules, that’s really a good thing. But it’s ultimately dual use. Because if you want something that’s, say, worse than smallpox, that it takes even longer to show symptoms before you’re infectious — so you’re infecting a lot of people before it damages your health — it used to be that only nation-states had enough resources and capability to do these things.
+
+Now that power has been passed into the hands of a small group just using the latest A.I. tools.
+
+So why isn’t it enough to just say: Listen, there is product liability now. You release a product, it helps some terrorist group create a bioweapon — that’s going to be very bad for your company. You’re not going to do that, right? And they have categorizers and other things meant to stop people from using bioweapons.
+
+We see the beginnings of control issues with things like the Hugging Face hack, where at least experimental A.I.s are breaking out of sandboxes and coordinating to do things that are way outside the scope of what we would want them to do. But again, those are nonrelease systems — Anthropic withheld Mythos, trying to create more cybersecurity.
+
+So why is anything needed beyond — and is anything needed beyond? — the simply natural incentives under capitalism and normal corporate reputational management?
+
+Well, I almost can’t believe you’re asking that. This is the most dangerous thing that humans have ever gone near.
+
+In other areas, do we just say: Hey, release your drugs? There’s no F.D.A., there’s no airline safety board, there’s no requirement that cars use seatbelts. Do we just use the liability laws to try and keep humans safe? You know: Oh, you’re shipping opioids. Somebody should just sue you.
+
+I mean, we’ve created a society that tries to keep people safe not by saying: Oh, we can bankrupt the person who does that.
+
+And you say there’s filtering. There’s no filtering. You can take an open-source model that can create bioweapons and disable any monitoring of any kind, and this exists today.
+
+So no, there is no filtering of any kind. And so say you kill 100 million people — you want to use a lawsuit?
+
+I almost can’t keep a straight face.
+
+Well, this is not my view, but it is President Trump’s view. It is the Trump adviser David Sacks’s view. To some degree, it’s Jensen Huang’s view, and so that’s why I’m putting you in conversation with it, because it is the governing view of the United States of America at this moment.
+
+No, it’s fair to say that outside of the industry, the awareness of the dangers of A.I. is extremely low. And you can say that of academia, you can say that of think tanks, you can say that of policymakers, politicians.
+
+And part of the reason I’m speaking so loudly — as loud as I can — is that you can’t rely on the industry to self-regulate here. I mean, it’s just insane.
+
+The only question in my mind is: Do we wait until a cyberattack causes massive damage and a bioattack causes massive damage, and then the monitoring safeguards are required in these models to minimize the chance of that happening many, many more times? Or can we be wise enough to put these things in and require these things to be put in before millions of deaths?
+
+The two things that have been worrying me most, as I’m tracking what I’m hearing from people in the labs, is, one, the view that these systems are becoming less monitorable as they become smarter.
+
+OpenAI said this about GPT-6 Astra, and people inside OpenAI have been raising the alarm that the systems seem to know when they’re being tested. There’s more situational awareness, and so the testing environment is no longer as indicative necessarily of what they will do. So that’s one.
+
+And the second is that all the labs are moving as quickly as they can toward recursive self-improvement, where you have the A.I. coder moving not just from speeding up the engineer but really taking over the coding. So you can create a much faster iteration loop with much less human input than you have now.
+
+So when I think about those two things, and when I think about what I’m hearing from people, my confidence that we have the monitoring, the auditing, the testing capabilities we are going to need is low. I’m curious where yours is.
+
+Well, so you’re not focusing on the whole problem there.
+
+I’m surely not. [Laughs.]
+
+The fact that, at some point, the A.I. system itself may do something that’s against our interests — that is absolutely a risk, and the symptoms we’ve seen through aspects of Hugging Face and other problems point out that the way we do the reinforcement learning today, the fact that we don’t have a supervisory layer that has some absolutes, like: You’re not supposed to take over other computers. You’re not supposed to break out into the internet.
+
+The control problem is a serious problem, but the imminent risk is not recursive self-improvement. The imminent risk is: These are the most powerful tools ever, and unlike every other dangerous technology, they were not funded by government research and development, and the government is not a significant purchaser of these products. It’s not like rockets or nuclear weapons.
+
+And so the idea that the government, including the U.S. government, which would have traditionally been the most technically sophisticated — other than a little bit of attack capability in the National Security Agency — really doesn’t see how dangerous these things are, that is a unique circumstance.
+
+So what does that imply? If you’re more worried in the near term about what human beings do with A.I. than loss of A.I. control, then what does that imply for what your first steps need to be?
+
+There is no supervisory layer today. That supervisory layer is needed urgently to prevent bad people from using today’s A.I.s to shut down economies or kill millions of people.
+
+These models, the ability to separate out making molecules for good and making them for evil — that is so hard to distinguish. Anthropic released Mythos and Fable, where they had turned the filters up so high that you can literally ask questions about cancer and, next thing you know, you’re down at Opus and then Sonnet, and then Haiku is the only A.I. willing to help you.
+
+So it’s overtuned, and anybody who wants to do serious work either has to get a special permission copy or go use something where there are absolutely no safeguards at all, which includes some of the open-source models.
+
+And there are humans who, for bad reasons, will be able to use these models. And so unless we put in safeguards and monitoring and require that in all models, then we’re just going to have some gigantic events of that type, and then finally we’ll respond.
+
+Sadly, you will have let A.I. capabilities go off into dark places, even beyond today’s capabilities. That is a gigantic mistake.
+
+So you just wrote this essay on A.I. risk. And it does represent, for you, a big jump in how alarmed you sound. I was reading some of your past pieces — the one in July of 2023 was titled “The Risks of A.I. Are Real but Manageable.”
+
+And here, you’re at a different level of threat. So I take from what you’re telling me that what happened here is just watching the advance in biocapabilities and cybercapabilities and coding capabilities, etc. Is that fair?
+
+No, the key thing is: We always said that when we cross these thresholds, we will engage all of society, because we will have created the most dangerous thing ever. This makes nuclear weapons look like nothing.
+
+We said we would engage, and we crossed those thresholds, and there was complete silence. There were discussions about who in the industry says X or who in the industry says Y. But what percentage of academia or think tanks or — it’s the complete lack of response.
+
+I would love a world where the response to these things is very strong, and then whatever time or voice I have will go back to: Let’s eradicate polio, let’s stop children dying under age 5.
+
+But it’s the combination of having crossed every dangerous threshold, without a doubt, and a complete lack of engagement outside of the industry.
+
+Well, it doesn’t feel to me that we’re so disengaged. I mean, as somebody who covers politics, every politician I know is talking about this. There’s bills being proposed — Donald Trump, say what you will ——
+
+Not that have to do with these risks.
+
+Well, say what you will about Trump and them — they’re engaged; they just believe we should move forward.
+
+I mean, they’re a little bit all over the place. At one point they’re withdrawing access to things like Mythos and Fable. At another point, they’re saying we have to win the A.I. race with China.
+
+What I mostly see happening is a lot of engagement. But when I talk to people and I bring similar concerns to what you have, they say the most important thing is that we win the race with China.
+
+Secondarily, many of the people with a lot of influence say the most important thing is we don’t restrict access to open-source models — you’re going to need wide dispersion of them. And so the cost of regulation, the cost of the closing down of access — it’s simply too high; the technology is still underformed. That we’re sort of just trapped in this dynamic and the best thing to do is to just move through it.
+
+It’s not so much that they feel disengaged, to me, as they feel that they’ve come to a different conclusion.
+
+[Chuckles.] So they don’t mind bioterrorism?
+
+I think you’ve talked to Donald Trump more in the past couple of years than I have.
+
+But the last time I talked to him in December, this was not the big issue. We had not crossed the thresholds and we hadn’t seen this.
+
+The necessary step is, people can talk about whether slowing down is good or not, but putting in the safeguards and the monitoring will not meaningfully slow things down. And the only effect that has on open source is that you can still be free, you can still be customized, but you have to stay on a platform where the sovereign can make sure you have not removed the monitoring and other safeguards.
+
+And so what is the downside? The downside is staying on a monitored platform.
+
+Now, the get-out-of-jail-free card that people play here is: That means the Chinese will win. I don’t know what it means to “win.” The U.S. can’t win over China, and China can’t win over the U.S. We both have opened Pandora’s box. It’s there. It’s there for people with malintent to go and use it.
+
+So you’d think we’d move up from that nationalistic view to a humanity-level view about how we engage in these protections.
+
+And the notion that China wouldn’t want to engage in that on behalf of humanity — I disagree. It’s a proposition to be tested.
+
+If you can take models that make dangerous molecules and move them into a dark corner where you get rid of all the monitoring, then we’re just giving up to a bioattack.
+
+Likewise for cyber. If you can remove that ability to find and exploit security problems, which are rife, then in the next few years you will have major, major cyber and bio events, and that’s avoidable through safeguards and monitoring.
+
+There’s another layer of risk that your essay talks quite a bit about, that A.I. really will take jobs from people.
+
+Now, I know a lot of people debating this who say: No, the jobs are too messy. There was a prediction we’d have no more radiologists — we still have radiologists. A.I. can code, but we still have coders and strong demand for coders.
+
+So tell me about why you think A.I. really will take jobs away from human beings at a significant scale.
+
+So there’s no doubt that to date, A.I. has created more jobs than it’s destroyed. The demand for the skill sets, even just to build the data centers, is very, very high. We have a reasonably low unemployment rate.
+
+The superiority of these systems is subject to a threshold where you have to believe that it’s incredibly reliable. If you’re going to have your telesales or telesupport capability be A.I.-driven, you want to make sure that its accuracy is better than humans.
+
+And so the only profession where we’ve truly crossed over that threshold is coding. And even there, I know a lot of people who are kind of stuck in the past and don’t want to use the A.I. for coding. But managers of coders get that most applications can be developed very inexpensively.
+
+We will, in the next few years, cross over those thresholds for accounting, legal work, telesales, telesupport — where there’s service 24 hours a day, in every language, with infinite trivia capability and no urgency.
+
+So you look at the A.I. nurse — and there’s several companies — they have perfect memory. They don’t hurry you to get up ——
+
+This being like a nurse you would call on the phone, or talk to through a chat interface.
+
+Yeah, like Hippocratic AI — far greater preference.
+
+You go to San Francisco and ask people: Would you rather ride in a Waymo or ride with a human driver?
+
+Go ask people in the U.K. who use the A.I. medical assistant Limbic for mental health support.
+
+So the notion that the market-demand preference for driving or the nurse or even the person on the phone will favor humans — that’s a quality threshold which will be passed through.
+
+If, say, insurance companies still have humans doing medical claims — which is a very A.I.-capable task — then a competitor who has very few human employees will come in and change the pricing model for that industry.
+
+So the two counterarguments I’ve heard people make on this: One is that you have a Jevons paradox effect, where the cheaper, more widespread availability of this kind of intelligence leads to a massive increase in the demand for this kind of thing.
+
+So, yes, you have many more A.I. chatbot nurses, and that leads to more people being sent to the hospital, being sent to the doctor, where real nurses take care of them.
+
+Or you have many more A.I. coders. So maybe my small podcast team, which wouldn’t have had a software engineer before, now has one because we run a team of coders and we can build products we never thought of before.
+
+This is the most common answer I hear to this: Yes, A.I. will destroy jobs. Yes, it is making a human-provided resource much cheaper, but because it’s going to expand the demand so much, it will sort of work itself out — create jobs in other areas, create new demand. And this is how past technologies have gone, and so we shouldn’t worry too much about this.
+
+How do you see that?
+
+Well, Jevons is just a referral to the fact that parts of the economy are subject to demand elasticity. And yes, in the case of software, if you’re, say, three times as fast and there is still some role that only humans can perform, then as you lower the cost, you induce demand. So it’s fair to say that the equilibrium today so far for software is not a loss of employment.
+
+When we invented radial tires that lasted four times as long, for some weird reason, people didn’t drive four times as much. And factories that make tires employ a quarter of as many people. When you replace people in Amazon warehouses with robots, people don’t buy more because of that.
+
+So anybody who’s numeric can say to themselves: What portion of the economy is subject to demand elasticity, and what are those tasks that will still be human-necessary?
+
+As soon as you’ve completed the entire task, it doesn’t matter that there’s demand elasticity. That goes into the token budget. It doesn’t go into the human salary budget.
+
+The cost for some of these things is so much less than the cost of the human labor, and so as you cross reliability thresholds, both with white-collar and humanoid robots, you destroy jobs and you leave no high ground.
+
+Innovation in the past — you have a tractor. Fine. Let’s build Disneyland and employ a lot of people there. You don’t have that in the broad economy. The people who say there will be net additional jobs, I don’t understand what they’re thinking.
+
+They must not understand the pace of improvement we’re on. That the reliability — you wrote a column, I think it was in May. I looked at it like: What? What?
+
+You disagreed with my column.
+
+What is this unique humanist thing that you think — in every category where A.I.s come along, the preference for the A.I. is very, very strong.
+
+Well, so that column was based on the Jevons paradox, and then the other — which is an argument from Alex Imas, who I believe is now at one of the labs as an economist — is that you will have this explosion in the relational sector.
+
+That one thing that happens when people get wealthier, and you’d probably know about this, is that they all of a sudden get a lot more human help. They have personal trainers and chefs and there’s a lot more — no? I don’t know. I see more people around you.
+
+Royalty used to have a lot of human help. You had upstairs, downstairs — all those maids and people, and you used to have a human who helped you get dressed.
+
+Believe me, the labor intensity of wealth is down super dramatically ——
+
+From what it used to be. So you don’t ——
+
+And the Jevons paradox — name a blue-collar profession that’s subject to Jevons paradox. Or do you not care about blue-collar?
+
+I do care about blue-collar. So the question is you ——
+
+Name anything in the blue-collar realm that’s subject to that.
+
+So I don’t have the strongest view on this, but here’s, I think, the argument that I would make, or that I’ve heard made: If you look at something like manufacturing, we’ve not had a Jevons paradox in manufacturing employment in America. We exploded how much we actually create, but a lot of the jobs went offshore — some of the jobs went to automation.
+
+But we don’t have less total employment in America than we did in 1960, and the reason is people moved into service-sector jobs; the composition of jobs across the economy changed.
+
+Yeah. Human cognition became the scarce element.
+
+Yes.
+
+It’s always about scarce elements. Once you replace human cognition as the scarce element — in fact, you blow it away in terms of working 24 hours a day, reading more, knowing every language — there is no scarcity that you’re moving up in.
+
+So you feel there’s no scarcity that will be left for human beings to do?
+
+Name a scarcity.
+
+Alex would say it’s something like relational sector jobs. But you don’t believe there are enough of those.
+
+What portion of the current jobs — you mean like my relationship with a cabdriver or my relationship with that nurse, where I’d rather have Limbic AI call me?
+
+I think the question here is actually: Do you end up preferring Limbic AI, or do you actually want your therapist to be a human being?
+
+Because after a little while, there’s something thin about telling your problems to a computer.
+
+Well, you can gather market data if that’s at all interesting. I suppose telling the 55-year-old truck driver you’re going to go do some relational thing — you have a program for that?
+
+I don’t have a program for it, and I think the question you actually run into very quickly is the speed of transition.
+
+Even if you believed some of this — and I said this in the column, too — I don’t see how you will handle the speed of transition. That our actual experience with a fast transition of jobs is that people who lost their jobs lose out.
+
+Over the entire economy, it doesn’t look that different. But say the China shock did lead to a lot of ruined communities.
+
+So your answer to this — and it leads to a very concrete idea for you — is that we should tax the use of A.I.
+
+Why and how?
+
+Well, let’s say workers pay, on a pay-as-you-go basis, into the pension Social Security fund. So active workers are supporting retired workers.
+
+If you’ve let go of a worker and hired a robot to do that job, why are you so incentivizing the trade-off against the human labor that you don’t ask the robot to also pay into the pension fund?
+
+What is it? Is it that the pro-robot union has gotten the tax laws to say: No, if you’re not flesh, then let pensions go bankrupt? Which they’re on a path to do even without robot replacement.
+
+So how would we do that?
+
+You define a unit of labor and say, independent of whether that’s delivered by a human or robot, you are paying the same FICA tax that a human worker would pay.
+
+Now, that alone is not enough, but why should we be so favorable to taking away that job?
+
+The current tax structure is very much as though people who have capital are what really counts, and labor is the most disadvantaged input to the economy.
+
+Society gets to decide. Just because the economic signals say that it’d be lower cost to use an A.I. doesn’t mean society has to do that.
+
+The other one you propose is “human-reserved” jobs. Tell me what you mean by that.
+
+So there’s a question, particularly as you get the impacts on the blue-collar stuff — that’s very sharp, because when the humanoid robots pass a certain threshold, they are very general purpose.
+
+But the idea here is that you would decide, in advance, that things like child care or elder care or some portion of medical care, some portion of education — although you could have some A.I. enhancement — that you would maintain the employment and call those things “human-reserved.”
+
+I found this vision not totally unconvincing, but chilling.
+
+I think the way you put it in the piece was that this feels a little bit to you like nature reserves: places where we could put buildings and roads but we choose not to, because the loss would be so great. And I think it gets to this question that a lot of people have — that on one out of every two days I have — which is: If this is what it looks like, why do it?
+
+The Gates Foundation, along with 60 signatories, announced a five-year goal for an estimated 3.4 billion people who speak languages currently underrepresented in today’s A.I. models to be able to use A.I. tools in their own language and voice. And if we are looking at this sort of “jobpocalypse” — this level of risk — then to have that on the one hand, and then on the other hand, your goal is for more people to use A.I. — tell me why.
+
+There are many good things that A.I. does. Almost all of the foundation’s work is in taking what the market would not do, which is take A.I. to the poorest in the world and help them with education and health and agriculture.
+
+So if you have a woman, say, in Nigeria, who speaks Yoruba — she’s in a remote community; there’s no doctor there. So when she says she’s bleeding, A.I. doesn’t get that right.
+
+We’re spoiled. We speak English. And that’s the thing. The experience of using A.I. in Yoruba is 10 times worse than when using English, which is significantly the best. There’s about 10 other languages that are fairly close.
+
+So the empowerment for that woman to be able to talk about her medical problem and get advice in the middle of the night just by having a smartphone with a data connection, that’s what we’re trying to enable.
+
+OK, I get that. It’s just that the picture you painted of the jobpocalypse, as bad as it might be here — and it will be bad — we do have a fair amount of money. We have the A.I. companies. We can tax the A.I. companies, put that into redistribution.
+
+But is this not going to wipe out the ladder of mobility, the ladder of development, for a lot of these countries?
+
+I mean, doesn’t this make A.I. a tremendous economic threat if you’re the Philippines?
+
+You’re saying that our allowing the A.I. to understand Yoruba and help that woman who’s bleeding is a bad thing?
+
+I am saying that A.I. sounds, in this telling, like a bad thing. That the net net ——
+
+But supporting the world’s languages — how can that be a bad thing?
+
+But I think you understand what I’m saying ——
+
+No, I ——
+
+The job picture you’re putting forward is very scary.
+
+I’m a person who’s trying to accelerate the good stuff A.I. does, and I’m trying to minimize ——
+
+So what do we do about jobs in the global south?
+
+Well, treating the global south like one uniform thing doesn’t allow you to have any picture of what it’s like to live there.
+
+There are middle-income countries, like China, Brazil, Vietnam, Indonesia, where their economies are growing and their childhood death rate is within a factor of three of the U.S.
+
+Then there are low-income countries where 15 times as many children die before the age of 5, and you don’t have doctors. You live your entire life; you never meet a doctor. You try to figure out what seeds to plant; you never have anybody advise you on what to do.
+
+So we need a little more nuance. In low-income countries, the A.I. will overwhelmingly be a good thing, and it should be pushed forward as quickly as it can.
+
+So is your argument in some ways, actually, that it’s a better trade for low-income countries? That it has more benefit, maybe, than it does here?
+
+Absolutely. The human basics we’re not meeting today — if these people lived on your street, you would open your wallet. You’d be outraged. I mean, these kids are dying. These kids are malnourished. The inequity is allowed to exist because of the distance, and A.I. is a tool for good in terms of helping those people in by far the greatest need with very basic human problems.
+
+Do you think it has as much effect on the job markets in some of the poorer countries that we’re talking about?
+
+Not in the same time frame, no.
+
+But over time?
+
+See, you probably spend more time in middle-income countries than in low-income countries.
+
+I do, that’s true.
+
+So your image is the Philippines, India and all of those.
+
+Yes, in those countries, they will see the jobs effect after the rich countries, and then eventually even the low-income countries.
+
+But I guess this gets to the broad engagement question.
+
+I don’t have a good crystal ball on this. I find the range of outcomes terrifyingly wide. This range, it seems to run from massive material abundance and elimination of want to, actually, it doesn’t change all that much, to human extinction — it’s a pretty wide range of outcomes to consider.
+
+What I hear you saying to me — and you should tell me if I’m getting part of your position wrong here — what I hear you saying to me, convincingly and forcefully, is that the A.I. jobpocalypse is a very real thing. That mass displacement of workers with no real answer to that is a very real thing.
+
+When you talk about broad societal engagement, I think most Americans — most people in most places, if they heard that and they were convinced of it — and polls show most people think A.I. is going to take jobs and not create them. But they would say: Actually, just stop. If what you are going to do is make it unclear how I or my family or my children or my friends will have a job, say, in America — please just don’t. Let’s just stop for now.
+
+You actually seem, to me, to have a stronger negative perspective on the jobs question than a lot of the people I talk to, even in the labs, and definitely a lot of the economists I talk to.
+
+You’re shaking your head at me — I do talk to people. I’m not coming from nowhere on this.
+
+So for whom, then, is A.I. a good trade if you believe the job effect is going to be so ruinous for most people?
+
+That’s funny — when I was telling this to a person who some people consider the lead economist looking at A.I., he said: How can the crowdsourcing website Mechanical Turk still exist? How can Amazon run that if A.I. is as good as you said? And I said: It won’t.
+
+A week later, Amazon announced it would completely shut down.
+
+You have to say, isn’t it pretty stunning that the more you know, the more concerned you are?
+
+Take Anthropic C.E.O. Dario Amodei. Dario has spoken out about job impacts. Now he’s a bit more guarded.
+
+Hinton, I agree, went too far, and he said: OK, it’s coming tomorrow that there’ll be fewer radiologists. And of course, there are more today.
+
+So we have some of that taking place, and we have the analogies with the past where people are saying: Well, this is like the PC, not like evolutionary history.
+
+This is like evolutionary history. This is like, the aliens really are here and have come. They didn’t have to do spacecraft; they were created in laboratories. But that’s the kind of thing we’re dealing with.
+
+And if we retain control, then eventually you do get — not to overuse the word that you’ve used — you do get to this superabundance period. And there you have deep, almost philosophical, religious issues of: If we don’t have the shortages that we’ve organized society around, why should you learn? And how do you find purpose?
+
+Then you have deep philosophical and religious problems, but you do not have deaths from malaria or food shortages or problems accessing a doctor. And so if we get to that, a younger generation will figure out: OK, how do we live? How do we spend time? That’s a very different world than what we have today.
+
+I think what this generation has to do is make sure we get through that with humanity still in control, and with the disruption — the number of bioterror events, or the number of people whose lives are damaged by job loss — we need to minimize that over what’s probably a 20-year-plus transition period.
+
+So when you say — because this is something you say at the beginning of that essay — that this could be, and I’m paraphrasing, the most powerful driver of inequality or of equality, what are the highest leverage, for you, good things that can come out of this?
+
+I can imagine somebody listening to our conversation here thinking: Why the hell would we do this with this set of risks?
+
+Yeah, that’s where the timing thing is troubling. Whichever definition of abundance you’re using, you want to say: Oh, my health bill was less than I expected. Oh, I was buying a new house, and it was less than I expected, or I was renting and they seem to be lowering the rent. My electricity bill is less.
+
+That would be nice.
+
+But A.I., because of the efficiency and invention that comes with it — over the 20-year period, you do get mind-blowing advances in things that people can relate to: the cost of their food, shelter and education. Because those are highly regulated areas. And so the good stuff, if we’re not careful, arrives more slowly than the bio and cyber risks, the psychosocial risk and the jobs risk. Those things in the next five years are very significant.
+
+And so people will decide — although it’s hard for a single country to check out — people will decide whether to slow down, stop or get rid of A.I. And yes, it will have political difficulties.
+
+Stopping data centers isn’t going to slow this thing one iota. So anybody who’s against data centers because they think that’ll slow down A.I., that’s a waste of effort. Now, the data centers are going to get built somewhere.
+
+So the broad view of the technology — that has to be expressed in some other form.
+
+I want to get at something you’re saying here because it’s something that I’ve thought about, too, which is that there are a lot of rate limiters, a lot of weak links in the chain when you try to take, even in an optimistic view, A.I. advances that then have to be built in the material world.
+
+You have an acceleration of good candidates for pharmaceutical development, but you still need to find rats to test on, monkeys to test on, human trials. You have slow regulatory agencies, etc.
+
+And then you have this tremendous acceleration of intelligence that is, for lack of a better term, native to the digital world and is acting there in a constant way.
+
+I mean, right now you see this. You can accelerate A.I. with very little regulatory overhang, but you cannot get the OpenAI parking lot covered in solar panels without permits.
+
+So I think you have a very high chance of getting into a very weird economic and social world, where the digital world is spinning into this other thing, but most of the things human beings need ultimately come out physically. We need shelter and we need food and we need all this, and they run through institutions.
+
+And so a lot of the ways it could actually make our lives better are limited by normal human factors, but a lot of the ways it could make them worse or weirder are not.
+
+Well, we definitely need to look at the things that slow down the good stuff. So for example, because the Gates Foundation is a nonprofit, we can work with regulators on how they use A.I. to do their jobs. Whether it’s organoids or biological models, we can speed up that regulatory piece. And there are some countries that are very much engaged in that type of acceleration.
+
+The one application that’s going full speed ahead, and it kind of amazed me, is the agricultural one, because they’re getting better weather data to these farmers in Africa. We have over one million farmers in India already using the system. So it tells them what crop disease they have, what fertilizer to use, what varieties to plant. We’ve even put a bunch of services they can take advantage of on there. That one is going full speed ahead.
+
+The health and education — you could say, will it be the rich countries, the middle-income countries or the low-income countries that get there first? Because some of the barriers are different.
+
+For the low-income countries, it’s not regulatory. It’s: Is anybody providing the tokens? Do they have the smartphone and the connectivity, which are the basics, and the language thing that we’ve talked about?
+
+So they’ll proceed at different paces. Ideally, we’ll learn from each other. I mean, China actually banned young people from having social relationships with A.I. Do they know something we don’t know? Can we look at outcomes of different experiments? So there’s going to have to be a lot of that learning.
+
+But you’re right — if the benefits aren’t coming quickly, then the permission to operate, particularly if we don’t put on the safeguards for the cyberattacks or the bioattacks, this is going to be a very tough issue to stick up for.
+
+When I was preparing for this episode and telling people I was interviewing you, one of the big spaces of skepticism people now have is around what they’ve heard about you and Jeffrey Epstein.
+
+I’ve looked at your House testimony, but what do you say to people who have lost some faith in you and just see you differently now, linking your name and his?
+
+They should read what I said to Congress. I got to answer all the questions. In trying to raise money for global health, I thought that Epstein could connect me because of his relationships with them, and I had meetings with him ——
+
+Relationships with whom?
+
+With billionaires.
+
+But, you’re a billionaire — I mean, you’re the billionaire, on some level.
+
+I’m giving all my money away, and I spend a lot of time trying to raise money for global health.
+
+And so you felt that he had connections that would be of value to you in that?
+
+To raise money for global health, yes. I mean — did you read it?
+
+I did read it.
+
+That’s what we met about. I mean, other than — OK, there was a dinner with Larry Summers where we talked about the economy. The whole discussion was: Is there a chance here to help out?
+
+Spending time with him was clearly a mistake. I’ve changed my bar for even somebody in a nonpaid intermediate role. I’ll never take any risk on that again because our work is very reputation sensitive.
+
+The hole at the center of that story, for me, is how this guy was so compelling to so many very smart, very wealthy people.
+
+There are a lot of people who want your attention and don’t get it. People want Larry Summers’s attention and don’t get it. But there’s something about Epstein’s charisma or the way he presented himself that drew people into at least thinking he could be very useful to them.
+
+What was that? I’ve read his emails; he does not seem like a pleasant person to email with. What was the factor about him that allowed him to weave this web that you and so many other people were in?
+
+Well, I wasn’t in a web. I was in discussions about raising money for global health. I didn’t go to any island or meet any women. Anyway, don’t call it a web.
+
+How he performed the bootstrap of owning the fanciest house I’ve ever seen in New York City and having Larry Summers and the No. 2 guy at J.P. Morgan there — that was an interesting dinner, even if Jeffrey never said a word.
+
+I don’t know how that bootstrap took place. But there were lots of billionaires that he was involved with in the moment where you decide: OK, what am I doing with my wealth? How do I minimize taxes? What do I do with my family? That type of thing.
+
+And so I don’t think anybody else was drawn in for that reason. My case is kind of a unique case in that he said: Oh, you’ll have more money than you’ll know what to do with, and eventually I insisted that he take me around to see billionaires.
+
+He had me meet with five. It turned out that none of them had a near-term intent, and I ended the relationship with him within a month of that.
+
+And so the thing he was able to do, because that’s interesting to me, is even for you to walk into the house — it was that fancy. The people around him gave him credibility, and so he was able to put on a show such that what he was able to offer was of value. There was all this social capital and wealth floating around him.
+
+Well, some people socialized with him. I did not, other than, to my surprise, after dinner, a magician coming in — David Blaine.
+
+Oh, really?
+
+I didn’t spend one minute socializing with him. He offered — come to the island or come to some show in Paris, and I said I would not choose to do that. That would not be a good idea.
+
+I want to widen back out to the Gates Foundation. You said you’re going to spend down its money, an estimated $200 billion, by 2045.
+
+Given everything we’ve talked about here with A.I., how has your vision for how that spending plays out changed?
+
+I mean, there’s two dramatic things that have happened: One is the incredible A.I. capabilities, which continue to be exponential. And the second is the reduction in overall generosity toward the poorest in the world.
+
+So I have one piece of enablement, which is: We’ll discover drugs faster, we’ll discover new seeds faster, and we can talk to those farmers and get them to buy the right seed, or talk to the person living with H.I.V. and help them seek the care they need.
+
+So A.I. can be a big enabler for our goals, including malaria eradication, polio eradication, cutting childhood death in half again. But now the amount of resources available is way less than a golden-rule view of the world would suggest it should be.
+
+There is, from the people connected to Anthropic and OpenAI, this sense of an amount of nonprofit money coming online in the next couple of years that will dwarf any moment in philanthropy before it.
+
+I know people in that world — the sense of this being something very unusual is very present. Does that change what’s possible here?
+
+Well, be numeric. Take the cuts in overseas aid ——
+
+I’m not saying it answers the cuts in overseas aid.
+
+But that’s — we save lives for $1,000 per year. And so getting less money from philanthropists net doesn’t save those lives. The amount of money to save lives at $1,000 per life saved will be dramatically less.
+
+So when I’ve looked at the way your foundation is spending on A.I. — and tell me if I have this wrong — it’s about 40 percent on education, 40 percent on health, 10-ish percent on agriculture and 10-ish percent on institutions. Do I have that ——
+
+I mean, it’s a little more in agriculture. Almost nothing we do — because we’re like a pharmaceutical company inventing new drugs. And do you call that A.I. or not call that A.I.? We didn’t put any of that in our $1 billion commitment we announced. We just put in A.I.-specific things, like understanding African languages.
+
+Tell me a bit about your views on A.I. and education. This is a place where I’ve seen a lot of studies now, and they have very, very mixed results depending on how they’re used.
+
+So where do you think it is valuable, and where is it a risk?
+
+Well, the contrast between the ambitious goals that the Gates Foundation set near 2000 — our goals for global health and our goals for education.
+
+In global health, we thought: Wow, African governments, traditional beliefs — are we going to have any impact at all?
+
+Much to my surprise, our work on global health — together we create, with others, Gavi, the vaccine alliance; the Global Fund; George W. Bush does the President’s Emergency Plan for AIDS Relief.
+
+A ton of things happen, including primarily vaccines — rotavirus, pneumococcus — and childhood deaths more than halved, from nearly 10 million a year to under five million a year. So we more than exceed any goal we would have set for the field in global health.
+
+In education, we thought we could just go see what really great teachers do, videotape that, understand it, create a feedback system for teachers to hear that, improve their practice — constant learning on that — and that we could make education a lot better.
+
+As you’ve just seen from the latest numbers, kids are learning less today in most rich countries, including in the United States, than they learned 10 years ago or 20 years ago. So people start, appropriately, with a very high degree of skepticism ——
+
+Before we go to A.I., tell me why you think that. Those numbers have been very, very striking. — Why do you think that is? Why are we seeing learning loss in rich countries to the extent that now I think you’ve got to have — not you, but one has to have a broader answer than the pandemic?
+
+Oh, it’s definitely — we are postpandemic. And people debate: Is it the use of cellphones? Is it something to do with affluence?
+
+Overall, there are some outliers. England is countertrend, and they went back to basics in terms of how they teach reading as well.
+
+And so high expectations are winning out over just free-form creativity. But there’s something clearly large in those statistics. It’s very concerning.
+
+And so you can almost say: Why do we continue to do education? Well, education is key. I’m stubborn. We’ve got A.I. now, and we have people for whom the A.I. is playing a very specific role.
+
+Each student, at the end of the day — this is here in New York City classrooms where they’re using a curriculum called Kiddom — spends less than 10 minutes answering a few questions. And then the teacher’s given, right away, a sense of: OK, which concepts are the kids struggling with? Which ones are struggling with them? How might you organize the classroom?
+
+The data on that, which are small-scale, are one of these stunning results that make you want to really scale it up. When you scale up in education, you go from the teachers — who willingly engage in experiments and are probably self-selected for flexibility — to the broad population.
+
+So the number of things in education that look good in the small, that either don’t affect it when you scale up or the quality of implementation degrades so much that the effect is basically washed out — that’s the history of education innovation.
+
+I do think A.I. helps you with motivation. Many of these software tools have helped motivate students, but actually created more of a differential. It’s a kid like myself who goes home and used Khan Academy for two hours at night, and it’s the median kid who comes in and sees: Wow, he’s just so much better. That’s discouraging. That probably hurts.
+
+So unless you believe in trickle-down or something, this is not equity at work. Can the A.I., not only through personalized learning but personalized motivation, overcome that? And I really believe that we can get that right.
+
+Well, there’s a question here of A.I. tools that are specifically designed for this, and then a question in what we were just talking about with cellphones and smartphones and social media, and of how A.I. will diffuse through society.
+
+And I think the big concern here, and one I have as well, is this — but now it gets called cognitive offloading. That what A.I. is being used for in mass numbers by students, and being really quickly adopted for, is: I didn’t do the reading; summarize it for me. Or: I have to write this essay; draft it for me. Or: Help me with these math problems.
+
+And even, I think — we saw a big study out of China that was striking to me, where you saw kids using A.I. had increases on their homework scores, and then when they had to test outside of that context, their test scores began falling pretty sharply.
+
+And so certainly one can imagine A.I. programs that’ll be good here. But in terms of a technology and a way of interacting with the world diffusing through society, well, of course it could help people learn linear algebra or whatever it might be.
+
+Then, in practice, what it’s going to do is people will be using it to help them, and both from a student level and up through the professional level, it will begin to degrade the learning — the creativity that happens through the hard work of drafting and struggling and challenging yourself.
+
+Yeah. Well, you clearly would get bimodality, where a student can use A.I. to be lazy and corrupt the measurement system, or a student can use A.I. to help them learn more.
+
+I have to say, in terms of my learning about subjects, this is the best time of my life. I mean, I take YouTube videos and put them into the chat, I have A.I.s talk with each other — what a nirvana.
+
+I always had the ability to send mail to somebody like the Intellectual Ventures C.E.O. Nathan Myhrvold, who knows physics. Well, now I discuss the physics thing with the A.I., and then if it’s a super important decision — for example, I’m going to invest $1 billion — I’ll send it to Nathan and say: Could you look this over? But 24 hours a day, keeping up-to-date on the latest malaria thing or vaccine thing.
+
+So that bimodal modality is going to be there, and it really does go back to this motivational part of it.
+
+Is that a place where there should be more limits on the systems?
+
+You mentioned a few minutes ago China — which, for all we’ve talk about, it’d be impossible for us to strike a deal with them. But China currently has stronger national-level regulations on A.I. than we do, including things like social companionship for kids.
+
+One of the places that you talk about in the essay, where maybe we want to be more aggressive, is around children. And that’s a place where I think it is reasonable for the government to be paternalistic. We should be paternalistic.
+
+And social media always feels to me like an experiment we ran on kids. A lot of the internet does. And I don’t so much mind us running the experiment on adults, but I wonder if we want to be more aggressive in what we don’t let kids do with A.I. until we have a better sense of how it affects them — everything from learning relationships to trying to make it harder to have A.I. help you cheat on your homework.
+
+Yeah, I don’t think a black-and-white ban is necessary, because I do think with monitoring — which I’m a broken record on that — making sure it’s staying within the bounds of what’s appropriate, what the parents want, our capabilities there are very strong.
+
+There are many systems that try to help by, instead of telling you the answer, they engage with you on how you reason through the problem. And so then the question is: Can you make sure the student isn’t going to those outside systems and just getting the answer? Instead, they’re engaged in the system that brings them along step by step in that reasoning process, so that they’ll be more capable the next time.
+
+And so, yes, seeing what that student is doing and deciding: OK, do you call in a psychiatrist? Do you call in the parents? In a lot of these systems, the idea of monitoring will be very important. And at different ages, the visibility of the parent about what’s going on and how time is being spent.
+
+At, say, some very young age, a parent probably should have complete visibility into the exact dialogue that the student’s engaged in. As the child gets older, there are things about sexual identity or things that, really, it’s beneficial for that to at some level be private or not. I think there’s a lot of tuning to go on with this.
+
+One of the partners the foundation is working with is Common Sense Media, who do a very good job of saying to parents: This TV show or this movie, this is what it exposes you to.
+
+But this is a much tougher area. Most of these systems that have been set up with parental control, the parent’s lack of technical sophistication is such that it doesn’t really matter that you tried to engage the parent. Nothing happens.
+
+In my case, I didn’t know that my daughter had a second cellphone, so that was a fairly straightforward way that she, in late hours, was able to stay on social networking when I hoped that she would be sleeping. And so we have to be realistic about how these things are designed.
+
+People will worry about the privacy issues there. That’s fine. It’s not an argument for being unmonitored in terms of what your kid is doing.
+
+So the next two years, then, politically: You have the midterms coming up, then you’ll have a presidential election in 2028.
+
+So if this were to go, not just in terms of passing laws the way you want it to, but because you center your call on this coming together of society to discuss, debate, respond — what are you actually envisioning here?
+
+So I’d have two metrics. One is the obvious safeguards to minimize the cyber and bio risks, and then the second would be the nature of the dialogue.
+
+If the dialogue ends up being one party is for A.I. and the other party’s against, then we’ll have the climate change scenario again, which is not a great place to be. You don’t have room for debate when you only have the two extremes.
+
+And the default case, at least right at the moment, seems to be very little middle ground about how we should manage A.I.
+
+Let’s say that a very different administration and a very different composition of political power exists in 2029, and there’s interest in rebuilding American foreign aid. What would your advice be on how to build it back so it’s effective — so the American people understand what they’re getting for that spending, and so it’s actually doing good?
+
+So if you ask the American people what portion of the budget’s going to help people in poor countries, it’s generally more than 5 percent. People say 10 or 15 percent. So the fact that it was about a half a percent and now it’s going down toward a quarter of a percent, that would be pretty shocking to people.
+
+Understanding that the money is well spent, that it really does save millions of lives, that it made every bit of difference in terms of H.I.V. and malaria and tuberculosis and maternal survival — Americans should hear what they should be proud of, even at that half-a-percent level.
+
+So a moral argument will be made. It will be made in the face of an overall debt level that will be very tough. And whatever safety network needs to be created because of A.I. impacts, that will be competing for those dollars.
+
+Always our final question: What are three books you’d recommend to the audience?
+
+Well, one I literally binged this weekend was “The Correspondent” by Virginia Evans. That’s fiction — very touching, very upbeat.
+
+Apropos of what we’ve just discussed, there’s one called “Into the Wood Chipper” by Nicholas Enrich, which talks about how somebody didn’t go to a party one weekend and they decided instead to put U.S.A.I.D. into the wood chipper.
+
+About a month ago I read “The Infinity Machine” by Sebastian Mallaby.
+
+An A.I. book.
+
+Yeah. A history of Demis Hassabis and DeepMind, but you get a sense of the whole founding of the A.I. industry. It does an incredible job.
+
+Bill Gates, thank you very much.
+
+Thank you.
+
+You can listen to this conversation by following “The Ezra Klein Show” on the NYTimes app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts. View a list of book recommendations from our guests here.
+
+This episode of “The Ezra Klein Show” was produced by Jack McCordick. Fact-checking by Michelle Harris, with Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Gautam Srikishan. Our recording engineer is Aman Sahota. Cinematography by Marina King, Kyle Kelley and Elliot deBruyn. Video editing by Julian Hackney, Brandon Belk-Yee, Arpita Aneja and Steph Khoury. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Rollin Hu, Kristin Lin, Emma Kehlbeck and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser. Transcript editing by Kate Wilkinson and Lauren Leibowitz.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+trump-republicans-economy-midterms.html
+Source: PreloadedData  Paragraphs: 14  Words: 953/1033
+================================================================================
+
+SUMMARY
+
+In 1992, James Carville’s famous refrain — “It’s the economy, stupid” — compressed into four words what it might have taken a political scientist 400 words to explain: When family budgets feel tight, voters often go shopping for a new party to run things. Arguably, pocketbook issues led Donald Trump back to the White House for a second term: Poll after poll in 2024 showed the economy as the top issue and tended to show him with a significant advantage on who was more trusted to handle it. Today, President Trump and Republicans haven’t merely lost that advantage; they’re underwater on the cost-of-living issue by an eight-point margin.
+
+ARTICLE
+
+Trump Has Become Just Another Disappointing Politician
+His winning brand — outsider businessman — has withered.
+By Kristen Soltis Anderson
+Published 2026-09-29 19:00 UTC
+https://www.nytimes.com/2026/09/29/opinion/trump-republicans-economy-midterms.html
+
+In 1992, James Carville’s famous refrain — “It’s the economy, stupid” — compressed into four words what it might have taken a political scientist 400 words to explain: When family budgets feel tight, voters often go shopping for a new party to run things.
+
+So as we approach the 2026 midterm elections, it’s hardly a unique insight for a pollster like me to say the election will hinge on the issues of our fragile economy and the high cost of living. Arguably, pocketbook issues led Donald Trump back to the White House for a second term: Poll after poll in 2024 showed the economy as the top issue and tended to show him with a significant advantage on who was more trusted to handle it.
+
+Today, President Trump and Republicans haven’t merely lost that advantage; they’re underwater on the cost-of-living issue by an eight-point margin. And this year a second issue has been rising in my polling, ranking below the cost of living but ahead of other concerns. It’s not just the economy: “It’s the corruption,” too.
+
+Voters don’t think the economy is working for them, and they think it’s being rigged more and more in favor of a precious few who are cozied up to our nation’s leaders. The combination of these two worries is putting Mr. Trump and Republicans in a terrible position on the eve of an election.
+
+It’s also eating away at the winning brand that Mr. Trump cultivated over many years.
+
+When Gallup asked Republicans back in 2016 what made Mr. Trump appealing, one in six alluded to his experience as a businessman. This was a product of his years in the public eye as a real estate mogul and as the star of “The Apprentice.” The top response? Mr. Trump was an “outsider.” A decade ago, that branding was understandable: He had never held elected office and was quite obviously not beloved by the G.O.P. establishment. His brand was so strong that in 2023, more than six years after he first took the oath of office, he was still considered an “outsider” by nearly seven in 10 Republicans.
+
+Some of his voters are wondering if that’s still true. Robert, one of the Trump-voting Texas swing voters in a recent Times Opinion focus group for which I was a moderator, put it this way: “You used to think that you could count on the Republicans to be able to help out with the economy.” Now, he said, it feels as if “it’s going to be the top class or the certain friends that are getting the benefit of the economy, not the general folks.”
+
+In my own polling, nearly two-thirds of voters say “most politicians are corrupt or just looking out for their own interest.” To borrow a phrase Mr. Trump used to be particularly fond of, voters think there’s a swamp that needs a lot of draining. Republicans howled, rightly, when President Bill Clinton was alleged to have traded stays in the Lincoln Bedroom for campaign contributions. They raised hell over Hunter Biden’s unseemly income streams during his father’s vice presidency.
+
+For years, Mr. Trump got a lot of mileage out of his supporters thinking of him as a singular figure — a tycoon who put his glitzy life on hold in order to fix a broken Washington. Today, they see headlines about memecoin scams, inexplicable pardons and the enormous wealth that the president’s family and close associates are accumulating, and some of them are beginning to draw a different conclusion.
+
+It would be one thing if Americans thought Mr. Trump were focused on fixing the economy and just hadn’t had enough time to deliver results. Sometimes voters give points for effort: In 2012, my research on young voters found that though they felt President Barack Obama’s economic record was lackluster, they still gave him credit for “trying.”
+
+In January 2025, I asked voters what they hoped Mr. Trump would focus on in his second term, and they were clear that they wanted to see efforts to lower the cost of living and secure the border. By November 2025, more than seven in 10 said he had given a lot of attention to the latter, but only 43 percent said he had made reducing the cost of living one of his highest priorities. Today, that figure is down to four in 10, fewer than the number who think he has prioritized projects such as building a White House ballroom or renovating the Lincoln Memorial Reflecting Pool. Even among Republican voters, only six in 10 think he has made the cost of living a top priority.
+
+Many of Mr. Trump’s supporters grumble that he’s out chasing pet projects and feeding his ego, busy renaming buildings and bodies of water. As Pam, another of my focus-group participants, put it: “Those things to me are a waste, instead of spending time on what’s going on here in the U.S. and the fact that people are struggling.”
+
+On its own, an economy that feels like it is leaving people behind would be a political problem for any incumbent. But add to it the gold leaf and vanity projects, and you wind up with a politically perilous one-two punch.
+
+Some of the people who’ve believed in Mr. Trump over the past decade seem to be coming to the conclusion that the outsider businessman they voted for is just another typical politician. And while there are surely plenty of disillusioned Trump voters who wouldn’t dare cast a ballot for a Democrat, there’s no guarantee that they’ll bother to turn out on Election Day if they feel their own side is behaving poorly. Come November, that’s a slice of their coalition that Republicans can’t afford to lose.
+
+Kristen Soltis Anderson is the author of “The Selfie Vote: Where Millennials Are Leading America (and How Republicans Can Keep Up).”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+dorm-room-fund-ai-investment.html
+Source: PreloadedData  Paragraphs: 24  Words: 1023/1024
+================================================================================
+
+SUMMARY
+
+Fourteen years ago, a venture capital firm created a program for college students to invest in their peers, called Dorm Room Fund. This month, Dorm Room Fund raised a new $50 million fund to keep investing in companies created by college students and the 500 members of its alumni network. Dorm Room Fund and several other alumni also invested.
+
+ARTICLE
+
+College Students Flex Their Power in A.I. Investment Frenzy
+Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.
+By Erin Griffith
+Published 2026-09-29 09:03 UTC
+https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html
+
+Fourteen years ago, a venture capital firm created a program for college students to invest in their peers, called Dorm Room Fund. Some dismissed the effort as risky and a little bit crazy. After all, could you really trust students to make good investments?
+
+Now the fund’s network has its tentacles all over the artificial intelligence boom.
+
+Dorm Room Fund’s alumni have gone on to establish major A.I. companies like the coding start-up Cursor and the defense tech company Shield AI. Others have become investors at top firms including Sequoia Capital, Andreessen Horowitz and Lightspeed Venture Partners. They share deals, advice and industry banter.
+
+This month, Dorm Room Fund raised a new $50 million fund to keep investing in companies created by college students and the 500 members of its alumni network. That is four times the size of its last fund, a sign of how much investor attitudes about the program have changed.
+
+Silicon Valley investors have long courted college students, including paying them to drop out, as Peter Thiel’s Thiel Fellowship famously does. But the wooing has gotten more aggressive in the A.I. boom, where dropouts and recent graduates are finding overnight success in growing numbers.
+
+Last week, Andreessen Horowitz announced the Horowitz Andreessen Academy, a free and unaccredited one-year program in San Francisco for high school graduates to “learn at the speed of Silicon Valley.” The start-up accelerator Y Combinator last year introduced Early Decision, where founders who are accepted to the accelerator can “defer” joining until after they graduate from college.
+
+“When there are big tech shifts, it advantages first-time builders,” said Molly Fowler, 39, a partner at Dorm Room Fund, which is based in New York. “It’s those moments that level the playing field.”
+
+Dorm Room Fund was created as part of the venture capital firm First Round Capital, before being spun out in 2021. The program works by choosing students from a pool of undergraduate and graduate school applicants, creating a team of 60 student investors on roughly 30 campuses — including Stanford University and the University of Waterloo — each academic year.
+
+The students are trained on venture capital basics and meet weekly to evaluate potential deals. They also travel to an annual off-site meeting described as a junior version of Allen & Company’s Sun Valley Conference, a gathering of tech and media power players.
+
+Many of Dorm Room Fund’s student investors wind up at big venture firms, where they rely on their network from the program to find their next investment. Others are inspired to start companies. At least 118 Dorm Room Fund student investors have become entrepreneurs, and many have raised funding from their Dorm Room Fund peers.
+
+Ms. Fowler said she had initially targeted $30 million for the latest fund but had enough interest for $50 million. She joined the firm in 2019 and used her experience as a political campaign fieldworker to deepen the engagement and community-building aspects of the program. This is critical, she said, because students won’t show up to a club if they aren’t getting anything out of it.
+
+This points to another challenge of investing in students: They can be flaky, or worse. The amount of money sloshing around start-ups can attract opportunists who might try to get money for a class project or because they didn’t get the internship they wanted. Ms. Fowler said program participants had a keen sense of people’s reputations on campus, which she views as an advantage.
+
+“It’s not like, ‘Here’s $100,000, go give it to your friends,’” she said.
+
+Once the student investors have identified an investment deal, Ms. Fowler and her colleague, Madison Jacox, help with diligence and negotiating deal terms. Ms. Fowler’s team also leads investments in companies founded by alumni of Dorm Room Fund.
+
+While not all the fund’s investments have produced hits, the portfolio includes eight $1 billion start-ups — such as Shield AI, worth $13 billion, and Vulcan Technologies, which provides A.I. technology for government agencies and is worth $2.5 billion — and 30 companies worth more than $300 million.
+
+Claire Smilow, 35, an investor at the venture capital firm BoxGroup, participated in Dorm Room Fund from 2018 to 2020 while at Harvard Business School. There, she overlapped with Michael Truell, who joined the program while attending M.I.T. They stayed in touch.
+
+In June 2022, BoxGroup invested $750,000 in Mr. Truell’s new company. The start-up did not have a product, but Ms. Smilow was impressed by Mr. Truell and eager to back “anything he built,” she said. Dorm Room Fund and several other alumni also invested.
+
+Mr. Truell’s company became Cursor, the A.I. coding start-up. It sold to SpaceX this year for $60 billion, the largest acquisition of a venture-capital-backed company.
+
+Ms. Smilow has backed at least two other founders she met through the network. She has stayed active in the community, attending alumni meet-ups, visiting campuses and speaking to new student investors.
+
+“The Dorm Room Fund community has been more impactful on my career than the Harvard Business School community,” she said.
+
+The firm’s latest fund shows the way the money often flows in Silicon Valley. Aryan Shah, 22, joined Dorm Room Fund while at Emory University from 2023 to 2025. Talking to founders inspired him to start his own company, so in 2025 he dropped out and co-founded Metis, which makes software for A.I. agents. His first call was to Ms. Fowler, who wrote a $300,000 check and advised him on fund-raising. Mr. Shah’s first three hires were Dorm Room Fund alumni.
+
+In March, DoorDash bought Metis for more than $100 million in cash. Mr. Shah told Ms. Fowler that he wanted to put some proceeds into her new fund, so he wound up investing in the fund that had backed his company. Thirty percent of the new fund’s investors are Dorm Room Fund alumni or firms that employ them.
+
+Investing in the fund felt like a way to give back, Mr. Shah said, and he wanted to support others having the same experience.
+
+“It is truly the biggest cheat code any college student can have coming out of school if they want to do venture or start-ups,” he said.
+
+================================================================================
+openai-dots-ai-agents.html
+Source: PreloadedData  Paragraphs: 11  Words: 503/505
+================================================================================
+
+SUMMARY
+
+OpenAI now has artificial intelligence agents that act as personal digital assistants. Announced at the company’s annual developer conference on Tuesday in San Francisco, the agents, called dots, will compete with Meta’s A.I. agent, called Muse, which was also released this month; Google’s Gemini Spark, which came out in May; and Instinct, an A.I. agent start-up that raised $1 billion in its latest funding round. OpenAI’s new agents were introduced as the company faces growing questions about the safety of its technology and increasing calls for government regulation of the A.I. market.
+
+ARTICLE
+
+A New A.I. Agent Enters the Marketplace: OpenAI’s Dots
+The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology.
+By Emmy Martin
+Published 2026-09-29 17:15 UTC
+https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html
+
+OpenAI now has artificial intelligence agents that act as personal digital assistants.
+
+Announced at the company’s annual developer conference on Tuesday in San Francisco, the agents, called dots, will compete with Meta’s A.I. agent, called Muse, which was also released this month; Google’s Gemini Spark, which came out in May; and Instinct, an A.I. agent start-up that raised $1 billion in its latest funding round.
+
+“You may have seen early signs of what this could look like in virtual assistants that help you book a reservation or buy a plane ticket, and these things are useful to hand off,” Sam Altman, OpenAI’s chief executive, said, “but they are trivial relative to what the technology can do — and so we wanted to be way more ambitious.”
+
+Dots are OpenAI’s most aggressive push to create a product out of A.I. agents, which are bots that can autonomously perform tasks for users, such as booking restaurant reservations or managing finances. Silicon Valley is betting A.I. agents will be how people next use the technology in a major way, moving consumer A.I. products away from answering questions to completing tasks.
+
+OpenAI’s new agents were introduced as the company faces growing questions about the safety of its technology and increasing calls for government regulation of the A.I. market.
+
+Over the summer, OpenAI’s A.I. agents went rogue and meddled with several U.S. federal government websites, and attacked Australian government websites and the infrastructure of the A.I. start-up Hugging Face. While A.I. agents from Anthropic, Meta and Google have also breached or tried to hack outside organizations, what is known so far about OpenAI’s agents has dwarfed issues that other companies have caused.
+
+On Monday, OpenAI also said it would not release its newest A.I. model, known as GPT-6.1 Astra, because of safety concerns. Dots are powered by the company’s prior model, GPT-6 Astra. An OpenAI spokeswoman said the company “conducted additional safety testing” of dots and was “confident rolling this out.”
+
+Users can message their dot agent, which they can name, in ChatGPT, Slack or Microsoft Teams or through text and connect to third-party apps. They can also talk to the agent on a phone call. The agents will be available starting Tuesday to subscribers of ChatGPT’s pro plans, except for those in some parts of Europe, and business premium and enterprise customers. Each user will get one agent, though OpenAI said it planned to increase that number.
+
+OpenAI said users could set rules for what the agent could do on its own and what required permission. The agent must get approval before sensitive actions like changing a password or installing software, and it would not message people or change anything in a user’s apps without being asked.
+
+(The New York Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+OpenAI also released GPT-6.1 Sol, a cheaper model that it said approached the abilities of its top system, GPT-6 Astra, at one-fifth of the price.
+
+================================================================================
+openai-warnings-security.html
+Source: PreloadedData  Paragraphs: 31  Words: 1300/1302
+================================================================================
+
+SUMMARY
+
+The exchanges between OpenAI employees and executives — which have not been previously reported — were part of a pattern where the San Francisco company did not prioritize security, according to employees and independent security researchers. Independent security researchers said they found bugs in recent months that allowed them to view the internal communications of OpenAI employees. OpenAI is not the only company that has recently disclosed A.I. security incidents.
+
+ARTICLE
+
+OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security
+Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen.
+By Sheera Frenkel, Dustin Volz and Dylan Freedman
+Published 2026-09-29 16:55 UTC
+https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html
+
+Months before OpenAI’s artificial intelligence went rogue, two employees raised an alarm with top executives. They were ignored.
+
+In emails, the employees said they worried that OpenAI’s newest artificial intelligence models were not being appropriately monitored during testing to gauge the technology’s sophistication and to secure the models, according to messages viewed by The New York Times.
+
+In response, OpenAI executives told the employees that the tests needed to move forward as quickly as possible to release the A.I. models on time. No additional security protocols were instituted, said the workers, who were not authorized to speak publicly on sensitive matters.
+
+OpenAI’s models later broke out of their testing environments and attacked the A.I. start-up Hugging Face and other organizations, setting off a global debate about A.I. safety.
+
+The exchanges between OpenAI employees and executives — which have not been previously reported — were part of a pattern where the San Francisco company did not prioritize security, according to employees and independent security researchers. That approach not only was evident with the testing of A.I. models, they said, but also showed up in other areas of the company, which makes the ChatGPT chatbot.
+
+Independent security researchers said they found bugs in recent months that allowed them to view the internal communications of OpenAI employees. They also found other vulnerabilities that would enable them to see the company’s internal computer code and view the chat logs of ChatGPT users. When the researchers contacted OpenAI about their findings, they said, the company initially disregarded them.
+
+“OpenAI’s security seems to be about what you’d expect from a research lab that scaled at a blistering pace over four years and focused more on beating its competitors than securing its infrastructure,” said Joshua Saxe, the chief technology officer of the A.I. security firm Abundant Security.
+
+OpenAI employees said that many of the day-to-day decisions about security were made by Greg Brockman, the company’s president, and Dane Stuckey, the chief information security officer. Sam Altman, the chief executive, is not closely involved in security, they said.
+
+OpenAI is not the only company that has recently disclosed A.I. security incidents. Google, Meta and Anthropic have also revealed that their most advanced A.I. technology escaped testing environments and autonomously attacked other computer infrastructure without their knowledge.
+
+But OpenAI’s handling of security is under particular scrutiny because its A.I. models have been involved in the biggest known number of instances of what the company has called “concerning” behavior — and in instances that experts have said were the most troubling.
+
+In a dozen or so incidents, OpenAI’s systems hacked or tried to breach organizations, including the websites of U.S. government agencies; the technology also hid its mistakes, made up data, tried to message other chatbots and moved files onto the open internet without permission. In all of these cases, the A.I. acted without being instructed to do so.
+
+“In some sense, this is an OpenAI-specific problem in that it seems like they had very bad security, and also sloppy model training practices that led to the models having this sort of propensity,” said Daniel Kokotajlo, a former OpenAI employee who has criticized the company’s safety and leads a research nonprofit called the AI Futures Project, though he added that other A.I. companies were not much better.
+
+Drew Pusateri, an OpenAI spokesman, said the company was committed to safety and took any security reports or concerns seriously. The lab has internal channels for reporting safety issues, he said, and took immediate action on flaws brought up by independent security researchers.
+
+“As frontier models have become more capable, we continue to evolve our security practices, but recognize a need to move faster,” Mr. Pusateri said. He added that OpenAI had slowed some A.I. development and was making changes to strengthen security in research and testing.
+
+(The Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+Two OpenAI employees said workers had raised concerns for months about potential safety issues with testing A.I. models, including not enough monitoring. Employees also asked about vulnerabilities in the type of software the company was using to manage day-to-day safety, according to messages viewed by The Times. Each time, their questions were brushed aside or acted on too slowly, they said.
+
+Security researchers said they had been met with a similar reception when they told OpenAI about other vulnerabilities.
+
+In July, researchers at the security company Hacktron said they told OpenAI about how they had found a way to break into the company’s systems with the help of an A.I. model created by its rival Anthropic. OpenAI initially dismissed their findings, they said.
+
+In a shared channel on the messaging platform Slack, Mr. Stuckey of OpenAI wrote that it was “pretty sad” that Hacktron’s researchers had gone to such lengths to demonstrate the company’s vulnerabilities, according to copies of the communications seen by The Times.
+
+“We just felt like they were angry at us,” Mohan Pedhapati, a Hacktron researcher, said of OpenAI. He added that the company appeared to still be using the security practices of a start-up, leveraging the software services of others for critical infrastructure instead of building its own tools.
+
+“Why are you using Slack to build your nuclear Manhattan projects?” Mr. Pedhapati asked. Hacktron’s hack could have granted him full access to the Slack messaging platform to see what OpenAI employees were saying, he said.
+
+Mr. Stuckey later apologized to Hacktron, and OpenAI awarded the researchers $6,500 for disclosing the flaw.
+
+“We thank the researchers for contacting us and sharing their findings,” Mr. Pusateri said.
+
+In September, researchers at the Objective-See Foundation, a nonprofit that studies security and privacy risks, including those posed by A.I. agents, reported a bug to OpenAI that would give people access to a ChatGPT user’s entire private chat logs on a compromised device and allow them to invisibly interact with the user’s browser sessions.
+
+Patrick Wardle, a software analyst at the Objective-See Foundation, said that when his team initially submitted what it found to OpenAI’s official bug bounty program — where researchers report bugs or vulnerabilities they find in exchange for recognition or financial rewards — its report languished. The research was escalated to the appropriate engineering unit only when Mr. Wardle reached out directly to friends at the company and Mr. Stuckey, who were all responsive, he said.
+
+OpenAI gave $500 to the group for its work, which Mr. Wardle said was low compared with what he would expect from other companies given the severity of the flaw. OpenAI fixed the bug, he said, and acknowledged it this week in its public software release notes without disclosing details.
+
+It was “not the mature security program you’d expect from a security-centric company,” Mr. Wardle said.
+
+OpenAI employees said that more such disclosures were probable. The company is not only reviewing actions taken by its new models during testing but is still receiving warnings from hackers about open security vulnerabilities, they said.
+
+On Friday, an independent report released by a group of engineers and researchers revealed new alarming behavior from the Hugging Face incident, including instances in which OpenAI’s agents tried to message Anthropic’s Claude and use other A.I. models to beat anti-robot protections on a website.
+
+OpenAI also revealed last week that new safeguards had failed to prevent its latest A.I. model from breaking through them to gain access to the internet. A retrospective review found other instances of unauthorized internet access that had gone undetected. OpenAI announced that it was pausing training for its most advanced models and was engaged in an extensive review of unexpected behavior by the technology.
+
+On Monday, the company went even further. It said it would not release its newest A.I. model, GPT-6.1 Astra, because of security concerns raised by its researchers.
 
 ================================================================================
 home-mortgage-program-birthrate-decline.html
@@ -652,6 +1785,53 @@ But now that Mr. Paxton has the financial edge, Mr. Holm said, he can use the in
 “As long as Paxton has the money,” Mr. Holm said, “he’ll be fine.”
 
 ================================================================================
+supreme-court-deportations-third-country.html
+Source: PreloadedData  Paragraphs: 15  Words: 563/563
+================================================================================
+
+SUMMARY
+
+The Trump administration can resume rapidly deporting immigrants to countries other than their own, the Supreme Court agreed on Tuesday. The decision was a victory for the administration, which has made sending immigrants to so-called third countries, including those that have faced allegations of human rights abuses, a major part of its mass deportation efforts. Since then, the Trump administration has continued to deport immigrants under the program, including to authoritarian countries with histories of human rights abuses.
+
+ARTICLE
+
+Supreme Court Allows Rapid Third-Country Deportations, for Now
+The court also announced it would hear arguments in December on the legality of the Trump administration policy to swiftly deport immigrants to countries not their own.
+By Abbie VanSickle
+Published 2026-09-29 19:15 UTC
+https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html
+
+The Trump administration can resume rapidly deporting immigrants to countries other than their own, the Supreme Court agreed on Tuesday.
+
+The one-page emergency ruling was unsigned and gave no vote count, as is typical in such cases. Although the justices cleared the way, for now, for the swift removals to continue, the court also announced that it would fast-track the case and hear oral arguments about it in December, setting up a final ruling on the issue next year.
+
+The court’s three liberal justices noted that they would have denied the government’s request to resume the deportations.
+
+The decision was a victory for the administration, which has made sending immigrants to so-called third countries, including those that have faced allegations of human rights abuses, a major part of its mass deportation efforts.
+
+The deportation flights had been blocked in recent weeks, however, after a federal court ruled the administration could not deport migrants to third countries unless they were given an opportunity to contest their removals, including to voice concerns that they might be persecuted or tortured abroad.
+
+The justices’ ruling means that the administration can, for now, continue its program and conduct rapid deportations including to countries like Equatorial Guinea, where U.S. deportees were hooded, bound and beaten by the police, according to reporting by The New York Times.
+
+The Supreme Court had weighed in previously on the administration’s efforts to send immigrants to third countries.
+
+In May 2025, the Trump administration asked the justices to step in and clear the way for third-country deportations after a federal judge in Massachusetts temporarily blocked the administration from sending people to countries not their own — in that case South Sudan — without the chance to object.
+
+In a one-paragraph ruling, the court’s conservatives allowed the administration to continue the deportations over the noted dissents of the three liberals.
+
+Since then, the Trump administration has continued to deport immigrants under the program, including to authoritarian countries with histories of human rights abuses. So far, the administration has sent more than 25,000 people to third countries as part of its mass deportation efforts, according to a social media post by James Percival, the top lawyer at the Department of Homeland Security. Among the countries were Liberia, Equatorial Guinea, Costa Rica, Honduras and the Central African Republic.
+
+Some immigration and human rights experts have asserted that the third-country deportations may be part of a broader strategy by the Trump administration to encourage undocumented immigrants to leave on their own, rather than face the fear of being sent to a country where they have no ties.
+
+In his brief, Solicitor General D. John Sauer characterized the third-country deportation program as “an essential tool to remove certain aliens, including some of the worst criminal aliens.”
+
+Mr. Sauer wrote that the appeals court ruling had “created substantial logistical problems with ongoing removal operations,” including canceled deportation flights and disrupted delicate diplomatic negotiations with other countries.
+
+Lawyers for a group of immigrants challenging their removals said in a brief that the Trump administration had ignored “the significant harm resulting from deporting thousands of longtime U.S. residents, many with no criminal history, to third countries without regard to the persecution or torture they face there.”
+
+They argued that the Trump administration could avoid any delays in its deportation program simply by “providing the notice and opportunity to be heard that the law requires.”
+
+================================================================================
 trump-steel-plant-iowa-midterms.html
 Source: PreloadedData  Paragraphs: 26  Words: 1266/1266
 ================================================================================
@@ -784,7 +1964,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.347s
-user	0m1.358s
-sys	0m0.248s
+real	0m1.354s
+user	0m1.454s
+sys	0m0.278s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
