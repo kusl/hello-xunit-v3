@@ -1,39 +1,48 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.978s
-user	0m10.585s
-sys	0m0.806s
+real	0m5.865s
+user	0m10.512s
+sys	0m0.780s
 
 Build succeeded in 0.4s
 
-real	0m0.573s
-user	0m0.580s
-sys	0m0.104s
-Restore complete (0.4s)
+real	0m0.592s
+user	0m0.602s
+sys	0m0.119s
+Restore complete (0.5s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.4s
 
-real	0m1.546s
-user	0m1.127s
-sys	0m0.285s
+real	0m1.602s
+user	0m1.203s
+sys	0m0.276s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (698ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(relative: "2026/09/29/us/politics/democrats-voter-turnout.htm"···, paragraphs: 17, reportedWords: 660, authors: 3, figures: 0, graphics: 2, notes: 0) (3ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 17
+  Actual:   16
+    at CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(String relative, Int32 paragraphs, Int32 reportedWords, Int32 authors, Int32 figures, Int32 graphics, Int32 notes) in CSharpUnitTests/ArticleExtractionTests.cs:1143
+    --- End of stack trace from previous location ---
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (719ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 879ms
+  duration: 914ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m1.961s
-user	0m2.313s
-sys	0m0.433s
+real	0m2.031s
+user	0m2.376s
+sys	0m0.426s
 On branch master
-Your branch is ahead of 'origin/master' by 5 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +72,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.324s
-user	0m0.195s
-sys	0m0.169s
+real	0m0.338s
+user	0m0.197s
+sys	0m0.162s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +90,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.377s
-user	0m1.347s
-sys	0m0.295s
+real	0m1.382s
+user	0m1.342s
+sys	0m0.287s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +104,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.407s
-user	0m1.380s
-sys	0m0.284s
+real	0m1.409s
+user	0m1.390s
+sys	0m0.273s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -1679,7 +1688,7 @@ The spot is an effort by Democrats and their allies to gain traction in a red st
 
 ================================================================================
 democrats-voter-turnout.html
-Source: PreloadedData  Paragraphs: 17  Words: 660/660
+Source: PreloadedData  Paragraphs: 16  Words: 660/663
 ================================================================================
 
 SUMMARY
@@ -1694,9 +1703,7 @@ By Reid J. Epstein, Ashley Wu and Christine Zhang
 Published 2026-09-29 09:01 UTC
 https://www.nytimes.com/2026/09/29/us/politics/democrats-voter-turnout.html
 
-From the first primaries in March through the final ones in September, Democrats’ turnout outpaced Republican voters in many key states that will decide congressional majorities next year.
-
-In red states like Texas, battlegrounds like Georgia and bluer ones like New Hampshire, Democrats have raced to the polls to choose their nominees, while Republicans have not kept up.
+From the first primaries in March through the final ones in September, Democrats’ turnout outpaced Republican voters in many key states that will decide congressional majorities next year. In red states like Texas, battlegrounds like Georgia and bluer ones like New Hampshire, Democrats have raced to the polls to choose their nominees, while Republicans have not kept up.
 
 “There’s been historic enthusiasm gaps this cycle, that are real reasons to be optimistic,” said Meredith Kelly, who was a top official for the House Democratic campaign committee in 2018, the last midterm election with President Trump in office.
 
@@ -2181,7 +2188,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.403s
-user	0m1.470s
-sys	0m0.314s
+real	0m1.374s
+user	0m1.469s
+sys	0m0.308s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
