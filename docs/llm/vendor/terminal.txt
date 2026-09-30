@@ -1,39 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.370s
-user	0m11.072s
-sys	0m0.894s
+real	0m6.538s
+user	0m11.491s
+sys	0m0.909s
 
-Build succeeded in 0.5s
+Build succeeded in 0.4s
 
-real	0m0.633s
-user	0m0.625s
-sys	0m0.137s
+real	0m0.606s
+user	0m0.605s
+sys	0m0.131s
 Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (3.3s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.6s
+Build succeeded in 1.5s
 
-real	0m4.722s
-user	0m1.534s
-sys	0m0.307s
+real	0m1.682s
+user	0m1.238s
+sys	0m0.271s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (768ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (769ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 978ms
+  duration: 966ms
 
-real	0m2.167s
-user	0m2.584s
-sys	0m0.447s
+real	0m2.180s
+user	0m2.604s
+sys	0m0.439s
 On branch master
-Your branch is ahead of 'origin/master' by 6 commits.
+Your branch is ahead of 'origin/master' by 7 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.351s
+real	0m0.343s
 user	0m0.189s
-sys	0m0.178s
+sys	0m0.190s
 Restore complete (0.5s)
 
 Build succeeded in 0.6s
@@ -81,12 +81,12 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.565s
-user	0m1.513s
-sys	0m0.313s
-Restore complete (0.5s)
+real	0m1.548s
+user	0m1.485s
+sys	0m0.345s
+Restore complete (0.4s)
 
-Build succeeded in 0.6s
+Build succeeded in 0.5s
 
 The following sources were used:
    https://api.nuget.org/v3/index.json
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m2.244s
-user	0m1.714s
-sys	0m0.361s
+real	0m1.547s
+user	0m1.483s
+sys	0m0.328s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -2256,7 +2256,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.586s
-user	0m1.687s
-sys	0m0.347s
+real	0m1.656s
+user	0m1.762s
+sys	0m0.336s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
