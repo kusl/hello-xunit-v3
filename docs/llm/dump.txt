@@ -1,10 +1,10 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-30 06:58:54
+Generated (UTC): 2026-09-30 07:00:33
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      4988a94fa908d15c8116d63073cc00ca4e6a7dbf
+Git Commit:      9e4205af94b6c0079c4fa4cea043df4e52e411c6
 Git Branch:      master
-Git Dirty:       no
+Git Dirty:       yes (uncommitted changes are included below)
 .NET SDK:        10.0.112
 Files Exported:  16
 ===============================================================================
@@ -2376,8 +2376,8 @@ catch (Exception exception) when (exception is FileNotFoundException or ArticleE
 FILE:     CSharpUnitTests/ArticleExtractionTests.cs
 SIZE:     50.51 KB (51724 bytes)
 LINES:    1244
-SHA256:   982b1548e58c596712816c46717597922fe22451a68098fb48fd5422c4ab19b5
-MODIFIED: 2026-09-30 06:58:27 (UTC)
+SHA256:   947f1d71698b42d538c93c3841ec03ec9d25d556f0670725b2399134e879298d
+MODIFIED: 2026-09-30 07:00:16 (UTC)
 ================================================================================
 
 using System.Text;
@@ -3621,7 +3621,7 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(27, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        Assert.Equal(28, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
     }
 }
 
@@ -4261,9 +4261,9 @@ MODIFIED: 2026-09-27 06:37:13 (UTC)
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-30 06:58:54
+EXPORT COMPLETED (UTC): 2026-09-30 07:00:33
 Total Files Exported:   16
 Total Source Size:      0.13 MB (138358 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): a730a6857d2b6cda7db905c93869a385c81b1465df2031f131be3a9d5ec0eaca
+DUMP SHA256 (of all lines above this one): 124faf3f57c0bbfbae6ed18672d7f94d08bb8b18c407c88ec4c66ba21f917b48

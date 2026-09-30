@@ -1,42 +1,50 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.084s
-user	0m10.815s
-sys	0m0.852s
+real	0m6.299s
+user	0m11.488s
+sys	0m0.832s
 
 Build succeeded in 0.4s
 
-real	0m0.593s
-user	0m0.606s
-sys	0m0.098s
-Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+real	0m0.592s
+user	0m0.599s
+sys	0m0.125s
+Restore complete (0.5s)
+  CSharpClassLibrary net10.0 succeeded (0.5s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.4s
+Build succeeded in 1.6s
 
-real	0m1.582s
-user	0m1.171s
-sys	0m0.283s
+real	0m1.722s
+user	0m1.221s
+sys	0m0.274s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (686ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (731ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 873ms
+  duration: 927ms
 
-real	0m1.999s
-user	0m2.316s
-sys	0m0.413s
+real	0m2.109s
+user	0m2.485s
+sys	0m0.464s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
+Your branch is up to date with 'origin/master'.
 
-nothing to commit, working tree clean
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   CSharpUnitTests/ArticleExtractionTests.cs
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	CSharpConsoleApp/nytimes/2026/09/29/opinion/writing-thinking-college-ai.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -63,9 +71,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.343s
-user	0m0.203s
-sys	0m0.159s
+real	0m0.366s
+user	0m0.196s
+sys	0m0.173s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +89,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.381s
-user	0m1.354s
-sys	0m0.294s
+real	0m1.407s
+user	0m1.403s
+sys	0m0.277s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +103,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.391s
-user	0m1.338s
-sys	0m0.305s
+real	0m1.506s
+user	0m1.447s
+sys	0m0.322s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -1635,6 +1643,53 @@ The Times is committed to publishing a diversity of letters to the editor. We’
 Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
 
 ================================================================================
+writing-thinking-college-ai.html
+Source: PreloadedData  Paragraphs: 12  Words: 910/982
+================================================================================
+
+SUMMARY
+
+Most college professors I know believe that students learn to think — critically, creatively, reflectively, tenaciously — only by writing. At Williams College, where I am a professor, writing skills are among the very few general education requirements. If I do not treat writing as essential for achieving thought, it is not clear why I should force my students to.
+
+ARTICLE
+
+I’m a College Professor. Writing Isn’t as Important as We Think.
+If I do not treat writing as essential for achieving thought, it is not clear why I should force my students to.
+By Joe Cruz
+Published 2026-09-29 09:01 UTC
+https://www.nytimes.com/2026/09/29/opinion/writing-thinking-college-ai.html
+
+Most college professors I know believe that students learn to think — critically, creatively, reflectively, tenaciously — only by writing. At Williams College, where I am a professor, writing skills are among the very few general education requirements.
+
+It’s no surprise, then, that universities see artificial intelligence as an existential threat, and have launched an arms race of countermeasures: more proctored essay exams; test-taking rooms shielded from the internet; requirements that essays be composed on platforms that track all edits, so the word-for-word genealogy can be verified. I’ve heard professors rejoicing when they see typos or grammatical errors in an essay, as if they proved that a student wrote it without any help from A.I.
+
+But what if we are mistaken in treating writing as the highest cultivation of thought? The evidence that supports this belief is thin at best. Writing can be useful cognitive scaffolding for memory and self-regulated learning, but the notion that it is the best process for developing thinking skills is a fairly recent idea, traceable to the 1970s writing-across-the-curriculum movement.
+
+In 1980, James Britton, an educator, hypothesized that we discover what we think in the act of writing. “Hypothesized” is the correct word here, since Mr. Britton’s anecdotal and introspective suppositions never amounted to proof of a stronger claim, and studies since have been limited or inconclusive.
+
+In Plato’s “Phaedrus,” Socrates offers a startling criticism of writing. Written words, he claims, are not the true children of knowledge, because writing cannot speak, answer questions or come to its own defense. Only through conversation among minds, he suggests, does reason yield real insight. For the past two millenniums, this appraisal has seemed like a failure to appreciate the power of writing. But perhaps Socrates was right, and we think best by speaking, answering and defending our ideas.
+
+I don’t rely on prepared scripts when I teach, and few of the teachers I most admire do. Instead, I engage my seminar students through messy, searching conversation, responding to their presence in the classroom to gauge whether we’re understanding one another. I want to make new connections in the immediacy of our back-and-forth. I want to recall a thread from two class meetings ago spontaneously and weave it into my improvised lecture while snapping into new ways of thinking about it in the moment.
+
+If the only way that I could teach my courses was to sculpt written paragraphs, I’m not sure I would actually know the material. If I do not treat writing as essential for achieving thought, it is not clear why I should force my students to.
+
+Writing assignments serve practical needs of colleges and universities. When we receive a batch of 10-page essays, we can take them home, read a few, put them aside and grade the rest when the opportunity arises. If our minds wander, we can reread the prose before us. If we need to justify a grade, we can cite the record. Writing is a portable, compact trace of mind that is more manageable in a bureaucracy than is a conversation. But none of these conveniences is about developing the best thought.
+
+Last semester I permitted my students to use A.I. tools on their final essays in accordance with specific guidelines. They then had a 45-minute oral exam in which I could audit their understanding of their claims and push them further in their analyses. I was reassured by the results. In no case did I suspect that an A.I. had written a student’s paper in the substantive, objectionable way that we are all concerned about. The students were all too sharp on the ideas, too deft in reconfiguring their thoughts and extending them dynamically. Moreover, at least half of the class was more agile, more reflective and clearer during oral exams than they were in their papers.
+
+I believe colleges can permit the use of A.I. writing tools without undermining the next generation of thinkers. But to get there, we need to embrace a different image of a university education — one in which ideas are expressed in real time and analytical thought unfolds as a debate or an oral defense or a group discussion. It will take courage to demand that students demonstrate active, participatory mastery of ideas. And it will take courage on their part to abandon the safe recursion of revision and narrative refinement. To be sure, there will be challenges of scale, and not every kind of institution will be able to adapt. The benefits, however, may be enormous.
+
+Pursuing an alternative path where we think aloud together, vigorously and sharply, won’t yield a world in which nothing is written. Socrates was wrong if he was suggesting that there should be no writing at all. Writing has an important function: It summarizes and compresses our thoughts into a shareable, durable medium. Writing remains an essential life skill, and we will continue to do it. A.I. will write summaries of our thoughts and may contribute some of its own. But we shouldn’t always force students to maintain a written record of knowledge. Universities have forgotten that archiving and thinking are separate.
+
+Consider what we might gain if we practiced speaking more and carrying around the resources of mind through our own attention, memory and engagement with one another. We may end up spending less time isolated, gain more practice resolving disagreement and find ourselves a clearer sense of what we believe. This is the moment to claim critical thought back.
+
+Joe Cruz is the chair of the philosophy department and the program on cognitive science at Williams College.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
 dorm-room-fund-ai-investment.html
 Source: PreloadedData  Paragraphs: 24  Words: 1023/1024
 ================================================================================
@@ -2524,7 +2579,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.384s
-user	0m1.546s
-sys	0m0.317s
+real	0m1.438s
+user	0m1.607s
+sys	0m0.271s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
