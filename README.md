@@ -20,7 +20,7 @@ It keeps the extension when it fits and never splits grapheme clusters.
 ## Projects
 
 - `CSharpClassLibrary`: `FilenameString`, `ArticleExtraction.cs`
-- `CSharpConsoleApp`: prints a summary and the full prose for each HTML file under `nytimes/` or the given paths
+- `CSharpConsoleApp`: prints a summary and the full prose for each HTML file under `CSharpConsoleApp/nytimes/` or the given paths, and writes the same report to a `.txt` file beside each HTML file
 - `CSharpUnitTests`: tests
 
 ## Usage
