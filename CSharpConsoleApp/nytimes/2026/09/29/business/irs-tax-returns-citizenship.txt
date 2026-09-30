@@ -1,0 +1,58 @@
+================================================================================
+irs-tax-returns-citizenship.html
+Source: PreloadedData  Paragraphs: 21  Words: 1283/1283
+================================================================================
+
+SUMMARY
+
+The Trump administration is preparing to add a question on next year’s tax returns asking people whether they are a citizen or legally authorized to work in the United States, expanding an attempt to cut tax refunds for immigrants or push them out of the tax system entirely. In a draft version of Form 1040, the primary tax form, the Internal Revenue Service this month included a new section that asks filers to check a box “Yes” or “No” to answer the question: “At the time you file your return, are you, and your spouse if filing jointly, a U.S. citizen, U.S. national, or an alien lawfully authorized to work in the U.S.?” The additional question comes as part of what the Trump administration has said is an effort to prevent undocumented immigrants from receiving federal tax benefits.
+
+ARTICLE
+
+Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens
+The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration.
+By Andrew Duehren
+Published 2026-09-29 14:09 UTC
+https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html
+
+The Trump administration is preparing to add a question on next year’s tax returns asking people whether they are a citizen or legally authorized to work in the United States, expanding an attempt to cut tax refunds for immigrants or push them out of the tax system entirely.
+
+In a draft version of Form 1040, the primary tax form, the Internal Revenue Service this month included a new section that asks filers to check a box “Yes” or “No” to answer the question: “At the time you file your return, are you, and your spouse if filing jointly, a U.S. citizen, U.S. national, or an alien lawfully authorized to work in the U.S.?”
+
+The additional question comes as part of what the Trump administration has said is an effort to prevent undocumented immigrants from receiving federal tax benefits. But many tax credits require recipients to have valid Social Security numbers, meaning previous tax forms already screened undocumented immigrants from receiving them. That fact has led several tax and immigration experts to conclude that the question is simply intended to scare undocumented immigrants out of filing their taxes at all.
+
+That fear first emerged last year, when the I.R.S. shared addresses it had on file for roughly 47,000 people with Immigration and Customs Enforcement. Federal law closely guards access to information submitted on tax returns, and several courts have blocked the I.R.S. from sharing bulk data with ICE. Still, even if the I.R.S. may not be able to legally do so, the addition of the citizenship question could reawaken concerns about the agency using its vast stores of information to help detain or deport people.
+
+Undocumented immigrants pay tens of billions in combined federal income, payroll and local taxes every year. Since they do not have valid Social Security numbers, undocumented immigrants are among the people who can use a separate nine-digit code called an individual taxpayer identification number to file their taxes. The I.R.S. has not in recent history asked taxpayers about their immigration status, and has instead sought to encourage every U.S. resident to file their taxes.
+
+“The I.R.S. doesn’t need this information to administer the tax law,” said Nina Olson, a former I.R.S. official and the executive director of the Center for Taxpayer Rights, which sued the I.R.S. over its previous data sharing with ICE. “The only reason you have that attestation is to deter people.”
+
+At the same time, the Treasury Department is moving forward with a push to cut off immigrants with legal status from receiving the full value of several tax credits. The administration has said those new rules are targeted at “illegal aliens,” but in reality they would affect recipients of Deferred Action for Childhood Arrivals, or DACA, as well as immigrants on work visas, among others.
+
+The question on tax forms and the stricter eligibility rules are the latest signs that the I.R.S. has become a tool in the Trump administration’s anti-immigration agenda, an important shift for an agency that for decades was narrowly focused on collecting taxes. Tax preparers and lawyers said the Trump administration’s new tax credit rules are stricter than the eligibility rules approved by Congress and threaten to create confusion for millions of tax filers next year.
+
+President Trump has in recent months also sought to build a database of U.S. citizens, and he has proposed excluding noncitizens without green cards from the census. The new tax return question would most likely not be able to feed into those other efforts, though, because of taxpayer privacy laws. The proposed changes would probably draw legal challenges.
+
+The I.R.S. did not respond to a request for comment. A representative of the Treasury Department said the citizenship question on tax forms would “provide the I.R.S. important and necessary information to help ensure tax benefits go where the law directs” without addressing specific questions about the changes.
+
+“That rationale doesn’t hold water,” said Brandon DeBot, a senior attorney adviser at New York University’s Tax Law Center. “The government already has all the information it needs for whether someone is eligible for a tax credit.”
+
+The overall effort began to take shape in August, when the Treasury Department proposed regulations outlining the new restrictions for four refundable tax credits: the earned-income tax credit, the child tax credit, the adoption tax credit and the American Opportunity tax credit, which covers education costs. In general, tax credits offset the amount of tax that someone owes, but refundable tax credits can go further, providing a payment to a filer that is larger than the balance of owed tax.
+
+This means refundable tax credits can effectively serve as cash support to poor Americans who do not make enough money to owe much income tax. (Here is a simplified example: Someone who receives a $1,000 refundable tax credit, but owes only $200 in tax, can still receive the remaining $800 in tax credit as a payment.)
+
+The Treasury regulations would, for the first time, define the money received through the tax credits — the amount beyond the tax owed — as a “federal public benefit.” That would subject this portion of the tax credit to a set of eligibility requirements laid out in a separate 1996 law, rather than the rules Congress wrote for the tax credits specifically.
+
+Under tax laws passed by Congress, three of the four credits are already limited to people with work-authorized Social Security numbers, while the adoption credit is available to a broader pool. The proposed regulations would, instead, require recipients to be a “qualified alien” under the terms of the 1996 law, called the Personal Responsibility and Work Opportunity Reconciliation Act.
+
+Several categories of immigrants are authorized to work — and therefore have Social Security numbers — but do not count as “qualified aliens” under that law. Beyond DACA recipients and people with work visas, residents with student visas or temporary protected status would no longer be able to receive the full amount of the tax credits because they are not “qualified aliens.”
+
+“This isn’t about undocumented immigrants, no matter how much they advertise it as such,” said Margot Crandall-Hollick, a researcher at the Tax Policy Center, a think tank. “This is about going after people who are allowed to be here and allowed to work here.”
+
+The additional question on Form 1040 asks only if someone is a citizen, a U.S. national or authorized to work — and not whether the filer is a “qualified alien,” meaning that the answer would not be relevant to enforcing the Treasury’s new rules. Reflecting that, the I.R.S. released a draft of a separate additional form that directly asks if someone is a “qualified alien.”
+
+“It’s a weird duplicate question,” Richard Pon, a certified public accountant in California, said of the Form 1040 change. “‘Qualified alien’ is different from the question that’s on the 1040. Why would they even ask that question about citizenship? I can’t think of any compliance reason for that.”
+
+Those hoping to receive the full value of the tax credits will now have to know whether their immigration status aligns with the complicated definition of “qualified alien.” That added complexity could cause some people who are in fact “qualified aliens,” like green card holders, to not claim the full value of the tax credits. The Treasury regulations warn of penalties for people who fill out the forms incorrectly, a potential deterrent for uncertain filers.
+
+“The design of these questions is to confuse and scare the people. Tax preparers are completely unprepared to figure out whether someone is a qualified immigrant,” Sarah Krieger, senior policy counsel at the National Immigration Law Center. “People are just going to be chilled or deterred from filing their taxes or claiming credits they’re eligible for.”

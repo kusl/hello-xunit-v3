@@ -1,0 +1,38 @@
+================================================================================
+openai-dots-ai-agents.html
+Source: PreloadedData  Paragraphs: 11  Words: 503/505
+================================================================================
+
+SUMMARY
+
+OpenAI now has artificial intelligence agents that act as personal digital assistants. Announced at the company’s annual developer conference on Tuesday in San Francisco, the agents, called dots, will compete with Meta’s A.I. agent, called Muse, which was also released this month; Google’s Gemini Spark, which came out in May; and Instinct, an A.I. agent start-up that raised $1 billion in its latest funding round. OpenAI’s new agents were introduced as the company faces growing questions about the safety of its technology and increasing calls for government regulation of the A.I. market.
+
+ARTICLE
+
+A New A.I. Agent Enters the Marketplace: OpenAI’s Dots
+The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology.
+By Emmy Martin
+Published 2026-09-29 17:15 UTC
+https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html
+
+OpenAI now has artificial intelligence agents that act as personal digital assistants.
+
+Announced at the company’s annual developer conference on Tuesday in San Francisco, the agents, called dots, will compete with Meta’s A.I. agent, called Muse, which was also released this month; Google’s Gemini Spark, which came out in May; and Instinct, an A.I. agent start-up that raised $1 billion in its latest funding round.
+
+“You may have seen early signs of what this could look like in virtual assistants that help you book a reservation or buy a plane ticket, and these things are useful to hand off,” Sam Altman, OpenAI’s chief executive, said, “but they are trivial relative to what the technology can do — and so we wanted to be way more ambitious.”
+
+Dots are OpenAI’s most aggressive push to create a product out of A.I. agents, which are bots that can autonomously perform tasks for users, such as booking restaurant reservations or managing finances. Silicon Valley is betting A.I. agents will be how people next use the technology in a major way, moving consumer A.I. products away from answering questions to completing tasks.
+
+OpenAI’s new agents were introduced as the company faces growing questions about the safety of its technology and increasing calls for government regulation of the A.I. market.
+
+Over the summer, OpenAI’s A.I. agents went rogue and meddled with several U.S. federal government websites, and attacked Australian government websites and the infrastructure of the A.I. start-up Hugging Face. While A.I. agents from Anthropic, Meta and Google have also breached or tried to hack outside organizations, what is known so far about OpenAI’s agents has dwarfed issues that other companies have caused.
+
+On Monday, OpenAI also said it would not release its newest A.I. model, known as GPT-6.1 Astra, because of safety concerns. Dots are powered by the company’s prior model, GPT-6 Astra. An OpenAI spokeswoman said the company “conducted additional safety testing” of dots and was “confident rolling this out.”
+
+Users can message their dot agent, which they can name, in ChatGPT, Slack or Microsoft Teams or through text and connect to third-party apps. They can also talk to the agent on a phone call. The agents will be available starting Tuesday to subscribers of ChatGPT’s pro plans, except for those in some parts of Europe, and business premium and enterprise customers. Each user will get one agent, though OpenAI said it planned to increase that number.
+
+OpenAI said users could set rules for what the agent could do on its own and what required permission. The agent must get approval before sensitive actions like changing a password or installing software, and it would not message people or change anything in a user’s apps without being asked.
+
+(The New York Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+OpenAI also released GPT-6.1 Sol, a cheaper model that it said approached the abilities of its top system, GPT-6 Astra, at one-fifth of the price.

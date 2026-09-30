@@ -1,0 +1,56 @@
+================================================================================
+bond-market-japan-yen.html
+Source: PreloadedData  Paragraphs: 17  Words: 1066/1156
+================================================================================
+
+SUMMARY
+
+After more than three decades of economic gloom, Japan is back. Today, Japanese government bonds are paying interest rates not seen in 30 years, lifted by economic growth and deficit spending. That month, not only did Japan’s Finance Ministry intervene to stem the yen’s decline, but the Bank of Japan also increased interest rates, hinted at more rate hikes to come and said it would cut bond purchases.
+
+ARTICLE
+
+There’s a New Threat to Your Personal Finances
+The revival of Japan’s economy isn’t all good news.
+By Rebecca Patterson
+Published 2026-09-28 09:04 UTC
+https://www.nytimes.com/2026/09/28/opinion/bond-market-japan-yen.html
+
+After more than three decades of economic gloom, Japan is back. This should be welcome news, but there is a downside that’s going to make things challenging for America and its economic stewards in the Trump administration. Remember the butterfly flapping its wings and causing tornadoes? It’s like that, only in this case the butterfly is a $7.6 trillion bond market.
+
+For three decades, Japanese investors, facing a lifeless domestic economy, would stash their money overseas where it could earn better returns. Today, Japanese government bonds are paying interest rates not seen in 30 years, lifted by economic growth and deficit spending. That means investors can bring their money home — and that has the potential to produce a global financial market mess. The risks are large enough that they have already prompted a number of exceptional interventions by the U.S. Treasury.
+
+This is for sure an esoteric part of international finance. It’s also a vital underpinning for markets that matter for your retirement account, savings and household budget.
+
+We need to start in 1990. The bursting of Japan’s go-go bubble economy and the subsequent long economic slump prompted companies there to sit on their cash rather than invest. Japan’s central bank embarked on a range of experiments to jump-start the economy, starting with rapidly cutting short-term interest rates from a peak of 6 percent in 1990 to nearly zero by the middle of the decade.
+
+Economic growth didn’t rise enough to encourage households to spend. Instead, they preferred to wait for prices to fall. The Bank of Japan kept trying. It bought vast amounts of government bonds, a process known as quantitative easing, and in 2016, introduced negative interest rates. The yield on Japan’s 10-year bond hovered around one-tenth of a percentage point. For an equivalent U.S. Treasury bond, the interest rate it paid at the time was 2.35 percent.
+
+The real-world result was that Japan effectively paid people to borrow its currency. An investor could finance the purchase of a foreign asset, such as a Treasury bond, with yen. Without markets budging at all, the trade would make money, given the difference between the borrowing cost and the yield on the Treasury bond purchased. This is what financial analysts call the carry trade.
+
+Over the years, and in similar ways, the yen funded investments around the world — in currencies, bonds and equities. As long as other countries’ returns looked sufficiently more attractive, the carry trade grew. There is no definitive measure for its size. One Treasury Department estimate, which reflects a number of factors including the carry trade, says that of mid-2025, Japanese investors owned around $2.8 trillion of U.S. equities, bonds and other assets.
+
+Undoing this would be the financial equivalent of a tide rushing out before a tsunami strikes. The first hint of what it could look like came in 2024. That July, U.S. government bond yields were more than three percentage points higher than their Japanese equivalents. Investors borrowed yen and sold them for dollars to buy Treasury bonds. That selling weakened the yen to levels that alarmed policymakers. Japanese exporters benefit from a weaker yen since it makes their goods more competitive overseas, but households suffer because the price of imported goods rises.
+
+That month, not only did Japan’s Finance Ministry intervene to stem the yen’s decline, but the Bank of Japan also increased interest rates, hinted at more rate hikes to come and said it would cut bond purchases. The combination reversed the logic of the carry trades and investors started heading for the exits.
+
+That turned to panic when a disappointing U.S. jobs report in August 2024 convinced investors that the Federal Reserve might need to cut interest rates. This too made the carry trade less attractive. The tsunami hit on Aug. 5 — Japan’s Nikkei equity index fell 12.4 percent in a single session, its biggest one-day loss since the Wall Street crash of October 1987. The S&P 500 index fell 3 percent.
+
+Fast forward to today: Policymakers in Japan and the United States are trying to thread a tiny, sharp needle. Both governments are spending more, including on defense and infrastructure. That spending requires more government debt. At the same time, stubbornly high inflation is frustrating voters and forcing central banks to raise interest rates. That could undermine economic growth — government bond yields, after all, anchor borrowing costs for items including home mortgages and auto loans. Higher interest rates also raise the cost of servicing all that debt, which eats into funds for other government priorities.
+
+So how can both countries simultaneously support growth, fight inflation and bring down long-term interest rates?
+
+While an economic boost from artificial intelligence may help at some point, Japan’s finance minister floated an answer in July. She suggested asking Japan’s government pension investment fund, which manages $2.1 trillion in assets, to sell some foreign bonds and buy Japanese ones. This would require selling foreign currencies, including a lot of dollars. In other words, the inverse of the yen carry trade. The move would help lower Japanese bond yields without slowing Japanese growth.
+
+Unfortunately, such a step would boomerang on the United States, because it would most likely push up Treasury bond yields and weaken the dollar. That’s among the reasons Treasury Secretary Scott Bessent has been intervening in markets in novel ways, including seeking a pathway for Japan to tackle the challenges facing its own currency and bond markets without needing to sell U.S. Treasurys.
+
+Even if these various interventions work, the risk remains that investors will take at least some of their money out of America and back to Japan.
+
+Japan’s stock market has risen nearly 30 percent so far this year, more than double the growth in the S&P 500. Government bond yields are near 3 percent for the first time in decades. Any Japanese investors looking to take advantage wouldn’t pull their money out of overseas markets overnight. But the size of the potential repatriation, and the increasingly attractive investment options back home, means America needs to be on guard that a slow current of capital doesn’t become a sudden flood.
+
+For many years, traders tried and failed to guess when Japanese bond yields would rise, so much so that the trade was nicknamed the “widow maker.” If the giant unwinding of the carry trade finally comes, let’s hope it doesn’t leave any more financial widows in its wake.
+
+Rebecca Patterson is an economist and senior fellow at the Council on Foreign Relations who has held senior positions at JPMorgan Chase and Bridgewater Associates. She is a co-host of the podcast “The Spillover.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

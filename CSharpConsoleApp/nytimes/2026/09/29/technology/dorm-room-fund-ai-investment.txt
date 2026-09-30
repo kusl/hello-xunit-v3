@@ -1,0 +1,64 @@
+================================================================================
+dorm-room-fund-ai-investment.html
+Source: PreloadedData  Paragraphs: 24  Words: 1023/1024
+================================================================================
+
+SUMMARY
+
+Fourteen years ago, a venture capital firm created a program for college students to invest in their peers, called Dorm Room Fund. This month, Dorm Room Fund raised a new $50 million fund to keep investing in companies created by college students and the 500 members of its alumni network. Dorm Room Fund and several other alumni also invested.
+
+ARTICLE
+
+College Students Flex Their Power in A.I. Investment Frenzy
+Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.
+By Erin Griffith
+Published 2026-09-29 09:03 UTC
+https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html
+
+Fourteen years ago, a venture capital firm created a program for college students to invest in their peers, called Dorm Room Fund. Some dismissed the effort as risky and a little bit crazy. After all, could you really trust students to make good investments?
+
+Now the fund’s network has its tentacles all over the artificial intelligence boom.
+
+Dorm Room Fund’s alumni have gone on to establish major A.I. companies like the coding start-up Cursor and the defense tech company Shield AI. Others have become investors at top firms including Sequoia Capital, Andreessen Horowitz and Lightspeed Venture Partners. They share deals, advice and industry banter.
+
+This month, Dorm Room Fund raised a new $50 million fund to keep investing in companies created by college students and the 500 members of its alumni network. That is four times the size of its last fund, a sign of how much investor attitudes about the program have changed.
+
+Silicon Valley investors have long courted college students, including paying them to drop out, as Peter Thiel’s Thiel Fellowship famously does. But the wooing has gotten more aggressive in the A.I. boom, where dropouts and recent graduates are finding overnight success in growing numbers.
+
+Last week, Andreessen Horowitz announced the Horowitz Andreessen Academy, a free and unaccredited one-year program in San Francisco for high school graduates to “learn at the speed of Silicon Valley.” The start-up accelerator Y Combinator last year introduced Early Decision, where founders who are accepted to the accelerator can “defer” joining until after they graduate from college.
+
+“When there are big tech shifts, it advantages first-time builders,” said Molly Fowler, 39, a partner at Dorm Room Fund, which is based in New York. “It’s those moments that level the playing field.”
+
+Dorm Room Fund was created as part of the venture capital firm First Round Capital, before being spun out in 2021. The program works by choosing students from a pool of undergraduate and graduate school applicants, creating a team of 60 student investors on roughly 30 campuses — including Stanford University and the University of Waterloo — each academic year.
+
+The students are trained on venture capital basics and meet weekly to evaluate potential deals. They also travel to an annual off-site meeting described as a junior version of Allen & Company’s Sun Valley Conference, a gathering of tech and media power players.
+
+Many of Dorm Room Fund’s student investors wind up at big venture firms, where they rely on their network from the program to find their next investment. Others are inspired to start companies. At least 118 Dorm Room Fund student investors have become entrepreneurs, and many have raised funding from their Dorm Room Fund peers.
+
+Ms. Fowler said she had initially targeted $30 million for the latest fund but had enough interest for $50 million. She joined the firm in 2019 and used her experience as a political campaign fieldworker to deepen the engagement and community-building aspects of the program. This is critical, she said, because students won’t show up to a club if they aren’t getting anything out of it.
+
+This points to another challenge of investing in students: They can be flaky, or worse. The amount of money sloshing around start-ups can attract opportunists who might try to get money for a class project or because they didn’t get the internship they wanted. Ms. Fowler said program participants had a keen sense of people’s reputations on campus, which she views as an advantage.
+
+“It’s not like, ‘Here’s $100,000, go give it to your friends,’” she said.
+
+Once the student investors have identified an investment deal, Ms. Fowler and her colleague, Madison Jacox, help with diligence and negotiating deal terms. Ms. Fowler’s team also leads investments in companies founded by alumni of Dorm Room Fund.
+
+While not all the fund’s investments have produced hits, the portfolio includes eight $1 billion start-ups — such as Shield AI, worth $13 billion, and Vulcan Technologies, which provides A.I. technology for government agencies and is worth $2.5 billion — and 30 companies worth more than $300 million.
+
+Claire Smilow, 35, an investor at the venture capital firm BoxGroup, participated in Dorm Room Fund from 2018 to 2020 while at Harvard Business School. There, she overlapped with Michael Truell, who joined the program while attending M.I.T. They stayed in touch.
+
+In June 2022, BoxGroup invested $750,000 in Mr. Truell’s new company. The start-up did not have a product, but Ms. Smilow was impressed by Mr. Truell and eager to back “anything he built,” she said. Dorm Room Fund and several other alumni also invested.
+
+Mr. Truell’s company became Cursor, the A.I. coding start-up. It sold to SpaceX this year for $60 billion, the largest acquisition of a venture-capital-backed company.
+
+Ms. Smilow has backed at least two other founders she met through the network. She has stayed active in the community, attending alumni meet-ups, visiting campuses and speaking to new student investors.
+
+“The Dorm Room Fund community has been more impactful on my career than the Harvard Business School community,” she said.
+
+The firm’s latest fund shows the way the money often flows in Silicon Valley. Aryan Shah, 22, joined Dorm Room Fund while at Emory University from 2023 to 2025. Talking to founders inspired him to start his own company, so in 2025 he dropped out and co-founded Metis, which makes software for A.I. agents. His first call was to Ms. Fowler, who wrote a $300,000 check and advised him on fund-raising. Mr. Shah’s first three hires were Dorm Room Fund alumni.
+
+In March, DoorDash bought Metis for more than $100 million in cash. Mr. Shah told Ms. Fowler that he wanted to put some proceeds into her new fund, so he wound up investing in the fund that had backed his company. Thirty percent of the new fund’s investors are Dorm Room Fund alumni or firms that employ them.
+
+Investing in the fund felt like a way to give back, Mr. Shah said, and he wanted to support others having the same experience.
+
+“It is truly the biggest cheat code any college student can have coming out of school if they want to do venture or start-ups,” he said.

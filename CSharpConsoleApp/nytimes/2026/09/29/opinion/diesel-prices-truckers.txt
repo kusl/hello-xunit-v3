@@ -1,0 +1,48 @@
+================================================================================
+diesel-prices-truckers.html
+Source: PreloadedData  Paragraphs: 13  Words: 898/975
+================================================================================
+
+SUMMARY
+
+Every week seems to bring a record high for diesel prices — and more trouble for the nation’s truckers. These rising fuel costs are going to make their way into your purchases until the world’s supply of diesel increases, which doesn’t seem likely anytime soon, given the Iran and Ukraine conflicts. There’s been a lot of talk about banning exports of diesel fuel, at least temporarily.
+
+ARTICLE
+
+$6 Diesel Is Hurting Small Truckers. It Could Hurt Trump, Too.
+When fuel costs rise, the price of everything rises.
+By Adam Wingfield
+Published 2026-09-29 15:00 UTC
+https://www.nytimes.com/2026/09/29/opinion/diesel-prices-truckers.html
+
+Every week seems to bring a record high for diesel prices — and more trouble for the nation’s truckers. They’re hurting. Since January, diesel has increased more than 80 percent, to $6.53 a gallon.
+
+Nearly everything that you buy rides on a big, diesel-burning truck at some point. Farmers are heavy users of diesel for their machinery, too, so diesel figures in twice at the supermarket. These rising fuel costs are going to make their way into your purchases until the world’s supply of diesel increases, which doesn’t seem likely anytime soon, given the Iran and Ukraine conflicts.
+
+President Trump is reportedly considering banning diesel exports. It won’t help. Sure, some regions in the United States, such as the Southeast, would see prices subside for a short time, but prices elsewhere would increase.
+
+For small truckers, the pain at the pump is threatening their businesses. About 92 percent of America’s trucking companies are small operations, with 10 or fewer trucks. If we lose too many of them, freight costs — and then your costs — will go even higher. I’ve been in this industry for more than two decades, as both a truck owner and now as a logistics consultant helping smaller operators. A lot of them were struggling even before we saw a $3 per gallon increase in diesel costs. It’s their largest variable expense.
+
+We’re advising our truckers to be careful about the lanes they choose—as in, what destinations will yield the best outcomes. With truckers now spending as much as $1,400 per tank, you have to tightly control fuel burn. In California, the price is literally off the charts — the pumps were at their limit of $9.999 a gallon. We tell truckers going west to east to buy only enough fuel to get out of California. It’s worth it to add a stop in Nevada and fill up there. My clients generally buy fuel at the pump, often at a discount using a fuel card. But they can’t add a line item called a fuel surcharge.
+
+In trucking, there are two different paths for moving cargo: One is by contract and the other is by the spot market. Contracted freight loads made by big fleets include a fuel surcharge that changes from week to week and is tied to the average diesel price. The spot market moves general freight through brokerages. Small carriers do most of their business this way; they generally don’t haul specialty items or perishables like pharmaceuticals. Truckers bid against one another on each load the brokers offer.
+
+The spot market isn’t working well for a lot of them. This year, overall spot rates are up roughly 66 cents per mile to $3.41 per mile. But fuel costs are up 90 cents per mile. For a small trucking company, that can often become a losing proposition — they can’t hedge the cost of diesel prices as UPS and other large outfits can.
+
+With diesel prices spiking, too often it means running a truckload at a loss, once you include costs such as maintenance, truck payments, insurance, registration and permits and disability coverage. You’ve got to worry about cash management, too. A small carrier running spot negotiates load by load but has to pay the fuel card bill in seven days whether that load is paid for or not.
+
+To make matters worse, the trucking industry has dealt with a prolonged, post-pandemic freight recession that drove down rates and forced out thousands of trucking outfits. The current price spike could be a similar catalyst. That’s how exits happen in this business. Not a sudden collapse, but an owner-operator parking the truck, letting their interstate trucking authority lapse, and walking away because the next load won’t cover his bills.
+
+Small trucking companies tend to drive in the right lane when it comes to politics. And they want immediate relief. Simple as that. If diesel rates keep rising, truckers will show up at the polls and let their complaints be known. They have been posting videos from truck stops and gas stations of their astonishingly high fuel bills, just in case the message isn’t getting across.
+
+There’s been a lot of talk about banning exports of diesel fuel, at least temporarily. One Republican senator, Dan Sullivan of Alaska, said it out loud: “The cost of diesel is just too damn high.” Agreed. We need to get lower fuel prices for the sake of the entire economy. But a ban on diesel exports isn’t necessarily the right solution. We live in a global market. A ban will ultimately raise the cost of imports. It may provide temporary price relief to truckers in states such as Mississippi and Louisiana, close to the refineries that supply diesel, but it will raise prices in the Northeast, which imports diesel. Mid- to long term it could make things worse.
+
+We all pay when there’s a sustained fuel price run-up like one we’ve experienced this year. It will probably push the next wave of small truckers out faster than many of us expect. Fewer trucks on the road means less capacity, and less capacity means higher rates. Those costs pass to the shipper, then the retailer, then to the register — where you will wonder why prices are going up again.
+
+Everything on that shelf got there on a truck. And every one of those miles costs more to run today than it did in January.
+
+Adam Wingfield is a former trucking company owner and founder of Innovative Logistics Group, a consultancy focused on small trucking firms.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

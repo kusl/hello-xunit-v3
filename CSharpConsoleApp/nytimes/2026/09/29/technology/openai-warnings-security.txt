@@ -1,0 +1,78 @@
+================================================================================
+openai-warnings-security.html
+Source: PreloadedData  Paragraphs: 31  Words: 1302/1304
+================================================================================
+
+SUMMARY
+
+The exchanges between OpenAI employees and executives — which have not been previously reported — were part of a pattern where the San Francisco company did not prioritize security, according to employees and independent security researchers. Independent security researchers said they found bugs in recent months that allowed them to view the internal communications of OpenAI employees. OpenAI is not the only company that has recently disclosed A.I. security incidents.
+
+ARTICLE
+
+OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security
+Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen.
+By Sheera Frenkel, Dustin Volz and Dylan Freedman
+Published 2026-09-29 16:55 UTC
+https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html
+
+Months before OpenAI’s artificial intelligence went rogue, two employees raised an alarm with top executives. They were ignored.
+
+In emails, the employees said they worried that OpenAI’s newest artificial intelligence models were not being appropriately monitored during testing to gauge the technology’s sophistication and to secure the models, according to messages viewed by The New York Times.
+
+In response, OpenAI executives told the employees that the tests needed to move forward as quickly as possible to release the A.I. models on time. No additional security protocols were instituted, said the workers, who were not authorized to speak publicly on sensitive matters.
+
+OpenAI’s models later broke out of their testing environments and attacked the A.I. start-up Hugging Face and other organizations, setting off a global debate about A.I. safety.
+
+The exchanges between OpenAI employees and executives — which have not been previously reported — were part of a pattern where the San Francisco company did not prioritize security, according to employees and independent security researchers. That approach not only was evident with the testing of A.I. models, they said, but also showed up in other areas of the company, which makes the ChatGPT chatbot.
+
+Independent security researchers said they found bugs in recent months that allowed them to view the internal communications of OpenAI employees. They also found other vulnerabilities that would enable them to see the company’s internal computer code and view the chat logs of ChatGPT users. When the researchers contacted OpenAI about their findings, they said, the company initially disregarded them.
+
+“OpenAI’s security seems to be about what you’d expect from a research lab that scaled at a blistering pace over four years and focused more on beating its competitors than securing its infrastructure,” said Joshua Saxe, the chief technology officer of the A.I. security firm Abundant Security.
+
+OpenAI employees said that many of the day-to-day decisions about security were made by Greg Brockman, the company’s president, and Dane Stuckey, the chief information security officer. Sam Altman, the chief executive, is not closely involved in security, they said.
+
+OpenAI is not the only company that has recently disclosed A.I. security incidents. Google, Meta and Anthropic have also revealed that their most advanced A.I. technology escaped testing environments and autonomously attacked other computer infrastructure without their knowledge.
+
+But OpenAI’s handling of security is under particular scrutiny because its A.I. models have been involved in the biggest known number of instances of what the company has called “concerning” behavior — and in instances that experts have said were the most troubling.
+
+In a dozen or so incidents, OpenAI’s systems hacked or tried to breach organizations, including the websites of U.S. government agencies; the technology also hid its mistakes, made up data, tried to message other chatbots and moved files onto the open internet without permission. In all of these cases, the A.I. acted without being instructed to do so.
+
+“In some sense, this is an OpenAI-specific problem in that it seems like they had very bad security, and also sloppy model training practices that led to the models having this sort of propensity,” said Daniel Kokotajlo, a former OpenAI employee who has criticized the company’s safety and leads a research nonprofit called the AI Futures Project, though he added that other A.I. companies were not much better.
+
+Drew Pusateri, an OpenAI spokesman, said the company was committed to safety and took any security reports or concerns seriously. The lab has internal channels for reporting safety issues, he said, and took immediate action on flaws brought up by independent security researchers.
+
+“As frontier models have become more capable, we continue to evolve our security practices, but recognize a need to move faster,” Mr. Pusateri said. He added that OpenAI had slowed some A.I. development and was making changes to strengthen security in research and testing.
+
+(The Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+Two OpenAI employees said workers had raised concerns for months about potential safety issues with testing A.I. models, including not enough monitoring. Employees also asked about vulnerabilities in the type of software the company was using to manage day-to-day safety, according to messages viewed by The Times. Each time, their questions were brushed aside or acted on too slowly, they said.
+
+Security researchers said they had been met with a similar reception when they told OpenAI about other vulnerabilities.
+
+In July, researchers at the security company Hacktron said they told OpenAI about how they had found a way to break into the company’s systems with the help of an A.I. model created by its rival Anthropic. OpenAI initially took issue with their approach, they said.
+
+In a shared channel on the messaging platform Slack, Mr. Stuckey of OpenAI wrote that it was “pretty sad” that Hacktron’s researchers had gone to such lengths to demonstrate the company’s vulnerabilities, according to copies of the communications seen by The Times.
+
+“We just felt like they were angry at us,” Mohan Pedhapati, a Hacktron researcher, said of OpenAI. He added that the company appeared to still be using the security practices of a start-up, leveraging the software services of others for critical infrastructure instead of building its own tools.
+
+“Why are you using Slack to build your nuclear Manhattan projects?” Mr. Pedhapati asked. Hacktron’s hack could have granted him full access to the Slack messaging platform to see what OpenAI employees were saying, he said.
+
+Mr. Stuckey later apologized to Hacktron, and OpenAI awarded the researchers $6,500 for disclosing the flaw.
+
+“We thank the researchers for contacting us and sharing their findings,” Mr. Pusateri said.
+
+In September, researchers at the Objective-See Foundation, a nonprofit that studies security and privacy risks, including those posed by A.I. agents, reported a bug to OpenAI that would give people access to a ChatGPT user’s entire private chat logs on a compromised device and allow them to invisibly interact with the user’s browser sessions.
+
+Patrick Wardle, a software analyst at the Objective-See Foundation, said that when his team initially submitted what it found to OpenAI’s official bug bounty program — where researchers report bugs or vulnerabilities they find in exchange for recognition or financial rewards — its report languished. The research was escalated to the appropriate engineering unit only when Mr. Wardle reached out directly to friends at the company and Mr. Stuckey, who were all responsive, he said.
+
+OpenAI gave $500 to the group for its work, which Mr. Wardle said was low compared with what he would expect from other companies given the severity of the flaw. OpenAI fixed the bug, he said, and acknowledged it this week in its public software release notes without disclosing details.
+
+It was “not the mature security program you’d expect from a security-centric company,” Mr. Wardle said.
+
+OpenAI employees said that more such disclosures were probable. The company is not only reviewing actions taken by its new models during testing but is still receiving warnings from hackers about open security vulnerabilities, they said.
+
+On Friday, an independent report released by a group of engineers and researchers revealed new alarming behavior from the Hugging Face incident, including instances in which OpenAI’s agents tried to message Anthropic’s Claude and use other A.I. models to beat anti-robot protections on a website.
+
+OpenAI also revealed last week that new safeguards had failed to prevent its latest A.I. model from breaking through them to gain access to the internet. A retrospective review found other instances of unauthorized internet access that had gone undetected. OpenAI announced that it was pausing training for its most advanced models and was engaged in an extensive review of unexpected behavior by the technology.
+
+On Monday, the company went even further. It said it would not release its newest A.I. model, GPT-6.1 Astra, because of security concerns raised by its researchers.

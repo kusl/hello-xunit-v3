@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-09-30 07:03:23
+Generated (UTC): 2026-09-30 07:14:22
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      3ff8453a08ee5ae6710d2af95c9bb1fe2880a743
+Git Commit:      a0f78fd399798e11c40e6ee6d50a1e5fd480fe7c
 Git Branch:      master
 Git Dirty:       no
 .NET SDK:        10.0.112
@@ -2315,10 +2315,10 @@ public sealed class FilenameString
 
 ================================================================================
 FILE:     CSharpConsoleApp/CSharpConsoleApp.csproj
-SIZE:     0.35 KB (363 bytes)
-LINES:    15
-SHA256:   bb50f170623f8563794cd5dfa141aba057d52053a0cc059d1f2ea34530580a2c
-MODIFIED: 2026-09-29 16:59:32 (UTC)
+SIZE:     0.62 KB (630 bytes)
+LINES:    22
+SHA256:   677337c14ad8c0fb9f4851154a1c0d1815dcf91379e8e1bbc3d87336d7a0f0e0
+MODIFIED: 2026-09-30 07:13:15 (UTC)
 ================================================================================
 
 <Project Sdk="Microsoft.NET.Sdk">
@@ -2332,6 +2332,13 @@ MODIFIED: 2026-09-29 16:59:32 (UTC)
     </ItemGroup>
 
     <ItemGroup>
+        <AssemblyAttribute Include="System.Reflection.AssemblyMetadataAttribute">
+            <_Parameter1>ProjectDirectory</_Parameter1>
+            <_Parameter2>$(MSBuildProjectDirectory)</_Parameter2>
+        </AssemblyAttribute>
+    </ItemGroup>
+
+    <ItemGroup>
         <None Update="nytimes/**/*.html" CopyToOutputDirectory="PreserveNewest" />
     </ItemGroup>
 
@@ -2340,18 +2347,19 @@ MODIFIED: 2026-09-29 16:59:32 (UTC)
 
 ================================================================================
 FILE:     CSharpConsoleApp/Program.cs
-SIZE:     0.68 KB (695 bytes)
-LINES:    24
-SHA256:   4fe7e9409734855c63406e3b6f2631cf698b3f8f039355511e7026fd589c857b
-MODIFIED: 2026-09-29 20:07:22 (UTC)
+SIZE:     1.37 KB (1402 bytes)
+LINES:    41
+SHA256:   51f556ce1e87632d69cecf5f9d20b7c8e1a21f5c4d1893c58244c7f4cc6f0a28
+MODIFIED: 2026-09-30 07:13:38 (UTC)
 ================================================================================
 
+using System.Reflection;
 using System.Text;
 using CSharpClassLibrary;
 
 Console.OutputEncoding = Encoding.UTF8;
 
-string[] inputs = args.Length > 0 ? args : [Path.Combine(AppContext.BaseDirectory, "nytimes")];
+string[] inputs = args.Length > 0 ? args : [DefaultSamplesDirectory()];
 
 try
 {
@@ -2360,15 +2368,31 @@ try
 
     foreach ((string path, ArticleDigest digest) in paths.Zip(digests))
     {
-        Console.WriteLine(DigestReport.Render(path, digest));
+        string report = DigestReport.Render(path, digest);
+        Console.WriteLine(report);
+
+        if (!string.Equals(Path.GetExtension(path), ".txt", StringComparison.OrdinalIgnoreCase))
+        {
+            await File.WriteAllTextAsync(Path.ChangeExtension(path, ".txt"), report);
+        }
     }
 
     return 0;
 }
-catch (Exception exception) when (exception is FileNotFoundException or ArticleExtractionException)
+catch (Exception exception) when (exception is IOException or UnauthorizedAccessException or ArticleExtractionException)
 {
     await Console.Error.WriteLineAsync(exception.Message);
     return 1;
+}
+
+static string DefaultSamplesDirectory()
+{
+    string? projectDirectory = typeof(Program).Assembly
+        .GetCustomAttributes<AssemblyMetadataAttribute>()
+        .FirstOrDefault(attribute => attribute.Key == "ProjectDirectory")?.Value;
+
+    string source = string.IsNullOrEmpty(projectDirectory) ? "" : Path.Combine(projectDirectory, "nytimes");
+    return Directory.Exists(source) ? source : Path.Combine(AppContext.BaseDirectory, "nytimes");
 }
 
 
@@ -3937,10 +3961,10 @@ MODIFIED: 2026-09-27 06:37:13 (UTC)
 
 ================================================================================
 FILE:     README.md
-SIZE:     1.19 KB (1222 bytes)
+SIZE:     1.28 KB (1306 bytes)
 LINES:    40
-SHA256:   102b2de142352c8d53e1aa3bc3bf15a3aad7fe700cf4319340205a24b7e622e5
-MODIFIED: 2026-09-29 16:59:32 (UTC)
+SHA256:   929ff9e25f7258a8e5db28bd4fa8bc3b15affd1ffd147ddb19a83ffca5841d08
+MODIFIED: 2026-09-30 07:13:03 (UTC)
 ================================================================================
 
 # HelloXUnit
@@ -3965,7 +3989,7 @@ It keeps the extension when it fits and never splits grapheme clusters.
 ## Projects
 
 - `CSharpClassLibrary`: `FilenameString`, `ArticleExtraction.cs`
-- `CSharpConsoleApp`: prints a summary and the full prose for each HTML file under `nytimes/` or the given paths
+- `CSharpConsoleApp`: prints a summary and the full prose for each HTML file under `CSharpConsoleApp/nytimes/` or the given paths, and writes the same report to a `.txt` file beside each HTML file
 - `CSharpUnitTests`: tests
 
 ## Usage
@@ -4261,9 +4285,9 @@ MODIFIED: 2026-09-27 06:37:13 (UTC)
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-09-30 07:03:23
+EXPORT COMPLETED (UTC): 2026-09-30 07:14:22
 Total Files Exported:   16
-Total Source Size:      0.13 MB (138358 bytes)
+Total Source Size:      0.13 MB (139416 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): 0c71ae76bd2a67301e5d8b10f7da0a94d65dd6f37fefbe7f4ade70ddf134d72d
+DUMP SHA256 (of all lines above this one): 09ad47838a66c78b6ddb3776c7ec54c3e952630001f2ac20ea8cd1e4c1d17be0

@@ -1,0 +1,68 @@
+================================================================================
+data-centers-democrats-republicans.html
+Source: PreloadedData  Paragraphs: 25  Words: 1815/1837
+================================================================================
+
+SUMMARY
+
+These tied Mr. Husted to the arrival of data centers in Ohio. Most data centers have been built near cities. Ohio Republicans are trying to mitigate the political fallout of data centers while protecting their continued construction.
+
+ARTICLE
+
+Republicans Are Struggling Everywhere. This State Is the Epicenter.
+The problems of technology were there before Trump and will be there after.
+By Christopher Caldwell
+Published 2026-09-29 09:02 UTC
+https://www.nytimes.com/2026/09/29/opinion/data-centers-democrats-republicans.html
+
+At the start of this year, the largest underlying trend in national politics still seemed to be the transformation of longtime swing states into Republican bastions. Florida, Iowa, Ohio: The closer you looked, the more invulnerable President Trump’s party seemed.
+
+The situation in Ohio was stark. In 2022, the governor, Mike DeWine, had beaten his Democratic opponent by 25 points. A year ago, the Trump-allied biotech billionaire Vivek Ramaswamy, who is running for governor, held nearly a double-digit lead over his Democratic opponent, Amy Acton.
+
+Ohio’s high-tech industry was a big factor. A bipartisan enthusiasm spurred by President Joe Biden’s CHIPS and Science Act of 2022, it nonetheless played to the strengths of Republican incumbents. Intel was building a huge chip plant near Columbus. Mr. Ramaswamy was promising to turn the Ohio River Valley into the next Silicon Valley. “People talk about the Rust Belt,” he said in March of last year. “I don’t want to talk about the Rust Belt. I want to lead us to the platinum belt — the sectors of the future, from semiconductors to nuclear energy to even A.I.”
+
+But times have changed. This month, a YouGov poll for Bowling Green State University found Ms. Acton leading Mr. Ramaswamy by three points. The incumbent Republican senator Jon Husted has fared similarly. Mr. Husted appeared likely at the start of the year to keep his seat. But since June, polls have shown him trailing the former senator Sherrod Brown, who was soundly defeated by the Republican Bernie Moreno in 2024.
+
+A lot has happened to sour the public on Mr. Trump’s party, including the war with Iran and rising prices, but much of the discontent involves high-tech industries (like cryptocurrencies) and their needs (like H-1B visas for tech workers). Above all, Republicans are paying a political cost for the buildout of data centers for artificial intelligence.
+
+Last month, Axios published a leaked memo from the National Republican Senatorial Committee that expressed alarm about the devastating effectiveness of video spots Mr. Brown had begun airing. These tied Mr. Husted to the arrival of data centers in Ohio. “More than any other thing in this race,” the memo said, “data centers are the anchor hanging around Husted’s neck. If he loses and data centers get the blame, politicians across the country will take notice — and they will not go near the next one.”
+
+It’s not just Ohio. Mr. Trump has been dangerously dim on the subject of data centers. “The only reason that communities throughout the U.S.A. should not want Data Centers,” he wrote on Truth Social, “is if they want to end up being backwards and poor.” He will probably hurt his party on Election Day, five weeks from now.
+
+But it will not be easy for Democrats to lay a permanent claim to the moral high ground. The problems of high-tech industries were there before Mr. Trump arrived and will be there after he leaves. At present, the A.I. buildout is driving a large share of American economic growth. There are strong incentives for both parties not to restrain or regulate it. Neither Republicans nor Democrats have come up with a trustworthy set of policies for managing artificial intelligence, the multitrillion-dollar projects required to expand its use or the newfound political power this gives the tech industry.
+
+Thousands of data centers have been built or are under construction in the United States. With 166 in operation, according to the Pew Research Center, Ohio has more than any state besides Virginia, Texas and California. Voters appear to think that’s enough. Gov. Kathy Hochul of New York has declared a moratorium on new construction. Other states are mulling outright bans.
+
+What made Ohio so hospitable to tech expansion — and so vulnerable to a political backlash — is a long story. The state has lots of people, cheap open land, abundant water and weak zoning laws. Most important, it was devastated by deindustrialization like few other places, and has spent decades pursuing an industrial revival. Starting in 2011, Gov. John Kasich, a Republican, signed into law tax reforms and exemptions that would lure Amazon, Meta and Google to build new facilities in the state. In 2022, Intel committed to a $20 billion plant investment and the Biden administration bet heavily on tech in its CHIPS Act.
+
+Last year, Ohio passed a bill that promised to fast-track data centers. In the New Albany International Business Park outside Columbus, there are already 40 data centers serving Amazon Data Services, Google, Meta and Microsoft, with 28 more planned. Last month Nvidia and partners announced an estimated $500 billion building project that will include a facility in Pike County, two hours east of Cincinnati, envisioned as one of the largest data-center complexes in the world.
+
+All of this has costs. These vast installations are wrecking the landscape in unspoiled parts of Ohio, as they have done over the past two decades in Northern Virginia. And this is happening in a national real-estate market transformed by the Covid-19 pandemic, which led millions of Americans to move to more tranquil, nonurban surroundings. Ohio’s peak electricity demand is projected to rise by 56 percent over the next two decades.
+
+Cheery projections made by Ohio politicians have not panned out. Tax exemptions intended to lure tech firms wound up costing $1.4 billion more than anticipated in 2025. Above all, the jobs have not come. Data centers are basically rows of computers sitting on racks — like a supersize version of that mysterious closet full of tangled wires and blinking lights at your workplace. Once construction is finished, no one but a couple of tech guys ever has any reason to go in there. Last year, The Wall Street Journal found that a large data center in Abilene, Texas, would employ about 100 people — a fraction of the jobs created by a cheese-packaging plant nearby. And cheese packaging doesn’t threaten to send residents’ utility bills through the roof.
+
+Most data centers have been built near cities. But two-thirds of those projected for the coming years are being built in the sticks. The voters most up in arms now include a lot of Trump supporters. Ohio Republicans are trying to mitigate the political fallout of data centers while protecting their continued construction. In August, Mr. Ramaswamy called for free electricity for people living near data centers. Mr. Husted has sponsored a Senate bill urging big electricity users to cover their own electricity costs — legislation Senate Democrats criticized as toothless.
+
+Outside of Ohio, Republican politicians appear even more worried. In August, Mike Rogers, a Senate candidate in Michigan who is not just a defender of data centers but an investor in them, called for a one-year statewide moratorium on new construction until better “guardrails” were in place. Last week, Gov. Greg Abbott of Texas, until recently an unflagging tech enthusiast, halted all permits for new data centers. Two new polls have shown the long-serving and perennially popular Mr. Abbott trailing his Democratic challenger, State Representative Gina Hinojosa.
+
+Mr. Husted has cast the argument over data centers as one in which progress is at stake. “I mean, you can go back to the bunny-ear antenna on your TV,” he said on a recent podcast. “You don’t need a data center. But if you’re connected to a wire, you’re using the data center.”
+
+That was true of the data centers that Amazon was building in 2006, but serving customers is less and less what data centers do now. Many of today’s monolithic structures exist only to train A.I.s — making models more powerful by carrying out operations that number in the trillions of trillions annually.
+
+The result is a strange partisan landscape. It’s easy to think that data centers will become the Democrats’ issue, tying in to the party’s environmentalist commitments. But that is not what’s going on. The climate journalist Robinson Meyer told David Wallace-Wells of The Times recently that environmental arguments against data centers are sometimes overblown. The main reason people say they oppose them is water use, followed by electricity prices; but when a data center gets canceled, it is most often because of noise. In this respect the uprising against data centers resembles that against wind farms, a Republican movement if ever there was one.
+
+Mr. Trump’s simple-minded online attacks on those who oppose data centers have led many partisan Democrats to deduce that the tech industry is “allying” itself with him. But the tech industry is merely taking pains, as it always does, to stay on the good side of its regulators. That effort has caused a good deal of quiet corruption through the years, and Mr. Trump’s demand for public avowals of fealty has made the corruption overt.
+
+But all the Democrats have to do is win a presidential election, and they will rediscover that there is nothing — nothing at all — inherently Trumpian about the tech industry. They will inherit all the complexities that come with trying to push back against sector that is, for now, vilified and unpopular but vital to the economy.
+
+Could they push back? Yes: If large numbers of Americans come to accept the argument of many A.I. experts that the technology itself threatens humanity with extinction, then Democrats might be emboldened to take extreme steps to rein in the industry, even on pain of economic upheaval. But in that case the party would be likely to lose its political advantage in another way: through an effort to stop A.I. that becomes bipartisan.
+
+Seventy percent of Americans now oppose having a data center near them. That’s a problem for Big Tech — one that will persist even if Republicans are routed and better policies put in place. The costs of data centers are local, the benefits national. So entrenched has inequality become on the cutting edge of our economy that any promise of eventual top-down redistribution of those benefits will be met with skepticism.
+
+This is especially true as voters grow more savvy about who gets what and from whom in the tech industry itself. There is a reason Mark Zuckerberg had to promise at least $12 billion to settle claims that his business fostered internet addiction: He is now dealing with parents who belong to his own generation — a less gullible bunch, when it comes to tech, than the analog-age parents who raised them.
+
+As the baby boomers’ presence in the electorate wanes, the millennials and their successors will be called upon to weigh A.I.’s promises against the likelihood of human extinction. You can get a sense of how they are leaning by looking at the polls: The problem of data centers is not just the inconvenience they pose; it’s also the project they serve.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

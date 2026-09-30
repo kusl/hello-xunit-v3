@@ -1,0 +1,62 @@
+================================================================================
+home-mortgage-program-birthrate-decline.html
+Source: PreloadedData  Paragraphs: 23  Words: 808/807
+================================================================================
+
+SUMMARY
+
+What they found sheds new light on how personal finances affect the decision to have children: Homeownership increases the birth rate. Dr. Kearney and Dr. Dettling found a policy that did: government-backed home mortgages, mostly issued under the postwar G.I. “This mortgage program was not meant as a pronatalist policy, but it seems to have had that effect,” Dr. Kearney said.
+
+ARTICLE
+
+Could Homeownership Reverse the Decline in Birthrates?
+Researchers looked back at the baby-boom era and found that federal mortgage programs played a part in the country’s population upswing after World War II.
+By Sabrina Tavernise
+Published 2026-09-28 15:21 UTC
+https://www.nytimes.com/2026/09/28/us/home-mortgage-program-birthrate-decline.html
+
+Puzzling over the reasons for today’s baby bust, a pair of economists went back to the last baby boom for answers.
+
+What they found sheds new light on how personal finances affect the decision to have children: Homeownership increases the birth rate.
+
+Experts have long been skeptical that the two-decade decline in the birthrate was related to people’s pocketbooks. They reason that as the birthrate has been falling, household income has been rising and poorer women have been more likely to have more children than richer women.
+
+But Melissa S. Kearney, an economics professor at the University of Notre Dame, and Lisa J. Dettling, an economist at the Federal Reserve Board, found an economic connection that was less about price and more about ownership.
+
+The finding, published in its final version by the National Bureau of Economic Research in September, offers new insights into what policies could actually raise the birthrate, which has hit historic lows around the world. Governments have tried multiple strategies, including tax credits, subsidized child care and paid maternity leave, to encourage people to have more children, but nothing has made much of a difference.
+
+Dr. Kearney and Dr. Dettling found a policy that did: government-backed home mortgages, mostly issued under the postwar G.I. Bill.
+
+“This mortgage program was not meant as a pronatalist policy, but it seems to have had that effect,” Dr. Kearney said.
+
+The finding comes as the cost of living has taken center stage in midterm election campaigns. Housing in particular has felt increasingly out of reach for younger Americans: The median age of first-time home buyers rose to 40 in 2025, a historic high. Last week, mortgage rates jumped to 7 percent, the highest since January 2025, raising the hurdle to home buying even higher.
+
+The baby boom began in 1946, after the Allied victory in World War II. By 1957, the total fertility rate had risen by about 30 percent, reaching 3.7 children per woman, a modern high.
+
+Researchers over decades have tried to explain that burst of fertility. Hypotheses included the economic security that families felt in contrast to the war years and the sharp drop in health risks during pregnancy.
+
+But Dr. Kearney and Dr. Dettling wanted to look for new clues. They decided to examine homeownership, which also expanded during that time. The G.I. Bill in particular gave millions of returning soldiers the ability to buy houses with low or no down payments.
+
+That policy was transformational, helping to build the American middle class. Young families, in particular, benefited: Among Americans of childbearing age, homeownership rose to 50 percent in 1960, from 20 percent in 1940.
+
+But how could economists figure out if rising homeownership had fueled the baby boom? They discovered that the Federal Reserve held a trove of data: thousands of pages of mortgage records.
+
+Undergraduate research assistants digitized them over two years. The researchers then linked them with demographic data from each state to test if there were any effect.
+
+“We kept cutting the data and looking at it,” Dr. Kearney said. “It kept lining up.”
+
+The result was startling: For every 1,000 new mortgages issued through the government programs, there were about 300 additional births the following year.
+
+The mortgages were not the only driver, nor were they predictive for everybody: Black women, whose families were unfairly shut out of the postwar mortgage program, also had increases in childbearing.
+
+The findings also help explain a related shift in the demographics of the era, Dr. Kearney said. Women married younger, and started to have children earlier than previous generations. They also went on to have larger families.
+
+She emphasized that the effect of the government programs on births was not related to housing costs, but to homeownership. Having your name on a deed represents a certain kind of emotional and financial security, one that can create confidence in the future. Women today often say they want that before having children.
+
+Other researchers who looked at the study said it was sound, but that it was historical.
+
+“The empirical work seems pretty strong and they find a pretty good-sized effect,” said Phillip Levine, an economics professor at Wellesley College who has written papers with Dr. Kearney but was not involved in this one.
+
+But, he added, it is not clear how much the past can be applied to the present. “Does that mean that we would get the same result today? We don’t know.”
+
+Dr. Kearney said the findings are relevant today, but the context is different. Making it easier for young families to get a mortgage could still spur earlier and more childbearing. But such a policy today could also push up home prices, given that today’s supply of housing is far more restricted, compared to the mid-20th century when the suburbs were forming. That, she said, is the challenge for policymakers.
