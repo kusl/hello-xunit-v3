@@ -1,39 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.770s
-user	0m10.419s
-sys	0m0.748s
+real	0m6.285s
+user	0m11.008s
+sys	0m0.868s
 
 Build succeeded in 0.4s
 
-real	0m0.559s
-user	0m0.561s
-sys	0m0.128s
+real	0m0.595s
+user	0m0.616s
+sys	0m0.117s
 Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpUnitTests net10.0 succeeded (0.5s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.5s
 
-real	0m1.624s
-user	0m1.165s
-sys	0m0.238s
+real	0m1.660s
+user	0m1.186s
+sys	0m0.245s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (704ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (752ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 895ms
+  duration: 956ms
 
-real	0m2.008s
-user	0m2.359s
-sys	0m0.443s
+real	0m2.138s
+user	0m2.444s
+sys	0m0.491s
 On branch master
-Your branch is ahead of 'origin/master' by 8 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.349s
-user	0m0.206s
-sys	0m0.169s
+real	0m0.340s
+user	0m0.208s
+sys	0m0.166s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.423s
-user	0m1.406s
-sys	0m0.288s
+real	0m1.418s
+user	0m1.402s
+sys	0m0.282s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.439s
-user	0m1.415s
-sys	0m0.296s
+real	0m1.842s
+user	0m1.579s
+sys	0m0.337s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -3911,6 +3911,121 @@ While the accord was voluntary, he insisted, “it’s morally binding.”
 The executives who came to the lunch yesterday, many of whom are already taking the steps outlined in the voluntary accord, say they agree they have a moral responsibility to get this right. But as they have learned to their shock in recent months, the technology is not entirely under their control. Whether the accord is morally binding on the rogue A.I. agents is yet to be determined.
 
 ================================================================================
+andrea-shaw-twins-suffocation-vaccines.html
+Source: PreloadedData  Paragraphs: 48  Words: 2810/2816
+================================================================================
+
+SUMMARY
+
+Andrea Shaw has spent most of the summer alone in a cell in Payette, Idaho, taking comfort from photos of her family, according to her lawyer. Three days after their twins died, Andrea and Nate Shaw appeared on a video podcast produced by Children’s Health Defense, the anti-vaccine group founded by Robert F. Kennedy Jr. Filicetti began representing Shaw the day after the twins’ deaths.
+
+ARTICLE
+
+She Says Vaccines Killed Her Twins. The Authorities Say She Did.
+In a small Idaho town, a young mother is accused of killing her young twins. She blames the childhood vaccines they received.
+By Lisa Miller
+Published 2026-09-30 13:18 UTC
+https://www.nytimes.com/2026/09/30/well/andrea-shaw-twins-suffocation-vaccines.html
+
+Andrea Shaw has spent most of the summer alone in a cell in Payette, Idaho, taking comfort from photos of her family, according to her lawyer. Her twins were 18 months old when they died, in May 2025, and her living daughter is three months old. She can talk to her husband, Nate, and the baby only by phone or video chat, which she does several times a day. As she waits for her lawyer to drive up from Boise, she reads inspirational books such as “Tuesdays With Morrie.”
+
+Shaw, 23, is charged with the smothering murder of the twins — Tyson, a boy, and Dallas, a girl — in the middle of the night, in the bed that they shared. At trial, scheduled for January, evidence will show that “the only conceivable explanation” for their deaths is that she suffocated them, the Payette County prosecutor Mike Duke wrote in a court filing. Shaw has pleaded not guilty.
+
+Joe Filicetti, Shaw’s lawyer, describes Shaw as “sweet.” In court, in her red-and-white striped uniform, she mostly comes across as young. The Shaw case, grim as it is, might have been a purely local story except for the extraordinary attention it has received from the captains of the nation’s vaccine-skeptical movement. Three days after their twins died, Andrea and Nate Shaw appeared on a video podcast produced by Children’s Health Defense, the anti-vaccine group founded by Robert F. Kennedy Jr.
+
+Looking stricken, the couple told their version of events. The twins had been preemies, Shaw said, and had required intensive medical care. She inoculated them on the recommended schedule without ill effects. But in April 2025, after receiving the D-tap, flu and hepatitis A shots, the toddlers got sick, and when she sought help, clinicians repeatedly dismissed her concerns, she said.
+
+“I wish I was anti-vaccine now,” Shaw concluded, with a wry chuckle.
+
+Shaw was indicted by a grand jury more than a year after the deaths of her children. During that interval, in January, 2026, she became the lead plaintiff in a federal lawsuit filed by Children’s Health Defense against the American Academy of Pediatrics. (“I don’t understand where they come up with these plaintiffs,” said Richard Sauber, the attorney who represents the academy in this case, when reached for comment.) That suit claims that the nation’s pediatricians defrauded American families by colluding with pharmaceutical makers to spread misinformation about the safety of vaccines.
+
+The Vaccine Safety Research Foundation, established in 2021 by Steve Kirsch, the Silicon Valley tech entrepreneur, to “tell the truth about vaccines,” as he put it in an interview, is working “in conjunction” with Children’s Health Defense to help support Shaw and her family. (Children’s Health Defense did not respond to a request for comment.) Documents in the court file make a terse reference to the law firm of Aaron Siri, a Kennedy ally and prominent vaccine critic. Siri wrote in an email, “We do not represent Ms. Shaw with regard to her criminal proceedings.”
+
+Kirsch described his motivation. “When you hear of a case which is 100 percent consistent with a vaccine injury and is not at all consistent with a mother who is killing her kids, you have an ethical obligation to come to the mother’s aid,” he said. He added that if a single shred of evidence pointed to murder, he would “be out of there in a heartbeat.”
+
+Filicetti began representing Shaw the day after the twins’ deaths. He doesn’t remember who first called him, he said, but in 2023, he had met some of the players in the vaccine-hesitant world at a Children’s Health Defense conference in Georgia. Filicetti has a solo practice in Boise, with a focus on defending Idaho police accused of crimes and misdeeds. In the Shaw case, he consults with the high profile advocacy groups. “They all want to give input,” Filicetti said in an interview. “I take any help I can get from anybody.”
+
+Having received almost “every vaccine, including the shingles vaccine,” he said, he does not consider himself a vaccine denier. But during the Covid outbreak, he questioned the lethality of the novel virus and the efficacy of the new vaccine. He viewed government mandates as an overreach.
+
+A believer in alternative therapies — in massage, dopamine patches, cold plunges and therapeutic ketamine for trauma — Filicetti declined the Covid shot. Instead, he treated his Covid symptoms with a 30-day water fast, as well as “ivermectin, hydroxychloroquine, and I went to a naturopath who flooded me with ozone,” he told me. “I came out of that healthier than I’ve ever been in my life,” he said. Existing as he does at the nexus of libertarian politics and the crunchy lifestyle of Boise, Filicetti gained a reputation for defending vaccine refusers.
+
+In my conversations with him, Filicetti stressed Shaw’s vulnerability, portraying her as a young, naïve mother who is unjustly accused, has lost her twin toddlers and is separated from her newborn. His sole focus, he told me, is to “keep my client from being wrongly convicted and then receiving the death penalty for something she did not do.” At trial, his only burden will be to show that the state did not prove their case beyond a reasonable doubt, and in this case, “vaccines were a factor,” he said. In Payette, the “number of people who did not get vaccinated or are vaccine hesitant is high,” and those skeptics will be in the jury pool.
+
+Filicetti is not out to set vaccine policy, he said. But he does have strong views about the way vaccines are debated in the public sphere. The pro-vaccine faithful are too absolutist, Filicetti told me. “When science becomes unquestionable, it becomes a religion,” he said. “They’re just saying, ‘Fall in line.’”
+
+Filicetti sent Shaw “Tuesdays With Morrie” and other uplifting books. He also arranges frequent sessions for her with a trauma therapist specializing in E.M.D.R., or eye movement desensitization and reprocessing, which can be conducted through a glass barrier.
+
+The next hearing is scheduled for Oct. 15. “It’s super important for me to keep her emotionally and spiritually healthy,” he said.
+
+Andrea Shaw made the 911 call on Thursday morning, May 1, 2025. At the time, she lived with Nate and the twins at the Northgate trailer park, at the edge of town. Northgate is known locally as the Stepford Wives trailer park because the 65 homes there all look the same, like whitewashed barracks. The dispatcher told her to wait outside.
+
+The police arrived at around 11:30. The park’s manager, Kathy Killkenney, a sharp-eyed 82-year-old, sits in an office at the entrance collecting rent checks. That day, observing all the emergency vehicles, she decided to stay in her office, she told me when I stopped in to see her in September.
+
+“Nobody asked you,” she said to herself that morning. “And the police are going to do an investigation. Just leave them alone.”
+
+Instead, she called Nate at work, according to his account on the Children’s Health Defense podcast. “‘What’s going on?’” she asked him. “‘The police have taped up your trailer.’” Nate said he did not know. He repeatedly called Andrea, who did not answer, and when he called his mother, a police officer picked up the phone. The officer said, “‘Hey, I hate to inform you but your kids are dead,’” Nate recalled. “I was like, ‘You’re lying. You’re not telling me the truth. This isn’t happening.’”
+
+Andrea described peeking in on the twins earlier that morning and thinking they were asleep. When she went to wake them up later, she said, she touched Tyson and he was cold.
+
+“The way I saw them, they looked as if they had gone in their sleep. They were in their sleeping positions. I think it’s called rigor mortis,” she said on the podcast.
+
+According to the prosecutor, Shaw changed her story several times under police questioning. Duke summarized Shaw’s interview at a July hearing: She had been out late with a friend the night before; first she said she had gotten up with the twins at around 8 that morning and fed them breakfast; later she said that wasn’t true. On the other hand, Nate’s account was consistent, Duke said: He had been sleeping the whole time. Duke did not respond to requests for comment.
+
+For her part, Andrea said the police had gotten into her head and made her feel crazy. They said that “I had supposedly had a postpartum, overwhelming blackout and done it to my children,” she said on the podcast.
+
+In the podcast interview, Andrea appeared stunned. Nate looked tense and chewed his lip. Encouraged by the interviewer, they recounted the events of the previous week. On April 23, Andrea and Wendy Shaw, Nate’s mother, had brought Dallas and Tyson to Snake River Pediatrics for their 18-month well-child checkup. Both women had expressed caution about the flu vaccine, Andrea recalled: Nate and other members of the Shaw family were reactive to it. The nurse practitioner was dismissive of these concerns, Andrea said, and Andrea consented to the shot. (Snake River Pediatrics did not return requests for comment.)
+
+The following day, both children were passing a greenish diarrhea and had a blue cast to their lips, and they were lethargic, according to Andrea. Alarmed, she took them to the emergency room at St. Luke’s in Fruitland, Idaho, in the company of her mother-in-law. After assessing them and giving them Tylenol and ice pops, the doctor sent them home.
+
+In medical records provided to The New York Times by Children’s Health Defense, the E.R. physician remarked that the children had not seemed to be in any danger. They were diagnosed with “post-immunization reaction,” and he noted, further, that Andrea “seemed satisfied with their visit.” According to Duke, postmortem tests had showed that one twin had a rotavirus infection, transmitted from feces to mouth and extremely contagious. Multiple physicians I spoke with explained that rotavirus is rarely fatal but can become so if children are not vaccinated against it in infancy, or if they are inadequately hydrated. (The children were making wet diapers, the hospital notes said. Whether they had been vaccinated is not known.)
+
+According to Andrea, the toddlers continued to have “severe” diarrhea. On the morning of April 30, she called Snake River to see if she could get an appointment, but they were backed up. That was the final day of the twins’ lives. In the Children’s Health Defense interview Andrea said they had started to recover that day and were “great” — eating, talking and drinking from their sippy cups.
+
+Angela Wulbrecht was in touch with the Shaws within days of the twins’ deaths. A nurse who worked for 17 years at a hospital in Marin County, Calif., caring for mothers and babies, Wulbrecht is on the board of Kirsch’s Vaccine Safety Research Foundation. For her whole career, she had been an avid vaccine proponent, she said in a joint interview with Kirsch. But she said she had suffered an adverse reaction to the Covid vaccine and over time became a skeptic. “I didn’t know, when I went and got my Covid shot and 12 minutes later I almost died, that there would be no help for me. There was no recourse, nobody to sue,” Wulbrecht said.
+
+Now, helping families like the Shaws “is my passion,” Wulbrecht said. People harmed by vaccines are “distraught,” she said, “and they need guidance.” She wouldn’t speak about the Shaw case, but said she often meets families who post what happened to them on Facebook.
+
+“All of a sudden I’ll get tagged,” she said. “People know me. So they’ll start saying, ‘Contact Angela.’” Wulbrecht estimates she has helped about 1,000 families since starting this work. Her Facebook page recently included selfies of her with Kennedy at public events.
+
+In the time between the deaths of the twins and her arrest, Shaw became pregnant again. When Shaw worried that the fetus was too small, Wulbrecht reviewed her test results and reassured her by text. “I have a feeling everything is going to be just fine,” she wrote.
+
+Shaw was charged with two counts of murder on June 29. Initially the judge set her bail at $2 million. But when Filicetti requested a bond reduction, citing the best interests of the mother and her newborn daughter, Duke responded with ferocity. His experts had considered explanations other than murder, he said. They had looked at poisoning and considered the temperature in the bedroom, which frequently surpassed 100 degrees. They had ruled out both possibilities.
+
+A forensic pathologist excluded vaccines as the cause of death. “This is not a vaccine case,” Duke said in court.
+
+According to the autopsy report, both children had pulmonary vascular congestion, or a buildup of blood and fluid in the blood vessels of the lungs, he wrote. Tyson had pulmonary edema, a more severe buildup, as well.
+
+“According to our expert, these symptoms are consistent with being smothered. They occur when something blocks air from entering the airways, and as the diaphragm expands, it creates a low pressure condition in the lungs and airways,” he wrote. “This is the cause of death of the twins. It is also the only reasonable explanation for why both would die at the same time, on the same night, in the same room, in the same bed.”
+
+While Shaw enjoys the presumption of innocence, Duke continued, he had to consider the risk presented to the defendant’s infant daughter. Judge Kiley Stuchlik agreed. Instead of reducing Shaw’s bond, she revoked it.
+
+For Duke to prevail, a jury in Payette needs to conclude beyond a reasonable doubt that Andrea Shaw murdered her children. But in Idaho, doubt about doctors and medications, and especially vaccines, has long been a way of life.
+
+Until the deaths of Tyson and Dallas, Andrea and Nate Shaw were not known for anything much. Andrea moved in with Nate’s family when she was 17, during Covid. She “has no criminal record of any kind — not even a speeding or parking ticket,” according to a filing by Filicetti. In high school, Nate liked working on engines and was an active member of FFA (formerly Future Farmers of America), his teacher Tyson Smith said in an interview. Tyson, the boy twin, was named after him.
+
+In Payette, a town of 8,800, Shaw’s claim that vaccines harmed her children is seen as unremarkable. Childhood vaccination rates in Idaho are 68.9 percent, well below the state goal of 79.5, and declining. Bryon Hemphill, a family doctor I spoke to, said that in his rural clinic in Payette, “I don’t know that we are reaching 30” percent.
+
+In a conversation in his office on a bright September day, Hemphill pondered the causes of this deep reluctance. In general, people don’t go to the doctor in Payette, he said. That’s in part because Idaho has fewer doctors per capita than most other states, and Payette has fewer than the Idaho average.
+
+But neither conventional medicine nor the insurance companies have made wellness, or prevention, a priority. Patients drive to the doctors’ office only when they are ill. Since Covid, he said, they often arrive with their own theories about why.
+
+In his practice, Hemphill confronts what he calls “an epistemological problem,” he said. As he experiences it, the vaccine debate boils down to warring truths, in which “truth is what you think it is. It’s your perception. There’s this element of, ‘It’s my truth.’”
+
+Faced with such strong hesitancy, Hemphill knows better than to push too hard. Instead, he tries to engage his patients in a conversation about risk. The chance of dying from a vaccine is far smaller than that of dying from the disease it’s designed to prevent, he’ll explain. Symptoms after vaccination indicate that the vaccine is working, he’ll sometimes add.
+
+But he doesn’t insist. It is not his role, he told me, to tell his patients what to do. “That can come across as judgmental.”
+
+In July, days after Shaw’s arrest, Kirsch, the tech entrepreneur, sent the prosecutor’s office an email. Kirsch doesn’t usually delve into the nitty-gritty of individual vaccine-injury claims and said he has never been to Payette. But he spoke to Shaw after the deaths of her children, and he believes this case could change the national conversation. It could “break this acceptance of, ‘all vaccines are safe.’”
+
+Kirsch wanted Duke to see a 2004 study, based on research from the 1980s, by a retired micropaleontologist that purported to show a correlation between childhood vaccination and respiratory distress and deaths otherwise attributed to SIDS or shaken baby syndrome.
+
+“If a jury understands science, unless you have a witness to the suffocation (which you don’t have), this creates reasonable doubt,” he wrote to the prosecutor, using boldface type.
+
+The prosecutor did not respond to his note, Kirsch told me. “They never do,” he said.
+
+Christina Jewett contributed reporting. Kitty Bennett, Alain Delaquérière, Georgia Gee, Sheelagh McNeill and Kirsten Noyes contributed research.
+
+================================================================================
 ai-arms-race.html
 Source: PreloadedData  Paragraphs: 48  Words: 1766/1766
 ================================================================================
@@ -4602,7 +4717,7 @@ She said that passengers had subdued the attacker and that a nurse and doctor on
 Asked how the passengers had stopped the attacker, Ms. Ohayon said, “I believe with their bare hands inside the cockpit.”
 
 
-real	0m1.529s
-user	0m1.937s
-sys	0m0.353s
+real	0m1.591s
+user	0m1.924s
+sys	0m0.369s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
