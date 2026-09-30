@@ -1,6 +1,6 @@
 ================================================================================
 dubai-flight-tel-aviv-israel-pilots.html
-Source: RenderedHtml  Paragraphs: 58  Words: 2272
+Source: RenderedHtml  Paragraphs: 62  Words: 2406
 ================================================================================
 
 SUMMARY
@@ -11,7 +11,7 @@ ARTICLE
 
 Live Updates: Plane to Israel Narrowly Averts Disaster After Pilot Stabbing
 Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.
-By David M. Halbfinger, Aaron Boxerman, Natan Odenheimer, Max Bearak, Josh Holder, Ismaeel Naar, Johnatan Reiss, Adam Rasgon, Natan Odenheimer and Isabel Kershner, Adam Rasgon, Adam Rasgon and Natan Odenheimer, Isabel Kershner, Karla Adam and Leo Sands
+By David M. Halbfinger, Aaron Boxerman, Natan Odenheimer, Max Bearak, Josh Holder, Ismaeel Naar, Johnatan Reiss, Adam Rasgon, Natan Odenheimer and Isabel Kershner, Adam Rasgon, Adam Rasgon and Natan Odenheimer, Isabel Kershner, Karla Adam, Zane Irwin and Leo Sands
 Published 2026-09-30 09:28 UTC
 https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots
 
@@ -53,29 +53,37 @@ Passengers describe panic and heroics after the cockpit stabbing.
 
 Passengers on a morning flight from Dubai to Tel Aviv recounted scenes of panic and terror on Wednesday as their aircraft suddenly plunged thousands of feet while screams for help came from behind the cockpit door.
 
-What began as a routine flight turned terrifying when a violent altercation broke out inside the cockpit in midair. Passengers described a desperate scramble inside the cabin as travelers realized the plane was out of control. Several rushed into the cockpit and subdued an attacker before two off-duty pilots helped steer the aircraft to a safe emergency landing in Saudi Arabia.
+The Israeli prime minister, Benjamin Netanyahu, said one of the pilots had stabbed the other, Capt. Smit Machchhar, an Indian citizen, and then had tried to crash the plane. The identity of the pilot who attacked Captain Machchhar has not yet been released.
+
+What began as a routine flight became terrifying when the violent altercation broke out inside the cockpit. Passengers, most of them Israelis, described a desperate scramble inside the cabin, as travelers realized the plane was out of control.
+
+A few rushed into the cockpit and tackled the pilot who had stabbed his colleague before two off-duty pilots, who had been traveling in the main cabin, helped land the aircraft safely in Saudi Arabia.
+
+Meital Zoller, who was traveling with her husband and child, said they realized something was wrong when “the plane went up and down.” Then they heard screams, and the plane began diving.
 
 “Within a few minutes, our plane completely lost control, and we felt that this was it — we were about to crash,” one passenger, Miriam Ohayon, told Israel’s I24 News, a television channel. “We heard screams on the plane, and when they opened the cockpit, there was a lot of blood.”
 
-She recalled reciting a Jewish prayer often said in times of distress as the plane jolted through the air.
+Asaf Rajuan, one of the Israeli passengers who helped subdue the attacker, told reporters that he and five other passengers “acted on instinct” after realizing that the plane was in a steep nosedive. They burst into the cockpit and wrestled with the pilot who had attacked his colleague.
 
-The Israeli prime minister, Benjamin Netanyahu, said the attacker was one of the pilots, and Almog Itali, a passenger on the flight, told the BBC that there were two pilots in the cockpit and that “one stabbed the other.” He said that two off duty-pilots on the plane, one of whom was British, helped to land the aircraft after the altercation.
+“We neutralized him very quickly,” he said, adding that crew members helped restrain him.
 
-The incident began about two hours after takeoff when a passenger returning from the bathroom saw a struggle inside the cockpit and alerted passengers, Ms. Ohayon reported to her mother, Yasmin Ohayon-Abukasis.
+Dr. Shota Musev, a dentist who said he was one of the first to reach the cockpit after the attack, said that he and another passenger tied the attacker’s hands together with headphone cables.
 
-Speaking to reporters at Ben Gurion Airport in Tel Aviv, Ms. Ohayon-Abukasis said her daughter had told her that the pilot had yelled “help, help, help” and that he was being attacked by a man with a knife.
+Dr. Musev said he treated the injured pilot for severe wounds to his head and cuts on his fingers. He said the attacker’s body was bloody as well, but it was not immediately clear if the blood was his or someone else’s.
 
-Ms. Ohayon-Abukasis said her daughter had said that passengers had subdued the attacker and that a nurse and doctor on board provided initial medical care to the pilot.
+Hila Gaier, who was also on the flight, said that when the plane dived many passengers couldn’t move because of the forces acting on their bodies. “You were sucked downward,” she told Kan, Israel’s public broadcaster. She said she was flying with her partner and two daughters. “I embraced them, told them I loved them, and we tried to practice breathing exercises,” she said.
 
-Hila Gaier, who was on the flight, said that when the plane dived passengers couldn’t move. “You were sucked downward,” she told Kan, Israel’s public broadcaster. She said she was flying with her partner and two daughters. “I embraced them, told them I loved them, and we tried to practice breathing exercises,” she said.
-
-Flight-tracking data from Flightradar24 showed Flight 1073 descended more than 17,000 feet in less than two minutes. “The plane kept stabilizing and then dropping again for several long seconds,” Mr. Itali told Channel 12. The plane landed safely in Tabuk, Saudi Arabia, and the pilots were taken to a hospital.
+Flight-tracking data from Flightradar24 showed Flight 1073 descended more than 17,000 feet in less than two minutes. “The plane kept stabilizing and then dropping again for several long seconds,” one passenger, Almog Itali, told Channel 12. The plane landed safely in Tabuk, Saudi Arabia, and the pilots were taken to a hospital.
 
 Adam Polovincik, 40, who was on the flight with his family, described it as an “extreme experience,” even as he tried to remain calm for his children.
 
-Speaking by phone from Saudi Arabia, where Israel has no formal relations, Mr. Polovincik said the circumstances were surreal.
+Speaking by phone from Saudi Arabia, which has no formal diplomatic relations with Israel, Mr. Polovincik said the circumstances in the Saudi airport were surreal.
 
 “They brought us food and drink, served us coffee,” Mr. Polovincik said. “Yes, there are a lot of soldiers here and government officials, but the atmosphere is very relaxed, pleasant and respectful.”
+
+The passengers were later flown on a replacement plane to Ben Gurion Airport near Tel Aviv, where they were greeted with Israeli flags. Many said they were still reeling from the ordeal. Peleg Itali, a high school student, described his thoughts as he felt the plane start to plummet.
+
+“In my head, I said, ‘I’m so screwed, I’m so screwed. I don’t deserve to die like this,’” he said.
 
 What to know about the clash between pilots on the FlyDubai flight.
 
