@@ -1,0 +1,46 @@
+================================================================================
+openai-brockman-super-pac-leading-the-future.html
+Source: PreloadedData  Paragraphs: 14  Words: 675/678
+================================================================================
+
+SUMMARY
+
+The OpenAI co-founder and president Greg Brockman and his wife, Anna, have pulled out of a $25 million donation that they had planned to give to a leading artificial intelligence advocacy group, a sign of how sensitive the company has become to the growing backlash to A.I. The group, a super PAC called Leading the Future, said last summer and repeated in later comments that the Brockmans planned to donate a total of $50 million, with the first $25 million in 2025 and a second $25 million this year. Mr. Brockman’s support for Leading the Future has been divisive inside OpenAI, The New York Times reported in June, with top policy executives trying to distance themselves from the super PAC.
+
+ARTICLE
+
+OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC
+Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.
+By Theodore Schleifer and Mike Isaac
+Published 2026-09-30 21:11 UTC
+https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html
+
+The OpenAI co-founder and president Greg Brockman and his wife, Anna, have pulled out of a $25 million donation that they had planned to give to a leading artificial intelligence advocacy group, a sign of how sensitive the company has become to the growing backlash to A.I.
+
+The group, a super PAC called Leading the Future, said last summer and repeated in later comments that the Brockmans planned to donate a total of $50 million, with the first $25 million in 2025 and a second $25 million this year. That second commitment has since wilted away.
+
+Mr. Brockman’s retrenchment was never announced publicly. But inside OpenAI, the 38-year-old executive shared in June that he had no plans to make additional donations beyond the first $25 million.
+
+“I also want to say that I feel terrible about the fact that LTF keeps reflecting on the company and become so much of a distraction for people here,” Mr. Brockman wrote that month in a Slack message obtained by The New York Times. “I’ve been thinking hard about how to turn the ship on it. We’ve donated $25m so far, and have no plans to donate more at this time.”
+
+OpenAI has drawn fire for a host of safety concerns and the A.I. industry’s lobbying effort has attracted scrutiny in recent months. Some in the industry view Leading the Future as too dismissive of calls for A.I. safety, just as OpenAI tries to stake out a middle ground of sorts. Several ideological allies of the super PAC have also had issues with the group’s at-times aggressive tactics against opponents, including a high-profile effort against a New York congressional candidate.
+
+In June, 10 days before Mr. Brockman’s internal message, OpenAI published an unusual blog post distancing itself from the super PAC.
+
+“OpenAI does not direct the activities of LTF, or have visibility into their operations,” the San Francisco company wrote, adding in bold: “We want to be explicit: No outside political group speaks for OpenAI or represents our company’s views.”
+
+Mr. Brockman, who increasingly oversees day-to-day management at OpenAI, has aligned himself tightly with the Trump administration, and appeared on Tuesday at an A.I. policy meeting hosted by President Trump. He has said his donations to Leading the Future, along with another $25 million he and his wife gave last year to Mr. Trump’s super PAC, are in pursuit of backing “team humanity.”
+
+“There’s a small number of politicians who I think — despite realizing it’s not the most popular thing — are really putting themselves out there to say, actually, we think [A.I.] is important for the country,” Mr. Brockman told Wired earlier this year. “Anything I can do to support this technology benefiting everyone is a thing that I will do. In this sense, maybe supporting the team is bigger than the people that I happen to be employed with. It’s really team humanity.”
+
+Mr. Brockman’s support for Leading the Future has been divisive inside OpenAI, The New York Times reported in June, with top policy executives trying to distance themselves from the super PAC.
+
+The super PAC told The Times in February that the Brockmans’s second $25 million donation would come in the first quarter of 2026. It did not, nor did it come in the second quarter. The third quarter ends Wednesday.
+
+A representative for Mr. and Ms. Brockman declined to comment. Leading the Future declined to comment.
+
+Leading the Future is not hurting for cash. It accepted $50 million from the venture capital firm Andreessen Horowitz, which has invested in A.I. companies, and Leading the Future’s groups had about $43 million on hand as of June 30. After spending tens of millions of dollars on the primary season, the super PAC network has not done much spending ahead of the general election. The group’s allied nonprofit is focusing its spending on promoting data centers in a few key states.
+
+(The New York Times sued OpenAI and Microsoft in 2023, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+Cade Metz and Sri Muppidi contributed reporting.

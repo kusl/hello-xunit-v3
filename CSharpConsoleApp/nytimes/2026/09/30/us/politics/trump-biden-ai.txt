@@ -1,0 +1,72 @@
+================================================================================
+trump-biden-ai.html
+Source: PreloadedData  Paragraphs: 28  Words: 1373/1373
+================================================================================
+
+SUMMARY
+
+If there was something familiar about the voluntary safety guidelines that President Trump signed on Tuesday with the nation’s frontier artificial intelligence companies, this may be the reason: It closely echoed a previous agreement that President Joseph R. Biden Jr. struck with many of the same firms three years ago. Back then, the central concept was the same: Since federal regulations could not keep up with the blistering pace of new A.I. models, the companies agreed to set up systems to monitor themselves, establishing layers of protection aimed at ensuring the technology would not be turned to nefarious purposes. “Only President Trump could convene all the leaders of the top companies developing chips, data centers and frontier models for Super Intelligence,” Mr. Sacks wrote later on social media, adopting Mr. Trump’s term for the technology, an attempt to rebrand it to sound more powerful, yet more under human control.
+
+ARTICLE
+
+Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?
+President Trump’s plan to let A.I. companies police themselves comes amid mounting examples that they are failing to put safeguards on the technology.
+By David E. Sanger
+Published 2026-09-30 20:15 UTC
+https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html
+
+If there was something familiar about the voluntary safety guidelines that President Trump signed on Tuesday with the nation’s frontier artificial intelligence companies, this may be the reason: It closely echoed a previous agreement that President Joseph R. Biden Jr. struck with many of the same firms three years ago.
+
+But the question now is whether the kind of voluntary framework that seemed plausible in 2023 is sufficient in 2026.
+
+Back then, the central concept was the same: Since federal regulations could not keep up with the blistering pace of new A.I. models, the companies agreed to set up systems to monitor themselves, establishing layers of protection aimed at ensuring the technology would not be turned to nefarious purposes. The most commonly discussed scenario, for example, is that as A.I. enables biological breakthroughs, alarm bells will go off at the first whiff of evidence that the model is being hijacked to produce biological weapons.
+
+“We must be cleareyed and vigilant about the threats emerging from emerging technologies that can pose — don’t have to, but can pose — to our democracy and our values,” Mr. Biden said in the Roosevelt Room at the White House in July 2023. “This is a serious responsibility.”
+
+Mr. Trump essentially offered the same approach on Tuesday afternoon, after a luncheon with A.I. executives. “They’re really going to be policing each other,” he said outside the White House, as the leaders of Anthropic, OpenAI, Google, Meta, Nvidia and SpaceX AI nodded in agreement.
+
+After a summer of surprises — of A.I. agents escaping the “sandboxes” designed to contain them, hacking into other companies, and engaging in activities behind the backs of their creators — why would anyone think these protections are sufficient? The layered early-warning systems designed over the past few years have clearly failed, by the accounting of the companies themselves. New cases of A.I. agents behaving badly, or at least unpredictably, emerge on nearly a daily basis. Virtually all are after-the-fact discoveries, like the Louvre guards who woke up eight minutes too late to a brilliantly executed heist last year.
+
+“We recognized in 2023 that voluntary pledges alone would not be enough, which is why President Biden followed up with an executive order,” one that Mr. Trump overrode after coming to office, noted Ben Buchanan, a Johns Hopkins professor who was one of the authors of the 2023 pledge.
+
+“Given how fast A.I. capabilities have advanced, it’s even clearer now the federal government will need to act once again,” added Mr. Buchanan, who has consulted for Anthropic and other firms and is about to publish a book on the efforts to rein in A.I.
+
+Mr. Biden’s order created a small unit inside the Commerce Department, called the U.S. Artificial Intelligence Safety Institute, to create standards for new A.I. models and to test the models before they are released. The institute has been renamed and has been a bit player in the current A.I. debates; Britain, for example, has a far larger and more powerful institution playing that role.
+
+It is hard to find another industry with so much potential to do harm as well as good that the government believes can regulate itself. After all, pharmaceutical companies are not permitted to approve their own drugs — that is why there is a Food and Drug Administration. Boeing cannot certify its own planes as flight-ready. And when OpenAI and Anthropic want to build new data centers — suddenly one of the most contentious issues of the midterm elections — they need to get more government approvals than they do for the new A.I. models that the centers’ computing power will be helping create.
+
+In one respect, the Trump accord goes beyond the Biden one: The companies committed to embedding outside experts in their development process, with the power to blow the whistle if they see something going awry.
+
+The idea is based on the International Atomic Energy Agency inspectors who visit nuclear sites, though those inspectors are chosen from countries around the world. It is a concept that has been around for a while, and was included in the essay Dario Amodei, one of the founders of Anthropic, wrote in recent weeks as he argued for slowing the pace of development until the industry had rogue A.I. agents under control.
+
+As Anthropic heads toward an initial public offering that many on Wall Street expect to value the company in excess of $2 trillion — approaching the G.D.P. of Canada — the Trump administration is doubling down on the argument that regulation is simply an invitation for China to exceed the United States.
+
+Advocates for shaping this surging technology with a light government hand celebrated the White House accord on Tuesday.
+
+David Sacks, who was Mr. Trump’s A.I. czar until he left the White House early this year, ranked among the most enthusiastic.
+
+“Only President Trump could convene all the leaders of the top companies developing chips, data centers and frontier models for Super Intelligence,” Mr. Sacks wrote later on social media, adopting Mr. Trump’s term for the technology, an attempt to rebrand it to sound more powerful, yet more under human control.
+
+Mr. Sacks, who was sitting close to the center of the table for the luncheon that the president hosted for the A.I. leaders, said the agreement came down to one concept: that the frontier firms are “accepting responsibility for the safe development of their products and imposing new internal controls and external audits. This is far better than waiting years for some international agreement that would probably never happen.”
+
+It is not yet clear that the firms are truly accepting responsibility for A.I. agents that go rogue, hacking into systems or sending misleading messages. But OpenAI did terminate work in recent days on a new model — called GPT-6.1 Astra — when it showed high levels of what the company labels as deception, covering up its actions.
+
+“For anything regarding safety and alignment, there’s a trade-off,” Saachi Jain, the head of safety systems at OpenAI, said when the decision was announced.
+
+OpenAI decided to take the cautious route. Presumably, every one of its competitors is struggling with the same issue.
+
+On his second point — about how long it would take to secure international agreements — Mr. Sacks is undoubtedly right. When President Xi Jinping of China was in Washington last week for a state visit, the only concrete agreement on A.I. that emerged was a plan to convene experts from both countries — the two that dominate the field — to begin a conversation on mutual safety steps.
+
+That decision also had its roots in the Biden White House, which took about 18 months to get Beijing to agree on what seems like a pretty obvious baby step: a single sentence declaring that any decision to employ nuclear weapons should be made by humans, not by artificial intelligence.
+
+Mr. Xi built on that statement at the White House last week. Speaking in the Grand Foyer, he said that it was critical to “develop and manage A.I. for good and ensure that the development of A.I. is always under human control.” Mr. Trump has often repeated the first part, but he leaves out “under human control,” which worries those who fear the Pentagon is quickly moving toward fully autonomous weapons with weakened human oversight.
+
+Mr. Trump clearly does not want to talk about autonomous weapons, or dwell on the recent cases of A.I. gone wrong. Last week he was still calling revelations of miscreant A.I. agents a “HOAX” being exploited by his political opponents.
+
+On Tuesday, he dwelled at length on his effort to mandate use of the term “Super Intelligence,” as if changing the term will ameliorate the problem.
+
+“This is going to be all for the good, and we’re going to have it be nice and safe,” Mr. Trump said.
+
+While the accord was voluntary, he insisted, “it’s morally binding.”
+
+The executives who came to the lunch yesterday, many of whom are already taking the steps outlined in the voluntary accord, say they agree they have a moral responsibility to get this right. But as they have learned to their shock in recent months, the technology is not entirely under their control. Whether the accord is morally binding on the rogue A.I. agents is yet to be determined.

@@ -1,0 +1,74 @@
+================================================================================
+congress-ai-safety.html
+Source: PreloadedData  Paragraphs: 29  Words: 1181/1181
+================================================================================
+
+SUMMARY
+
+Facing a growing backlash over the boom in data center construction and widespread concern over the safety of artificial intelligence, Congress is set to depart Washington this week ahead of the midterm elections having accomplished nothing to address either issue. Eager to show they hear the public alarm over A.I. as they fight to keep their majority, Republicans in the Senate on Wednesday attempted to bring up a bill intended to insulate Americans from rising electricity costs tied to data centers. Still, Democrats have sought to make data centers a central issue in competitive races across the country, including Mr. Husted’s in Ohio.
+
+ARTICLE
+
+Congress Set to Leave Washington for the Midterms With No A.I. Progress
+Senate Democrats blocked a measure that would encourage, but not require, states to protect consumers from power rate hikes tied to data center growth, and had no limits on A.I. use or deployment.
+By Michael Gold and Cecilia Kang
+Published 2026-09-30 16:55 UTC
+https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html
+
+Facing a growing backlash over the boom in data center construction and widespread concern over the safety of artificial intelligence, Congress is set to depart Washington this week ahead of the midterm elections having accomplished nothing to address either issue.
+
+Eager to show they hear the public alarm over A.I. as they fight to keep their majority, Republicans in the Senate on Wednesday attempted to bring up a bill intended to insulate Americans from rising electricity costs tied to data centers. But Democrats blocked it, noting that the legislation was not enforceable and arguing it would do little to significantly curb energy prices.
+
+The bill, sponsored by Senator Jon Husted of Ohio, a Republican in a difficult re-election battle, also would not impose any regulation on the use or deployment of artificial intelligence in the wake of several revelations that A.I. agents evaded safeguards meant to constrain them.
+
+With widespread disagreement over the best path forward but lawmakers eager to show voters progress on the issue before facing them in November, members of both parties have in recent days released a barrage of legislation, letters and statements of concern about A.I. and held a Senate hearing on “Rogue A.I.” on Wednesday afternoon as they rushed for the exits.
+
+“I remain an A.I. optimist. I am not an A.I. doomer,” Senator Mark Warner, a Virginia Democrat who is also up for re-election, said. “But we are at a moment in time, particularly over the last few weeks, where I think the whole world has recognized we’ve got to do something.”
+
+It comes as President Trump has played down A.I. safety risks and lawmakers in both parties remain uncertain about how to proceed on the issue as major players in the industry are spending heavily to influence the midterms. Though Mr. Trump convened top technology executives at the White House on Tuesday, the group agreed only to voluntary safety agreements and to follow the president’s preference in rebranding A.I. as “super intelligence.”
+
+Some Republican senators have argued there is a need for stronger oversight. Senator Josh Hawley, Republican of Missouri, who has sponsored several pieces of legislation that would limit A.I., convened Wednesday’s hearing and said that companies should be subject to consequences when their technology is misused.
+
+“It’s time to talk about what we’re going to do to hold the companies, the product makers accountable, rather than all of this talk about the end of the world,” Mr. Hawley said. None of the executives who joined the White House meeting attended; Mr. Hawley said that Sam Altman, the chief executive of OpenAI, had declined his invitation to participate.
+
+Still, Republicans also are facing blowback for having included tax breaks in their major tax and spending cut legislation last year that benefited data center developers. Mr. Hawley has introduced legislation that would bar data centers from taking advantage of the incentives.
+
+It is unclear whether Congress’s lack of action on the issue will have political consequences in November. A poll conducted this month by The New York Times and Siena University found that neither party had a clear advantage with voters on A.I., even as voters broadly opposed the construction of data centers.
+
+Still, Democrats have sought to make data centers a central issue in competitive races across the country, including Mr. Husted’s in Ohio.
+
+Before he was appointed to the Senate last year, Mr. Husted, the state’s lieutenant governor, backed tax incentives for data centers. Democrats have spent millions on television advertisements labeling him as the “face of data centers.” In August, Senate Republicans’ campaign arm distributed a memo warning that the issue was threatening Mr. Husted’s re-election bid.
+
+Wednesday’s vote was seen as a potential boon for his campaign.
+
+The legislation, which passed the House overwhelmingly earlier this month, would order state utility regulators to consider adopting rules requiring the centers to cover higher costs associated with their power use. But it would not force state regulators to follow federal standards when they are setting electricity rates, and it would give them two years to weigh changes.
+
+Mr. Husted argued that the bill was the best mechanism available for Congress to quickly address energy prices. He pointed to its bipartisan support in the House and said it was the only legislation ready to make it to the president’s desk.
+
+“This is the only game in town,” Mr. Husted said. “This bill passing is the only way to get a chance to prove to the American people before the midterm elections whose side you’re on.”
+
+Democrats have argued that Mr. Husted’s bill is little more than a symbolic gesture that will have little effect on electricity costs. Senator Chuck Schumer, Democrat of New York and the minority leader, pronounced it “toothless” and called for more meaningful regulations.
+
+“An optional guardrail isn’t a guardrail at all,” Mr. Schumer said. “At a time when Americans are calling out for real guardrails on A.I., Senate Republicans are trying to secure an ineffectual participation trophy before they skip town.”
+
+Though four Democrats joined Republicans, they still fell short of the 60-vote threshold required to proceed.
+
+Republicans accused Democrats of putting politics first while seeking to flip Mr. Husted’s seat. But Senator John Kennedy, Republican of Louisiana, said he was frustrated that lawmakers had waited until the last minute to try to do something about data centers.
+
+“That’s the sort of thing that I wish we’d started talking about a month or a month and a half ago and tried to work something out with the Democrats,” Mr. Kennedy said of Mr. Husted’s bill. Instead, he said, “we’re doing it at the last minute.”
+
+Lawmakers from both parties have introduced a flurry of proposals hoping to slow the pace of A.I. development, impose guardrails and address the national security risks that could be posed by rogue A.I. agents. But their bills have largely gone nowhere in the face of deep disagreements both within the parties and between them.
+
+Even lawmakers who are calling for swift regulation are being careful to say they do not want to stop A.I. development outright.
+
+On Tuesday, three Democratic senators, including Mr. Warner, asked their colleagues to quickly take up and pass a bill that would establish a federal panel to oversee safety standards for A.I. models and to evaluate models before they were deployed.
+
+But Mr. Warner framed the effort in part as a chance to stem the rising A.I. backlash.
+
+“We should not miss the moment to put a safety protocol in place now,” Mr. Warner, whose state has benefited from data center growth, said. “If Congress goes out, God forbid we have an incident, A.I. is already suspect by most Americans. We could see the stop of innovation if an A.I. tool took over a hospital or water system.”
+
+Senator Ted Cruz, Republican of Texas, objected and blocked the legislation, saying that he feared giving the government too much authority over A.I.
+
+He also accused his colleagues of moving too quickly.
+
+“Congress must not legislate on the issue of artificial intelligence hastily or in a closed manner,” he said.

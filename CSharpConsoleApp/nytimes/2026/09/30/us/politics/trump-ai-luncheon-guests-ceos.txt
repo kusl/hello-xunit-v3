@@ -1,0 +1,36 @@
+================================================================================
+trump-ai-luncheon-guests-ceos.html
+Source: PreloadedData  Paragraphs: 10  Words: 516/515
+================================================================================
+
+SUMMARY
+
+There was room for 34 at the table, including the president. But the seating chart that Mr. Trump posted on social media illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House. Some of the biggest proponents of aggressive regulation — including Dario Amodei of Anthropic — were relegated to the far reaches of the table, while Mr. Musk and Mr. Huang had prominent seats, with each man flanking Mr. Trump.
+
+ARTICLE
+
+How Seating at Trump’s A.I. Luncheon Reveals Who Has the President’s Ear
+A seating chart of the meeting illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House.
+By Cecilia Kang
+Published 2026-09-30 00:30 UTC
+https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html
+
+There was room for 34 at the table, including the president. But the seating chart that Mr. Trump posted on social media illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House.
+
+Some of the biggest proponents of aggressive regulation — including Dario Amodei of Anthropic — were relegated to the far reaches of the table, while Mr. Musk and Mr. Huang had prominent seats, with each man flanking Mr. Trump. The meeting also included top officials, such as Speaker Mike Johnson and Vice President JD Vance, who believe that formalized safeguards would hurt American competitiveness.
+
+The seat assignment for Mr. Musk illustrated the billionaire’s mended relationship with the president after a monthslong public spat over their differences on policy earlier in the administration. And Mr. Huang is perhaps one of the most influential figures at the table, and a frequent visitor of the White House, whom the president has listened to on easing export controls of A.I. chips to China and the need to keep the industry free of regulations.
+
+The next layer of influence included Jeff Bezos, the founder of Amazon, and Satya Nadella of Microsoft, who both sat across from the president. Mark Zuckerberg of Meta and Sundar Pichai were also seated in the inner circle, one removed from Mr. Trump. These tech titans have invested tens of billions of dollars in developing A.I. models and data centers.
+
+This A-squad of executives and their companies have also contributed millions of dollars to Mr. Trump’s inauguration and projects like the construction of the White House East Wing ballroom.
+
+But the most notable seating assignment may belong to Dario Amodei of Anthropic, who has clashed with Mr. Trump’s anti-regulatory view of his industry. Mr. Amodei was seated near one end of the table, between two corporate leaders of tech companies and not next to any government officials. Mr. Amodei, who dined separately with Mr. Trump on Sunday, has warned that A.I. poses great existential risks and called for a global slowdown of development.
+
+Far from Mr. Amodei was one of his biggest critics, David Sacks, the former senior adviser to Mr. Trump on A.I. Mr. Sacks has referred to Anthropic’s leadership as “doomers,” and while he is no longer in the administration, he continues to have the ear of Mr. Trump as a venture capitalist.
+
+Most of the executives have been wary of strong regulations on A.I. But a series of security incidents in recent months have caused some to shift their stance. Mr. Huang remains the most strident against regulations and has said existing laws are sufficient to protect individuals. But Mr. Musk and Sam Altman of OpenAI, who did not attend the luncheon, recently agreed with Mr. Amodei that governments need to take a more active role in overseeing the technology and that the pace of development should slow.
+
+The A.I. leaders did seem to find common ground. After the luncheon, they signed an accord promising to make their systems safe by committing to internal risk policies and outside audits.
+
+The agreement, company insiders said, was table stakes.

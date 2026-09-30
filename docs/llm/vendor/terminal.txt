@@ -1,24 +1,24 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.751s
-user	0m10.510s
-sys	0m0.774s
+real	0m6.113s
+user	0m10.828s
+sys	0m0.842s
 
 Build succeeded in 0.4s
 
-real	0m0.571s
-user	0m0.579s
-sys	0m0.124s
-Restore complete (0.4s)
+real	0m0.593s
+user	0m0.594s
+sys	0m0.131s
+Restore complete (0.5s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.5s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.5s
 
-real	0m1.609s
-user	0m1.148s
-sys	0m0.263s
+real	0m1.643s
+user	0m1.214s
+sys	0m0.250s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
 CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (691ms)
 
@@ -27,13 +27,13 @@ Test run summary: Passed!
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 877ms
+  duration: 875ms
 
-real	0m1.985s
-user	0m2.309s
-sys	0m0.420s
+real	0m2.050s
+user	0m2.375s
+sys	0m0.435s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 4 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.325s
-user	0m0.199s
-sys	0m0.163s
+real	0m0.332s
+user	0m0.211s
+sys	0m0.157s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.398s
-user	0m1.380s
-sys	0m0.300s
+real	0m1.396s
+user	0m1.368s
+sys	0m0.298s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.428s
+real	0m1.435s
 user	0m1.387s
-sys	0m0.304s
+sys	0m0.314s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -3333,6 +3333,53 @@ The Times is committed to publishing a diversity of letters to the editor. We’
 Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
 
 ================================================================================
+openai-brockman-super-pac-leading-the-future.html
+Source: PreloadedData  Paragraphs: 14  Words: 675/678
+================================================================================
+
+SUMMARY
+
+The OpenAI co-founder and president Greg Brockman and his wife, Anna, have pulled out of a $25 million donation that they had planned to give to a leading artificial intelligence advocacy group, a sign of how sensitive the company has become to the growing backlash to A.I. The group, a super PAC called Leading the Future, said last summer and repeated in later comments that the Brockmans planned to donate a total of $50 million, with the first $25 million in 2025 and a second $25 million this year. Mr. Brockman’s support for Leading the Future has been divisive inside OpenAI, The New York Times reported in June, with top policy executives trying to distance themselves from the super PAC.
+
+ARTICLE
+
+OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC
+Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.
+By Theodore Schleifer and Mike Isaac
+Published 2026-09-30 21:11 UTC
+https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html
+
+The OpenAI co-founder and president Greg Brockman and his wife, Anna, have pulled out of a $25 million donation that they had planned to give to a leading artificial intelligence advocacy group, a sign of how sensitive the company has become to the growing backlash to A.I.
+
+The group, a super PAC called Leading the Future, said last summer and repeated in later comments that the Brockmans planned to donate a total of $50 million, with the first $25 million in 2025 and a second $25 million this year. That second commitment has since wilted away.
+
+Mr. Brockman’s retrenchment was never announced publicly. But inside OpenAI, the 38-year-old executive shared in June that he had no plans to make additional donations beyond the first $25 million.
+
+“I also want to say that I feel terrible about the fact that LTF keeps reflecting on the company and become so much of a distraction for people here,” Mr. Brockman wrote that month in a Slack message obtained by The New York Times. “I’ve been thinking hard about how to turn the ship on it. We’ve donated $25m so far, and have no plans to donate more at this time.”
+
+OpenAI has drawn fire for a host of safety concerns and the A.I. industry’s lobbying effort has attracted scrutiny in recent months. Some in the industry view Leading the Future as too dismissive of calls for A.I. safety, just as OpenAI tries to stake out a middle ground of sorts. Several ideological allies of the super PAC have also had issues with the group’s at-times aggressive tactics against opponents, including a high-profile effort against a New York congressional candidate.
+
+In June, 10 days before Mr. Brockman’s internal message, OpenAI published an unusual blog post distancing itself from the super PAC.
+
+“OpenAI does not direct the activities of LTF, or have visibility into their operations,” the San Francisco company wrote, adding in bold: “We want to be explicit: No outside political group speaks for OpenAI or represents our company’s views.”
+
+Mr. Brockman, who increasingly oversees day-to-day management at OpenAI, has aligned himself tightly with the Trump administration, and appeared on Tuesday at an A.I. policy meeting hosted by President Trump. He has said his donations to Leading the Future, along with another $25 million he and his wife gave last year to Mr. Trump’s super PAC, are in pursuit of backing “team humanity.”
+
+“There’s a small number of politicians who I think — despite realizing it’s not the most popular thing — are really putting themselves out there to say, actually, we think [A.I.] is important for the country,” Mr. Brockman told Wired earlier this year. “Anything I can do to support this technology benefiting everyone is a thing that I will do. In this sense, maybe supporting the team is bigger than the people that I happen to be employed with. It’s really team humanity.”
+
+Mr. Brockman’s support for Leading the Future has been divisive inside OpenAI, The New York Times reported in June, with top policy executives trying to distance themselves from the super PAC.
+
+The super PAC told The Times in February that the Brockmans’s second $25 million donation would come in the first quarter of 2026. It did not, nor did it come in the second quarter. The third quarter ends Wednesday.
+
+A representative for Mr. and Ms. Brockman declined to comment. Leading the Future declined to comment.
+
+Leading the Future is not hurting for cash. It accepted $50 million from the venture capital firm Andreessen Horowitz, which has invested in A.I. companies, and Leading the Future’s groups had about $43 million on hand as of June 30. After spending tens of millions of dollars on the primary season, the super PAC network has not done much spending ahead of the general election. The group’s allied nonprofit is focusing its spending on promoting data centers in a few key states.
+
+(The New York Times sued OpenAI and Microsoft in 2023, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+Cade Metz and Sri Muppidi contributed reporting.
+
+================================================================================
 california-governor-race-debate-becerra-hilton.html
 Source: PreloadedData  Paragraphs: 22  Words: 842/842
 ================================================================================
@@ -3453,6 +3500,191 @@ This summer, Mr. Hilton called for at least six debates. But front-runners like 
 Mr. Newsom was even more elusive than Mr. Becerra in 2018, the last time California had an open race for governor. The two candidates met for just one debate ahead of the general election — and very few people saw it.
 
 Mr. Newsom, a Democrat who was lieutenant governor, debated John Cox, a Republican businessman, on the radio. No television cameras were allowed to broadcast the event. And it took place in the middle of a Monday morning.
+
+================================================================================
+congress-ai-safety.html
+Source: PreloadedData  Paragraphs: 29  Words: 1181/1181
+================================================================================
+
+SUMMARY
+
+Facing a growing backlash over the boom in data center construction and widespread concern over the safety of artificial intelligence, Congress is set to depart Washington this week ahead of the midterm elections having accomplished nothing to address either issue. Eager to show they hear the public alarm over A.I. as they fight to keep their majority, Republicans in the Senate on Wednesday attempted to bring up a bill intended to insulate Americans from rising electricity costs tied to data centers. Still, Democrats have sought to make data centers a central issue in competitive races across the country, including Mr. Husted’s in Ohio.
+
+ARTICLE
+
+Congress Set to Leave Washington for the Midterms With No A.I. Progress
+Senate Democrats blocked a measure that would encourage, but not require, states to protect consumers from power rate hikes tied to data center growth, and had no limits on A.I. use or deployment.
+By Michael Gold and Cecilia Kang
+Published 2026-09-30 16:55 UTC
+https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html
+
+Facing a growing backlash over the boom in data center construction and widespread concern over the safety of artificial intelligence, Congress is set to depart Washington this week ahead of the midterm elections having accomplished nothing to address either issue.
+
+Eager to show they hear the public alarm over A.I. as they fight to keep their majority, Republicans in the Senate on Wednesday attempted to bring up a bill intended to insulate Americans from rising electricity costs tied to data centers. But Democrats blocked it, noting that the legislation was not enforceable and arguing it would do little to significantly curb energy prices.
+
+The bill, sponsored by Senator Jon Husted of Ohio, a Republican in a difficult re-election battle, also would not impose any regulation on the use or deployment of artificial intelligence in the wake of several revelations that A.I. agents evaded safeguards meant to constrain them.
+
+With widespread disagreement over the best path forward but lawmakers eager to show voters progress on the issue before facing them in November, members of both parties have in recent days released a barrage of legislation, letters and statements of concern about A.I. and held a Senate hearing on “Rogue A.I.” on Wednesday afternoon as they rushed for the exits.
+
+“I remain an A.I. optimist. I am not an A.I. doomer,” Senator Mark Warner, a Virginia Democrat who is also up for re-election, said. “But we are at a moment in time, particularly over the last few weeks, where I think the whole world has recognized we’ve got to do something.”
+
+It comes as President Trump has played down A.I. safety risks and lawmakers in both parties remain uncertain about how to proceed on the issue as major players in the industry are spending heavily to influence the midterms. Though Mr. Trump convened top technology executives at the White House on Tuesday, the group agreed only to voluntary safety agreements and to follow the president’s preference in rebranding A.I. as “super intelligence.”
+
+Some Republican senators have argued there is a need for stronger oversight. Senator Josh Hawley, Republican of Missouri, who has sponsored several pieces of legislation that would limit A.I., convened Wednesday’s hearing and said that companies should be subject to consequences when their technology is misused.
+
+“It’s time to talk about what we’re going to do to hold the companies, the product makers accountable, rather than all of this talk about the end of the world,” Mr. Hawley said. None of the executives who joined the White House meeting attended; Mr. Hawley said that Sam Altman, the chief executive of OpenAI, had declined his invitation to participate.
+
+Still, Republicans also are facing blowback for having included tax breaks in their major tax and spending cut legislation last year that benefited data center developers. Mr. Hawley has introduced legislation that would bar data centers from taking advantage of the incentives.
+
+It is unclear whether Congress’s lack of action on the issue will have political consequences in November. A poll conducted this month by The New York Times and Siena University found that neither party had a clear advantage with voters on A.I., even as voters broadly opposed the construction of data centers.
+
+Still, Democrats have sought to make data centers a central issue in competitive races across the country, including Mr. Husted’s in Ohio.
+
+Before he was appointed to the Senate last year, Mr. Husted, the state’s lieutenant governor, backed tax incentives for data centers. Democrats have spent millions on television advertisements labeling him as the “face of data centers.” In August, Senate Republicans’ campaign arm distributed a memo warning that the issue was threatening Mr. Husted’s re-election bid.
+
+Wednesday’s vote was seen as a potential boon for his campaign.
+
+The legislation, which passed the House overwhelmingly earlier this month, would order state utility regulators to consider adopting rules requiring the centers to cover higher costs associated with their power use. But it would not force state regulators to follow federal standards when they are setting electricity rates, and it would give them two years to weigh changes.
+
+Mr. Husted argued that the bill was the best mechanism available for Congress to quickly address energy prices. He pointed to its bipartisan support in the House and said it was the only legislation ready to make it to the president’s desk.
+
+“This is the only game in town,” Mr. Husted said. “This bill passing is the only way to get a chance to prove to the American people before the midterm elections whose side you’re on.”
+
+Democrats have argued that Mr. Husted’s bill is little more than a symbolic gesture that will have little effect on electricity costs. Senator Chuck Schumer, Democrat of New York and the minority leader, pronounced it “toothless” and called for more meaningful regulations.
+
+“An optional guardrail isn’t a guardrail at all,” Mr. Schumer said. “At a time when Americans are calling out for real guardrails on A.I., Senate Republicans are trying to secure an ineffectual participation trophy before they skip town.”
+
+Though four Democrats joined Republicans, they still fell short of the 60-vote threshold required to proceed.
+
+Republicans accused Democrats of putting politics first while seeking to flip Mr. Husted’s seat. But Senator John Kennedy, Republican of Louisiana, said he was frustrated that lawmakers had waited until the last minute to try to do something about data centers.
+
+“That’s the sort of thing that I wish we’d started talking about a month or a month and a half ago and tried to work something out with the Democrats,” Mr. Kennedy said of Mr. Husted’s bill. Instead, he said, “we’re doing it at the last minute.”
+
+Lawmakers from both parties have introduced a flurry of proposals hoping to slow the pace of A.I. development, impose guardrails and address the national security risks that could be posed by rogue A.I. agents. But their bills have largely gone nowhere in the face of deep disagreements both within the parties and between them.
+
+Even lawmakers who are calling for swift regulation are being careful to say they do not want to stop A.I. development outright.
+
+On Tuesday, three Democratic senators, including Mr. Warner, asked their colleagues to quickly take up and pass a bill that would establish a federal panel to oversee safety standards for A.I. models and to evaluate models before they were deployed.
+
+But Mr. Warner framed the effort in part as a chance to stem the rising A.I. backlash.
+
+“We should not miss the moment to put a safety protocol in place now,” Mr. Warner, whose state has benefited from data center growth, said. “If Congress goes out, God forbid we have an incident, A.I. is already suspect by most Americans. We could see the stop of innovation if an A.I. tool took over a hospital or water system.”
+
+Senator Ted Cruz, Republican of Texas, objected and blocked the legislation, saying that he feared giving the government too much authority over A.I.
+
+He also accused his colleagues of moving too quickly.
+
+“Congress must not legislate on the issue of artificial intelligence hastily or in a closed manner,” he said.
+
+================================================================================
+trump-ai-luncheon-guests-ceos.html
+Source: PreloadedData  Paragraphs: 10  Words: 516/515
+================================================================================
+
+SUMMARY
+
+There was room for 34 at the table, including the president. But the seating chart that Mr. Trump posted on social media illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House. Some of the biggest proponents of aggressive regulation — including Dario Amodei of Anthropic — were relegated to the far reaches of the table, while Mr. Musk and Mr. Huang had prominent seats, with each man flanking Mr. Trump.
+
+ARTICLE
+
+How Seating at Trump’s A.I. Luncheon Reveals Who Has the President’s Ear
+A seating chart of the meeting illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House.
+By Cecilia Kang
+Published 2026-09-30 00:30 UTC
+https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html
+
+There was room for 34 at the table, including the president. But the seating chart that Mr. Trump posted on social media illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House.
+
+Some of the biggest proponents of aggressive regulation — including Dario Amodei of Anthropic — were relegated to the far reaches of the table, while Mr. Musk and Mr. Huang had prominent seats, with each man flanking Mr. Trump. The meeting also included top officials, such as Speaker Mike Johnson and Vice President JD Vance, who believe that formalized safeguards would hurt American competitiveness.
+
+The seat assignment for Mr. Musk illustrated the billionaire’s mended relationship with the president after a monthslong public spat over their differences on policy earlier in the administration. And Mr. Huang is perhaps one of the most influential figures at the table, and a frequent visitor of the White House, whom the president has listened to on easing export controls of A.I. chips to China and the need to keep the industry free of regulations.
+
+The next layer of influence included Jeff Bezos, the founder of Amazon, and Satya Nadella of Microsoft, who both sat across from the president. Mark Zuckerberg of Meta and Sundar Pichai were also seated in the inner circle, one removed from Mr. Trump. These tech titans have invested tens of billions of dollars in developing A.I. models and data centers.
+
+This A-squad of executives and their companies have also contributed millions of dollars to Mr. Trump’s inauguration and projects like the construction of the White House East Wing ballroom.
+
+But the most notable seating assignment may belong to Dario Amodei of Anthropic, who has clashed with Mr. Trump’s anti-regulatory view of his industry. Mr. Amodei was seated near one end of the table, between two corporate leaders of tech companies and not next to any government officials. Mr. Amodei, who dined separately with Mr. Trump on Sunday, has warned that A.I. poses great existential risks and called for a global slowdown of development.
+
+Far from Mr. Amodei was one of his biggest critics, David Sacks, the former senior adviser to Mr. Trump on A.I. Mr. Sacks has referred to Anthropic’s leadership as “doomers,” and while he is no longer in the administration, he continues to have the ear of Mr. Trump as a venture capitalist.
+
+Most of the executives have been wary of strong regulations on A.I. But a series of security incidents in recent months have caused some to shift their stance. Mr. Huang remains the most strident against regulations and has said existing laws are sufficient to protect individuals. But Mr. Musk and Sam Altman of OpenAI, who did not attend the luncheon, recently agreed with Mr. Amodei that governments need to take a more active role in overseeing the technology and that the pace of development should slow.
+
+The A.I. leaders did seem to find common ground. After the luncheon, they signed an accord promising to make their systems safe by committing to internal risk policies and outside audits.
+
+The agreement, company insiders said, was table stakes.
+
+================================================================================
+trump-biden-ai.html
+Source: PreloadedData  Paragraphs: 28  Words: 1373/1373
+================================================================================
+
+SUMMARY
+
+If there was something familiar about the voluntary safety guidelines that President Trump signed on Tuesday with the nation’s frontier artificial intelligence companies, this may be the reason: It closely echoed a previous agreement that President Joseph R. Biden Jr. struck with many of the same firms three years ago. Back then, the central concept was the same: Since federal regulations could not keep up with the blistering pace of new A.I. models, the companies agreed to set up systems to monitor themselves, establishing layers of protection aimed at ensuring the technology would not be turned to nefarious purposes. “Only President Trump could convene all the leaders of the top companies developing chips, data centers and frontier models for Super Intelligence,” Mr. Sacks wrote later on social media, adopting Mr. Trump’s term for the technology, an attempt to rebrand it to sound more powerful, yet more under human control.
+
+ARTICLE
+
+Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?
+President Trump’s plan to let A.I. companies police themselves comes amid mounting examples that they are failing to put safeguards on the technology.
+By David E. Sanger
+Published 2026-09-30 20:15 UTC
+https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html
+
+If there was something familiar about the voluntary safety guidelines that President Trump signed on Tuesday with the nation’s frontier artificial intelligence companies, this may be the reason: It closely echoed a previous agreement that President Joseph R. Biden Jr. struck with many of the same firms three years ago.
+
+But the question now is whether the kind of voluntary framework that seemed plausible in 2023 is sufficient in 2026.
+
+Back then, the central concept was the same: Since federal regulations could not keep up with the blistering pace of new A.I. models, the companies agreed to set up systems to monitor themselves, establishing layers of protection aimed at ensuring the technology would not be turned to nefarious purposes. The most commonly discussed scenario, for example, is that as A.I. enables biological breakthroughs, alarm bells will go off at the first whiff of evidence that the model is being hijacked to produce biological weapons.
+
+“We must be cleareyed and vigilant about the threats emerging from emerging technologies that can pose — don’t have to, but can pose — to our democracy and our values,” Mr. Biden said in the Roosevelt Room at the White House in July 2023. “This is a serious responsibility.”
+
+Mr. Trump essentially offered the same approach on Tuesday afternoon, after a luncheon with A.I. executives. “They’re really going to be policing each other,” he said outside the White House, as the leaders of Anthropic, OpenAI, Google, Meta, Nvidia and SpaceX AI nodded in agreement.
+
+After a summer of surprises — of A.I. agents escaping the “sandboxes” designed to contain them, hacking into other companies, and engaging in activities behind the backs of their creators — why would anyone think these protections are sufficient? The layered early-warning systems designed over the past few years have clearly failed, by the accounting of the companies themselves. New cases of A.I. agents behaving badly, or at least unpredictably, emerge on nearly a daily basis. Virtually all are after-the-fact discoveries, like the Louvre guards who woke up eight minutes too late to a brilliantly executed heist last year.
+
+“We recognized in 2023 that voluntary pledges alone would not be enough, which is why President Biden followed up with an executive order,” one that Mr. Trump overrode after coming to office, noted Ben Buchanan, a Johns Hopkins professor who was one of the authors of the 2023 pledge.
+
+“Given how fast A.I. capabilities have advanced, it’s even clearer now the federal government will need to act once again,” added Mr. Buchanan, who has consulted for Anthropic and other firms and is about to publish a book on the efforts to rein in A.I.
+
+Mr. Biden’s order created a small unit inside the Commerce Department, called the U.S. Artificial Intelligence Safety Institute, to create standards for new A.I. models and to test the models before they are released. The institute has been renamed and has been a bit player in the current A.I. debates; Britain, for example, has a far larger and more powerful institution playing that role.
+
+It is hard to find another industry with so much potential to do harm as well as good that the government believes can regulate itself. After all, pharmaceutical companies are not permitted to approve their own drugs — that is why there is a Food and Drug Administration. Boeing cannot certify its own planes as flight-ready. And when OpenAI and Anthropic want to build new data centers — suddenly one of the most contentious issues of the midterm elections — they need to get more government approvals than they do for the new A.I. models that the centers’ computing power will be helping create.
+
+In one respect, the Trump accord goes beyond the Biden one: The companies committed to embedding outside experts in their development process, with the power to blow the whistle if they see something going awry.
+
+The idea is based on the International Atomic Energy Agency inspectors who visit nuclear sites, though those inspectors are chosen from countries around the world. It is a concept that has been around for a while, and was included in the essay Dario Amodei, one of the founders of Anthropic, wrote in recent weeks as he argued for slowing the pace of development until the industry had rogue A.I. agents under control.
+
+As Anthropic heads toward an initial public offering that many on Wall Street expect to value the company in excess of $2 trillion — approaching the G.D.P. of Canada — the Trump administration is doubling down on the argument that regulation is simply an invitation for China to exceed the United States.
+
+Advocates for shaping this surging technology with a light government hand celebrated the White House accord on Tuesday.
+
+David Sacks, who was Mr. Trump’s A.I. czar until he left the White House early this year, ranked among the most enthusiastic.
+
+“Only President Trump could convene all the leaders of the top companies developing chips, data centers and frontier models for Super Intelligence,” Mr. Sacks wrote later on social media, adopting Mr. Trump’s term for the technology, an attempt to rebrand it to sound more powerful, yet more under human control.
+
+Mr. Sacks, who was sitting close to the center of the table for the luncheon that the president hosted for the A.I. leaders, said the agreement came down to one concept: that the frontier firms are “accepting responsibility for the safe development of their products and imposing new internal controls and external audits. This is far better than waiting years for some international agreement that would probably never happen.”
+
+It is not yet clear that the firms are truly accepting responsibility for A.I. agents that go rogue, hacking into systems or sending misleading messages. But OpenAI did terminate work in recent days on a new model — called GPT-6.1 Astra — when it showed high levels of what the company labels as deception, covering up its actions.
+
+“For anything regarding safety and alignment, there’s a trade-off,” Saachi Jain, the head of safety systems at OpenAI, said when the decision was announced.
+
+OpenAI decided to take the cautious route. Presumably, every one of its competitors is struggling with the same issue.
+
+On his second point — about how long it would take to secure international agreements — Mr. Sacks is undoubtedly right. When President Xi Jinping of China was in Washington last week for a state visit, the only concrete agreement on A.I. that emerged was a plan to convene experts from both countries — the two that dominate the field — to begin a conversation on mutual safety steps.
+
+That decision also had its roots in the Biden White House, which took about 18 months to get Beijing to agree on what seems like a pretty obvious baby step: a single sentence declaring that any decision to employ nuclear weapons should be made by humans, not by artificial intelligence.
+
+Mr. Xi built on that statement at the White House last week. Speaking in the Grand Foyer, he said that it was critical to “develop and manage A.I. for good and ensure that the development of A.I. is always under human control.” Mr. Trump has often repeated the first part, but he leaves out “under human control,” which worries those who fear the Pentagon is quickly moving toward fully autonomous weapons with weakened human oversight.
+
+Mr. Trump clearly does not want to talk about autonomous weapons, or dwell on the recent cases of A.I. gone wrong. Last week he was still calling revelations of miscreant A.I. agents a “HOAX” being exploited by his political opponents.
+
+On Tuesday, he dwelled at length on his effort to mandate use of the term “Super Intelligence,” as if changing the term will ameliorate the problem.
+
+“This is going to be all for the good, and we’re going to have it be nice and safe,” Mr. Trump said.
+
+While the accord was voluntary, he insisted, “it’s morally binding.”
+
+The executives who came to the lunch yesterday, many of whom are already taking the steps outlined in the voluntary accord, say they agree they have a moral responsibility to get this right. But as they have learned to their shock in recent months, the technology is not entirely under their control. Whether the accord is morally binding on the rogue A.I. agents is yet to be determined.
 
 ================================================================================
 ai-arms-race.html
@@ -4047,7 +4279,7 @@ She said that passengers had subdued the attacker and that a nurse and doctor on
 Asked how the passengers had stopped the attacker, Ms. Ohayon said, “I believe with their bare hands inside the cockpit.”
 
 
-real	0m1.441s
-user	0m1.756s
-sys	0m0.307s
+real	0m1.456s
+user	0m1.727s
+sys	0m0.339s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
