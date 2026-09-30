@@ -1,39 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.342s
-user	0m11.007s
-sys	0m0.873s
+real	0m5.770s
+user	0m10.419s
+sys	0m0.748s
 
 Build succeeded in 0.4s
 
-real	0m0.595s
-user	0m0.590s
-sys	0m0.145s
-Restore complete (0.5s)
+real	0m0.559s
+user	0m0.561s
+sys	0m0.128s
+Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.5s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.5s
 
-real	0m1.667s
-user	0m1.176s
-sys	0m0.275s
+real	0m1.624s
+user	0m1.165s
+sys	0m0.238s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (742ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (704ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 944ms
+  duration: 895ms
 
-real	0m2.098s
-user	0m2.470s
-sys	0m0.473s
+real	0m2.008s
+user	0m2.359s
+sys	0m0.443s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 8 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.333s
-user	0m0.198s
-sys	0m0.170s
+real	0m0.349s
+user	0m0.206s
+sys	0m0.169s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.420s
-user	0m1.415s
-sys	0m0.284s
+real	0m1.423s
+user	0m1.406s
+sys	0m0.288s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.443s
-user	0m1.418s
-sys	0m0.287s
+real	0m1.439s
+user	0m1.415s
+sys	0m0.296s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -289,6 +289,63 @@ https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html
 As part of a series marking 175 years of eyewitness journalism, Times Opinion asked writers to revisit previously published guest essays. In 2015, Ms. Sittenfeld wrote about marriage after the Supreme Court’s decision to legalize same-sex unions. Below, she annotates her original essay.
 
 Curtis Sittenfeld’s novels include “Romantic Comedy,” “Rodham” and “Prep.” You can listen to her divorce song playlist below.
+
+================================================================================
+jonathan-mckinsey-new-york-times-shooting-california.html
+Source: PreloadedData  Paragraphs: 19  Words: 932/939
+================================================================================
+
+SUMMARY
+
+A Bay Area couple have been accused of shooting and killing their son-in-law in a suburban sports park on Saturday afternoon, the local police said. The man, Jonathan McKinsey, 40, was found dead with multiple gunshot wounds around 3 p.m. in a parking lot at Dublin Sports Grounds, an athletic complex and playground in Dublin, Calif., about 35 miles east of downtown San Francisco, according to Dublin Police Services. Mr. McKinsey was a transgender man and accused his wife, Candice Jang, and his in-laws of abusing him because of his identity, according to his filing for a restraining order in December 2025.
+
+ARTICLE
+
+Couple Accused of Killing Their Son-in-Law in Bay Area Park
+Jonathan McKinsey, an engineer who worked in the games department for The New York Times, was fatally shot Saturday in a San Francisco suburb. The police have accused his parents-in-law, both 76.
+By Soumya Karlamangla and Amy Qin
+Published 2026-09-28 21:54 UTC
+https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html
+
+A Bay Area couple have been accused of shooting and killing their son-in-law in a suburban sports park on Saturday afternoon, the local police said.
+
+The man, Jonathan McKinsey, 40, was found dead with multiple gunshot wounds around 3 p.m. in a parking lot at Dublin Sports Grounds, an athletic complex and playground in Dublin, Calif., about 35 miles east of downtown San Francisco, according to Dublin Police Services.
+
+Mr. McKinsey was director of engineering for the games department of The New York Times, according to a company spokesman. Before Mr. McKinsey began working at The Times in 2023, he worked for several tech companies including Splunk, Coursera and Oracle, according to his LinkedIn profile.
+
+The authorities arrested Shouyong Zhang and Shili Chen, both 76, in the shooting. They are a married couple who live in Dublin and are the parents of Mr. McKinsey’s wife, the police said.
+
+No motive was described by the police for the shooting, but Mr. McKinsey and his wife had a turbulent marriage and were living separately, records show. Each had filed requests for domestic violence restraining orders against the other last year in Alameda County. Mr. McKinsey had also pleaded not guilty last year to two charges of misdemeanor child abuse.
+
+Mr. McKinsey was a transgender man and accused his wife, Candice Jang, and his in-laws of abusing him because of his identity, according to his filing for a restraining order in December 2025. He said his mother-in-law called him and one of his sons a “pervert” and a “monster” after the boy tried on dresses, and he accused his father-in-law of punching him in the chest while he was recovering from double mastectomy surgery in 2010.
+
+In her October 2025 filing, Ms. Jang said that Mr. McKinsey had grabbed her by the forearms during one argument and dropped her onto the corner of a table, fracturing vertebra in her upper back. Ms. Jang also accused Mr. McKinsey of emotionally abusing her mother.
+
+Efforts to reach Ms. Jang and her lawyer on Monday were unsuccessful.
+
+Assad Razawi, a resident of Dublin, said he was outside a grocery store near his car on Saturday at around 3 p.m. when he heard what sounded like five or six gunshots coming from the sports park across the street. When he looked over, he said he saw a man drop to the ground in the parking lot and another man and woman walking calmly away from the scene. The San Francisco Chronicle was first to report Mr. Razawi’s account.
+
+Around the same time, a Dublin police sergeant was driving by the park when he saw a man lying on the ground and stopped to investigate, the local police said. Emergency personnel began arriving after receiving 911 calls from people in the park about the shooting.
+
+Witnesses directed officers to two individuals standing nearby, whom police identified as Mr. Zhang and Ms. Chen. They are being held without the possibility of bail on suspicion of murder, and detectives are continuing to investigate. They also are being held on suspicion of willful discharge of a firearm with gross negligence; conspiracy; and child endangerment likely to produce great bodily injury or death. It was not clear which children the last booking charge pertained to.
+
+They are scheduled to be arraigned on Wednesday. It was unclear whether Mr. Zhang and Ms. Chen had legal representation.
+
+A report from the Dublin Police Services noted that on Oct. 17, 2025, an officer met with Ms. Jang, who said that her husband had struck their 6-year-old “in the face with an open hand.” When officers went to the residence to contact Mr. McKinsey, they discovered a 2-year-old child in an upstairs bedroom who had been left without supervision. The officers say that Mr. McKinsey had left the child alone for over an hour while he went shopping.
+
+Mr. McKinsey was later charged in Alameda County Superior Court with two misdemeanor counts of child abuse in connection with the separate incidents. He had pleaded not guilty to both charges and was released from jail on the condition that he complete 12 parenting classes. A pretrial hearing had been scheduled for next month.
+
+In December, Mr. McKinsey filed his own request for a temporary restraining order against his wife, citing years of domestic violence. According to his filing, his wife had recently been granted full custody of the children, and he feared for their safety. That same month, he filed for divorce.
+
+Mr. McKinsey said that he had been framed for the October incident in which the couple’s 2-year-old son was found alone. He said that Ms. Jang was responsible for the children during the workweek and that she had not told him before leaving that the child was sleeping in his crib upstairs. “She did this on purpose, to set me up,” he wrote.
+
+In his filing, he accused his wife of regularly abusing their children and neglecting to properly bathe and feed them.
+
+“When I protested about any of this, she threatened me with harm or said she would call the police and tell them I was hurting our children,” he said in the filing.
+
+He said that Ms. Jang had once hit him on the head with a frying pan and forced him to ingest a cockroach. He accused her, on another occasion, of striking him on the head with a mirror, which shattered as he tried to wrest it from her control and severed a tendon and nerve in his hand, requiring surgery and leaving him with a permanent loss of sensation in his thumb.
+
+Kitty Bennett and Georgia Gee contributed research. Coral Murphy Marcos contributed reporting from Hayward, Calif.
 
 ================================================================================
 john-husted-ohio-president-trump-midterms.html
@@ -587,6 +644,51 @@ The White House responded to a request for comment through the Defense Departmen
 “Our service members will remain undeterred and unfazed, and they will continue to ensure commercial vessels transit the strait safely,” the department’s spokeswoman, Kingsley Wilson, said in an email.
 
 Eric Schmitt contributed reporting.
+
+================================================================================
+tinned-fish-craze.html
+Source: PreloadedData  Paragraphs: 13  Words: 1022/1046
+================================================================================
+
+SUMMARY
+
+To eat tinned fish for innumerable days and nights in a row, as I have, is to undergo sensory overload. Yet even after the pandemic eased and consumers ditched their sweatpants, they kept buying tinned fish. You cannot fail at tinned fish!
+
+ARTICLE
+
+I No Longer Have to Make Life Decisions Thanks to My Infinite Tins of Fish
+Now I can’t even look at the word t*na.
+By Amy X. Wang
+Published 2026-09-29 09:01 UTC
+https://www.nytimes.com/2026/09/29/magazine/tinned-fish-craze.html
+
+To eat tinned fish for innumerable days and nights in a row, as I have, is to undergo sensory overload. There’s the jiggly tofu silhouette encasing the tender crack-crunch of vertebrae, the briny aroma about as subtle as a house on fire. Salt-slick density melting on the tongue to umami mush.
+
+Like many of our cleverest inventions — duct tape, computers, hair spray — this came out of a war. In the late 1700s, France was troubled by costly military skirmishes and offered a cash prize to citizens who could figure out how to cheaply prevent food from spoiling. An enterprising man named Nicolas Appert sealed cooked fish into glass jars and boiled them, eventually winning 12,000 francs and the kudos of Napoleon Bonaparte. Later, in Britain, the merchant Peter Durand swapped Appert’s jars for tin-plated cans. Fast-forward 200 years and now we’re all swimming happily in a $15 billion global market of shelf-stable seafoods that can last for years and years.
+
+But what drove the ichthyic pioneers of the 19th century were matters of practicality; I do not think Appert and Durand would easily understand how, today, tinned fish is as much a sensible grocery item as it is a status symbol, a viral “hot girl food,” a borderline luxury good. I think it would probably take a long time to explain to the two of them why you can buy limited-edition tinned fish at concerts and why there is coveted merch for sale about tinned fish and why a store exists in New York City called the Fantastic World of the Portuguese Sardine where a single-serving tin of said fantastic sardine can cost $44.
+
+I think if you tried to tell them about “sardinemaxxing,” they would be confused.
+
+I’m confused, myself.
+
+Because $44 feels like a small price to pay for a sociological education, I spent some weeks recently sampling as much of this genre as I could. I ate not just sardines but also smoked salmon marinated in chili oil, small-batch mussels in sweet pepper and garlic, various types of trout, anchovies and an enormous amount of t*** — so much t*** that I refuse to look at the word anymore and you cannot make me spell it out — and what I learned is that most of it tastes kind of just … OK?
+
+The genesis of the modern tinned-fish fervor was the Covid-19 lockdown. During that time, otherwise rational human beings suddenly dropped unspeakable amounts of cash on rare plants, industrial kitchen gadgets, “loungewear” and, yes, $10-to-$80-a-pop artisanal preserved fish meats in whimsical boxes. (What’s that saying about shooting fish in a barrel?) The year 2020 birthed not one but two buzzy direct-to-consumer tinned-fish start-ups, one of which became a hit on (what else) “Shark Tank.” Yet even after the pandemic eased and consumers ditched their sweatpants, they kept buying tinned fish.
+
+One theory I’ve heard about the lasting craze is that it’s a way to feel the thrill of travel without needing to go anywhere; getting anchovies shipped in from popular tourist destinations like Portugal and Spain can stand in for the time-intensive experience of traversing Portugal or Spain. I’ve also read that tinned fish feeds right into health and wellness zeal, that it scratches the paranoid, conspiracy-minded itch for “bunker food” and that it might simply be about affordability — epicurean brands aside, you can get a supermarket can for $2 or $3 — which would take tinned fish all the way back to its roots as a balm in a time of financial crisis.
+
+Credible arguments, to be sure. But as I “made dinner” after work every night, i.e. nibbled t*** straight out of the package like a raccoon (tinned-fish cookbooks do exist, but if you are someone who enjoys defaulting to the lowest common denominator of effort available, you, too, might be a secret raccoon), a different idea occurred to me.
+
+My prefabricated meals were immensely satisfying not because they were convenient or cheap or hyperefficient panaceas to hunger — although they were all those things — but because they were entirely impossible to mess up. You cannot fail at tinned fish! Slap it onto a cracker, if you’re too dignified to self-spoon-feed the way I do. Scramble it into a broader vision like a pasta or a sandwich if you must. But you can never go wrong with the cookery here the way you definitely can with, say, raw fish. This certitude is a great pleasure. This is the bone-deep comfort and joy of having life’s weighty demands taken care of, of having everything planned out by somebody else. Here you go, decisions ready made. Eating tinned fish feels like being handed a scrunched paper bag on your way out the door by a warm, authoritative, parental hand — which of course you deserve.
+
+Adult Lunchables are already everywhere in this world. Sophisticate versions of juvenile favorites include: tropical cocktails (grown-up Capri-Suns), burrata (string cheese), any dessert (candy wearing pants), smoothies (basically actual baby food). Tinned fish is a funny one, though, because no kid would actually choose to eat tinned fish. It’s an acquired taste, funky and fusty and a little bit offensive, merely presented in a kid way. And so in that way it’s maybe more like whatever’s going on with all these bows on adult women’s clothing.
+
+Right around the time of my piscivore experiment, Fishwife, the “Shark Tank” direct-to-consumer darling, launched a limited-run summer niçoise salad in collaboration with the national chain Sweetgreen. A friend and I were both curious to try this ingenious branding bonanza — but by the time we got around to putting a date into our busy calendars, the collaboration had ended.
+
+So we gathered the ingredients posted to the company’s website and assembled the dish ourselves. I spent far too long roasting the recipe’s “peak-season vegetables” and chopping three types of greens and hard-boiling the eggs, only to realize the eggs were supposed to be “jammy soft-boiled.” Neither of us remembered to bring “crispy onions, for topping.” We looked at each other, two 30-somethings eating our effortful, lukewarm, half-correctly assembled salads, and figured that next time, we should probably just go to a restaurant.
+
+Amy X. Wang is a story editor for the magazine. Her work explores the ways in which money and consumerism shape modern life.
 
 ================================================================================
 nyc-second-home-tax-lawsuit.html
@@ -3380,6 +3482,55 @@ Leading the Future is not hurting for cash. It accepted $50 million from the ven
 Cade Metz and Sri Muppidi contributed reporting.
 
 ================================================================================
+amputee-wrong-leg-lawsuit-ohio.html
+Source: PreloadedData  Paragraphs: 15  Words: 440/442
+================================================================================
+
+SUMMARY
+
+An Ohio woman filed a lawsuit accusing a hospital and her doctors of amputating the wrong leg during an operation last year. The woman, Sharon Jacks, of Meigs County, Ohio, said her original surgery was intended for her right leg. Instead, her left leg was amputated at Selby General Hospital in September 2025, according to the lawsuit, which was filed this month in Washington County Court in Marietta, Ohio, where the hospital is based.
+
+ARTICLE
+
+Ohio Woman Sues Hospital After Wrong Leg Is Amputated
+Sharon Jacks, 74, said she went into surgery for the amputation of her lower right leg last year, but her left leg was removed instead. She has accused Selby General Hospital of negligence.
+By Johnny Diaz
+Published 2026-09-29 21:32 UTC
+https://www.nytimes.com/2026/09/29/us/amputee-wrong-leg-lawsuit-ohio.html
+
+An Ohio woman filed a lawsuit accusing a hospital and her doctors of amputating the wrong leg during an operation last year. The 74-year-old woman is now a double amputee after the correct surgery was later performed at another facility.
+
+The woman, Sharon Jacks, of Meigs County, Ohio, said her original surgery was intended for her right leg. Instead, her left leg was amputated at Selby General Hospital in September 2025, according to the lawsuit, which was filed this month in Washington County Court in Marietta, Ohio, where the hospital is based.
+
+Ms. Jacks filed the lawsuit with her husband, Dannie. It accuses nine defendants, including the hospital and Ms. Jacks’s medical and surgical teams, of gross negligence, battery and reckless conduct.
+
+She underwent the correct operation on her right leg four months later at another hospital in Ohio, her lawyer, Brad Layne, said in a statement on Tuesday.
+
+Ms. Jacks has “suffered physical injury, permanent disability, pain and suffering, emotional distress, humiliation, loss of enjoyment of life, medical expenses and other damages,” according to the 32-page complaint.
+
+“The conduct of defendants demonstrated a conscious disregard of fundamental safety principles universally recognized within the medical profession,” it added.
+
+On Sept. 19, 2025, Ms. Jacks agreed to have her lower right leg amputated after her doctor recommended the procedure as part of a treatment plan for a diagnosis of squamous cell carcinoma, a type of skin cancer, Mr. Layne said.
+
+Ms. Jacks “consented only to surgery involving her right lower extremity,” the lawsuit said, noting she “never consented to amputation of her left lower extremity.”
+
+Mr. Layne said that standard operating procedure requires a surgical team to take “surgical time outs” to verify that they are performing the right procedure in the right place on the right patient “before proceeding with surgery.”
+
+Though medical records stated that “two time outs” had taken place, “the surgical team still amputated the wrong leg,” Mr. Layne added.
+
+“The performance of surgery upon the wrong extremity constituted a complete failure of basic safety procedures,” the lawsuit says.
+
+Selby General Hospital, part of the Memorial Health System in Ohio and West Virginia, did not respond to requests for comment on Tuesday. In a statement to WBNS-TV of Columbus, the hospital acknowledged mistakes and said “our expected operating room procedures were not followed.”
+
+The statement added the medical workers who were involved in the surgery are “no longer in their positions.”
+
+“We are saddened by what occurred, and our team continues to keep this patient and their family in our prayers,” the hospital’s statement said.
+
+Ms. Jacks is requesting unspecified punitive and compensatory damages, her lawyer said.
+
+Alain Delaquérière contributed research.
+
+================================================================================
 california-governor-race-debate-becerra-hilton.html
 Source: PreloadedData  Paragraphs: 22  Words: 842/842
 ================================================================================
@@ -4191,6 +4342,105 @@ When they were finished, one reached into her pocket and pulled out a small mirr
 Then one smiled and handed me back my notebook.
 
 ================================================================================
+protein.html
+Source: RenderedHtml  Paragraphs: 36  Words: 1351
+================================================================================
+
+SUMMARY
+
+We are living in an era of protein hype. A doughnut with 10 grams of protein is still a doughnut. Peak protein may not last forever.
+
+ARTICLE
+
+Have We Reached Peak PROTEIN?
+Protein is everywhere — in chips, candy, cookies, even water. Does that make these products healthy?
+By Margot Sanger-Katz and Larry Buchanan
+Published 2026-09-28 09:05 UTC
+https://www.nytimes.com/interactive/2026/09/28/upshot/protein.html
+
+In our age of protein, there are now protein candies and cookies:
+
+There’s protein coffee and protein water:
+
+And protein chips and crackers:
+
+New food start-ups have proliferated:
+
+While legacy brands have revamped their most famous offerings:
+
+We are living in an era of protein hype. The macronutrient has become a focus of trendy weight-loss advice. It’s an obsession of weight lifters and longevity biohackers. Doctors have been advising higher protein consumption for patients taking GLP-1 weight loss drugs. And the government’s new dietary guidelines, released last year, boosted the levels of recommended protein by more than 50 percent. The guidelines tell Americans to “prioritize protein foods at every meal.”
+
+The food industry, naturally, has caught on to this nutritional trend. Yogurt and cheese are now being positioned as high-protein foods, which they always have been. Prepackaged salami snacks are called “protein packs.”
+
+But protein is also finding its way into foods that haven’t traditionally contained much of it. You can find protein tortilla chips, granolas, baby food, pudding — even ranch dressing.
+
+Over one week, reporters and editors at The Upshot were asked to snap photos of protein marketing in foods they came across in their daily lives. The folder of images grew rapidly. The protein foods are in bodegas, gas stations, grocery stores, warehouse clubs, coffee shops and chain restaurants.
+
+The trend has puzzled many nutritionists, including experts involved in developing the new protein-enhanced nutritional guidelines.
+
+“A snack food is an indulgent food, and people need to understand it that way,” said Donald Layman, an emeritus professor at the University of Illinois Urbana-Champaign who helped inform the protein chapter for the guidelines. He said protein-packed chips and cupcakes are “a bad choice.” A doughnut with 10 grams of protein is still a doughnut.
+
+The guidelines advise Americans to eat less processed food and to focus on foods that are naturally high in protein, including dairy, meat, nuts and beans. Protein added to processed snack foods is not the same thing, he said.
+
+“I refer to it as fairy dust,” Professor Layman said. “Fairy dusting over products that don’t need to have protein in them is useless.”
+
+(We neglected to ask him about his views on several protein-infused vodkas, including one that claims it is “crafted for the wellness-minded and fitness-forward.”)
+
+Protein bars, powders and shakes have been around for a while; they long ago broke out from bodybuilding to the mainstream. They now occupy an expanding share of real estate in grocery stores and gas station convenience stores — in many cases, entire aisles.
+
+But there are now also protein versions of everything else, with a range of claims. Sources of protein and good sources of protein. High PROTEIN, PROTEIN-packed, and sometimes just “PRO.” It is almost always in all caps, and often in the product’s name.
+
+And there are snack categories that appear to exist primarily in the protein universe, like sticks and balls.
+
+Even white-label supermarket brands now offer protein foods.
+
+“If you're not evolving and the consumer is, you’re dead in the water,” said Bonnie Herzog, an equity analyst at Goldman Sachs, who tracks the food and beverage industry. Ms. Herzog, a vegan, said her social media feed was filled with advice to eat more protein and tips on how to do it.
+
+NIQ, which collects detailed data on retail food sales, counts 37,232 products in stores carrying front-of-package protein claims.
+
+It has measured around $90 billion in consumer spending on these products over the last year, including more than $2 billion on protein pizzas and $35 million on protein toaster pastries. (Yes, Protein Pop-Tarts exist.)
+
+“You’ve got the claims sneaking into categories that don’t make a lot of sense,” said Chris Costagli, a vice president at NIQ, who monitors the food and beverage industries. “All of a sudden, you’ve got people that are buying the product just because they see the word.”
+
+Whey, the milk-based protein that is the key ingredient in most protein powders, bars and even ice creams, was once considered a waste product of cheese production. It is now in such demand that prices have doubled in the last five years, according to Ever.Ag, an agricultural risk management firm that closely tracks prices in the dairy industry.
+
+“There were a lot of questions over the last few months of are we at the jump-the-shark moment with some of these new products,” said Kathleen Wolfley, the company’s vice president for insights.
+
+But, she said, “we continue to see further innovation in this marketplace.” She also noted that the protein bonanza had been great news for struggling cheesemakers.
+
+Nearly 90 percent of Americans already get enough protein, according to a recent analysis from the U.S. Department of Agriculture. (If you’re curious how much you should be getting, here’s a calculator.) But consumers still seem hungry for more.
+
+Sales of protein-packed breakfast cereals and granola have increased by 15 percent over the last year, according to NIQ. They are often paired with ultrafiltered high-protein milks. (It is those filtered milks that are used to make the protein foams at your local coffee shop.)
+
+Tortilla chips with protein are also selling at a steady clip, driving PepsiCo’s new launch of Protein Doritos, located on a supermarket endcap near you:
+
+Do protein Doritos taste good? Matt Rosenman, a graphic designer who makes social media content examining food marketing and health, said he had tried nearly all the protein snacks, including tortilla chips that were close to inedible. His verdict on protein Doritos was more positive: “Slightly worse version of Doritos, but they are pretty close.”
+
+In videos, Mr. Rosenman shows some of the common tricks food companies use to make junk foods look like responsible choices. Neutral colors and pictures of farms and mountains signify healthy products. Unregulated words like “plant-based” and “natural” help give foods a virtuous halo. But as the protein arms race has intensified, these subtle techniques have faded. Font size has come to dominate protein claims.
+
+With ubiquitous giant bubbles, companies emphasize protein content, sometimes even when products don’t offer much of it. The Food and Drug Administration, which regulates health claims on foods, has relatively lax rules about how brands use the word “protein” on the front of their packages. While there are rules about claiming a product has “high protein” or is a “good source,” vaguer claims in product names and giant bubbles are almost always unregulated.
+
+“It works, and it works for me,” Mr. Rosenman said. “I saw the giant word ‘protein’ and it stopped me in my tracks.”
+
+Doritos itself is a useful case study. The brightly packaged chips have been around since the 1960s, with reformulations for nearly every major diet trend. The original Doritos emphasized that they were tasty with dips. But nutrition claims started showing up in the 1970s, with the information they contained “no preservatives!”
+
+Since then, there have been versions marketed as cholesterol free, less oil,
+
+Low calorie, low carbohydrate,
+
+“Light” and “naked of dyes.”
+
+Of course, you can protein-max by cooking your own food. There are endless TikToks and Instagram Reels about how to consume more than 150 grams of protein a day, often by sneaking chicken breasts and cottage cheese into just about every meal. (Cottage cheese fatigue has become such an issue that there is now a subcategory of videos on how to make high-protein meals without it.)
+
+But junk food is more fun.
+
+Dariush Mozaffarian, a cardiologist who directs the Food Is Medicine Institute at Tufts University, compared protein chips and protein brownies to SnackWell’s Cookies of yore — products that are no healthier than the highly processed foods they replaced, but sheathed in a patina of virtue.
+
+“It’s a bizarre trend, and not supported by the science,” he said.
+
+As Doritos teaches, nutritional fads come and go. Peak protein may not last forever. (Several industry experts casually mentioned that fiber may be the next big thing.) Around 70 years ago, food scientists at what was then the Kellogg Company teamed with researchers at the Harvard School of Public Health to develop a new cereal, called Special K. Its main selling point? PROTEIN!
+
+================================================================================
 dubai-flight-tel-aviv-israel-pilots.html
 Source: RenderedHtml  Paragraphs: 62  Words: 2418
 ================================================================================
@@ -4352,7 +4602,7 @@ She said that passengers had subdued the attacker and that a nurse and doctor on
 Asked how the passengers had stopped the attacker, Ms. Ohayon said, “I believe with their bare hands inside the cockpit.”
 
 
-real	0m1.561s
-user	0m2.068s
-sys	0m0.336s
+real	0m1.529s
+user	0m1.937s
+sys	0m0.353s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
