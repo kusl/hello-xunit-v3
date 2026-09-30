@@ -1,0 +1,50 @@
+================================================================================
+china-ai-deepseek-huawei.html
+Source: PreloadedData  Paragraphs: 16  Words: 580/585
+================================================================================
+
+SUMMARY
+
+In China’s latest push to reduce its dependence on American artificial intelligence technology, DeepSeek, one of the country’s leading A.I. companies, announced Wednesday that it had developed software tools for chips made by Huawei Technologies. The partnership targets one of the biggest obstacles to China’s ambitions to build a homegrown A.I. industry — software that can extract the best performance from its chips. And Huawei has become a corporate linchpin of Beijing’s drive to develop a domestic alternative to the American chips, computing systems and software that underpin much of the global A.I. industry.
+
+ARTICLE
+
+Leading Chinese Tech Firms Target Nvidia’s A.I. Dominance
+In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.
+By Steve Lohr
+Published 2026-09-30 10:41 UTC
+https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html
+
+In China’s latest push to reduce its dependence on American artificial intelligence technology, DeepSeek, one of the country’s leading A.I. companies, announced Wednesday that it had developed software tools for chips made by Huawei Technologies.
+
+The partnership targets one of the biggest obstacles to China’s ambitions to build a homegrown A.I. industry — software that can extract the best performance from its chips.
+
+Advanced semiconductors alone are not enough to power A.I. systems. Computer hardware and chip-level software must work together for artificial intelligence to do anything useful, from training frontier models to developing applications that companies and consumers use daily.
+
+That software can also be a powerful competitive weapon and moat against rivals trying to make inroads.
+
+Though China is catching up, Silicon Valley companies remain leaders in A.I. technology, with Nvidia, whose chips power the most advanced A.I. systems, at the forefront. Nvidia’s semiconductor designs are the most advanced in the world. But its dominance rests on more than chips. The company also benefits from having an estimated four million software developers worldwide who use CUDA, a software platform for Nvidia chips.
+
+In an announcement Wednesday on its official WeChat site, DeepSeek presented its work with Huawei as a potential alternative to CUDA. To build a successful A.I. ecosystem, specialized software must be a “universal, easy-to-program language that can also reach the upper limit of hardware performance,” DeepSeek said.
+
+DeepSeek said its programming language, TileLang, was designed to meet that challenge, offering “a simpler programming model” than Nvidia’s CUDA. Programming languages are how humans — and more recently A.I. systems — instruct computers to do things.
+
+The company said the version of TileLang it designed for Huawei’s A.I. chips was open source, meaning freely available for others to use and modify. DeepSeek said it tested the programming language on older Nvidia chips and now uses TileLang as the “core tool” for working on artificial general intelligence, systems that will match or exceed human intelligence in all tasks.
+
+The partnership brings together two companies playing central but different roles in China’s efforts to narrow the A.I. technology gap with the United States.
+
+DeepSeek has emerged as one of China’s most prominent developers of A.I. models. And Huawei has become a corporate linchpin of Beijing’s drive to develop a domestic alternative to the American chips, computing systems and software that underpin much of the global A.I. industry.
+
+China’s advances in A.I. software models, led by companies including Z.ai and Moonshot AI, have so far outpaced progress by its domestic chip makers. Huawei is trying to close that gap.
+
+At a company event in Shanghai this month, Huawei announced plans for larger, more powerful A.I. computing systems and new generations of its flagship Ascend chips in 2028 and 2029.
+
+Huawei executives also said the company could not meet China’s demand for A.I. chips and related equipment and planned to restrict overseas sales as it prioritized its domestic market.
+
+The company made clear that American export controls have added urgency to China’s drive for technological self-sufficiency. Those restrictions have limited Chinese companies’ access to Nvidia’s most advanced chips as well as sophisticated equipment needed to manufacture cutting-edge semiconductors.
+
+“We cannot accept a destiny where we cannot control our fate,” Eric Xu, Huawei’s current chairman, said at the conference. Or have that fate “being determined by others in terms of willingness to sell chips to China or not.”
+
+Huawei uses an unusual management system in which senior executives rotate through the chairman’s position for six-month stints.
+
+Xinyun Wu and Amy Chang Chien contributed research from Taipei.

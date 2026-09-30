@@ -1,0 +1,118 @@
+================================================================================
+ai-arms-race.html
+Source: PreloadedData  Paragraphs: 48  Words: 1766/1766
+================================================================================
+
+SUMMARY
+
+The United States and the Soviet Union were jockeying desperately for advantage during the Cold War arms race. With shared information, “Because OpenAI knows that they’re going to get caught speeding up, that Anthropic is going to speed up in response, that they’re going to start an arms race or an A.I. race — that itself can stop them from racing past the safety threshold,” Professor Koh said. The voluntary agreement signed this week may help the leading U.S. companies agree on where the safety threshold is, and whether existing capabilities have crossed it already, he said.
+
+ARTICLE
+
+A Way Out of the A.I. Arms Race?
+New research points to how the world could stop short of the brink of disaster. Even with the agreement signed at the White House by tech leaders, it won’t be easy.
+By Amanda Taub
+Published 2026-09-30 09:04 UTC
+https://www.nytimes.com/2026/09/30/world/europe/ai-arms-race.html
+
+Over the course of two harrowing weeks in October 1962, the world came within an eyelash of nuclear Armageddon.
+
+The United States and the Soviet Union were jockeying desperately for advantage during the Cold War arms race. After the United States stationed intermediate-range nuclear missiles in Italy and Turkey, the Soviets, fearing a first strike, sought to station their own nuclear weapons in Cuba. The tense two-week standoff that ensued, the Cuban Missile Crisis, nearly escalated into nuclear war.
+
+But it didn’t. Not only did the parties step back from the brink, the crisis proved to be a turning point in the Cold War itself.
+
+That brush with calamity changed the thinking of leaders on both sides, said William Wohlforth, a political scientist at Dartmouth who studies national security and international relations. “Right away we got the hotline agreement, so we could talk to each other. We began to work toward the testing agreement. And slowly, in the subsequent years we got a big, complex bilateral arms-control process.”
+
+The United States and the Soviet Union remained bitter enemies. But on one point of shared interest — not obliterating humanity — they could work together.
+
+Today experts in the artificial intelligence industry are sounding alarms that A.I. companies, and the countries where they are based, are locked in their own kind of arms race. The consequences, many believe, could be as disastrous as the nuclear war that President John F. Kennedy and the Soviet leader, Nikita Khrushchev, narrowly avoided.
+
+There are important differences, of course. Artificial intelligence models are not atomic bombs, even if they can be turned to military uses. Catastrophic A.I. risks remain seemingly more speculative than the specter of nuclear war was in the 1960s. And companies seeking a market advantage are not the same as superpowers fighting for global supremacy, even if the United States and China are vying for the upper hand of the new technology and the broad global advantages it could bring.
+
+But at its core, the A.I. competition points to the same question that loomed over the Cold War: How can adversaries cooperate on keeping the world safe, even as they compete for economic and geopolitical dominance?
+
+A new working paper by Drew Fudenberg, an economics professor at M.I.T. who is a leading game theorist, and Andrew Koh, an economics professor at Columbia University and a research scientist at Google DeepMind, suggests a possible way to slow the A.I. arms race to a safer pace.
+
+It would require the players in the competition, both companies and governments, to share good information about their advances, and to agree on where danger actually begins.
+
+Despite the voluntary agreement signed by tech leaders at the White House on Tuesday, neither condition is currently being met, and the number and variety of players may make it challenging to do so. But the paper suggests what could be possible.
+
+The Safety Game
+
+Professors Koh and Fudenberg start from a simple premise: Everyone has an interest in averting catastrophe, no matter how self-interested they may be.
+
+At the same time, they argue, the major players in the A.I. industry are under strong incentives to compete for dominance. The companies want the market share and billions of investment dollars that the most advanced models will bring. Governments want the economic benefits of A.I. and also access to advanced models for their own purposes.
+
+Those competitive pressures spur the players to race dangerously toward the brink of disaster, where many worry that rogue A.I. agents could, for instance, bring down government or financial systems, sabotage vital infrastructure or launch a biological attack.
+
+Professors Koh and Fudenberg suggest that if the competitors were to share information — on their technological progress and how close they are to the edge of the safety frontier — those incentives would change.
+
+If the players, including companies like OpenAI and Anthropic, can see that no one is racing into dangerous territory, they will have less motivation to do so themselves, the paper reasons.
+
+Conversely, players will also know that if they do race into danger, their competitors will see and likely do the same, creating an intolerable level of risk for everyone.
+
+With shared information, “Because OpenAI knows that they’re going to get caught speeding up, that Anthropic is going to speed up in response, that they’re going to start an arms race or an A.I. race — that itself can stop them from racing past the safety threshold,” Professor Koh said.
+
+He compared the scenario to “second strike” capabilities during the Cold War. Both the United States and the Soviet Union built weapons that would allow them to strike back in the event of a nuclear attack.
+
+“One reason to not attack first is that I know that if my opponent has a second strike capability, we are just going to destroy the world,” Professor Koh said. “And that itself would have prevented first strikes.”
+
+The same logic, he says, could hold true for A.I.
+
+To Trust, Verify
+
+Right now, that sharing is not happening.
+
+Companies like Anthropic and OpenAI develop their most advanced A.I. models behind closed doors, so the companies must guess at each other’s progress. But if the companies accepted outside monitors who could disclose vital safety and progress information, that would help establish trust. There is already evidence that some of the biggest players in A.I. would be willing to go that route.
+
+Dario Amodei, the chief executive of Anthropic, called in a recent essay for A.I. companies to accept embedded independent safety monitors, and said his company would unilaterally agree to do so.
+
+“Dario is right,” Elon Musk, who runs an A.I. venture within his company SpaceX, wrote on X in response to Mr. Amodei’s essay. Sam Altman, the chief executive of OpenAI, did the same.
+
+Chinese companies have not supported the plan, but there are signs that they, too, are starting to take the need for outside monitoring seriously, said Jeffrey Ding, a political scientist at George Washington University who researches U.S.-Chinese competition around emerging technology.
+
+For example, Moonshot, a Chinese company, recently submitted a new model to the United Kingdom’s A.I. Security Institute for review.
+
+At the moment, that kind of safety vetting is voluntary and inconsistent, but it could be systematized.
+
+Such a regime would potentially be similar to arms control treaties that included monitoring and inspection requirements to ensure compliance.
+
+But there are important questions about whether governments themselves would embrace it and, short of that, whether voluntary self-policing by a small group of entrepreneurs and their investors with billions on the line would be stable and transparent enough to ensure safety.
+
+Mr. Trump wants a hands-off approach by the government. Among those he convened at the White House on Tuesday were Mr. Amodei, as well as the leaders of Google, Meta, Nvidia, OpenAI and SpaceXAI.
+
+The agreement they signed expressed support for third-party monitoring of risks, but it did not appear to impose any concrete obligations. Mr. Trump said he thought the agreement would be “morally binding.”
+
+“And they’re really going to be policing each other,” Mr. Trump said, “and that’s the way it works.”
+
+Though a step in the right direction, Professor Koh said the agreement is unlikely to solve the current incentives problem. It does not include transparency about companies’ internal capabilities and leaves open the question of U.S.-China competition.
+
+The Blurry Brink
+
+In the Cold War, the danger of nuclear weapons was clear and concrete. The world had seen their terrifying power in Hiroshima and Nagasaki. There was no doubt that the superpowers could eliminate any city at the touch of a button — potentially touching off a war that could end life on earth.
+
+For the moment, A.I. isn’t like that, and not all agree on where the brink of catastrophe actually lies. A.I. doomsday scenarios seem the stuff of science fiction to many.
+
+Even for experts, developers and policymakers there is wide disagreement on the risks and how fast they are approaching. That matters, because those who believe the danger threshold is far away lack incentive to slow down, even if there is sharing of information.
+
+Some employees of leading A.I. companies argue that the technology has a significant chance of killing all humans within the next decade.
+
+Others tend to see the risks as coming from negligence and ineptitude by A.I. companies, and a failure of other industries to harden their defenses against A.I.-powered tools.
+
+Then there are the A.I. evangelists, President Trump among them. Those who are calling for guardrails, he said, are “bringing up things that won’t happen.” He has made clear that he considers A.I. a winner-take-all game.
+
+Mr. Trump’s own motivations are not exactly the stuff of Cold War realpolitik. They have variously been reported as a desire for American dominance, keeping the stock market and economy afloat as an election approaches and enriching his family’s investment portfolio.
+
+All of those things add an extra layer of unpredictability, as does the Chinese government’s stance.
+
+Beijing is unlikely to agree to any monitoring regime that threatens its ability to catch up to the United States, which it currently trails in A.I. technology. For now, Mr. Ding said, it seems to see A.I. risks primarily through the lens of Communist Party control — maintaining the censorship regime — while defending against hostile forces like the United States and encouraging economic growth.
+
+This range of disagreement over the A.I. threat poses a problem for coordination on safety, Professor Koh said. The voluntary agreement signed this week may help the leading U.S. companies agree on where the safety threshold is, and whether existing capabilities have crossed it already, he said. But it is nonbinding and limited to just a few companies.
+
+The only way to get more agreement may be to encounter unambiguous lessons of the risks, he said. That, after all, is what happened when the Cuban Missile Crisis drove home the real risk of a nuclear holocaust.
+
+But the secrecy around the industry continues to obscure lessons of the potential dangers. The recent revelation that OpenAI agents hacked Australian government servers was made public only this month though the breach happened in June.
+
+The race continued all the while, with companies making unknown improvements to their agents’ skills and intelligence, and heightening fears that the agents could become self-interested players themselves.
+
+If that happens, “the models will likely convince people that everything is fine,” Daniel Selsam, an OpenAI researcher, wrote in a recent essay. “Moreover, they will eloquently explain how aligned they are, discuss the nuances of human values and ethics, and argue convincingly that humans should trust them with power.”

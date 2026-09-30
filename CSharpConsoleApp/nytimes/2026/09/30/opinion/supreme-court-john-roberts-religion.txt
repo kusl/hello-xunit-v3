@@ -1,0 +1,52 @@
+================================================================================
+supreme-court-john-roberts-religion.html
+Source: PreloadedData  Paragraphs: 15  Words: 1158/1235
+================================================================================
+
+SUMMARY
+
+Chief Justice John Roberts has accomplished so much of his agenda that it’s not easy, as he begins his 22nd Supreme Court term, to think of what unfinished business might remain. The plaintiffs’ basic argument was that under the analysis the Supreme Court applied in the secondary school tuition case from Maine, Colorado’s refusal to grant the exemption violated the First Amendment’s guarantee of the free exercise of religion. “This case is different,” the appeals court said.
+
+ARTICLE
+
+Religion Is the Roberts Court’s Unfinished Business
+This case has flown under the radar, but it won’t stay there.
+By Linda Greenhouse
+Published 2026-09-30 09:01 UTC
+https://www.nytimes.com/2026/09/30/opinion/supreme-court-john-roberts-religion.html
+
+Chief Justice John Roberts has accomplished so much of his agenda that it’s not easy, as he begins his 22nd Supreme Court term, to think of what unfinished business might remain.
+
+Affirmative action is dead. Roe v. Wade is a fading memory. The Voting Rights Act of 1965 is in shreds, rendered incapable of serving its original mission of preventing states from undermining the political power of minority citizens. The executive branch agencies known collectively as the administrative state have lost their independence, with the president now able to fire nearly all agency heads for any reason or no reason at all. Federal judges are no longer to defer to an agency’s interpretation of its own authority, instead being told to decide for themselves the validity of agency regulations. Historical claims that fly under the banner of “originalism” have frozen the government’s ability to regulate the ownership of lethal weapons.
+
+While it’s a daunting list, some readers might notice that I have omitted one major focus of the Roberts court. Doesn’t religion belong in any inventory of completed projects?
+
+Not yet.
+
+That may seem a startling conclusion, given how significantly the court over the past decade has reoriented the relationship between church and state — a recent law review article by three constitutional law scholars calls the shift “a systematic dismantling of the previous legal regime.” A series of decisions, most of which bear the chief justice’s name, has established the principle, without precedent in constitutional history, that whatever public benefit secular institutions get, religious institutions are entitled to as well. The first of these, in 2017, required Missouri to include a church’s school in a state program to resurface school playgrounds, despite a “no aid” provision in its Constitution that barred the state from giving money to churches. Exclusion of the church from the program, Chief Justice Roberts wrote, was “odious to our Constitution.”
+
+In 2022, the court declared unconstitutional Maine’s exclusion of religious schools from a program that subsidizes private school tuition for families in districts without a public secondary school. If the leap from preschool playgrounds to secondary school tuition seemed head-spinning, it was a leap the chief justice did not acknowledge in his opinion, Carson v. Makin. The principles of the first decision “suffice to resolve this case,” he wrote.
+
+That is a huge amount of ground for the Supreme Court to have traversed in a short time. More is on the way. In its new term that begins next week, the court will decide whether the equality principle these cases have established is enough, or whether religion is entitled not just to equality, but to preference, in this instance a carve out from the rules that constrain secular institutions. The case is from Colorado, where a state “universal preschool” program operating since 2023 offers free prekindergarten to all 4-year-olds. Families can choose any participating preschool, secular or religious, that meets the quality standards established at the direction of the legislature. One of the standards is a nondiscrimination requirement: In admitting students whose families apply, the school may not discriminate on the basis of “race, ethnicity, religious affiliation, sexual orientation, gender identity, lack of housing, income level or disability.” Some 2,000 public and private schools, including dozens of religious schools, take part in the program.
+
+For the Archdiocese of Denver, the sexual orientation and gender identity portions of the nondiscrimination provision posed a conflict. The archdiocese requires that parents who send their children to its schools accept the Roman Catholic Church’s teachings on marriage and family, asking them before enrollment to sign a statement of “community beliefs.” Same-sex and transgender parents need not apply. The archdiocese told its parishes not to participate in the program and requested an exemption from the two provisions. The state’s Department of Early Childhood replied that there was no option in state law for an exemption; every aspect of the nondiscrimination policy applied to all.
+
+Two parishes, St. Mary, in Littleton, and St. Bernadette, in Lakewood, sued the state, along with a husband and wife from Littleton who wanted a state-funded Catholic education for their children. (The archdiocese joined the lawsuit but was dismissed for lack of standing.) The plaintiffs’ basic argument was that under the analysis the Supreme Court applied in the secondary school tuition case from Maine, Colorado’s refusal to grant the exemption violated the First Amendment’s guarantee of the free exercise of religion. The Federal District Court in Denver, in a decision affirmed by the U.S. Court of Appeals for the 10th Circuit, disagreed.
+
+“This case is different,” the appeals court said. It explained that while the Maine case and the cases that preceded it concerned a public program’s actual exclusion of religious schools, Colorado has “welcomed and actively solicited their participation.” The court added: “The only relevant limitation on any preschool’s participation is the nondiscrimination requirement which applies to all preschools regardless of whether they are religious or secular.” It noted that the state was neither targeting religion nor “attempting to prohibit funds from being used for religious purposes.”
+
+The anodyne sound of that observation — that of course the state wasn’t preventing the direct use of public money for religious education — shouldn’t obscure the full dimension of the change the court has wrought in the constitutional law on religion. The notion that the First Amendment’s other religion clause, the prohibition against the “establishment” of religion, might have anything to say about this arrangement sounds now like the vestige of a distant past, so thorough has been the establishment clause’s erasure from constitutional notice.
+
+This case, St. Mary Catholic Parish v. Roy, puts to the justices the question of whether they are satisfied with what they have accomplished so far. Is equality enough? And if discrimination is an issue in the case, wherein does the discrimination lie?
+
+For the Becket Fund for Religious Liberty, the powerhouse religious law firm that brought this case to the Supreme Court, the question is clear. The news release it issued in April, when the court granted its petition, offered this account: “The Supreme Court today agreed to decide whether Colorado can continue excluding Catholic families and preschools from the state’s ‘universal’ preschool program because of their faith.” A tendentious framing, but well tailored to reach the ears of those justices primed to take an apocalyptic view of any seeming incursion on the interests of religious believers.
+
+A friend of the court brief filed on the state’s side by Marci Hamilton, a religion scholar known for opposition to the court’s current course, proposes this counter framing: “This court should not undermine Colorado’s commitment to equality by transforming religious freedom into a doctrine that mandates taxpayer-subsidized discrimination.”
+
+This case has flown under the radar in the months since the court granted the Becket Fund’s petition, but it won’t remain there as the Nov. 3 argument date approaches. Equality or preference? The choice is stark — and Chief Justice Roberts’s project, for now, remains unfinished.
+
+Linda Greenhouse, the recipient of a 1998 Pulitzer Prize, reported on the Supreme Court for The Times from 1978 to 2008.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

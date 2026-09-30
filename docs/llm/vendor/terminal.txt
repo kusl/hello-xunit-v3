@@ -1,34 +1,34 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.960s
-user	0m10.527s
-sys	0m0.823s
+real	0m6.074s
+user	0m10.561s
+sys	0m0.824s
 
 Build succeeded in 0.4s
 
-real	0m0.570s
-user	0m0.565s
-sys	0m0.130s
+real	0m0.567s
+user	0m0.582s
+sys	0m0.113s
 Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (3.0s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.4s
+Build succeeded in 4.2s
 
-real	0m1.568s
-user	0m1.151s
-sys	0m0.280s
+real	0m4.336s
+user	0m1.438s
+sys	0m0.272s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (1ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (2ms)
   from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
   Assert.Equal() Failure: Values differ
-  Expected: 29
-  Actual:   30
+  Expected: 42
+  Actual:   43
     at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
     at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
     at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (704ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (744ms)
 Exit code: 2
 
 Test run summary: Failed!
@@ -36,14 +36,14 @@ Test run summary: Failed!
   failed: 1
   succeeded: 216
   skipped: 0
-  duration: 886ms
+  duration: 938ms
 Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m2.008s
-user	0m2.323s
-sys	0m0.451s
+real	0m2.043s
+user	0m2.393s
+sys	0m0.408s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 3 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -73,9 +73,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.348s
-user	0m0.181s
-sys	0m0.185s
+real	0m0.309s
+user	0m0.187s
+sys	0m0.163s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -91,9 +91,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.376s
-user	0m1.340s
-sys	0m0.313s
+real	0m1.343s
+user	0m1.312s
+sys	0m0.278s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -105,9 +105,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.823s
-user	0m1.504s
-sys	0m0.330s
+real	0m1.715s
+user	0m1.447s
+sys	0m0.321s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -2648,8 +2648,1167 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 
 Constant Méheut contributed reporting.
 
+================================================================================
+china-ai-deepseek-huawei.html
+Source: PreloadedData  Paragraphs: 16  Words: 580/585
+================================================================================
 
-real	0m1.412s
-user	0m1.621s
-sys	0m0.257s
+SUMMARY
+
+In China’s latest push to reduce its dependence on American artificial intelligence technology, DeepSeek, one of the country’s leading A.I. companies, announced Wednesday that it had developed software tools for chips made by Huawei Technologies. The partnership targets one of the biggest obstacles to China’s ambitions to build a homegrown A.I. industry — software that can extract the best performance from its chips. And Huawei has become a corporate linchpin of Beijing’s drive to develop a domestic alternative to the American chips, computing systems and software that underpin much of the global A.I. industry.
+
+ARTICLE
+
+Leading Chinese Tech Firms Target Nvidia’s A.I. Dominance
+In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.
+By Steve Lohr
+Published 2026-09-30 10:41 UTC
+https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html
+
+In China’s latest push to reduce its dependence on American artificial intelligence technology, DeepSeek, one of the country’s leading A.I. companies, announced Wednesday that it had developed software tools for chips made by Huawei Technologies.
+
+The partnership targets one of the biggest obstacles to China’s ambitions to build a homegrown A.I. industry — software that can extract the best performance from its chips.
+
+Advanced semiconductors alone are not enough to power A.I. systems. Computer hardware and chip-level software must work together for artificial intelligence to do anything useful, from training frontier models to developing applications that companies and consumers use daily.
+
+That software can also be a powerful competitive weapon and moat against rivals trying to make inroads.
+
+Though China is catching up, Silicon Valley companies remain leaders in A.I. technology, with Nvidia, whose chips power the most advanced A.I. systems, at the forefront. Nvidia’s semiconductor designs are the most advanced in the world. But its dominance rests on more than chips. The company also benefits from having an estimated four million software developers worldwide who use CUDA, a software platform for Nvidia chips.
+
+In an announcement Wednesday on its official WeChat site, DeepSeek presented its work with Huawei as a potential alternative to CUDA. To build a successful A.I. ecosystem, specialized software must be a “universal, easy-to-program language that can also reach the upper limit of hardware performance,” DeepSeek said.
+
+DeepSeek said its programming language, TileLang, was designed to meet that challenge, offering “a simpler programming model” than Nvidia’s CUDA. Programming languages are how humans — and more recently A.I. systems — instruct computers to do things.
+
+The company said the version of TileLang it designed for Huawei’s A.I. chips was open source, meaning freely available for others to use and modify. DeepSeek said it tested the programming language on older Nvidia chips and now uses TileLang as the “core tool” for working on artificial general intelligence, systems that will match or exceed human intelligence in all tasks.
+
+The partnership brings together two companies playing central but different roles in China’s efforts to narrow the A.I. technology gap with the United States.
+
+DeepSeek has emerged as one of China’s most prominent developers of A.I. models. And Huawei has become a corporate linchpin of Beijing’s drive to develop a domestic alternative to the American chips, computing systems and software that underpin much of the global A.I. industry.
+
+China’s advances in A.I. software models, led by companies including Z.ai and Moonshot AI, have so far outpaced progress by its domestic chip makers. Huawei is trying to close that gap.
+
+At a company event in Shanghai this month, Huawei announced plans for larger, more powerful A.I. computing systems and new generations of its flagship Ascend chips in 2028 and 2029.
+
+Huawei executives also said the company could not meet China’s demand for A.I. chips and related equipment and planned to restrict overseas sales as it prioritized its domestic market.
+
+The company made clear that American export controls have added urgency to China’s drive for technological self-sufficiency. Those restrictions have limited Chinese companies’ access to Nvidia’s most advanced chips as well as sophisticated equipment needed to manufacture cutting-edge semiconductors.
+
+“We cannot accept a destiny where we cannot control our fate,” Eric Xu, Huawei’s current chairman, said at the conference. Or have that fate “being determined by others in terms of willingness to sell chips to China or not.”
+
+Huawei uses an unusual management system in which senior executives rotate through the chairman’s position for six-month stints.
+
+Xinyun Wu and Amy Chang Chien contributed research from Taipei.
+
+================================================================================
+inflation-pce-interest-rates.html
+Source: PreloadedData  Paragraphs: 40  Words: 1963/1964
+================================================================================
+
+SUMMARY
+
+Andrew here, back from D.C. The White House meeting between tech leaders and President Trump drew some skepticism over its voluntary self-policing pact — and fairly so. But rising fuel prices and borrowing costs have consumers and business owners feeling increasingly gloomy. Artificial intelligence agents are the hottest new product category in Silicon Valley — and increasingly a big business.
+
+ARTICLE
+
+Bracing for More Inflation Volatility
+Consumers, business owners and investors are growing increasingly concerned about rising inflation, and its potential repercussions.
+By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount
+Published 2026-09-30 11:45 UTC
+https://www.nytimes.com/2026/09/30/business/dealbook/inflation-pce-interest-rates.html
+
+Andrew here, back from D.C. The White House meeting between tech leaders and President Trump drew some skepticism over its voluntary self-policing pact — and fairly so. Still, getting top companies aligned on artificial intelligence safety is a step in the right direction. Conspicuously absent from the table was Apple, prompting questions about its position in the A.I. race despite Tim Cook’s close ties with Trump. The president invited Cook to last week’s state dinner for Xi Jinping, China’s top leader.
+
+Separately, Trump signed an executive order rebranding A.I. as “super intelligence” to try to reframe the narrative around a real breakthrough technology, leaving us to wonder what OpenAI will do with its name (only half-joking). While in town, I also attended the rollout of America.gov. Whatever your politics, if the portal does half of what was promised to simplify citizens’ lives, it will be a win.
+
+Finally, take a look at the news below on Ken Griffin’s record $3 billion gift to help build a Carnegie Mellon campus in Miami. Bringing a premier research institution to Miami could give the city a major boost.
+
+Price pinched
+
+The fast-growing U.S. economy has been a global outlier. But rising fuel prices and borrowing costs have consumers and business owners feeling increasingly gloomy.
+
+So far, the bull market rally is holding up. Yet investors are bracing for new economic data — beginning with the Personal Consumption Expenditures price index, set to be released at 8:30 a.m. Eastern — that could heap more pressure on the Fed to raise interest rates.
+
+The prospect of higher rates is already jolting the I.P.O. market.
+
+The latest:
+
+- The yield on the 10-year Treasury note was trading around 5.23 percent on Wednesday. The yield on the 30-year Treasury bond on Tuesday hit its highest level since June 2002.
+- S&P 500 futures are under pressure. The benchmark index is on pace for a monthly loss.
+- Brent crude, the international benchmark for oil, rose above $103 on Wednesday. The average price of diesel in the U.S. is at $6.41. A glimmer of hope: Oil exports from the Middle East have begun to rebound.
+
+Watch Wednesday’s P.C.E., the Fed’s preferred inflation measure. Economists surveyed by Dow Jones forecast that core inflation last month rose by 3.3 percent on an annualized basis — in line with the July number.
+
+- An update to how P.C.E. is calculated is expected to lower the final numbers slightly. “But that shouldn’t alter the underlying trend” that inflation is running well above the Fed’s 2 percent target, Mike Reid, head of U.S. economics at RBC Capital Markets, wrote to investors this week.
+
+Traders on Wednesday saw a 57 percent chance of the Fed leaving rates unchanged at its October meeting. But a hot P.C.E. number on Wednesday could push the odds for a rate increase higher.
+
+High inflation is weighing on sentiment. U.S. consumer confidence fell to its lowest level since 2014, the Conference Board reported on Tuesday. Respondents said they saw interest rates and inflation climbing over the next year.
+
+Business owners are feeling the pinch, too. The U.S. Chamber of Commerce and Justworks, a payroll processing firm, on Wednesday published their latest small-business survey. Only 27 percent of respondents described the national economy as being in “good health,” a sharp drop from a year ago; 54 percent said inflation was their biggest challenge.
+
+Could findings such as these put more pressure on the Trump administration to enact measures like, say, a ban on diesel exports to potentially bring down prices?
+
+HERE’S WHAT’S HAPPENING
+
+Mayor Zohran Mamdani’s tax on high-end second homes is dealt a blow. A judge ruled that New York City’s rollout of the tax had been mishandled because the Mamdani administration didn’t try hard enough to determine who should owe it. The lawsuit didn’t challenge the legality of the tax, but a new suit against the tax does claim it is unlawful.
+
+Paramount’s streaming chief leaves abruptly. The departure of Cindy Holland, who had joined last year, clears the way for Casey Bloys, the chairman of HBO, to assume the role as Paramount completes its $111 billion takeover of Warner Bros. Discovery. Hollywood is expecting more executive shake-ups at Paramount after the deal closes. (Elsewhere, a delay of Paramount’s debt sale to fund the deal could cost the company up to $500 million a year in extra interest, according to Bloomberg, which cited unnamed sources.)
+
+Oura’s now-delayed I.P.O. reportedly faced pushback on valuation. Some potential investors in the fitness wearable’s planned initial stock sale decided not to buy into the deal over worries about how much the company wanted for its shares and the poor performance of similar companies’ listings, Bloomberg reported. Oura’s move may help rattle Wall Street’s hopes for a bumper I.P.O. season this fall.
+
+A.I.’s ‘morally binding’ moment
+
+The artificial intelligence sector’s no-guardrails camp appeared to exit a White House luncheon on Tuesday with a clear victory.
+
+President Trump said his dining companions, a who’s who of tech titans, backed “tremendous self-regulation” of a technology that has drawn increasing security worries from many corners of the globe, including in Silicon Valley. But the details were scarce, and big questions loom.
+
+When asked by reporters who would scrutinize A.I. labs, Trump said that they would essentially be “policing each other” and that such an accord would be “morally binding.”
+
+Who was there? (See seating chart below)
+
+- Dario Amodei of Anthropic, who has been among the most vocal in urging formal regulation;
+- Jensen Huang, the C.E.O. of Nvidia, who has called proposed new regulations “completely unnecessary”;
+- Mark Zuckerberg of Meta and David Sacks, the venture capitalist and former Trump administration A.I. czar, who have also bristled at Amodei’s calls for more regulation;
+- Elon Musk, the C.E.O. of the rocket and A.I. company SpaceX;
+- Jeff Bezos, the founder of Amazon;
+- Sundar Pichai of Google;
+- And Greg Brockman, the OpenAI president who along with his wife, Anna Brockman, gave $25 million to MAGA Inc., a pro-Trump super PAC, in 2025.
+
+What was agreed, according to Trump’s social media post? The A.I. executives committed to:
+
+- “Implement robust internal controls” of their A.I. models during training and deployment, especially on issues of cybersecurity and biosecurity.
+- Call on independent evaluators or auditors to ensure that companies are adhering to the safety protocols.
+
+Worth noting, the commitments mirrored voluntary ones A.I. companies made during the Biden administration.
+
+Left unaddressed: How will the companies contend with a thicket of state regulations in the works, as well as measures from other countries? And what about the labs’ exposure to potential legal liabilities?
+
+OpenAI’s big bet on dots
+
+Artificial intelligence agents are the hottest new product category in Silicon Valley — and increasingly a big business.
+
+OpenAI’s take on them was the star of the A.I. lab’s developer conference on Tuesday in San Francisco, as the company stakes its claim in the agent industry, Sri Muppidi reports from the event.
+
+Meet dots, agents powered by OpenAI’s GPT-6 Astra model. Think digital assistants that are meant to proactively take actions — say book restaurant reservations or write code on behalf of users (within user-set limits).
+
+OpenAI is wading into an increasingly crowded field populated by Meta (Muse), SpaceXAI (Grok Bot) and the popular start-up Instinct.
+
+Driving the competition is the idea that A.I. tools are evolving from answering users’ queries to doing things for them — and the hope that they can drive, and disrupt, big business. Like Meta, OpenAI is pitching its agent software to professionals.
+
+- Some of the roughly 2,500 conference attendees were impressed. “Anything that can be more proactive in my life — and less time me sitting at a keyboard and asking Codex to do something — is good for me,” Max Aitel, a university student, told DealBook.
+- Others are reluctantly adapting. “Do I have a choice? Do I have a say?” Bhavani Kola, a math teacher at a community college, told DealBook.
+
+Dots is part of OpenAI’s effort to remake its business as it prepares for an eventual I.P.O. and seeks to catch up with rivals like Anthropic. The company has claimed that GPT-6 Astra beat the competition at tasks like coding. That said, it shelved a newer Astra model because of safety concerns.
+
+And it has talked up its strides in winning over business users, some of which are reflected in its latest financials. It is nearing $70 billion in annualized revenue, according to a person with knowledge of the company’s financials. The person, who spoke on the condition of anonymity and wasn’t authorized to discuss confidential data, confirmed a report by Axios. That’s up about 70 percent from July.
+
+OpenAI’s other big moves: It’s in early discussions to raise $30 billion at a $1.4 trillion valuation, the person added. (Bloomberg first reported the talks.)
+
+The fund-raising effort would help OpenAI pay for its huge computing power costs, as it leans toward putting off its public offering until next year to shore up its finances and focus on safety.
+
+- “I want OpenAI to be a public company someday,” Sam Altman, the company’s C.E.O., said at the conference. “But I don’t want to put additional pressure right now as we’re going through this significant change,” he said, referring to the company’s safety push.
+
+Ken Griffin’s recording-setting college donation
+
+Since moving the headquarters of his financial empire to Miami from Chicago in 2022, the hedge fund executive Ken Griffin has become a major booster for his new home base.
+
+Now, he is making a giant donation to help bring a world-class university to Miami.
+
+Griffin has pledged $3 billion to Carnegie Mellon University, the largest single donation in the history of American higher education, Alan Blinder reports for The Times:
+
+Some $2 billion of Mr. Griffin’s contribution involves a new 35-acre outpost in Miami’s artsy Wynwood neighborhood, where students are expected to enroll beginning in 2028. The university, which already has locations in Qatar and Rwanda, is forecasting that the Miami campus will eventually accommodate more than 3,500 students. The campus is the latest top university outpost planned for South Florida, where wealthy residents have long argued that the region needs to expand its ranks of well-trained college graduates to attract and retain businesses. Vanderbilt University, for instance, is planning a campus in West Palm Beach, and Northwestern University runs a graduate business program in Coral Gables.
+
+Griffin went to Harvard, and has donated more than $500 million to it. But he broke with the school after the Hamas-led attack on Israel on Oct. 7, 2023, and the ensuing turmoil at Harvard’s campus.
+
+Miami has become a philanthropic focus for Griffin. In February, he and Stephen Ross announced a campaign to promote the so-called Gold Coast region of Florida to companies.
+
+THE SPEED READ
+
+Deals
+
+- The investment bank Piper Sandler is said to be in talks to acquire Perella Weinberg Partners, a rival. (WSJ)
+- A meltdown at the hedge fund Situational Awareness has stoked worries about Wall Street’s rush to finance big bets on artificial intelligence. (NYT)
+
+Politics, policy and regulation
+
+- “How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes” (NYT)
+- In property news: Oracle’s Larry Ellison is said to have spent nearly $10 million on eight houses for his family’s staff near his Florida home; Mark Zuckerberg of Meta donated about $170,000 to three sports clubs near a castle he bought in Ireland; and Peter Thiel was reportedly behind the winning $130 million bid for Casa Encantada, a Los Angeles mansion that once belonged to the telecom mogul Gary Winnick. (WSJ, Irish Times, WSJ)
+
+Best of the rest
+
+- Gail Slater, a former Justice Department antitrust chief in the second Trump administration, is joining the law firm White & Case. (Bloomberg)
+- Why Starbucks, an outspoken proponent of sustainability measures, is retreating from its climate goals. (FT)
+
+We’d like your feedback! Please email thoughts and suggestions to dealbook@nytimes.com.
+
+================================================================================
+trumps-new-tariffs-face-a-familiar-court-challenge.html
+Source: PreloadedData  Paragraphs: 21  Words: 1099/1099
+================================================================================
+
+SUMMARY
+
+Just hours after the Supreme Court struck down President Trump’s original roster of punishing global tariffs, he defiantly proclaimed that he would stop at nothing to somehow bring them back. This time, the cases concern the use of Section 301 of the Trade Act of 1974, which allows the administration to investigate unfair trade practices and impose tariffs if it finds that American businesses were harmed. The expansive nature of the tariffs prompted state officials and small businesses to file a series of lawsuits, arguing that the Trump administration failed to marshal the evidence required to issue the duties.
+
+ARTICLE
+
+Trump’s New Tariffs Face a Familiar Court Challenge
+For the third time in less than two years, the Trump administration is set to return to court on Wednesday to defend its power to wage a punishing global trade war.
+By Tony Romm
+Published 2026-09-30 09:03 UTC
+https://www.nytimes.com/2026/09/30/business/trumps-new-tariffs-face-a-familiar-court-challenge.html
+
+Just hours after the Supreme Court struck down President Trump’s original roster of punishing global tariffs, he defiantly proclaimed that he would stop at nothing to somehow bring them back.
+
+Seven months later, the work to revive those duties is well underway. But their return is about to land the administration back in the federal courthouse in New York where its legal troubles first began.
+
+The latest phase of Mr. Trump’s ever-evolving trade war rests in the familiar hands of a panel of federal judges, who on Wednesday will hear the third major case in less than two years challenging the president’s ability to tax imports from around the world. Each of the fights has centered on different legal justifications, but the root cause is the same: Mr. Trump’s reliance on decades-old laws to issue duties that opponents see as a harmful overreach.
+
+This time, the cases concern the use of Section 301 of the Trade Act of 1974, which allows the administration to investigate unfair trade practices and impose tariffs if it finds that American businesses were harmed. In July, the government relied on the statute to impose tariffs on 86 countries at once, claiming that they had failed to stamp out “forced labor” and had put U.S. firms that better protect workers at a competitive disadvantage.
+
+The expansive nature of the tariffs prompted state officials and small businesses to file a series of lawsuits, arguing that the Trump administration failed to marshal the evidence required to issue the duties. Instead, they framed the process as one motivated by politics and pretense, citing past statements from Mr. Trump and his deputies promising to resurrect a set of policies that had been declared illegal.
+
+The administration has vigorously contested the claims, setting the stage for another complicated hearing in front of the Court of International Trade in downtown Manhattan. Judges on that specialized circuit have twice ruled against Mr. Trump in major tariff cases. Another defeat could again force the administration to surrender any money it has collected, though the administration appears to be hoping that the third time is the charm.
+
+“Changing the statute, when you lose on a previous statute, doesn’t change the law,” said Sara Albrecht, the chairman of the Liberty Justice Center, a legal group representing two of the suing small businesses. The center helped to lead successful challenges against the president’s past tariffs.
+
+“As long as they continue to file and abuse the statutes on the books, we’re going to continue to challenge them,” Ms. Albrecht said.
+
+The White House did not respond to a request for comment.
+
+The legal onslaught has hardly impeded Mr. Trump’s trade brinkmanship. Despite two years of economic shocks and uncertainty, the president still sees sky-high tariffs as the most potent tools for courting U.S. investment, protecting domestic industries, extracting new revenue and pressuring allies and adversaries into making concessions.
+
+At every turn, however, Mr. Trump has faced stiff opposition and defeat.
+
+Originally, Mr. Trump tried to impose steep, country-by-country tariffs using the International Emergency Economic Powers Act, or IEEPA. But the trade court last year found those duties to be unconstitutional, a decision upheld by the Supreme Court in February. That decision required the Trump administration to refund more than $160 billion in illegally collected tariffs while forcing the president to return to the drawing board.
+
+Mr. Trump then tried to impose a temporary 10 percent tariff on nearly all goods arriving in the United States. That, too, faced lawsuits — and similarly was struck down by judges on the Court of International Trade. The tariffs eventually expired, but the case itself remains on appeal.
+
+For its third try, the Trump administration turned to Section 301, the provision of law targeting unfair trade practices. In contrast to Mr. Trump’s previous efforts, there is “no doubt that Section 301 gives the president power to impose tariffs due to foreign practices that are unreasonable or burden or restrict U.S. commerce,” said Timothy C. Brightbill, a top trade lawyer at the law firm Wiley Rein.
+
+In fact, presidents of both parties successfully invoked Section 301 in the past to target trade practices by individual countries, including China. But the expansive way in which Mr. Trump applied the law this summer triggered swift lawsuits from groups of small businesses and state officials, many of which had been involved in those past fights against the president’s earlier duties.
+
+In their newest filings, each of the opponents proffered a similar set of arguments. While condemning forced labor, the lawsuits claimed that the administration had failed to conduct rigorous investigations and had not amassed sufficient evidence about the abuses in question in each country and the harms caused to American industry.
+
+Under Mr. Trump’s approach, the 86 targeted countries faced tariffs ranging from 10 to 12.5 percent. But there was little differentiation in the rates that applied across a wide range of U.S. trading partners that have vastly different laws and human rights records. In the eyes of state officials, led by the attorney general of Oregon, there was “no rational fit” between Mr. Trump’s concerns and the “blanket global tariffs” he ultimately imposed.
+
+The disconnect led many of Mr. Trump’s opponents to conclude that the tariffs were not supported by the facts — but, instead, served only to recreate the rates struck down by the Supreme Court. As evidence, they pointed to a series of past statements from top administration officials. One example included Treasury Secretary Scott Bessent, who previously proclaimed on CNBC that the “the tariff rates are going to go back to exactly where they were.”
+
+Lawyers for the Justice Department vigorously disputed each of those characterizations as they sought to convince the court that its tariffs are legal. The arguments underscored the extent to which the administration hoped to use Section 301 as its primary trade tool, with work underway to issue a second battery of tariffs targeting dozens of additional countries for engaging in “excess capacity” and flooding markets with cheap goods in the coming weeks.
+
+In a filing submitted in early September, the government framed its tariffs as a “moral and economic imperative.” The administration also defended its investigative process and argued the court had no right to review its determinations about forced labor, while dismissing the notion that past comments from public officials suggested anything untoward.
+
+“Even if they could be considered, the cited statements would merely reflect that the Trump administration believes that tariffs are an effective tool for protecting American businesses against unfair trade practices,” the Justice Department wrote in one of its filings. “This is no revelation.”
+
+================================================================================
+attention-infidelity-ruin-romance.html
+Source: PreloadedData  Paragraphs: 15  Words: 1308/1308
+================================================================================
+
+SUMMARY
+
+A few weeks ago the independent movie “Before Sunrise” popped into my mind. Drawing on large surveys, books and qualitative interviews with young people, Cox reveals how fearful they are of being vulnerable, because any misstep can lead to global and permanent humiliation on social media. In a phone call, Cox told me that while there have been gender divides in every era, what is new for Gen Z-ers is the way the algorithms of social media are warping their views of all kinds of interactions and reinforcing “initial biases.”
+
+ARTICLE
+
+‘Attention Infidelity’ Is Ruining Romance
+Your full attention is a gift. Give it more often.
+By Jessica Grose
+Published 2026-09-30 09:08 UTC
+https://www.nytimes.com/2026/09/30/opinion/attention-infidelity-ruin-romance.html
+
+A few weeks ago the independent movie “Before Sunrise” popped into my mind. A 1990s classic and the first in a trilogy, the film is about two cerebral 20-somethings, Céline and Jesse, who meet cute on a train to Paris. They decide to hop off in Vienna, and spend a day together bantering, interacting with locals, wandering the beautiful city without purpose and falling in love.
+
+They relate in spite of cultural differences (he is American, she is French, they both talk to Austrians) and gendered ones, too. As I was replaying the movie in my mind, I had a thought that made my stomach drop: My children may never get to experience this. By “this” I mean the uninterrupted attention, general serendipity and conversational vulnerability that I got to experience before smartphones.
+
+“Before Sunrise” even somewhat presaged our screen-addled present. In her review of the film in The New York Times, Janet Maslin notes Jesse’s commentary on the “dubious spiritual value of technology,” when he states, “You never hear somebody say, ‘Well, you know, with the time I’ve saved by using my word processor, I’m going to go to a Zen monastery and hang out.’”
+
+Mine is not a new fear, and I realize it is born out of a kind of nostalgia. From the pollster and public opinion researcher Daniel Cox’s forthcoming book, “Generation Uncoupled: America’s New Gender Divide and the Crisis of Human Connection,” I learned a new term: “attention infidelity.” Cox defines it in a somewhat unusual and expansive way: when a partner’s digital life intrudes on an in-person connection.
+
+This kind of “infidelity” can include looking at sexually explicit material or engaging in suggestive social media interactions, but more often it is just the banal distraction of dead-eyed scrolling. “Instead of reaching for each other,” Cox explains, “we snatch up our digital devices that flood us with an endless stream of hyper-curated content.”
+
+Though couples of any age experience this to some degree — my husband and I try to leave our devices in the kitchen after dinner so we can actually talk to each other — people like us who got together before the smartphone at least had the benefit of cementing our bonds with long stretches of concentrated attention. That kind of sustained focus breeds deeper understanding across differences and more grace.
+
+Some may dismiss this kind of worry about young people’s nascent relationships as a technological moral panic. But Cox, who is the director of the Survey Center on American Life at the right-leaning American Enterprise Institute, has compiled a list of sobering statistics that show that screens are a driving factor in how disconnected teenagers and 20-somethings are from one another.
+
+Gen Z-ers, the first generation that can’t remember a world without smartphones, participate less in “embodied social experiences” than their counterparts in every other generation. They’re less likely to work, go to church, attend parties, date or play sports, Cox notes. About half of teenagers describe themselves as “almost constantly” online. There is no other change that has occurred in the past few decades that would explain this unique decline.
+
+Young people’s very online isolation, which was worsened by the Covid lockdown, means they have much less practice interacting with new people and navigating the usual friction and established norms. This, Cox writes, has left them lonely, unmoored and distrustful of each other.
+
+While dating has always been challenging and provided fodder for complaint, today’s teenagers and 20-somethings have a starting point of greater suspicion, which can be poison for the creation of romantic relationships. Drawing on large surveys, books and qualitative interviews with young people, Cox reveals how fearful they are of being vulnerable, because any misstep can lead to global and permanent humiliation on social media.
+
+The example of “West Elm Caleb” came to mind when I was reading Cox’s book. Caleb was a New Yorker who went viral in 2022 because a few women posted about how he would ghost them instead of breaking up with them properly. What followed in the wake of his virality was “a massive online harassment campaign against a fairly average 25-year-old whose biggest crime so far is being a bad communicator,” as Rolling Stone’s Brittany Spanos put it. The rise of online dating, where relationships start on digital territory, only exacerbates this dynamic.
+
+This kind of technologically driven apprehension particularly affects heterosexual coupling. In a phone call, Cox told me that while there have been gender divides in every era, what is new for Gen Z-ers is the way the algorithms of social media are warping their views of all kinds of interactions and reinforcing “initial biases.” Cox cited a 2025 Washington Post analysis of over 1,000 users, which found that “gender is one of the biggest predictors of what’s in your feed.”
+
+In the worst cases, gender-specific feeds lead to misogynistic manosphere influencers gaining a foothold in young men’s minds, which Cox rightfully condemns as toxic in his book. But our feeds are also creating news silos that may affect our perception of the world in more subtle ways. At minimum, they mirror a lack of a shared reality that might provide a basis for conversation and connection. (I saw this in action when I discovered that my husband knew nothing about the Lindsay Clancy verdict, even as I had been served wall-to-wall content about it for weeks.)
+
+Two things give me hope about the social and romantic lives of young people. One is that at least some Gen Z-ers seem to know what they’re missing. Ethan Hawke, who played Jesse in “Before Sunrise,” told The Times in 2020 that his daughter watched the movie with friends, “and there was a certain envy they had for a time where you didn’t have email. Life insisted that you live in the moment more.” Having seen technology colonize their lives, they refuse to give another inch to A.I.
+
+The other is that Americans in a wide variety of demographics are disgusted by the way screens have come between them and other people, and want to create a better world for our children. Cox is most certainly to the right of me, and while I did have some partisan quibbles with his book, I overwhelmingly agreed with his broad analysis and specific dismay with the status quo. He understands something I also hold to be true: giving another person your full attention is a gift, one we should all be more conscious of giving each other.
+
+End Notes
+
+- I am sick about the sexual assault allegations at Cornell. Beyond blind rage I don’t have anything particularly coherent to say about it for now, but I have been doing a lot of reading. First, I recommend this article from May in The Times about New York State’s unfair and outdated rape laws, and how they make it “difficult to charge people with rape if the accuser chose to become intoxicated.” I also recommend reading this New York magazine interview with two editors from The Cornell Daily Sun about their reporting on the case.
+- Finally — in a sadly related issue — The 74, a nonprofit newsroom focused on education, recently published an investigation into almost 2,000 child sex abuse claims involving New York State K-12 schools. These claims were made because of a 2019 law that “allowed any living survivor of childhood sexual abuse to bring a civil case during a two-year look-back window and permanently extended the statute of limitations from age 23 to 55 for future civil cases,” explained the reporter, Amanda Geduld. Nearly one-fifth of these claims were made against adults who had access to their victims through schools. “Multiple teachers were credibly accused of sexual abuse in one school, and then permitted to quietly move on to a new one,” Geduld found. Feel free to drop me a line about anything here.
+
+================================================================================
+john-maynard-keynes-ai-economist.html
+Source: PreloadedData  Paragraphs: 47  Words: 1548/1921
+================================================================================
+
+SUMMARY
+
+Nearly a century ago, the legendary economist John Maynard Keynes predicted that technology would significantly increase productivity and reshape how we live. But what would Keynes say about this moment? Narrator: There are numerous biographies on Keynes.
+
+ARTICLE
+
+What Would John Maynard Keynes Say About A.I.? The Keynes Bot Told Us.
+Nearly a century ago, Keynes predicted that technology would liberate us from work. To imagine what he would think of artificial intelligence today, a Princeton economist used A.I.
+By Markus Brunnermeier, Sarah Kramer and Mehron Abdi
+Published 2026-09-30 09:01 UTC
+https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html
+
+To understand how A.I. will affect our future, we’re looking to the past.
+
+Nearly a century ago, the legendary economist John Maynard Keynes predicted that technology would significantly increase productivity and reshape how we live. Today, as A.I. capabilities accelerate, technologists have similar claims.
+
+But what would Keynes say about this moment?
+
+The Princeton University economist Markus Brunnermeier set out to answer this very question. Using an A.I. agent trained on more than 12,000 pages of Keynes’s writings and transcripts, along with the few available recordings of him, Brunnermeier and his team built a bot designed to answer questions in Keynes’s voice and style. He then had an in-depth conversation with the Keynes bot about the future of work and what happens to society when technology changes what people do for a living. Times Opinion, in collaboration with Brunnermeier, distilled those conversations into a short exchange.
+
+The result is a revealing conversation with a Keynes who never lived to see the A.I. age — and a trenchant warning from his A.I. bot.
+
+(The New York Times has sued OpenAI and Microsoft, claiming copyright infringement. The companies have denied those claims.)
+
+How the Keynes bot Was Created The economist Markus Brunnermeier and the researcher and Ph.D. student Pablo Balsinde built a bot using ChatGPT to create the Keynes A.I. The bot was instructed to draw primarily from Keynes’s seminal essay “Economic Possibilities for Our Grandchildren” (though the model was also provided with his larger body of work) and to answer questions in his style, which the pair described as “first-person, early 20th century British cadence, restrained wit.”
+
+According to the team behind the bot, its initial responses were often long-winded and unclear. To improve them, the researchers “asked the GPT to rephrase, prompted it to reply using famous quotes from Keynes and cut parts of responses.” While the language was generated by the model, the responses were edited by the research team for clarity and brevity.
+
+For the visuals, the team uploaded a public domain image of Keynes and used DeepSeek to alter the environment, placing him behind a desk. To create audio resembling Keynes’s voice, the team used a recording of Keynes from the BBC as a reference.
+
+Below is an edited transcript of this video. We recommend watching it in its original form for the full effect. You can do so using the video player above.
+
+Narrator: This is John Maynard Keynes, one of the most famous economists who ever lived.
+
+He died in 1946. Yet in the last century, we have looked to his teachings many times. And if you stick around for the next five minutes, maybe he’ll have something to teach you about how A.I. might change our lives. But first, a little background.
+
+According to the Encyclopaedia Britannica, John Maynard Keynes revolutionized economic theories. He is widely considered the founder of modern macroeconomics.
+
+Archival clip of John Maynard Keynes: It is a wonderful thing for our businessmen to taste hope.
+
+Narrator: There are numerous biographies on Keynes. But Lord Robert Skidelsky is considered to have written the definitive account of Keynes’s life and work — in three volumes.
+
+Keynes’s essays and books have been cited in numerous articles. There’s a Keynes rap.
+
+Clip of “Fear the Boom and Bust: Keynes vs. Hayek”: John Maynard Keynes wrote the book on modern macro. The man you need ——
+
+Narrator: There are many groups dedicated to Keynes’s philosophy around the world. Harald Hagemann is the honorary chairman of the German-speaking society.
+
+Archival clip of Harald Hagemann: Welcome to all of you.
+
+Narrator: John Maynard Keynes was Charles Darwin’s granddaughter’s brother-in-law. And Keynes’s great-great-nephew starred in the 2005 smash hit movie “The Lion, the Witch and the Wardrobe.”
+
+Tilda Swinton as the White Witch: I would very much like to meet the rest of your family. Skandar Keynes as Edmund Pevensie: Why? They’re nothing special.
+
+Narrator: In 1930, Keynes published a paper that predicted that technology would dramatically increase productivity in what he called “progressive countries” over the next century. At the time, people were skeptical of his argument. Sound familiar?
+
+It’s 2026, and again, there is a fierce debate raging as to where technology is taking us.
+
+Archival news clip: The people building A.I. earnestly believe it could kill us all ——
+
+Narrator: Uh — not that debate.
+
+Archival news clip: A.I. is rapidly reshaping the workplace. Clip of Allie K. Miller on “The Mel Robbins Podcast”: You are going to expand your capabilities and your superpowers. Clip of Gael Breton on “Authority Hacker Podcast”: The models got so good that the gain in productivity is undeniable at this point.
+
+Narrator: So what would Keynes say about what A.I. means for our economy?
+
+Up in the north tower of the Bendheim Center for Finance at Princeton University, the economist Markus Brunnermeier has been trying to answer this very question. And he’s taken an unorthodox approach to finding out what Keynes might think.
+
+Markus Brunnermeier: So with the help of A.I., I built an avatar of him. I used his writings, along with an archival photo and interviews with him. Welcome, Lord Keynes.
+
+A.I.-generated bot of John Maynard Keynes: Well, thank you, Professor Brunnermeier. For someone born in 1883 to be reanimated as an artificial intelligence is, I confess, an unexpected form of life after death.
+
+Narrator: So you may not all approve of this. We don’t know for certain that Keynes would approve. But we did run it by his family. Remember Edmund?
+
+Clip of Skandar Keynes: They’re nothing special.
+
+Narrator: Well, he, along with his sister, great-aunt and great-uncle, gave us the go-ahead.
+
+Keynes: Today I have the curious privilege of speaking with you, those very grandchildren I was speculating about 100 years ago.
+
+Narrator: Sorry, sorry — last interruption, we promise. Keynes was British and spoke and wrote more formally than we speak today, so we’ve updated some of the language to more contemporary English and modified the conversation for brevity and clarity. You’re welcome.
+
+Brunnermeier: Professor Keynes, when you wrote your essay “Economic Possibilities for Our Grandchildren,” it was the start of the Great Depression. A majority of Americans were poor. Education was a luxury. Yet a handful of folks were so rich, they didn’t need to work at all.
+
+Keynes: Indeed. I predicted that by 2030, the United States could be as much as eight times richer per head. America beat that prediction: Your society is already eight times richer, and it’s only 2026.
+
+Brunnermeier: Our lives are not perfect, but overall, we are much better off than we used to be. Technological advancements lifted more than one billion people out of poverty, even as the world’s population quadrupled.
+
+Keynes: Absolutely. I also predicted that in four years, you would be living lives of such material abundance that everyone would need to work far less, perhaps 15 hours a week. From what I can tell, that has not come to pass.
+
+Brunnermeier: Correct. But now we have artificial intelligence. Do you think A.I. could fulfill your prediction of a 15-hour workweek? And in four years our lives could be predominantly ones of leisure?
+
+Keynes: Unfortunately, I see the emergence of A.I. introducing new challenges. I fear you may end up with skilled and overworked professionals with money but no time, and the rest of society with time but no money.
+
+Brunnermeier: Why?
+
+Keynes: Due to the concentration of A.I.’s potential, as A.I. takes over tasks that are more and more qualified and sophisticated, it will bring an increased concentration of expertise into the hands of a limited few. Those people might, in the future, be managing the whole economy by themselves.
+
+Narrator: At this point in the video ——
+
+Clip of “Once in a Lifetime” by Talking Heads: You may ask yourself.
+
+Narrator: Which group will I belong to? Well, tighten your seatbelts, because the Keynes Bot is about to get darker.
+
+Brunnermeier: There’s something else in your 1930s essay that haunts me. You warned that humanity might suffer a “nervous breakdown.” That we have been bred to struggle against scarcity and when that struggle is removed, we won’t know what to do with ourselves. Does that still hold?
+
+Keynes: Yes, though it might split the population into two groups, each suffering differently.
+
+The first — those still employed and dominating the new technology — burn out. They make work their whole identity, and so when A.I. absorbs more of what they do, they do not step back. They grind harder at whatever the machine cannot yet handle, trying to prove they are still essential.
+
+The second group troubles me more. The displaced lose something money cannot replace: the quiet daily reassurance that someone needs them to show up. They may question their own worth. And it can take a very long time — perhaps a generation — to find a new purpose. If the gains are not shared, they will also suffer materially. So the struggle against scarcity would not end for them. It would just be exacerbated by a lack of purpose.
+
+In any case, there might be not only widespread unemployment, but a deeper risk: the strain on democracies, and the fraying of the bonds that hold a society together.
+
+Narrator: According to the Keynes Bot, the haves and have-nots both could have serious nervous breakdowns. Are you wondering if there’s an overlooked Option C? Markus?
+
+Brunnermeier: Is this terrible future inevitable?
+
+Keynes: Not at all. Whether A.I. ends up as a source of broadly shared prosperity and purpose or a machine for manufacturing a new dominant class of wealthy and powerful is not preordained by the technology itself. It will be determined by your government and whether it has the political courage to use its laws and its tax systems to ensure that A.I. will work to the benefit of all of society’s citizens.
+
+Brunnermeier: Thanks a lot for your insights, Lord Keynes.
+
+Keynes: Thank you, Markus. The central question remains the same: What shall be done with the growing powers of production and invention? The outcome is up to you to decide.
+
+Narrator: OK, so what have we learned? Well, if we’re going to thrive, let alone survive, the power of A.I. can’t end up in the hands of the few.
+
+It’s obvious: We need ongoing regulation and government intervention. Even an A.I.-reincarnated economist can see what’s on the line: Our livelihood. Our sanity. Our future.
+
+This video was produced by Sarah Kramer. It was edited by Mehron Abdi. The associate producer is Rebecca Shaid. Additional production by Suein Hwang. Additional editing by Stephanie Shen. Fact-checking by Julie Beer. Cinematography by Nick Midwig. A.I. production and engineering by Pablo Balsinde. Mixing by Isaac Jones. The postproduction manager is Mike Puretz. Audience strategy by Kristina Samulewski and Shannon Busta. The executive producer of Opinion Video is Erica Berenstein. The director of Opinion Video is Jonah M. Kessel. The director of audio engineering is Isaac Jones. The deputy director of Opinion Shows is Alison Bruzek. The director of Opinion Shows is Annie-Rose Strasser. The head of Times Opinion is Kathleen Kingsbury. Special thanks to Soumaya Keynes.
+
+Opinion Video combines original reporting with creative storytelling to produce visually transformative commentary. Pitch a video guest essay here.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+new-york-times-family-ownership-stewardship.html
+Source: PreloadedData  Paragraphs: 60  Words: 4938/5094
+================================================================================
+
+SUMMARY
+
+The New York Times is a thriving company in a thriving industry. It asked: “What if The New York Times goes out of business — like, this May?” But against these long odds, The Times is still standing.
+
+ARTICLE
+
+So You Want to Publish a Newspaper
+How on earth did The New York Times, a seemingly ossified institution in a dying industry, survive the most destabilizing period in its history — and emerge stronger?
+By A.G. Sulzberger
+Published 2026-09-30 09:02 UTC
+https://www.nytimes.com/2026/09/30/opinion/new-york-times-family-ownership-stewardship.html
+
+This essay was originally delivered as a speech at the Wharton Center for Performing Arts at Michigan State University on Tuesday.
+
+Let me start in the year 2004. The New York Times is a thriving company in a thriving industry. It boasts a best-in-class product, an esteemed brand and a uniquely influential readership. Many call it the greatest newspaper in the world. But it has grown to be much more than that: a diversified media conglomerate with over 12,000 employees and $3 billion in revenue. It’s an auspicious time to break ground on the construction of a grand new headquarters designed by one of the world’s most acclaimed architects.
+
+What could possibly go wrong?
+
+Well, at the same time, this disruptive force called the World Wide Web was gaining steam, ready to plow through any tradition-bound incumbent standing in its path. In the next decade, The New York Times Company lost about three-quarters of its work force. Revenues dropped by over half. The stock price fell from $48 to $4. That fancy new headquarters? Desperate for cash, the company sold it, just two years after it opened. We were reduced to renting back space in the building bearing our name.
+
+Remarkably, the situation looked likely to get even worse. Modest gains in digital revenue were not close to offsetting the continued decimation of the print newspaper business. A new crop of internet-native start-ups like BuzzFeed and The Huffington Post were attracting far more readers. And creative and forward-thinking colleagues — the very people The Times needed to help find a way out of this mess — were quitting because the company culture was stifling innovation.
+
+Xerox. Kodak. Blockbuster. The New York Times looked to be another once-great company that became too comfortable, too complacent, too slow to change. One of yesterday’s firms — a cautionary tale to be taught in lecture halls like this one. The conventional wisdom that the paper was destined to fail was best captured in a 2009 story in The Atlantic titled “End Times.” It asked: “What if The New York Times goes out of business — like, this May?”
+
+But against these long odds, The Times is still standing. Indeed, not just standing but thriving — heralded as a case study in how to transform a legacy company for a new era. In a period when most news organizations watched their audience and revenue collapse, our company has grown from about one million paying subscribers to more than 13 million. Revenue and profit are also growing steadily, enabling an unprecedented expansion of our newsroom. The stock price — now higher than it was at our pre-internet peak — suggests that investors believe that this old newspaper’s best years are still to come. And, yes, we own our headquarters again.
+
+Which raises the question: How on earth did The New York Times, a seemingly ossified institution in a dying industry, survive the most destabilizing period in its history — and emerge stronger?
+
+On Sept. 18, 1851, the first edition of The New-York Daily Times rolled off the press. In a crowded field of sensationalist newspapers, The Times stood out immediately for prioritizing serious journalism on serious issues. It earned a reputation for quality, sobriety and fairness.
+
+The New York City of the day lacked a single building taller than a church spire. America consisted of just 31 states and 24 million people. Indoor electricity wouldn’t be widely available for decades — let alone wonders like radio, telephones, cars, television, airplanes and computers. The rise of all these new technologies would be chronicled in the pages of The Times as they upended culture, politics and, of course, the world of business.
+
+With each disruption, legacy companies that long dominated their industries faltered and failed, much as The Times nearly did following the arrival of the internet. Those that survived found the sweet spot between continuity and change — grounded in institutional history yet propelled forward by the fresh energy of innovation.
+
+On the occasion of our 175th anniversary, I want to talk about the secret recipe behind the endurance of The New York Times. At the heart of our success — as a journalistic enterprise, as a business, as an enduring American institution — is to approach our work as stewards guided by two foundational, ironclad commitments: to value and to values.
+
+Value is about the product you make. In our case, journalism. To prioritize value is to obsess over quality, to focus relentlessly on delivering the most useful and rewarding experience possible. It means never trying to game your way to success by chasing the latest fad or riding buzzy marketing. Value requires knowing your craft and caring, in a deep and authentic way, about your customers.
+
+Values are less tangible. They’re easier to write off as impractical idealism. In today’s business environment, with its short-term focus and frenetic, Slack-driven pace, too many people see values as liabilities rather than assets. Our experience has taught us the opposite. At The Times, values like independence, integrity and public service are central to our work. And we have found that staying true to them is not just the right thing to do but also central to our business success over the long term.
+
+Value and values alone are not enough to sustain a thriving company. You also need talented people, a strong business strategy, effective operations and an adaptable culture. But our focus on making a product that the public needs — and doing so with values that elevate principle above profit and put the public interest before self-interest — has been central to our business success.
+
+That brings me to stewardship. Stewardship is a model of leadership that puts the long-term health of an enterprise first. A steward must have the humility to recognize that a great institution is bigger than any single person, that one’s own tenure is just a chapter in a longer story. But stewards must also understand the ways in which their chapter is distinct — the unique challenges they must overcome, the unique changes they must embrace. Great leaders can be measured in many ways. They can drive revenue growth, increase share price or achieve market domination. Great stewards must do something singular: hand their enterprise to capable successors, stronger and more resilient than it was handed to them.
+
+My family, the Ochs-Sulzbergers, has stewarded The Times for 130 years. How that looks behind the scenes is much less interesting, thankfully, than anything you might have seen on “Succession.” That is not just because we’re boring, though being boring helps. It’s because our family’s ethos is far too idealistic to survive a TV writers’ room. Our mission is not to seek great fame or fortune. It’s not to dominate politics or culture. It’s to protect and strengthen an essential American institution. Each generation teaches the next — maybe indoctrinates is a better word — that The Times doesn’t serve the family; the family serves The Times. And, as my great-grandmother Iphigene often reminded us, “No big heads allowed.”
+
+For this reason, my family has preferred to stay out of the spotlight and let the work of our journalists take center stage. But The Times’s big anniversary arrives amid an epidemic of distrust in America’s institutions — as well as increasingly direct attacks on the rights and legitimacy of news organizations. So I thought I’d use the occasion to share more about how The Times works as an institution and how the family works to support the paper’s mission “to seek the truth and help people understand the world.”
+
+To be clear, my predecessors and I have made mistakes of all types, including some big ones. Some areas of coverage have aged poorly; as a business, we’ve pursued any number of dead ends. But you don’t get to be this old without getting some big things right. Each of the five generations of family leaders has had to transform The Times while also ensuring that it endured with its soul intact. Through two World Wars, economic booms and busts and the arrival of the internet, we’ve stuck to our central formula — a stewardship mind-set guided by value and values — because long experience tells us it works.
+
+Adolph Ochs, my great-great-grandfather, was the last member of my family who could fairly claim to have pulled himself up by his bootstraps. A high school dropout and the son of immigrants, he had worked his way up from manning the printing presses at newspapers in his home state of Tennessee to owning The Chattanooga Times. Then he wanted to take on the nation’s biggest and most competitive market. The New York Times may have seemed like a surprising candidate for such a conquest. It had a circulation of just 9,000 and was teetering on the edge of bankruptcy. But Ochs was drawn to its reputation for quality journalism. In 1896, he pulled together money and loans to purchase The Times for $75,000, the equivalent of about $3 million today.
+
+As part of the deal, Ochs had to hit several challenging financial targets before he could secure his ownership. That was no sure thing, given the paper was hemorrhaging money. To stem those losses, he cut business and administrative positions.
+
+But he also did something counterintuitive. He expanded his spending on journalism, including new features, like a book review and a magazine. Then he dropped the price of The Times from three cents to one cent. While the added journalistic costs combined with the price drop would hurt profits in the short term, Ochs was confident that these moves would encourage more people to try The Times and recognize it as a superior product, propelling the business in the long term.
+
+Thus was born my family’s formula for doubling down on value in periods of economic pressure.
+
+Ochs was equally radical in the emphasis he placed on the paper’s values, particularly journalistic independence. In his first day as publisher, he promised readers that, unlike the partisan press of the day, The Times newsroom would “give the news impartially, without fear or favor.” The editorial pages, rather than just parroting one point of view, would provide a forum for “intelligent discussion from all shades of opinion.” That commitment to ensuring the independence of news coverage — the insistence of putting values like fairness and accuracy above personal views, political affiliation and financial interests — changed the direction not just of The Times but also of American journalism.
+
+This commitment would be tested almost immediately, when Ochs received a written demand from a prominent banker who was also one of his most important shareholders. The banker believed that The Times’s finance reporter was too focused on corporate wrongdoing, and he told Ochs to fire him. Ochs’s response was direct. “I am very sorry that you believe you can write such a letter to me,” he wrote. “I do not understand that you have any control whatsoever of the editorial conduct of The New York Times.” The Times was willing to say no to anyone who attempted to influence its coverage, no matter how powerful he was or how much he mattered to its bottom line.
+
+None of that is to say Ochs wasn’t a canny businessman. He was a relentless innovator who embraced new technologies like photography and radio. He was a brilliant marketer who rebranded his neighborhood as Times Square and created the New Year’s Eve ball drop to draw attention to the newspaper. During his tenure, he grew daily circulation 50-fold. But he was first and foremost a steward. Under Ochs’s ownership, nearly all of the newspaper’s profits were reinvested to improve and expand its journalism. The strength and resilience of the business today owes much to that farsighted approach.
+
+Ochs was succeeded as publisher by his son-in-law, Arthur Hays Sulzberger. Arthur Hays used the financial success of The Times to continue investing in journalism and to add new features, like a food column and a daily crossword puzzle. But the true test of his commitment to value came, as such tests usually do, under pressure. In World War II, the government began rationing the paper that newspapers were printed on. Publishers faced a quandary: fewer articles or fewer ads? Journalists were taking great risks to bring wartime news home to readers; several Times reporters were killed or taken prisoner while covering the conflict. So Arthur Hays turned away advertising to offer the public more news instead. By the end of the war, readership was soaring.
+
+A generation later, Arthur Hays was succeeded first by his son-in-law who died just two years later and then by his son, Arthur Ochs Sulzberger, better known as Punch. Facing the brutal 1970s economy and the consumer shift to television, newspapers struggled for revenue and relevance. Punch met this pressure by embarking on a historic expansion of the paper’s offerings, doubling the number of daily sections, with new ones focused on science, sports and lifestyle. When others are thinning the broth, he believed, it is best to put more tomatoes in the soup. As a result of those investments, The Times became more valuable to subscribers and advertisers alike, driving a period of historic business growth.
+
+That brings us to my father, also named Arthur. And I do apologize for our lack of creativity with our names — Sulzbergers are nothing if not consistent. My father became publisher at the dawn of the internet. He recognized that this was not just another technological shift — it was the end of our 150-year model of making money by printing and distributing newspapers. To position The Times for this new world, my father made two brave bets: putting the entire newspaper online before there was a proven business model and, 15 years later, charging for digital subscriptions while industry experts still insisted that “information wants to be free.”
+
+But his bravest bet came amid the collapse of our longstanding business model. My father oversaw the sale of more than 40 properties owned by the Times Company — newspapers, magazines, television stations, websites, even a chunk of the Boston Red Sox — effectively every asset that wasn’t The Times itself. The company also laid off a huge percentage of its business staffers at the paper. Between the divestment and the layoffs, our work force shrank by nearly three-quarters to 3,500 employees.
+
+Yet — and this is the brave bet — he held the head count in the Times newsroom flat, even as revenue and profits continued to fall. This steady investment hid a major shift, with investigative reporters and foreign correspondents suddenly joined by a new breed of video, audio and multimedia journalists. Media pundits scoffed at this strategy of continuing to pour money into an apparently failing business. But my father believed that the key to a successful news business in the digital age, as it had been in the print age, would be offering something worth paying for. Thanks to that stubborn commitment to value, The Times now has more paying digital subscribers than any news organization in the world.
+
+One reading of this history is that the three Arthur Sulzbergers who preceded me were maverick business geniuses who zigged when others zagged. In truth, they simply did what good stewards do. They didn’t just focus on short-term profit. They also stubbornly insisted, even under great pressure, that good journalism has value — to its readers and to society at large. They were confident that if The Times continued to invest in creating this value, the company would benefit over the long term.
+
+Making hard choices to uphold the values of The Times shows a similar through line across generations. The most fundamental of these is journalistic independence, the commitment to following the facts wherever they lead. Independence requires a stubborn insistence on telling the whole story, even the parts some people don’t want to hear. It demands that we be willing to upset the powers that be by asking questions they may not want to answer or publishing facts they may not want the public to know. And more often than you might imagine, it necessitates that we be willing to pay a clear financial price to ensure the integrity of our journalism.
+
+The Times regularly publishes stories we know may lead readers to cancel subscriptions and businesses to pull ads, that may lead activists to protest outside our headquarters and powerful people to take us to court. We even insist on investigating our own mistakes, believing we owe readers a full airing of where we went wrong, no matter how uncomfortable those revelations might be for us. Our editors and executives — and, yes, publishers — have all received unflattering coverage in our own pages.
+
+Over the years, politicians, business leaders and others have tried unsuccessfully to stop such coverage by attempting to buy our silence or threaten us into submission. In the 1870s, New York’s most powerful politician, known as Boss Tweed, offered a bribe that today would be worth well over $100 million in a failed attempt to stop The Times from exposing his corruption, which would soon land him in jail. Nearly a century later, Alabama segregationists weaponized the local courts, filing a wave of dubious lawsuits intended to halt The Times’s civil rights coverage or, even better, bankrupt the paper altogether.
+
+Our interactions with American presidents tell a similar story. President John F. Kennedy once invited my grandfather to the White House to suggest that he reassign a reporter whose Vietnam War coverage was a bit too honest for the administration’s taste. Punch refused. He proceeded to stand up to even greater pressure from President Richard Nixon after The Times obtained the government’s classified history of the Vietnam War, which documented how politicians and military leaders had misled Americans about the conflict. Despite the risk of imprisonment, Punch decided to publish what became known as the Pentagon Papers.
+
+Decades later, President George W. Bush, sitting in the Oval Office, asked my father not to publish a story disclosing that his administration was secretly wiretapping Americans’ phone calls, in apparent defiance of the law. If The Times wrote about the antiterrorism program and another attack occurred, the president warned, he would regard the paper as responsible for the deaths of Americans. After long and careful consideration, the story was published, enabling an important debate about how to balance national security and civil liberties.
+
+I have sat across from President Trump — who has sued us three times, used multiple government agencies to target our business, expelled journalists from the Pentagon and now the White House and insulted us more times than anyone can count. I told him that a free press is an essential part of our national fabric and that our journalists will not be deterred by his attacks. And they have not been. Just this year, our investigative reporting exposing how Mr. Trump has used his power to enrich himself and his family was awarded a Pulitzer Prize.
+
+The independence of our journalism extends to our own commercial interests. Harvey Weinstein’s status as a major advertiser, for instance, did not insulate him from our reporters exposing allegations of extensive sexual misconduct against him. Similarly, in 2012, after we had just spent millions to start a Chinese-language website, one of our reporters discovered that the family of the Chinese premier had secretly enriched itself during his tenure. Despite explicit threats of retaliation from the Chinese government, The Times still published the story. The government immediately shut down all access to our website and, eventually, our apps. Years later, both remain walled off there.
+
+From time to time, I’ll meet with a billionaire who has just purchased a news organization. These are generally people who have had far more business success than I ever will. But I offer them one bit of advice: Running a news organization is unlike running any other company. It requires an unabashed love of and respect for journalism. There are far easier ways to make money and friends. News requires an almost counter-evolutionary willingness — insistence, even — to do things that may appear to be damaging to the company and its interests. To publish articles that will upset readers, enrage advertisers and be weaponized by your fiercest critics. Each hard choice in favor of value and values is a deposit that strengthens the bond of reader trust and is the lifeblood of a news organization that succeeds over the long term.
+
+Which brings me back to stewardship. Although my family is often said to own The Times, the reality is more complicated. Roughly 100 members of my extended family are actually the controlling shareholders of the company through a family trust. This isn’t your typical family trust — the sort that’s mainly worried about how to pass on a fortune. Our trust’s primary obligation was first laid out in the will of Adolph Ochs. It called on his descendants to maintain the editorial independence and integrity of The New York Times and to continue it “as an independent newspaper, entirely fearless, free of ulterior influence and unselfishly devoted to the public welfare.”
+
+That mandate, which explicitly puts the best interests of The Times and its readers first, still guides us.
+
+One of my aunts frequently says that if losing her leg would help The Times, she would saw it off herself. And that’s actually an apt metaphor for what she and her generation did financially to ensure The Times would continue to benefit from its special governance structure. Having watched other newspaper families splinter amid arguments about wealth, Ochs’s great-grandchildren decided to lock up the controlling shares in a family trust for another century. And they adopted creative provisions to further strip any temptation their descendants might have to cash out. Perhaps the most remarkable move was combining four trusts held by different — and differently sized — branches of the family into a single trust. That act meant that some gave up nearly half of their holdings to establish the truly shared control they hoped would foster family unity.
+
+The result of these moves is that the family effectively eliminated any potential windfall for generations. Instead, the family’s central reward is the knowledge that its stewardship model — its commitment to the paper’s value and values — continues to be of service to an important institution, the journalists who work there and the public that depends on their reporting.
+
+Having spoken about the family at length, I should also say that the family leadership gets more credit than it deserves. One of the most important decisions any good steward can make is to surround oneself with smarter and more talented leaders. Our brilliant chief executive, Meredith Kopit Levien, is the most impressive business leader I’ve ever seen. Our steel-spined executive editor, Joe Kahn, is similarly the best in journalism. Our board of directors is majority independent, ensuring the company benefits from the expertise of a wide range of accomplished leaders from other fields. And below these top executives are countless other best-in-class editors and business leaders. Though family leaders like me are deeply involved in strategy and operations, our most important contribution is as a permission structure: encouraging leaders at all levels to place big bets, to stay strong under pressure, to do the right thing, to take the long view.
+
+A 175th birthday certainly offers some evidence that our model continues to work. And that our work continues to matter. But we take no false comfort from our longevity. Simply having been around a long time is not a guarantee of a bright future. The Hudson’s Bay Company made it twice as long — 355 years — before closing last year.
+
+Tradition, legacy, even consistent excellence can be powerful forces to discourage change. But good stewardship requires recognizing the ways an institution must evolve to keep pace with changing times, technologies and consumer preferences.
+
+That’s why I often tell colleagues that the main thing we’ve won over our last decade of transformation and growth is the right to compete for the next decade. We must remain oriented toward the future, awake to both its opportunities and its risks. We must remember that though we may be a success story in our industry, the industry is systematically failing. We are a fraction of the size of the tech giants that dominate the flow of information and attention. Google makes more profit every day than The Times does in an entire year. Not only do Netflix, Amazon and Spotify have hundreds of millions more subscribers, The Times also lags streaming platforms like Starz and Crunchyroll.
+
+My generation is about a decade into our chapter of stewardship. My job — in partnership with my cousins Sam Dolnick and David Perpich, both driving forces in the transformation of The Times — is to shepherd the paper through the next round of challenges and opportunities this era presents, from standing up to attacks on press freedom to navigating the emergence of artificial intelligence. Our formula will be the same one that has served the place for five generations.
+
+First, we’re adding value. We’ve nearly doubled the newsroom’s head count in the last decade. This includes significantly expanding our national and international coverage and more than tripling the ranks of investigative reporters. It also includes embracing new formats. “The Daily” and The Morning are now the largest news podcast and the largest newsletter in the country, each reaching far more people than the print newspaper ever did. Our video operation has more than doubled in the last two years. We’re using A.I. in ambitious ways, from helping our reporters comb through large data sets to creating an audio version of every story we publish.
+
+At the same time, we’ve transformed how we support audience interests and passions. Once constrained to publishing a few recipes a week in the newspaper, our NYT Cooking app now serves as a comprehensive, interactive guide through 25,000 handcrafted recipes. The Athletic boasts the largest roster of sports reporters in the world, while Wirecutter offers the most rigorously tested product reviews. Our NYT Games app has expanded from the Crossword to a broad suite of beloved offerings like Connections, Spelling Bee and Wordle.
+
+To accomplish all this, we’ve had to transform large parts of our culture. The Times is far more creative, collaborative, diverse and innovative than it was two decades ago. But we’ve held tight to the company’s guiding values, making clear that any change that requires The Times to compromise on independence or integrity isn’t a change worth making.
+
+In a media ecosystem increasingly overrun by pundits and influencers, The Times is investing more in original reporting than ever. As others chase what’s trending on social platforms, we still focus first and foremost on the issues that really matter. As polarized groups protest journalism that challenges their preferred narratives, we maintain our stubborn belief in the importance of providing different perspectives, even — perhaps especially — those you may disagree with. And as the rights and freedoms of journalists face growing pressure, no news organization has proved more willing to stand strong — and, when necessary, to fight the government in court — to ensure that the press is able to continue to ask important questions on behalf of the American public.
+
+As The Times celebrates its 175th birthday, the United States is celebrating its 250th. It’s no overstatement to say the story of our great nation and its paper of record are bound up together. America’s commitment to free expression and free inquiry enshrined in the First Amendment has enabled The Times’s model of journalism “without fear or favor.” In turn, our journalism has provided the public a reliable source of news and information that has strengthened our country — its economy, its security, its civic bonds — in countless ways.
+
+A disproportionate amount of what the public knows about this moment — and the 175 years that preceded it — they know because our journalists went to places, talked to people, asked tough questions and shared what they learned with the public as fully and fairly as possible. We have spent many billions of dollars and taken great risks to build the definitive archive of America’s history, one that is cited everywhere from college essays to Supreme Court rulings.
+
+Along the way, our work has helped expose miscarriages of justice, save taxpayer dollars and lead to lifesaving reforms. But our main purpose has always been to help people of all stripes better understand what’s happening and why it matters, to help them engage more deeply with their world. Every president, regardless of his party or his complaints, reads our work. So do millions of others, from the leaders of Wall Street and Silicon Valley to the teachers, librarians and professors nurturing the next generation of minds. Which is a reminder that success takes many forms.
+
+I can’t pretend all this has been easy. And it’s a safe bet that even larger challenges loom. But if I can complete my tour of service by handing off a stronger company to a capable successor, then I’ll have done my job. And it will be up to the next generation to push the place to new heights. That is what it means to be a good steward.
+
+So let me ask all of you, particularly those of you preparing to embark upon a career, to borrow from the recipe that has served The New York Times — and our nation — so well.
+
+When you build, build something of value. When you face hard choices, face them with considered values. And when you lead, lead in the spirit of stewardship.
+
+Your investments may take a while to pay off. But when they do, your reward will be that highest of professional achievements: being part of something worthy and enduring.
+
+Source photographs, from top left to right: Eric Schwab/AFP, via Getty Images; CBS, via Getty Images; Stephen Jaffe/AFP, via Getty Images; The New York Times Photo Archives; Michael Evans/The New York Times; Angela Weiss/AFP, via Getty Images; Alexi Rosenfeld/Getty Images; Rae Russel/Getty Images; Bettmann/Getty Images; Victor Llorente for The New York Times; Eddie Hausner/The New York Times.
+
+A.G. Sulzberger is the publisher of The New York Times and the chairman of The New York Times Company. He is the sixth member of the Ochs-Sulzberger family to lead the company since it was purchased in 1896.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+supreme-court-john-roberts-religion.html
+Source: PreloadedData  Paragraphs: 15  Words: 1158/1235
+================================================================================
+
+SUMMARY
+
+Chief Justice John Roberts has accomplished so much of his agenda that it’s not easy, as he begins his 22nd Supreme Court term, to think of what unfinished business might remain. The plaintiffs’ basic argument was that under the analysis the Supreme Court applied in the secondary school tuition case from Maine, Colorado’s refusal to grant the exemption violated the First Amendment’s guarantee of the free exercise of religion. “This case is different,” the appeals court said.
+
+ARTICLE
+
+Religion Is the Roberts Court’s Unfinished Business
+This case has flown under the radar, but it won’t stay there.
+By Linda Greenhouse
+Published 2026-09-30 09:01 UTC
+https://www.nytimes.com/2026/09/30/opinion/supreme-court-john-roberts-religion.html
+
+Chief Justice John Roberts has accomplished so much of his agenda that it’s not easy, as he begins his 22nd Supreme Court term, to think of what unfinished business might remain.
+
+Affirmative action is dead. Roe v. Wade is a fading memory. The Voting Rights Act of 1965 is in shreds, rendered incapable of serving its original mission of preventing states from undermining the political power of minority citizens. The executive branch agencies known collectively as the administrative state have lost their independence, with the president now able to fire nearly all agency heads for any reason or no reason at all. Federal judges are no longer to defer to an agency’s interpretation of its own authority, instead being told to decide for themselves the validity of agency regulations. Historical claims that fly under the banner of “originalism” have frozen the government’s ability to regulate the ownership of lethal weapons.
+
+While it’s a daunting list, some readers might notice that I have omitted one major focus of the Roberts court. Doesn’t religion belong in any inventory of completed projects?
+
+Not yet.
+
+That may seem a startling conclusion, given how significantly the court over the past decade has reoriented the relationship between church and state — a recent law review article by three constitutional law scholars calls the shift “a systematic dismantling of the previous legal regime.” A series of decisions, most of which bear the chief justice’s name, has established the principle, without precedent in constitutional history, that whatever public benefit secular institutions get, religious institutions are entitled to as well. The first of these, in 2017, required Missouri to include a church’s school in a state program to resurface school playgrounds, despite a “no aid” provision in its Constitution that barred the state from giving money to churches. Exclusion of the church from the program, Chief Justice Roberts wrote, was “odious to our Constitution.”
+
+In 2022, the court declared unconstitutional Maine’s exclusion of religious schools from a program that subsidizes private school tuition for families in districts without a public secondary school. If the leap from preschool playgrounds to secondary school tuition seemed head-spinning, it was a leap the chief justice did not acknowledge in his opinion, Carson v. Makin. The principles of the first decision “suffice to resolve this case,” he wrote.
+
+That is a huge amount of ground for the Supreme Court to have traversed in a short time. More is on the way. In its new term that begins next week, the court will decide whether the equality principle these cases have established is enough, or whether religion is entitled not just to equality, but to preference, in this instance a carve out from the rules that constrain secular institutions. The case is from Colorado, where a state “universal preschool” program operating since 2023 offers free prekindergarten to all 4-year-olds. Families can choose any participating preschool, secular or religious, that meets the quality standards established at the direction of the legislature. One of the standards is a nondiscrimination requirement: In admitting students whose families apply, the school may not discriminate on the basis of “race, ethnicity, religious affiliation, sexual orientation, gender identity, lack of housing, income level or disability.” Some 2,000 public and private schools, including dozens of religious schools, take part in the program.
+
+For the Archdiocese of Denver, the sexual orientation and gender identity portions of the nondiscrimination provision posed a conflict. The archdiocese requires that parents who send their children to its schools accept the Roman Catholic Church’s teachings on marriage and family, asking them before enrollment to sign a statement of “community beliefs.” Same-sex and transgender parents need not apply. The archdiocese told its parishes not to participate in the program and requested an exemption from the two provisions. The state’s Department of Early Childhood replied that there was no option in state law for an exemption; every aspect of the nondiscrimination policy applied to all.
+
+Two parishes, St. Mary, in Littleton, and St. Bernadette, in Lakewood, sued the state, along with a husband and wife from Littleton who wanted a state-funded Catholic education for their children. (The archdiocese joined the lawsuit but was dismissed for lack of standing.) The plaintiffs’ basic argument was that under the analysis the Supreme Court applied in the secondary school tuition case from Maine, Colorado’s refusal to grant the exemption violated the First Amendment’s guarantee of the free exercise of religion. The Federal District Court in Denver, in a decision affirmed by the U.S. Court of Appeals for the 10th Circuit, disagreed.
+
+“This case is different,” the appeals court said. It explained that while the Maine case and the cases that preceded it concerned a public program’s actual exclusion of religious schools, Colorado has “welcomed and actively solicited their participation.” The court added: “The only relevant limitation on any preschool’s participation is the nondiscrimination requirement which applies to all preschools regardless of whether they are religious or secular.” It noted that the state was neither targeting religion nor “attempting to prohibit funds from being used for religious purposes.”
+
+The anodyne sound of that observation — that of course the state wasn’t preventing the direct use of public money for religious education — shouldn’t obscure the full dimension of the change the court has wrought in the constitutional law on religion. The notion that the First Amendment’s other religion clause, the prohibition against the “establishment” of religion, might have anything to say about this arrangement sounds now like the vestige of a distant past, so thorough has been the establishment clause’s erasure from constitutional notice.
+
+This case, St. Mary Catholic Parish v. Roy, puts to the justices the question of whether they are satisfied with what they have accomplished so far. Is equality enough? And if discrimination is an issue in the case, wherein does the discrimination lie?
+
+For the Becket Fund for Religious Liberty, the powerhouse religious law firm that brought this case to the Supreme Court, the question is clear. The news release it issued in April, when the court granted its petition, offered this account: “The Supreme Court today agreed to decide whether Colorado can continue excluding Catholic families and preschools from the state’s ‘universal’ preschool program because of their faith.” A tendentious framing, but well tailored to reach the ears of those justices primed to take an apocalyptic view of any seeming incursion on the interests of religious believers.
+
+A friend of the court brief filed on the state’s side by Marci Hamilton, a religion scholar known for opposition to the court’s current course, proposes this counter framing: “This court should not undermine Colorado’s commitment to equality by transforming religious freedom into a doctrine that mandates taxpayer-subsidized discrimination.”
+
+This case has flown under the radar in the months since the court granted the Becket Fund’s petition, but it won’t remain there as the Nov. 3 argument date approaches. Equality or preference? The choice is stark — and Chief Justice Roberts’s project, for now, remains unfinished.
+
+Linda Greenhouse, the recipient of a 1998 Pulitzer Prize, reported on the Supreme Court for The Times from 1978 to 2008.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+trump-vance-fraud-congress.html
+Source: PreloadedData  Paragraphs: 15  Words: 988/1043
+================================================================================
+
+SUMMARY
+
+Since March, Vice President JD Vance has been tasked with rooting out any fraud perpetrated against the federal government. The White House says that since then it has “uncovered” hundreds of billions of dollars in fraud and “stopped” tens of billions in ongoing fraud. If it’s done just before the end of the fiscal year, the White House can effectively cancel the appropriation, since the funds will have expired by the time Congress votes on the rescission request.
+
+ARTICLE
+
+Trump Wants to Get His Hands on the Power of the Purse
+The search for fraud in the federal government must always end in the same place.
+By Jamelle Bouie
+Published 2026-09-30 09:09 UTC
+https://www.nytimes.com/2026/09/30/opinion/trump-vance-fraud-congress.html
+
+Since March, Vice President JD Vance has been tasked with rooting out any fraud perpetrated against the federal government. “This is a very big thing that we’re doing,” President Trump said when he announced the task force. “If we found half of the fraud that’s taking place in this country — and I think you have a chance of doing that — we would have much more than a balanced budget.”
+
+The White House says that since then it has “uncovered” hundreds of billions of dollars in fraud and “stopped” tens of billions in ongoing fraud. But, as my newsroom colleague Linda Qiu notes in a recent report, “It is difficult to verify those figures because there is no publicly available breakdown of the total.” And while fraud is real, there has been no independent verification of the administration’s claims. They’re asking us, in short, to take their word for it.
+
+Last week, in a news conference with Mehmet Oz, administrator for the Centers for Medicare and Medicaid Services, the vice president announced a new quarry in his hunt: an alleged 750,000 people fraudulently enrolled in health insurance through the Affordable Care Act. “We had a system in this country that rewarded brokers, that made people rich for enrolling fake people in programs that are meant to ensure that our fellow citizens have health care,” Vance said. “This was a scandal.”
+
+Again, the White House has given us very little to verify that this was actual fraud. We are supposed to trust that this administration is earnestly looking for fraud in public programs even as it seeks to undermine the programs themselves.
+
+But the biggest reason to be skeptical of the administration’s narrative is the fact that it comes as the White House itself, starting from the very top, actively works to defraud the American people.
+
+It does not receive as much attention as Trump’s assault on American cities or his draconian program of deportations and removals, but the president and his administration have been waging an all-out war on Congress’s once-sacrosanct power of the purse.
+
+In an effort spearheaded by Russell Vought, director of the Office of Management and Budget and a key architect of the Heritage Foundation’s Project 2025, the White House has unilaterally canceled billions of dollars of spending approved by Congress. It has withheld funds for both Head Start and the Federal Emergency Management Agency; for grants issued by the National Institutes of Health and for funds allocated under the Inflation Reduction Act. According to the Government Accountability Office, a watchdog agency within the legislative branch, the administration is engaged in serial violations of the Impoundment Control Act, a Watergate-era law meant to block presidential attempts to rewrite or otherwise ignore congressional appropriations.
+
+In an April hearing before the Senate Budget Committee, Vought denied accusations from Democrats that the White House had broken the law. “We have not impounded anything,” Vought said. But what he has done is try to run out the fiscal clock on spending funds through the end of the government’s fiscal year, which closes Sept. 30. To do this, he is using a presidential request to Congress to not spend the appropriation, called a rescission, as a means of delay.
+
+When the president requests a rescission, the money is put on hold for 45 days. If it’s done just before the end of the fiscal year, the White House can effectively cancel the appropriation, since the funds will have expired by the time Congress votes on the rescission request. This is known as a “pocket rescission,” and it is a way to game the process so that the president can pick and choose what he wants to spend.
+
+Trump’s attempt last week to slash roughly $800 million in spending on refugee resettlement, grants to migrant students and funds for minority businesses was a pocket rescission — an attempt to get around Congress’s spending authority.
+
+It is difficult to overstate the way this subverts the basic structure of the American system. The power of the purse is paramount — it gives Congress ultimate authority over the entire operation of government. A president who wields this power is a president who can effectively cancel any law or nullify any agency he dislikes by refusing to spend the money appropriated for it.
+
+The framers placed the power of the purse in the legislature, and specifically in the House of Representatives, because they believed it was important to tie it as closely as possible to the direct interests of the people. In so doing, they were informed by the experience of 17th-century England and Parliament’s clash with monarchical power during and after the English Civil War. To place the power to spend — and tax — in the hands of the people, however defined, was to safeguard liberty from the grasping hands of a tyrannical king or corrupt executive.
+
+Trump’s attempt to seize spending power from Congress is not just about his preferred policies; it is also about his effort to etch himself into the nation’s built landscape with new structures and monuments. Hundreds of millions, if not billions, of dollars in taxpayer funds are flowing to the president’s ballroom and triumphal arch, among other supposed beautification projects. This is true despite the fact that Congress has yet to make a specific appropriation for Trump’s gaudy revamp of the nation’s capital.
+
+But much of the trouble involves the president treating the public treasury as his own to use as he sees fit. Trump rejects any distinction between himself and the office he holds. The presidency belongs to him, as does the nation itself. (This helps explain why he felt he could remove journalists from the White House. In his mind, they are in his house, accountable only to him.)
+
+And if it all belongs to him, then who is to say that he can’t decide what he wants to spend? Who has the right to tell him anything at all?
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+california-governor-race-debate-becerra-hilton.html
+Source: PreloadedData  Paragraphs: 22  Words: 842/842
+================================================================================
+
+SUMMARY
+
+The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections. Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
+
+ARTICLE
+
+California Governor Candidates to Face Off in Televised Debate
+Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.
+By Laurel Rosenhall
+Published 2026-09-30 12:00 UTC
+https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html
+
+The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election.
+
+After a wild primary campaign this year, the governor’s race has settled into a low-key affair. Xavier Becerra, a Democrat who served as health and human services secretary under President Joseph R. Biden Jr., is a heavy favorite in a state dominated by his party. He is facing Steve Hilton, a Republican who was once a Fox News television host and an aide to David Cameron, the former British prime minister.
+
+CNN will host the debate at 6 p.m. local time, just days before ballots begin landing in voters’ mailboxes.
+
+Univision, the Spanish-language network, told The New York Times that both candidates have also agreed to participate in a town-hall-style forum on Oct. 20. But the candidates will not appear at the same time at that event.
+
+Mr. Hilton, 57, who has lagged in polls and fund-raising, stands to gain more than Mr. Becerra from the national exposure that Wednesday’s debate will provide. He has been traveling the state to hold campaign events and sit for media interviews, trying to catch voters’ attention however he can.
+
+By comparison, Mr. Becerra, 68, has made limited public appearances since the June primary. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections.
+
+The two men are vying to lead a state during a moment of economic pessimism, recent polling shows. Price increases and high housing costs are straining many households, and reducing the cost of living is a top priority for a plurality of likely voters.
+
+Gov. Gavin Newsom, who must leave office in January because of term limits, made sparring with President Trump a core part of his strategy as governor. The candidates running to replace him are taking cues, as Mr. Trump remains deeply unpopular in California.
+
+Mr. Becerra has attacked Mr. Trump’s moves to restrict voting access while serving as an adviser on a lawsuit against a Republican sheriff who seized ballots and while campaigning against a California ballot measure to require voter identification. Mr. Becerra was California’s attorney general before he worked for the Biden administration.
+
+“It’s really a threat to our democracy, and he’s working hard to protect people’s right to vote,” said Jonathan Underland, a spokesman for Mr. Becerra.
+
+Mr. Hilton got Mr. Trump’s endorsement, which may have benefited him in the primary but now requires a difficult balancing act. He is trying to appeal to California voters who dislike the president while still keeping MAGA voters in his camp.
+
+“Can you be anti-Trump but still vote for me?” Mr. Hilton asked in a full-page newspaper ad this summer that outlined the reasons he believed voters who oppose the president should still support him.
+
+He said he’s met many voters on the campaign trail who tell him, “One-party rule just isn’t working, and we need a bit of balance.”
+
+“I hear that often,” Mr. Hilton said in an interview.
+
+For the Univision town halls in October, the candidates will appear separately and take questions from the audience. Mr. Becerra will address voters in Spanish, which he grew up speaking in California with his parents, who immigrated from Mexico. An interpreter will translate the responses given by Mr. Hilton, who grew up in England with parents who emigrated there from Hungary.
+
+Most voters view debates as a partisan “team sport,” said Kim Nalder, a political science professor who leads the Project for an Informed Electorate at California State University, Sacramento. But she said that the debate may help some voters decide whom to support given that many are still learning about the candidates.
+
+Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
+
+“In this particular case, I think it is possible that some persuasion might happen because the impressions are not already formed,” Ms. Nalder said.
+
+In general, she said, televised political debates have had less impact in recent years as media habits have changed and candidates have focused more on turning out their supporters rather than persuading undecided voters to choose them.
+
+This summer, Mr. Hilton called for at least six debates. But front-runners like Mr. Becerra who enjoy a lopsided partisan advantage often decide that they have more to lose than gain from debating.
+
+Mr. Newsom was even more elusive than Mr. Becerra in 2018, the last time California had an open race for governor. The two candidates met for just one debate ahead of the general election — and very few people saw it.
+
+Mr. Newsom, a Democrat who was lieutenant governor, debated John Cox, a Republican businessman, on the radio. No television cameras were allowed to broadcast the event. And it took place in the middle of a Monday morning.
+
+================================================================================
+oakland-police-reform-federal-oversight.html
+Source: PreloadedData  Paragraphs: 22  Words: 842/842
+================================================================================
+
+SUMMARY
+
+The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections. Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
+
+ARTICLE
+
+California Governor Candidates to Face Off in Televised Debate
+Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.
+By Laurel Rosenhall
+Published 2026-09-30 12:00 UTC
+https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html
+
+The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election.
+
+After a wild primary campaign this year, the governor’s race has settled into a low-key affair. Xavier Becerra, a Democrat who served as health and human services secretary under President Joseph R. Biden Jr., is a heavy favorite in a state dominated by his party. He is facing Steve Hilton, a Republican who was once a Fox News television host and an aide to David Cameron, the former British prime minister.
+
+CNN will host the debate at 6 p.m. local time, just days before ballots begin landing in voters’ mailboxes.
+
+Univision, the Spanish-language network, told The New York Times that both candidates have also agreed to participate in a town-hall-style forum on Oct. 20. But the candidates will not appear at the same time at that event.
+
+Mr. Hilton, 57, who has lagged in polls and fund-raising, stands to gain more than Mr. Becerra from the national exposure that Wednesday’s debate will provide. He has been traveling the state to hold campaign events and sit for media interviews, trying to catch voters’ attention however he can.
+
+By comparison, Mr. Becerra, 68, has made limited public appearances since the June primary. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections.
+
+The two men are vying to lead a state during a moment of economic pessimism, recent polling shows. Price increases and high housing costs are straining many households, and reducing the cost of living is a top priority for a plurality of likely voters.
+
+Gov. Gavin Newsom, who must leave office in January because of term limits, made sparring with President Trump a core part of his strategy as governor. The candidates running to replace him are taking cues, as Mr. Trump remains deeply unpopular in California.
+
+Mr. Becerra has attacked Mr. Trump’s moves to restrict voting access while serving as an adviser on a lawsuit against a Republican sheriff who seized ballots and while campaigning against a California ballot measure to require voter identification. Mr. Becerra was California’s attorney general before he worked for the Biden administration.
+
+“It’s really a threat to our democracy, and he’s working hard to protect people’s right to vote,” said Jonathan Underland, a spokesman for Mr. Becerra.
+
+Mr. Hilton got Mr. Trump’s endorsement, which may have benefited him in the primary but now requires a difficult balancing act. He is trying to appeal to California voters who dislike the president while still keeping MAGA voters in his camp.
+
+“Can you be anti-Trump but still vote for me?” Mr. Hilton asked in a full-page newspaper ad this summer that outlined the reasons he believed voters who oppose the president should still support him.
+
+He said he’s met many voters on the campaign trail who tell him, “One-party rule just isn’t working, and we need a bit of balance.”
+
+“I hear that often,” Mr. Hilton said in an interview.
+
+For the Univision town halls in October, the candidates will appear separately and take questions from the audience. Mr. Becerra will address voters in Spanish, which he grew up speaking in California with his parents, who immigrated from Mexico. An interpreter will translate the responses given by Mr. Hilton, who grew up in England with parents who emigrated there from Hungary.
+
+Most voters view debates as a partisan “team sport,” said Kim Nalder, a political science professor who leads the Project for an Informed Electorate at California State University, Sacramento. But she said that the debate may help some voters decide whom to support given that many are still learning about the candidates.
+
+Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
+
+“In this particular case, I think it is possible that some persuasion might happen because the impressions are not already formed,” Ms. Nalder said.
+
+In general, she said, televised political debates have had less impact in recent years as media habits have changed and candidates have focused more on turning out their supporters rather than persuading undecided voters to choose them.
+
+This summer, Mr. Hilton called for at least six debates. But front-runners like Mr. Becerra who enjoy a lopsided partisan advantage often decide that they have more to lose than gain from debating.
+
+Mr. Newsom was even more elusive than Mr. Becerra in 2018, the last time California had an open race for governor. The two candidates met for just one debate ahead of the general election — and very few people saw it.
+
+Mr. Newsom, a Democrat who was lieutenant governor, debated John Cox, a Republican businessman, on the radio. No television cameras were allowed to broadcast the event. And it took place in the middle of a Monday morning.
+
+================================================================================
+ai-arms-race.html
+Source: PreloadedData  Paragraphs: 48  Words: 1766/1766
+================================================================================
+
+SUMMARY
+
+The United States and the Soviet Union were jockeying desperately for advantage during the Cold War arms race. With shared information, “Because OpenAI knows that they’re going to get caught speeding up, that Anthropic is going to speed up in response, that they’re going to start an arms race or an A.I. race — that itself can stop them from racing past the safety threshold,” Professor Koh said. The voluntary agreement signed this week may help the leading U.S. companies agree on where the safety threshold is, and whether existing capabilities have crossed it already, he said.
+
+ARTICLE
+
+A Way Out of the A.I. Arms Race?
+New research points to how the world could stop short of the brink of disaster. Even with the agreement signed at the White House by tech leaders, it won’t be easy.
+By Amanda Taub
+Published 2026-09-30 09:04 UTC
+https://www.nytimes.com/2026/09/30/world/europe/ai-arms-race.html
+
+Over the course of two harrowing weeks in October 1962, the world came within an eyelash of nuclear Armageddon.
+
+The United States and the Soviet Union were jockeying desperately for advantage during the Cold War arms race. After the United States stationed intermediate-range nuclear missiles in Italy and Turkey, the Soviets, fearing a first strike, sought to station their own nuclear weapons in Cuba. The tense two-week standoff that ensued, the Cuban Missile Crisis, nearly escalated into nuclear war.
+
+But it didn’t. Not only did the parties step back from the brink, the crisis proved to be a turning point in the Cold War itself.
+
+That brush with calamity changed the thinking of leaders on both sides, said William Wohlforth, a political scientist at Dartmouth who studies national security and international relations. “Right away we got the hotline agreement, so we could talk to each other. We began to work toward the testing agreement. And slowly, in the subsequent years we got a big, complex bilateral arms-control process.”
+
+The United States and the Soviet Union remained bitter enemies. But on one point of shared interest — not obliterating humanity — they could work together.
+
+Today experts in the artificial intelligence industry are sounding alarms that A.I. companies, and the countries where they are based, are locked in their own kind of arms race. The consequences, many believe, could be as disastrous as the nuclear war that President John F. Kennedy and the Soviet leader, Nikita Khrushchev, narrowly avoided.
+
+There are important differences, of course. Artificial intelligence models are not atomic bombs, even if they can be turned to military uses. Catastrophic A.I. risks remain seemingly more speculative than the specter of nuclear war was in the 1960s. And companies seeking a market advantage are not the same as superpowers fighting for global supremacy, even if the United States and China are vying for the upper hand of the new technology and the broad global advantages it could bring.
+
+But at its core, the A.I. competition points to the same question that loomed over the Cold War: How can adversaries cooperate on keeping the world safe, even as they compete for economic and geopolitical dominance?
+
+A new working paper by Drew Fudenberg, an economics professor at M.I.T. who is a leading game theorist, and Andrew Koh, an economics professor at Columbia University and a research scientist at Google DeepMind, suggests a possible way to slow the A.I. arms race to a safer pace.
+
+It would require the players in the competition, both companies and governments, to share good information about their advances, and to agree on where danger actually begins.
+
+Despite the voluntary agreement signed by tech leaders at the White House on Tuesday, neither condition is currently being met, and the number and variety of players may make it challenging to do so. But the paper suggests what could be possible.
+
+The Safety Game
+
+Professors Koh and Fudenberg start from a simple premise: Everyone has an interest in averting catastrophe, no matter how self-interested they may be.
+
+At the same time, they argue, the major players in the A.I. industry are under strong incentives to compete for dominance. The companies want the market share and billions of investment dollars that the most advanced models will bring. Governments want the economic benefits of A.I. and also access to advanced models for their own purposes.
+
+Those competitive pressures spur the players to race dangerously toward the brink of disaster, where many worry that rogue A.I. agents could, for instance, bring down government or financial systems, sabotage vital infrastructure or launch a biological attack.
+
+Professors Koh and Fudenberg suggest that if the competitors were to share information — on their technological progress and how close they are to the edge of the safety frontier — those incentives would change.
+
+If the players, including companies like OpenAI and Anthropic, can see that no one is racing into dangerous territory, they will have less motivation to do so themselves, the paper reasons.
+
+Conversely, players will also know that if they do race into danger, their competitors will see and likely do the same, creating an intolerable level of risk for everyone.
+
+With shared information, “Because OpenAI knows that they’re going to get caught speeding up, that Anthropic is going to speed up in response, that they’re going to start an arms race or an A.I. race — that itself can stop them from racing past the safety threshold,” Professor Koh said.
+
+He compared the scenario to “second strike” capabilities during the Cold War. Both the United States and the Soviet Union built weapons that would allow them to strike back in the event of a nuclear attack.
+
+“One reason to not attack first is that I know that if my opponent has a second strike capability, we are just going to destroy the world,” Professor Koh said. “And that itself would have prevented first strikes.”
+
+The same logic, he says, could hold true for A.I.
+
+To Trust, Verify
+
+Right now, that sharing is not happening.
+
+Companies like Anthropic and OpenAI develop their most advanced A.I. models behind closed doors, so the companies must guess at each other’s progress. But if the companies accepted outside monitors who could disclose vital safety and progress information, that would help establish trust. There is already evidence that some of the biggest players in A.I. would be willing to go that route.
+
+Dario Amodei, the chief executive of Anthropic, called in a recent essay for A.I. companies to accept embedded independent safety monitors, and said his company would unilaterally agree to do so.
+
+“Dario is right,” Elon Musk, who runs an A.I. venture within his company SpaceX, wrote on X in response to Mr. Amodei’s essay. Sam Altman, the chief executive of OpenAI, did the same.
+
+Chinese companies have not supported the plan, but there are signs that they, too, are starting to take the need for outside monitoring seriously, said Jeffrey Ding, a political scientist at George Washington University who researches U.S.-Chinese competition around emerging technology.
+
+For example, Moonshot, a Chinese company, recently submitted a new model to the United Kingdom’s A.I. Security Institute for review.
+
+At the moment, that kind of safety vetting is voluntary and inconsistent, but it could be systematized.
+
+Such a regime would potentially be similar to arms control treaties that included monitoring and inspection requirements to ensure compliance.
+
+But there are important questions about whether governments themselves would embrace it and, short of that, whether voluntary self-policing by a small group of entrepreneurs and their investors with billions on the line would be stable and transparent enough to ensure safety.
+
+Mr. Trump wants a hands-off approach by the government. Among those he convened at the White House on Tuesday were Mr. Amodei, as well as the leaders of Google, Meta, Nvidia, OpenAI and SpaceXAI.
+
+The agreement they signed expressed support for third-party monitoring of risks, but it did not appear to impose any concrete obligations. Mr. Trump said he thought the agreement would be “morally binding.”
+
+“And they’re really going to be policing each other,” Mr. Trump said, “and that’s the way it works.”
+
+Though a step in the right direction, Professor Koh said the agreement is unlikely to solve the current incentives problem. It does not include transparency about companies’ internal capabilities and leaves open the question of U.S.-China competition.
+
+The Blurry Brink
+
+In the Cold War, the danger of nuclear weapons was clear and concrete. The world had seen their terrifying power in Hiroshima and Nagasaki. There was no doubt that the superpowers could eliminate any city at the touch of a button — potentially touching off a war that could end life on earth.
+
+For the moment, A.I. isn’t like that, and not all agree on where the brink of catastrophe actually lies. A.I. doomsday scenarios seem the stuff of science fiction to many.
+
+Even for experts, developers and policymakers there is wide disagreement on the risks and how fast they are approaching. That matters, because those who believe the danger threshold is far away lack incentive to slow down, even if there is sharing of information.
+
+Some employees of leading A.I. companies argue that the technology has a significant chance of killing all humans within the next decade.
+
+Others tend to see the risks as coming from negligence and ineptitude by A.I. companies, and a failure of other industries to harden their defenses against A.I.-powered tools.
+
+Then there are the A.I. evangelists, President Trump among them. Those who are calling for guardrails, he said, are “bringing up things that won’t happen.” He has made clear that he considers A.I. a winner-take-all game.
+
+Mr. Trump’s own motivations are not exactly the stuff of Cold War realpolitik. They have variously been reported as a desire for American dominance, keeping the stock market and economy afloat as an election approaches and enriching his family’s investment portfolio.
+
+All of those things add an extra layer of unpredictability, as does the Chinese government’s stance.
+
+Beijing is unlikely to agree to any monitoring regime that threatens its ability to catch up to the United States, which it currently trails in A.I. technology. For now, Mr. Ding said, it seems to see A.I. risks primarily through the lens of Communist Party control — maintaining the censorship regime — while defending against hostile forces like the United States and encouraging economic growth.
+
+This range of disagreement over the A.I. threat poses a problem for coordination on safety, Professor Koh said. The voluntary agreement signed this week may help the leading U.S. companies agree on where the safety threshold is, and whether existing capabilities have crossed it already, he said. But it is nonbinding and limited to just a few companies.
+
+The only way to get more agreement may be to encounter unambiguous lessons of the risks, he said. That, after all, is what happened when the Cuban Missile Crisis drove home the real risk of a nuclear holocaust.
+
+But the secrecy around the industry continues to obscure lessons of the potential dangers. The recent revelation that OpenAI agents hacked Australian government servers was made public only this month though the breach happened in June.
+
+The race continued all the while, with companies making unknown improvements to their agents’ skills and intelligence, and heightening fears that the agents could become self-interested players themselves.
+
+If that happens, “the models will likely convince people that everything is fine,” Daniel Selsam, an OpenAI researcher, wrote in a recent essay. “Moreover, they will eloquently explain how aligned they are, discuss the nuances of human values and ethics, and argue convincingly that humans should trust them with power.”
+
+================================================================================
+iraq-us-forces.html
+Source: PreloadedData  Paragraphs: 49  Words: 1917/1917
+================================================================================
+
+SUMMARY
+
+U.S. forces formally withdrew from Iraq on Wednesday, ending a two-decade military presence that stoked years of devastating bloodshed, and leaves behind a battered nation struggling to unshackle itself from its two most powerful, and now warring, allies. After toppling Saddam Hussein in 2003, the brutal dictator who ruled Iraq for nearly 24 years, American forces are making their second withdrawal from the country. American forces ultimately returned three years later — this time to lead the international coalition fighting the Islamic State, the jihadist force that once seized swaths of Iraq and Syria and became notorious for its slaughter of Shiite Muslim Iraqis, public killings of hostages, and torture and enslavement of women from Iraq’s Yazidi minority.
+
+ARTICLE
+
+After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future
+Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.
+By Erika Solomon, Falih Hassan and Eric Schmitt
+Published 2026-09-30 09:31 UTC
+https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html
+
+U.S. forces formally withdrew from Iraq on Wednesday, ending a two-decade military presence that stoked years of devastating bloodshed, and leaves behind a battered nation struggling to unshackle itself from its two most powerful, and now warring, allies.
+
+After toppling Saddam Hussein in 2003, the brutal dictator who ruled Iraq for nearly 24 years, American forces are making their second withdrawal from the country.
+
+The U.S. invasion and subsequent occupation, which ended in 2011, left a country reeling from sectarian bloodletting and militant insurgencies that cost nearly 4,500 U.S. lives and killed more than 115,000 Iraqis, according to the most modest counts.
+
+American forces ultimately returned three years later — this time to lead the international coalition fighting the Islamic State, the jihadist force that once seized swaths of Iraq and Syria and became notorious for its slaughter of Shiite Muslim Iraqis, public killings of hostages, and torture and enslavement of women from Iraq’s Yazidi minority.
+
+With the end of Operation Inherent Resolve — the U.S. military’s official name for the multinational campaign against the Islamic State — the last of the 2,500 U.S. forces stationed in Iraq this year are now gone.
+
+“The coalition successfully completed its organized withdrawal operation from Erbil,” Rear Adm. Liam M. Hulin, head of the joint task force for Operation Inherent Resolve, announced during a ceremony held by U.S. and Iraqi officials in Baghdad. Erbil, capital of Iraq’s semiautonomous Kurdistan region, hosted the last coalition base in Iraq.
+
+“I stand before you at this historic moment, when a nation reclaims its destiny,” Admiral Hulin said, in a speech given in Arabic.
+
+Promising that U.S. and Iraqi forces would forge new security partnerships, Admiral Hulin urged Iraq to remain vigilant, citing an Arabic proverb, “Gird yourself for the jackal with the belt of a lion.”
+
+Physical reminders of decades of war are being erased every day. The blast walls that once snaked through Baghdad have come down. Malls, restaurants and construction sites are buzzing in a country determined to reclaim the rhythms of normal life stolen by years of car bombs.
+
+Iraqis’ hard-won gains look more precarious in a region convulsing from the turmoil of the U.S.-Israeli war on Iran. Iraq is struggling to navigate its critical relationships with Iran, its powerful neighbor, and with its most important ally, Washington, wary of letting the exit of American troops in the country embolden Tehran.
+
+The U.S. withdrawal agreement was struck between the Baghdad government and the Biden administration in 2024. That President Trump’s administration followed through with the Sept. 30 deadline — despite the war with Iran — reflects broader U.S. determination to step back from the region.
+
+For years, there has been widespread American fatigue with so-called forever wars, as the conflicts in Iraq and in Afghanistan came to be known.
+
+Even as Iraq commemorates the U.S. withdrawal this week with a three-day “celebration of sovereignty,” the country is under huge pressure from the Trump administration to disarm Iran-backed Shiite Muslim militias, many of which are defying state efforts to bring them under control.
+
+The last U.S. forces leave a troubled American legacy. Iraq suffered huge numbers of civilian casualties and a cycle of sectarian violence between Iraq’s Shiite Muslim majority, empowered after years of repression by the Hussein government, and the Sunni minority, stripped of privileges it once held under his rule.
+
+U.S. forces also committed many abuses themselves — including the torture of Iraqi detainees at Abu Ghraib and the use of private defense contractors like Blackwater, whose extrajudicial killings of civilians fueled deep resentments over American impunity.
+
+Despite these grievances, Iraqis have been watching the U.S. departure with a sense of trepidation.
+
+“My wife lost her eyesight from the shrapnel of an American bullet,” said Omar al-Husseini, a photographer from Mosul, the city at the heart of the Islamic State’s self-proclaimed caliphate. “My uncle was killed by ISIS, after being paralyzed by an American bullet. But today, when we speak about the Americans’ departure, our happiness is mixed with fear.”
+
+Under the leadership of the novice prime minister, Ali al-Zaidi, Iraq faces the daunting task of reining in the vast array of militias.
+
+First established with Iranian support to fight the U.S. occupation, the militias killed hundreds of American soldiers, and the sectarian bloodshed they helped foment killed tens of thousands of Iraqis. In 2014, when Iraqi Shiites mobilized to fight the Islamic State, the militias multiplied. In the years since, the thousands-strong militias have grown in power — not only through military might but also by forming political parties that deeply embed them in the state.
+
+Mr. al-Zaidi has pledged to bring the militias under state control by mid-2027. But it is far from clear that he can deliver. The stakes are high: Through Iraq’s U.S.-based bank account for oil payments, Washington controls the physical shipment of dollars Iraq earns and has shown itself willing to use that power after temporarily halting the flow this year.
+
+Iran is determined to preserve the militias, which have proved to be valuable partners in launching strikes during the war, in sowing regional chaos and in inflicting drastic costs on the global economy.
+
+In a recent New York Times interview, Mr. al-Zaidi said, “Every Iraqi today wants his country to have complete sovereignty; they want power to be exclusively in the hands of the state,” and he pledged to end “the law of the jungle.”
+
+The unforeseen consequences of withdrawal
+
+Many Iraqis worry how their country will fare in this struggle.
+
+“We fear Iraq could be swallowed up,” said Ahmad al-Shammari, an employee at the ministry of education in Falluja, a city that came to symbolize the fragile victories of the first American military presence in Iraq.
+
+Falluja suffered the deadliest and most destructive battles to crush insurgents during the U.S. occupation, only to become the first city to be seized as Islamic State militants swept the country in 2014.
+
+When the U.S. forces returned to spearhead a multinational coalition to defeat the jihadist force, the struggle to rout the Islamic State reduced huge parts of Iraqi cities to rubble.
+
+It left an untold number of dead, displaced millions from Iraq’s Sunni minority and brought many more years of sectarian strife.
+
+The question for many ordinary Iraqis today is what unforeseen consequences this latest U.S. departure may have on their lives, whether that is a jihadist resurgence or the state’s imminent confrontation with Iran-backed militias.
+
+“I remember what happened after the withdrawal in 2011,” said Sarkawt Ahmad, a 26-year-old shopkeeper in northwestern Sulaymaniyah, in the Kurdistan region of Iraq. “Imagine what these pro-Iranian groups will do to us in the absence of the international coalition.”
+
+Some regional security experts argue that it was the continued U.S. presence in Iraq that allowed Iran-backed militias to justify their existence, and their arms.
+
+“We can’t just shape-shift these missions from one raison d’être to another, which is what we’ve done for 25 years,” said Adam Weinstein, a longtime proponent of U.S. forces’ ending their mission in Iraq who is the deputy director of the Middle East Program at the Quincy Institute, a research group.
+
+At the ceremony marking the U.S. withdrawal on Wednesday, Mr. al-Zaidi expressed Iraq’s thanks to the United States and to all other countries who supported the fight against ISIS for more than a decade.
+
+“The conclusion of the international coalition’s mission does not mean the end of our battle against terrorism,” he said. “It marks Iraq’s transition to a phase in which it assumes full responsibility for its security and stability.”
+
+Kurds are vulnerable under a new security order
+
+Though both countries have pledged to maintain robust collaboration, the United States and Iraq have still not finalized plans for their security relationship moving forward. In a statement, the Defense Department said it would continue to provide “targeted training and intelligence support” to Iraq.
+
+The last time American forces left Iraq, the United States maintained one of its largest embassies in the world there. Today, the American diplomatic presence is a small fraction of that, said Renad Mansour, an Iraq analyst at Chatham House, a research institute based in London.
+
+He said the shift reflected Washington’s desire to extricate itself from the Middle East: “In the bigger picture, this shows the U.S. is no longer what it used to be — but, also, its priorities are no longer what they used to be.”
+
+This situation has particularly unnerved Iraq’s semiautonomous Kurdistan region in the north, which saw how the Trump administration’s withdrawal of U.S. forces from Syria’s Kurdish-controlled northeast forced the region to come under central government control.
+
+Iraqi Kurds, who began establishing sovereignty in their region through U.S. air support in the 1990s, feel the most vulnerable under Iraq’s new security order. As one of the closest U.S. security partners in the region, Iraqi Kurdistan has come under repeated attacks by Iran and its allied Iraqi militias this year.
+
+Kurdish officials argue this reflects a serious problem for Iraqi security more broadly. “There is no air defense system neither in the Kurdistan region, nor in Iraq as a whole,” said Kifah Mahmoud, an adviser to Masoud Barzani, the first president of Iraqi Kurdistan. “This creates a sense of anxiety and uncertainty.”
+
+Baghdad’s efforts to assert its sovereignty have been repeatedly undermined in recent months by multiple incidents showing its lack of control over its sky and borders.
+
+Most recently, Saudi Arabia accused Iraq of being the origin site of the strike that temporarily shut down its east-west pipeline, which provides 4 percent of global oil supplies. Iraqi officials suspect Iraqi militias facilitated an attack by Iranian operatives.
+
+At the same time, Iraqi militias point to the fact that Israel set up covert bases in the Iraqi desert during the war with Iran. And for years, Turkish forces have controlled territory in northern Iraq, though Iraqi and Turkish officials recently announced plans for a phased withdrawal.
+
+Such gaps in Iraqi sovereignty may become the biggest vulnerability in the government’s campaign to control the militias.
+
+Days before the formal end of the U.S. military presence, Abu Mujahid al-Assaf, a leader from Kataib Hezbollah, one of Iraq’s most powerful Iran-backed militias, issued an ominous warning to the government if it kept complying with new U.S. sanctions against Tehran.
+
+“Let Mr. al-Zaidi and those standing behind him know: A government that does not work for the benefit of the people will be brought down through various means,” he wrote in a statement.
+
+The militias are trumpeting the official U.S. withdrawal day not as a success of the anti-Islamic State campaign, but of their own. They announced an afternoon celebration on the streets of Baghdad on Wednesday under the slogan: “We won’t keep you.” They called the withdrawal an “occasion made possible by the blessed blood of the martyrs and the patience of the fighters in the Iraqi Islamic Resistance.”
+
+Many Iraqis who reject the militias have painful memories of the U.S. presence in Iraq. Among them is Awatif al-Azawi, a 57-year-old who blames the United States for the death of her son, who she says was killed in the crossfire between militants and American forces in their hometown, Falluja.
+
+“I used to love the Americans because they delivered us from the oppression of Saddam Hussein” she said. “We unfortunately later discovered that the U.S. military’s oppression and cruelty were worse than Saddam.”
+
+On the first night that U.S. forces no longer maintain a presence in Iraq, she said, “I will bake a cake at home, light candles and blow them out to celebrate.”
+
+Kamil Kakol contributed reporting.
+
+================================================================================
+iraq-us-troop-withdrawal.html
+Source: PreloadedData  Paragraphs: 43  Words: 1466/1465
+================================================================================
+
+SUMMARY
+
+I got to Iraq a few weeks after the U.S. Army did. It was just a couple of days after the statue of the Iraqi dictator Saddam Hussein was pulled down in Baghdad by a crowd that included U.S. Marines. Now, they said, the United States and the military coalition it formed were there to bring democracy to Iraq.
+
+ARTICLE
+
+What I Saw as the U.S. Debacle in Iraq Unfurled
+The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much.
+By Alissa J. Rubin
+Published 2026-09-30 09:31 UTC
+https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html
+
+I got to Iraq a few weeks after the U.S. Army did. It was just a couple of days after the statue of the Iraqi dictator Saddam Hussein was pulled down in Baghdad by a crowd that included U.S. Marines.
+
+That was April 2003.
+
+I had assured my family that I would stay for maybe a week. At the time a correspondent for The Los Angeles Times, I recall telling relatives that I just wanted to “get the lay of the land and take a look around.” That ended up taking longer than I thought.
+
+From the beginning, the United States did not understand the country it was storming into. Twenty-three years later, as it pulls the last of its forces out, it probably still does not. I know I am still working to fully grasp it.
+
+There were so few U.S. service members left in Iraq at the end that when the last ones officially withdrew on Wednesday it made little difference in the daily lives of Iraqis. But that was hardly the case when the first American forces arrived on March 20, 2003.
+
+The early days of the invasion, which toppled a hated despot, were so heady with possibility that it was easy to dismiss the warning signs.
+
+Driving over the border, through the yellow desolate scrub of the country’s western desert, I passed blackened and twisted Iraqi military vehicles hit in American strikes. On the horizon I could see smoke still curling into the air from recent attacks. And everywhere was the smell of burning rubber.
+
+Amid all this wreckage, I wondered, what sort of welcome could an American expect?
+
+When I reached Baghdad, the capital, there was hardly anything to eat in the shops except out-of-date Cadbury toffees and canned tuna, which no one seemed to be buying except foreigners. In the streets, the mood was charged, watchful. But the Iraqis seemed not so much afraid of the invaders, even those in Humvees, as curious.
+
+I do not want to suggest the Americans were greeted with flowers — let alone as “liberators,” as the American vice president had predicted. But the Iraqis I met in those early days were intrigued at finally getting a glimmer of a future not defined by the brutality and restrictions of the Hussein regime. And it was the Americans who had helped bring that change.
+
+But the reason for the American invasion and the rationale for the occupation that followed seemed liked a moving target.
+
+The Bush administration had justified it initially with the claim — later discounted — that the Hussein government was developing chemical weapons.
+
+But the military officers and policymakers who had moved into the so-called Green Zone palaces had a new set of rationales for the war: It was not that Hussein was a danger to mankind, nor a brutal dictator. Now, they said, the United States and the military coalition it formed were there to bring democracy to Iraq. Or, as President George W. Bush put it: “to help the Iraqi people build a lasting democracy in the heart of the Middle East.”
+
+This began the pattern of adjusting or changing altogether the justification for the continued U.S. presence in the country. Along the way, the U.S.-led coalition made one disastrous misstep after another, starting almost from the first weeks after the invasion.
+
+One moment stands out.
+
+I remember vividly the order from Paul Bremer, the chief civilian administrator, to disband the Iraqi Army. “Do you mean, disband the whole army?” I asked a military press attaché.
+
+He said he would get back to me.
+
+Iraq had some 400,000 troops.
+
+Stunned, baffled and increasingly angry, dismissed Iraqi soldiers began to gather every morning at the gates of the Green Zone. When I asked what they thought about the order to disband, some shrugged and walked away. Others had a message for Washington.
+
+“Tell your president that we had to fight for Saddam,” one told me. “We are glad he’s gone.”
+
+Another, a veteran of the eight-year war between Iraq and Iran, said he was 51 and could not make ends meet without his pension. “I have five children,” he said. “My son lost his leg. I work as a janitor. I am too old to find a new job.”
+
+And there were even clearer signs of the trouble ahead.
+
+One man wearing a long, dark gray dishdasha robe — I still see his face in my mind’s eye — asked the interpreter where I was from. When he heard “U.S.,” his face twisted in disgust and he spat a stream of liquid at me.
+
+Some landed on my shoe. I stared at it, unsure whether to wipe it off. What message might that send? Would it seem as if I was ignoring what he had to say?
+
+I wondered if no one saw the widening gap between Iraqi hopes for a post-Hussein future and what the United States was actually offering.
+
+Yes, many Iraqis had unrealistic expectations. They wanted America to transform their country overnight into a Middle Eastern version of the shiny, idealized American world they knew from the bootlegged movies they had watched secretly under Hussein.
+
+But what many more Iraqis were unprepared for was America’s disregard for the economic realities of their lives. They were unprepared for the Americans’ failure to realize that when you take away a person’s job, you often take away their ability to navigate day-to-day life, their dignity, their place in their community, their family.
+
+Only much later did I connect the fury of the man who spat on me with his feeling of having been disrespected. I could see that a dangerous dynamic had already begun.
+
+A fast-growing and increasingly angry Sunni insurgency was becoming shrewder and more technically adept at taking on the American occupiers. The insurgents bombed U.S. checkpoints and military vehicles; they laid ever more sophisticated road bombs.
+
+That made the U.S. troops, many of whom were unprepared for the fraught mission handed to them, more skittish. The U.S. troops fired upon speeding cars near traffic stops, believing they were targeting them, even when they were just carrying families trying to get to safety. Some engaged in human rights abuses, among them the sexual violence and torture at the Abu Ghraib prison and the killing of civilians in Haditha.
+
+Not only did this fuel the insurgency, it helped lay the groundwork for a forerunner of the Islamic State terrorist group.
+
+And when the United States ousted Hussein, it created not just a political vacuum but, with the dismantling of the army, a security one. A U.S. nemesis, Iran, methodically set about backing Shia politicians with whom it shared common ground. Now, 23 years later, its allies are embedded in many Iraqi government agencies and politicians close to Iran have become kingmakers.
+
+The outlines of an emerging sectarian divide were already clear not long after Hussein’s fall. So was the specter of deepening fundamentalism among both Sunnis and Shiites.
+
+Some three weeks after I arrived, Iraqi Shiites were able for the first time in more than a decade to freely celebrate one of the holiest days in the Muslim year, Ashura. Thousands trekked from their homes for days — the old, the young, some in wheelchairs — to reach the city of Karbala in southern Iraq and its elaborately carved shrines with their soaring gilded minarets.
+
+I was unprepared for the religious intensity of the pilgrimage. The women wore long black abayas and tight black veils. The men carried prayer beads.
+
+Jotting down notes near one of the shrines, I did not at first realize that the shouting I was hearing was coming closer — and was directed at me. A group of clerics was bearing down, and other pilgrims were beginning to gather.
+
+What had I done?
+
+I looked for my interpreter, but he was nowhere in sight. As the men shook their fists, I felt a strong grip on my upper arm. It was a woman in an abaya. She nodded to the men and pulled me away.
+
+My offense soon became clear.
+
+The woman led me to a small group of other women sitting with children on a blanket, with small bowls of raisins and nuts. They pointed to my veil, which I had draped over my head in the style I had learned in Afghanistan. Then one pulled on a wisp of my hair that had escaped into view.
+
+The women never looked disapproving, but it was clear how seriously they took the situation. For half an hour they worked to refold and pin my head scarf so that not one hair could work its way out.
+
+When they were finished, one reached into her pocket and pulled out a small mirror to show me their handiwork.
+
+Then one smiled and handed me back my notebook.
+
+
+real	0m1.514s
+user	0m1.720s
+sys	0m0.346s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 

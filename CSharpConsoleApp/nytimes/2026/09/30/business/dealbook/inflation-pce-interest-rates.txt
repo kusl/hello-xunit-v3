@@ -1,0 +1,141 @@
+================================================================================
+inflation-pce-interest-rates.html
+Source: PreloadedData  Paragraphs: 40  Words: 1963/1964
+================================================================================
+
+SUMMARY
+
+Andrew here, back from D.C. The White House meeting between tech leaders and President Trump drew some skepticism over its voluntary self-policing pact — and fairly so. But rising fuel prices and borrowing costs have consumers and business owners feeling increasingly gloomy. Artificial intelligence agents are the hottest new product category in Silicon Valley — and increasingly a big business.
+
+ARTICLE
+
+Bracing for More Inflation Volatility
+Consumers, business owners and investors are growing increasingly concerned about rising inflation, and its potential repercussions.
+By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount
+Published 2026-09-30 11:45 UTC
+https://www.nytimes.com/2026/09/30/business/dealbook/inflation-pce-interest-rates.html
+
+Andrew here, back from D.C. The White House meeting between tech leaders and President Trump drew some skepticism over its voluntary self-policing pact — and fairly so. Still, getting top companies aligned on artificial intelligence safety is a step in the right direction. Conspicuously absent from the table was Apple, prompting questions about its position in the A.I. race despite Tim Cook’s close ties with Trump. The president invited Cook to last week’s state dinner for Xi Jinping, China’s top leader.
+
+Separately, Trump signed an executive order rebranding A.I. as “super intelligence” to try to reframe the narrative around a real breakthrough technology, leaving us to wonder what OpenAI will do with its name (only half-joking). While in town, I also attended the rollout of America.gov. Whatever your politics, if the portal does half of what was promised to simplify citizens’ lives, it will be a win.
+
+Finally, take a look at the news below on Ken Griffin’s record $3 billion gift to help build a Carnegie Mellon campus in Miami. Bringing a premier research institution to Miami could give the city a major boost.
+
+Price pinched
+
+The fast-growing U.S. economy has been a global outlier. But rising fuel prices and borrowing costs have consumers and business owners feeling increasingly gloomy.
+
+So far, the bull market rally is holding up. Yet investors are bracing for new economic data — beginning with the Personal Consumption Expenditures price index, set to be released at 8:30 a.m. Eastern — that could heap more pressure on the Fed to raise interest rates.
+
+The prospect of higher rates is already jolting the I.P.O. market.
+
+The latest:
+
+- The yield on the 10-year Treasury note was trading around 5.23 percent on Wednesday. The yield on the 30-year Treasury bond on Tuesday hit its highest level since June 2002.
+- S&P 500 futures are under pressure. The benchmark index is on pace for a monthly loss.
+- Brent crude, the international benchmark for oil, rose above $103 on Wednesday. The average price of diesel in the U.S. is at $6.41. A glimmer of hope: Oil exports from the Middle East have begun to rebound.
+
+Watch Wednesday’s P.C.E., the Fed’s preferred inflation measure. Economists surveyed by Dow Jones forecast that core inflation last month rose by 3.3 percent on an annualized basis — in line with the July number.
+
+- An update to how P.C.E. is calculated is expected to lower the final numbers slightly. “But that shouldn’t alter the underlying trend” that inflation is running well above the Fed’s 2 percent target, Mike Reid, head of U.S. economics at RBC Capital Markets, wrote to investors this week.
+
+Traders on Wednesday saw a 57 percent chance of the Fed leaving rates unchanged at its October meeting. But a hot P.C.E. number on Wednesday could push the odds for a rate increase higher.
+
+High inflation is weighing on sentiment. U.S. consumer confidence fell to its lowest level since 2014, the Conference Board reported on Tuesday. Respondents said they saw interest rates and inflation climbing over the next year.
+
+Business owners are feeling the pinch, too. The U.S. Chamber of Commerce and Justworks, a payroll processing firm, on Wednesday published their latest small-business survey. Only 27 percent of respondents described the national economy as being in “good health,” a sharp drop from a year ago; 54 percent said inflation was their biggest challenge.
+
+Could findings such as these put more pressure on the Trump administration to enact measures like, say, a ban on diesel exports to potentially bring down prices?
+
+HERE’S WHAT’S HAPPENING
+
+Mayor Zohran Mamdani’s tax on high-end second homes is dealt a blow. A judge ruled that New York City’s rollout of the tax had been mishandled because the Mamdani administration didn’t try hard enough to determine who should owe it. The lawsuit didn’t challenge the legality of the tax, but a new suit against the tax does claim it is unlawful.
+
+Paramount’s streaming chief leaves abruptly. The departure of Cindy Holland, who had joined last year, clears the way for Casey Bloys, the chairman of HBO, to assume the role as Paramount completes its $111 billion takeover of Warner Bros. Discovery. Hollywood is expecting more executive shake-ups at Paramount after the deal closes. (Elsewhere, a delay of Paramount’s debt sale to fund the deal could cost the company up to $500 million a year in extra interest, according to Bloomberg, which cited unnamed sources.)
+
+Oura’s now-delayed I.P.O. reportedly faced pushback on valuation. Some potential investors in the fitness wearable’s planned initial stock sale decided not to buy into the deal over worries about how much the company wanted for its shares and the poor performance of similar companies’ listings, Bloomberg reported. Oura’s move may help rattle Wall Street’s hopes for a bumper I.P.O. season this fall.
+
+A.I.’s ‘morally binding’ moment
+
+The artificial intelligence sector’s no-guardrails camp appeared to exit a White House luncheon on Tuesday with a clear victory.
+
+President Trump said his dining companions, a who’s who of tech titans, backed “tremendous self-regulation” of a technology that has drawn increasing security worries from many corners of the globe, including in Silicon Valley. But the details were scarce, and big questions loom.
+
+When asked by reporters who would scrutinize A.I. labs, Trump said that they would essentially be “policing each other” and that such an accord would be “morally binding.”
+
+Who was there? (See seating chart below)
+
+- Dario Amodei of Anthropic, who has been among the most vocal in urging formal regulation;
+- Jensen Huang, the C.E.O. of Nvidia, who has called proposed new regulations “completely unnecessary”;
+- Mark Zuckerberg of Meta and David Sacks, the venture capitalist and former Trump administration A.I. czar, who have also bristled at Amodei’s calls for more regulation;
+- Elon Musk, the C.E.O. of the rocket and A.I. company SpaceX;
+- Jeff Bezos, the founder of Amazon;
+- Sundar Pichai of Google;
+- And Greg Brockman, the OpenAI president who along with his wife, Anna Brockman, gave $25 million to MAGA Inc., a pro-Trump super PAC, in 2025.
+
+What was agreed, according to Trump’s social media post? The A.I. executives committed to:
+
+- “Implement robust internal controls” of their A.I. models during training and deployment, especially on issues of cybersecurity and biosecurity.
+- Call on independent evaluators or auditors to ensure that companies are adhering to the safety protocols.
+
+Worth noting, the commitments mirrored voluntary ones A.I. companies made during the Biden administration.
+
+Left unaddressed: How will the companies contend with a thicket of state regulations in the works, as well as measures from other countries? And what about the labs’ exposure to potential legal liabilities?
+
+OpenAI’s big bet on dots
+
+Artificial intelligence agents are the hottest new product category in Silicon Valley — and increasingly a big business.
+
+OpenAI’s take on them was the star of the A.I. lab’s developer conference on Tuesday in San Francisco, as the company stakes its claim in the agent industry, Sri Muppidi reports from the event.
+
+Meet dots, agents powered by OpenAI’s GPT-6 Astra model. Think digital assistants that are meant to proactively take actions — say book restaurant reservations or write code on behalf of users (within user-set limits).
+
+OpenAI is wading into an increasingly crowded field populated by Meta (Muse), SpaceXAI (Grok Bot) and the popular start-up Instinct.
+
+Driving the competition is the idea that A.I. tools are evolving from answering users’ queries to doing things for them — and the hope that they can drive, and disrupt, big business. Like Meta, OpenAI is pitching its agent software to professionals.
+
+- Some of the roughly 2,500 conference attendees were impressed. “Anything that can be more proactive in my life — and less time me sitting at a keyboard and asking Codex to do something — is good for me,” Max Aitel, a university student, told DealBook.
+- Others are reluctantly adapting. “Do I have a choice? Do I have a say?” Bhavani Kola, a math teacher at a community college, told DealBook.
+
+Dots is part of OpenAI’s effort to remake its business as it prepares for an eventual I.P.O. and seeks to catch up with rivals like Anthropic. The company has claimed that GPT-6 Astra beat the competition at tasks like coding. That said, it shelved a newer Astra model because of safety concerns.
+
+And it has talked up its strides in winning over business users, some of which are reflected in its latest financials. It is nearing $70 billion in annualized revenue, according to a person with knowledge of the company’s financials. The person, who spoke on the condition of anonymity and wasn’t authorized to discuss confidential data, confirmed a report by Axios. That’s up about 70 percent from July.
+
+OpenAI’s other big moves: It’s in early discussions to raise $30 billion at a $1.4 trillion valuation, the person added. (Bloomberg first reported the talks.)
+
+The fund-raising effort would help OpenAI pay for its huge computing power costs, as it leans toward putting off its public offering until next year to shore up its finances and focus on safety.
+
+- “I want OpenAI to be a public company someday,” Sam Altman, the company’s C.E.O., said at the conference. “But I don’t want to put additional pressure right now as we’re going through this significant change,” he said, referring to the company’s safety push.
+
+Ken Griffin’s recording-setting college donation
+
+Since moving the headquarters of his financial empire to Miami from Chicago in 2022, the hedge fund executive Ken Griffin has become a major booster for his new home base.
+
+Now, he is making a giant donation to help bring a world-class university to Miami.
+
+Griffin has pledged $3 billion to Carnegie Mellon University, the largest single donation in the history of American higher education, Alan Blinder reports for The Times:
+
+Some $2 billion of Mr. Griffin’s contribution involves a new 35-acre outpost in Miami’s artsy Wynwood neighborhood, where students are expected to enroll beginning in 2028. The university, which already has locations in Qatar and Rwanda, is forecasting that the Miami campus will eventually accommodate more than 3,500 students. The campus is the latest top university outpost planned for South Florida, where wealthy residents have long argued that the region needs to expand its ranks of well-trained college graduates to attract and retain businesses. Vanderbilt University, for instance, is planning a campus in West Palm Beach, and Northwestern University runs a graduate business program in Coral Gables.
+
+Griffin went to Harvard, and has donated more than $500 million to it. But he broke with the school after the Hamas-led attack on Israel on Oct. 7, 2023, and the ensuing turmoil at Harvard’s campus.
+
+Miami has become a philanthropic focus for Griffin. In February, he and Stephen Ross announced a campaign to promote the so-called Gold Coast region of Florida to companies.
+
+THE SPEED READ
+
+Deals
+
+- The investment bank Piper Sandler is said to be in talks to acquire Perella Weinberg Partners, a rival. (WSJ)
+- A meltdown at the hedge fund Situational Awareness has stoked worries about Wall Street’s rush to finance big bets on artificial intelligence. (NYT)
+
+Politics, policy and regulation
+
+- “How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes” (NYT)
+- In property news: Oracle’s Larry Ellison is said to have spent nearly $10 million on eight houses for his family’s staff near his Florida home; Mark Zuckerberg of Meta donated about $170,000 to three sports clubs near a castle he bought in Ireland; and Peter Thiel was reportedly behind the winning $130 million bid for Casa Encantada, a Los Angeles mansion that once belonged to the telecom mogul Gary Winnick. (WSJ, Irish Times, WSJ)
+
+Best of the rest
+
+- Gail Slater, a former Justice Department antitrust chief in the second Trump administration, is joining the law firm White & Case. (Bloomberg)
+- Why Starbucks, an outspoken proponent of sustainability measures, is retreating from its climate goals. (FT)
+
+We’d like your feedback! Please email thoughts and suggestions to dealbook@nytimes.com.
