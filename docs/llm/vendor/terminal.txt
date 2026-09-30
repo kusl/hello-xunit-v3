@@ -1,37 +1,37 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.109s
-user	0m10.587s
-sys	0m0.829s
+real	0m5.774s
+user	0m10.323s
+sys	0m0.766s
 
 Build succeeded in 0.4s
 
-real	0m0.603s
-user	0m0.594s
-sys	0m0.123s
-Restore complete (0.5s)
+real	0m0.574s
+user	0m0.587s
+sys	0m0.125s
+Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.5s
+Build succeeded in 1.4s
 
-real	0m1.615s
-user	0m1.196s
-sys	0m0.289s
+real	0m1.532s
+user	0m1.154s
+sys	0m0.267s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (732ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (677ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 915ms
+  duration: 873ms
 
-real	0m2.049s
-user	0m2.428s
-sys	0m0.461s
+real	0m1.979s
+user	0m2.289s
+sys	0m0.446s
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.348s
-user	0m0.179s
-sys	0m0.186s
+real	0m0.337s
+user	0m0.200s
+sys	0m0.159s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.391s
-user	0m1.358s
-sys	0m0.298s
+real	0m1.370s
+user	0m1.350s
+sys	0m0.284s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.445s
-user	0m1.375s
-sys	0m0.322s
+real	0m1.396s
+user	0m1.371s
+sys	0m0.274s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -711,7 +711,7 @@ Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesk
 
 ================================================================================
 data-centers-democrats-republicans.html
-Source: PreloadedData  Paragraphs: 25  Words: 1814/1836
+Source: PreloadedData  Paragraphs: 25  Words: 1815/1837
 ================================================================================
 
 SUMMARY
@@ -730,7 +730,7 @@ At the start of this year, the largest underlying trend in national politics sti
 
 The situation in Ohio was stark. In 2022, the governor, Mike DeWine, had beaten his Democratic opponent by 25 points. A year ago, the Trump-allied biotech billionaire Vivek Ramaswamy, who is running for governor, held nearly a double-digit lead over his Democratic opponent, Amy Acton.
 
-Ohio’s high-tech industry was big factor. A bipartisan enthusiasm spurred by President Joe Biden’s CHIPS and Science Act of 2022, it nonetheless played to the strengths of Republican incumbents. Intel was building a huge chip plant near Columbus. Mr. Ramaswamy was promising to turn the Ohio River Valley into the next Silicon Valley. “People talk about the Rust Belt,” he said in March of last year. “I don’t want to talk about the Rust Belt. I want to lead us to the platinum belt — the sectors of the future, from semiconductors to nuclear energy to even A.I.”
+Ohio’s high-tech industry was a big factor. A bipartisan enthusiasm spurred by President Joe Biden’s CHIPS and Science Act of 2022, it nonetheless played to the strengths of Republican incumbents. Intel was building a huge chip plant near Columbus. Mr. Ramaswamy was promising to turn the Ohio River Valley into the next Silicon Valley. “People talk about the Rust Belt,” he said in March of last year. “I don’t want to talk about the Rust Belt. I want to lead us to the platinum belt — the sectors of the future, from semiconductors to nuclear energy to even A.I.”
 
 But times have changed. This month, a YouGov poll for Bowling Green State University found Ms. Acton leading Mr. Ramaswamy by three points. The incumbent Republican senator Jon Husted has fared similarly. Mr. Husted appeared likely at the start of the year to keep his seat. But since June, polls have shown him trailing the former senator Sherrod Brown, who was soundly defeated by the Republican Bernie Moreno in 2024.
 
@@ -762,7 +762,7 @@ That was true of the data centers that Amazon was building in 2006, but serving 
 
 The result is a strange partisan landscape. It’s easy to think that data centers will become the Democrats’ issue, tying in to the party’s environmentalist commitments. But that is not what’s going on. The climate journalist Robinson Meyer told David Wallace-Wells of The Times recently that environmental arguments against data centers are sometimes overblown. The main reason people say they oppose them is water use, followed by electricity prices; but when a data center gets canceled, it is most often because of noise. In this respect the uprising against data centers resembles that against wind farms, a Republican movement if ever there was one.
 
-Mr. Trump’s simple-minded online attacks on those who oppose data centers have led many partisan Democrats to deduce that the tech industry is “allying” itself with him. But the tech industry is merely taking pains, as it always does, to stay on the good side of its regulators. That effort has caused a good deal of quiet corruption through the years, and Mr. Trump’s demand for public avowals of fealty have made the corruption overt.
+Mr. Trump’s simple-minded online attacks on those who oppose data centers have led many partisan Democrats to deduce that the tech industry is “allying” itself with him. But the tech industry is merely taking pains, as it always does, to stay on the good side of its regulators. That effort has caused a good deal of quiet corruption through the years, and Mr. Trump’s demand for public avowals of fealty has made the corruption overt.
 
 But all the Democrats have to do is win a presidential election, and they will rediscover that there is nothing — nothing at all — inherently Trumpian about the tech industry. They will inherit all the complexities that come with trying to push back against sector that is, for now, vilified and unpopular but vital to the economy.
 
@@ -1881,6 +1881,71 @@ Mr. Osborn, a union leader and Navy veteran, is in a tough race against Mr. Rick
 The spot is an effort by Democrats and their allies to gain traction in a red state, where registered Republicans outnumber Democrats nearly two to one. Mr. Osborn has repeatedly cast Mr. Ricketts, one of the richest members of the Senate, as uninterested in the concerns of everyday Nebraskans. The ad is an effort to undermine his character and reinforce that image.
 
 ================================================================================
+democrats-congress-israel.html
+Source: PreloadedData  Paragraphs: 24  Words: 1016/1016
+================================================================================
+
+SUMMARY
+
+Democrats in Congress are increasingly adopting a more punitive approach to dealing with Israel, taking a series of steps in recent days that suggest they would pursue sanctions for building new settlements and other actions against the Jewish state should they win majorities in November’s elections. On Tuesday, all but one Senate Democrat voted to advance a measure that would force the Trump administration to produce a human rights report examining violence by Israel in the West Bank, including the deaths of Palestinian American citizens, in a rebuke that would once have seemed unthinkable. Last week, Senator Chris Coons, the Delaware Democrat who would be in line to become the chairman of the Foreign Relations Committee if his party were to win control of the Senate, introduced legislation that would impose sanctions on Israel for the construction of settlements in the E1 area of the West Bank, a strategically significant patch of land that would split the West Bank in two and complicate the potential creation of a Palestinian state.
+
+ARTICLE
+
+Democrats in Congress Embrace a More Punitive Posture Toward Israel
+Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel’s conduct in the West Bank, as some in the party propose punishing settlement activity with sanctions.
+By Robert Jimison and Annie Karni
+Published 2026-09-30 00:12 UTC
+https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html
+
+Democrats in Congress are increasingly adopting a more punitive approach to dealing with Israel, taking a series of steps in recent days that suggest they would pursue sanctions for building new settlements and other actions against the Jewish state should they win majorities in November’s elections.
+
+On Tuesday, all but one Senate Democrat voted to advance a measure that would force the Trump administration to produce a human rights report examining violence by Israel in the West Bank, including the deaths of Palestinian American citizens, in a rebuke that would once have seemed unthinkable.
+
+The bid failed, but the near-unanimous level of Democratic backing for it reflected the party’s new willingness to embrace steps that had long been considered anathema given the relationship between the United States and its closest Middle East ally.
+
+At the same time, top Democrats in the House and Senate have proposed legislation that would impose sanctions on Israel for building settlements, making it clear to Israeli companies and banks that if they were involved with settlement building they would be penalized. The steps, months after almost half of House Democrats voted to cut off aid to Israel, are the latest sign of an expanding appetite in the party to move beyond expressions of disapproval and toward measures that could reorder the U.S.-Israeli relationship.
+
+“While I was pleased so many of my Democratic colleagues joined this effort, it’s clear the United States must do more,” said Senator Chris Van Hollen, Democrat of Maryland and the author of the human rights measure. “It is our responsibility to ensure recipients of U.S. taxpayer dollars act in line with our laws and our values.”
+
+He added that “this resolution was an opportunity to shed light on a reality that flies in the face of that principle.”
+
+The measure was blocked on a vote of 51 to 47. But it attracted support from almost the entire Democratic caucus, including from Senator Chuck Schumer of New York, the minority leader and a staunch supporter of Israel. The sole Democratic “no” vote was from Senator John Fetterman of Pennsylvania, who is an unequivocal backer of Israel.
+
+One Republican, Senator Rand Paul of Kentucky, voted with Democrats in favor of the resolution.
+
+The issue of Israel and Gaza has repeatedly exposed divisions in the Democratic Party throughout this year’s midterm campaign. But in this case, the vote demonstrated near unity on an issue that drew far less support just two years ago.
+
+In 2024, when Senator Bernie Sanders, the Vermont independent, forced a vote on a similar resolution seeking a State Department report on whether human rights violations had occurred in Gaza, just 11 Democrats voted to move the resolution forward.
+
+Mr. Van Hollen’s measure invoked a never-tested section of the Foreign Assistance Act that allows Congress to demand information about the human rights practices of countries receiving U.S. security aid, and to cut off the money if an administration refuses to disclose it.
+
+It would have required the State Department to produce an unclassified report examining Israel’s human rights record in the West Bank, including any effort to investigate the cases of nine U.S. citizens “killed by violent Israeli settlers or Israeli security forces.”
+
+Coming just weeks before the midterm elections that have been shaped by Democratic voters’ mounting hostility toward Israel, it was seen by some senators in the party as a way to register opposition to the conduct of Netanyahu government without going as far as cutting off military aid. Still, it marked a clear break with the past, when most Democrats would reflexively vote against any measure that challenged Israel.
+
+“That we’ve gotten to the point of a unanimous rebuke is astounding,” said Jeremy Ben-Ami, the president of J Street, the center-left lobbying group. “It used to be there was unanimous Democratic support for every pro-Israel resolution. Now it’s unanimous to take on their human rights violations.”
+
+The debate has taken on new urgency during another burst of violence in the West Bank, where attacks by Israelis and Palestinians have fueled an increasingly volatile cycle.
+
+Earlier on Tuesday, more than 100 Israeli settlers attacked Palestinians and soldiers in the West Bank when the military tried to return a Palestinian family to its home months after being forced out following a long campaign of violence.
+
+As the violence continues, some Democrats are moving beyond investigations and are instead seeking to impose direct consequences on Israelis involved in expanding settlements.
+
+Last week, Senator Chris Coons, the Delaware Democrat who would be in line to become the chairman of the Foreign Relations Committee if his party were to win control of the Senate, introduced legislation that would impose sanctions on Israel for the construction of settlements in the E1 area of the West Bank, a strategically significant patch of land that would split the West Bank in two and complicate the potential creation of a Palestinian state.
+
+The move was notable for Mr. Coons, who has joined with Republicans to oppose his party’s bids to block U.S. weapons sales to Israel, saying that he would not “abandon our steadfast ally.”
+
+Representative Joaquin Castro of Texas, a senior Democrat on the Foreign Affairs Committee, on Thursday is set to introduce a broader bill that would punish Israel for the construction of any new settlements throughout the West Bank and Gaza, as well as the expansion of existing ones. It also would prohibit the import of goods made in the settlements.
+
+The bill is expected to be cosponsored by Democratic Representatives Don Beyer of Virginia, Madeleine Dean of Pennsylvania, Greg Casar of Texas and Sara Jacobs of California.
+
+In a statement to The New York Times, Mr. Castro said that the record expansion of West Bank settlements was one of the top impediments to peace.
+
+“Democrats must face this with urgency — act now or watch the prospect of Palestinian self-determination slip away forever,” he said. “Congress should and can be using every tool we have available, including sanctions.”
+
+The recent moves come just weeks after Britain, France and Canada announced coordinated sanctions on Israeli settlements in the occupied West Bank.
+
+================================================================================
 democrats-voter-turnout.html
 Source: PreloadedData  Paragraphs: 16  Words: 660/663
 ================================================================================
@@ -2382,7 +2447,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.459s
-user	0m1.576s
-sys	0m0.353s
+real	0m1.394s
+user	0m1.553s
+sys	0m0.265s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
