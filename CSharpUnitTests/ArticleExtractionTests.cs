@@ -1239,6 +1239,6 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(45, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        Assert.Equal(46, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
     }
 }
