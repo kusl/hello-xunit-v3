@@ -1,39 +1,49 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.036s
-user	0m10.516s
-sys	0m0.779s
+real	0m6.514s
+user	0m10.986s
+sys	0m0.880s
 
-Build succeeded in 0.4s
+Build succeeded in 0.5s
 
-real	0m0.571s
-user	0m0.590s
-sys	0m0.104s
-Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+real	0m0.619s
+user	0m0.621s
+sys	0m0.125s
+Restore complete (0.5s)
+  CSharpClassLibrary net10.0 succeeded (3.0s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 1.4s
+Build succeeded in 4.2s
 
-real	0m1.595s
-user	0m1.209s
-sys	0m0.260s
+real	0m4.410s
+user	0m1.850s
+sys	0m0.347s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (687ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (1ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 43
+  Actual:   45
+    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
+    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (714ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 866ms
+  duration: 909ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m1.983s
-user	0m2.364s
-sys	0m0.392s
+real	0m2.003s
+user	0m2.435s
+sys	0m0.386s
 On branch master
-Your branch is ahead of 'origin/master' by 4 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +73,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.326s
-user	0m0.184s
-sys	0m0.174s
+real	0m0.349s
+user	0m0.181s
+sys	0m0.184s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +91,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.381s
-user	0m1.352s
-sys	0m0.303s
+real	0m1.414s
+user	0m1.307s
+sys	0m0.320s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +105,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.423s
-user	0m1.418s
-sys	0m0.267s
+real	0m1.755s
+user	0m1.556s
+sys	0m0.325s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -3574,6 +3584,94 @@ The race continued all the while, with companies making unknown improvements to 
 If that happens, “the models will likely convince people that everything is fine,” Daniel Selsam, an OpenAI researcher, wrote in a recent essay. “Moreover, they will eloquently explain how aligned they are, discuss the nuances of human values and ethics, and argue convincingly that humans should trust them with power.”
 
 ================================================================================
+flydubai-dubai-israel-flight-diverted.html
+Source: PreloadedData  Paragraphs: 4  Words: 561/561
+================================================================================
+
+SUMMARY
+
+Prime Minister Benjamin Netanyahu of Israel said a pilot tried to seize control of a flight from Dubai to Tel Aviv on Wednesday, stabbing the other pilot. Passengers and crew members charged the cockpit and subdued the assailant, with crew members making an emergency landing in Saudi Arabia. According to Mr. Netanyahu, one of the pilots attacked the other midair in a possible attempt to crash the plane, FlyDubai Flight 1073.
+
+ARTICLE
+
+What to Know About FlyDubai Flight Diverted After Clash Between Pilots
+Prime Minister Benjamin Netanyahu of Israel said one pilot stabbed another and may have attempted to crash the flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia and all passengers were safe.
+By Leo Sands
+Published 2026-09-30 14:33 UTC
+https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html
+
+Prime Minister Benjamin Netanyahu of Israel said a pilot tried to seize control of a flight from Dubai to Tel Aviv on Wednesday, stabbing the other pilot. Passengers and crew members charged the cockpit and subdued the assailant, with crew members making an emergency landing in Saudi Arabia.
+
+According to Mr. Netanyahu, one of the pilots attacked the other midair in a possible attempt to crash the plane, FlyDubai Flight 1073. He said a passenger and member of the crew broke into the cockpit to “neutralize” the pilot-assailant, while another crew member stabilized the plane. The flight suddenly plunged thousands of feet and made an emergency landing at an airport in Tabuk, in northwestern Saudi Arabia.
+
+Israeli officials said the plane was carrying between 160 and 180 passengers. FlyDubai said the passengers were all safe and accounted for. The flight’s pilot and co-pilot were treated in a hospital for injuries, according to the airport in Tabuk. The Saudi authorities arrested the suspected assailant, Mr. Netanyahu said.
+
+Much of what happened aboard the flight remained unclear, including the cause of the sudden altitude loss and any possible motive.
+
+What happened?
+
+- Mr. Netanyahu said in a video statement that one of the pilots aboard the FlyDubai flight “stabbed the other pilot and apparently tried to crash the plane,” in what appears to have been a failed attempted hijacking. Other crew members and a passenger retook control of the cockpit and landed the plane in Tabuk, Mr. Netanyahu said.
+- FlyDubai Flight 1073 plunged dramatically as it was flying over Saudi Arabia near the border with Jordan at around 8:20 a.m. local time on Wednesday morning, according to testimony from passengers and data from FlightRadar24, a flight tracking service. The flight had taken off from Dubai a little over two hours earlier.
+- Officials have not publicly shared any information about the assailant’s possible motive. According to two Israeli security officials who spoke on condition of anonymity in accordance with government protocol, the Israeli authorities are investigating the possibility that the altercation was an attempted attack on Israelis, among other lines of inquiry.
+
+What have passengers said?
+
+- Passengers described a scene of chaos in the cabin as the aircraft lost altitude, fearing that the plane, a Boeing 737 Max 8, could crash. The aircraft dropped by around 17,000 feet in two minutes, according to FlightRadar24.
+- According to accounts from passengers, the fight that broke out in the cockpit left at least one pilot seriously injured. Those aboard the flight said passengers intervened to subdue the assailant.
+- A graphic social media video verified by The New York Times showed three men tending to two injured men on the floor of the cabin, both of whom appeared to be bleeding, while another bloodied man asks for help. At least one of the injured men on the floor wore what appeared to be a FlyDubai pilot uniform.
+
+What have the aviation authorities said?
+
+- FlyDubai said that crew members who were on duty on the flight secured the aircraft. According to the airport in Tabuk, the flight made an emergency landing at 9:45 a.m. local time.
+- The pilot and co-pilot were treated in a hospital for injuries, the airport said, but it did not provide further details.
+- The airline said it had sent two replacement aircraft to Tabuk to collect the passengers and crew and take them to Tel Aviv.
+
+================================================================================
+flydubai-israel-dubai-flight-pilots-attack.html
+Source: PreloadedData  Paragraphs: 13  Words: 507/510
+================================================================================
+
+SUMMARY
+
+Passengers on a morning flight from Dubai to Tel Aviv recounted scenes of panic and terror on Wednesday as their aircraft suddenly plunged thousands of feet while screams for help came from behind the cockpit door. What began as a routine flight turned terrifying when a violent altercation broke out inside the cockpit in midair. Several rushed into the cockpit and subdued an attacker before two off-duty pilots helped steer the aircraft to a safe emergency landing in Saudi Arabia.
+
+ARTICLE
+
+Panic and Heroics on FlyDubai Flight: ‘We Felt That This Was It’
+A routine flight turned terrifying when a violent altercation broke out inside the cockpit and the aircraft dropped 17,000 feet in two minutes. Passengers subdued a knife-wielding attacker.
+By Karla Adam, Aaron Boxerman and Natan Odenheimer
+Published 2026-09-30 15:45 UTC
+https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html
+
+Passengers on a morning flight from Dubai to Tel Aviv recounted scenes of panic and terror on Wednesday as their aircraft suddenly plunged thousands of feet while screams for help came from behind the cockpit door.
+
+What began as a routine flight turned terrifying when a violent altercation broke out inside the cockpit in midair. Passengers described a desperate scramble inside the cabin as travelers realized the plane was out of control. Several rushed into the cockpit and subdued an attacker before two off-duty pilots helped steer the aircraft to a safe emergency landing in Saudi Arabia.
+
+“Within a few minutes, our plane completely lost control, and we felt that this was it — we were about to crash,” one passenger, Miriam Ohayon, told Israel’s I24 News, a television channel. “We heard screams on the plane, and when they opened the cockpit, there was a lot of blood.”
+
+She recalled reciting a Jewish prayer often said in times of distress as the plane jolted through the air.
+
+The Israeli prime minister, Benjamin Netanyahu, said the attacker was one of the pilots, and Almog Itali, a passenger on the flight, told the BBC that there were two pilots in the cockpit and that “one stabbed the other.” He said that two off duty-pilots on the plane, one of whom was British, helped to land the aircraft after the altercation.
+
+The incident began about two hours after takeoff when a passenger returning from the bathroom saw a struggle inside the cockpit and alerted passengers, Ms. Ohayon reported to her mother, Yasmin Ohayon-Abukasis.
+
+Speaking to reporters at Ben Gurion Airport in Tel Aviv, Ms. Ohayon-Abukasis said her daughter had told her that the pilot had yelled “help, help, help” and that he was being attacked by a man with a knife.
+
+Ms. Ohayon-Abukasis said her daughter had said that passengers had subdued the attacker and that a nurse and doctor on board provided initial medical care to the pilot.
+
+Hila Gaier, who was on the flight, said that when the plane dived passengers couldn’t move. “You were sucked downward,” she told Kan, Israel’s public broadcaster. She said she was flying with her partner and two daughters. “I embraced them, told them I loved them, and we tried to practice breathing exercises,” she said.
+
+Flight-tracking data from Flightradar24 showed Flight 1073 descended more than 17,000 feet in less than two minutes. “The plane kept stabilizing and then dropping again for several long seconds,” Mr. Itali told Channel 12. The plane landed safely in Tabuk, Saudi Arabia, and the pilots were taken to a hospital.
+
+Adam Polovincik, 40, who was on the flight with his family, described it as an “extreme experience,” even as he tried to remain calm for his children.
+
+Speaking by phone from Saudi Arabia, where Israel has no formal relations, Mr. Polovincik said the circumstances were surreal.
+
+“They brought us food and drink, served us coffee,” Mr. Polovincik said. “Yes, there are a lot of soldiers here and government officials, but the atmosphere is very relaxed, pleasant and respectful.”
+
+Leo Sands and Heedo Abu Laban contributed reporting.
+
+================================================================================
 iraq-us-forces.html
 Source: PreloadedData  Paragraphs: 49  Words: 1917/1917
 ================================================================================
@@ -3798,7 +3896,7 @@ When they were finished, one reached into her pocket and pulled out a small mirr
 Then one smiled and handed me back my notebook.
 
 
-real	0m1.444s
-user	0m1.679s
-sys	0m0.352s
+real	0m1.493s
+user	0m1.841s
+sys	0m0.320s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
