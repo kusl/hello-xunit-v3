@@ -1,14 +1,14 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.379s
-user	0m10.989s
-sys	0m0.864s
+real	0m6.190s
+user	0m10.728s
+sys	0m0.851s
 
 Build succeeded in 0.4s
 
-real	0m0.588s
-user	0m0.598s
-sys	0m0.126s
+real	0m0.574s
+user	0m0.586s
+sys	0m0.119s
 Restore complete (0.5s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
@@ -16,27 +16,41 @@ Restore complete (0.5s)
 
 Build succeeded in 1.5s
 
-real	0m1.645s
-user	0m1.215s
-sys	0m0.247s
+real	0m1.610s
+user	0m1.182s
+sys	0m0.252s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (702ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (1ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 28
+  Actual:   29
+    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
+    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (712ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 882ms
+  duration: 899ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m2.015s
-user	0m2.406s
-sys	0m0.423s
+real	0m2.040s
+user	0m2.417s
+sys	0m0.409s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
 
-nothing to commit, working tree clean
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	CSharpConsoleApp/nytimes/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html
+
+nothing added to commit but untracked files present (use "git add" to track)
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -63,9 +77,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.329s
-user	0m0.191s
-sys	0m0.176s
+real	0m0.322s
+user	0m0.198s
+sys	0m0.162s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +95,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.435s
-user	0m1.430s
-sys	0m0.281s
+real	0m1.402s
+user	0m1.401s
+sys	0m0.277s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +109,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.432s
-user	0m1.418s
-sys	0m0.286s
+real	0m1.477s
+user	0m1.446s
+sys	0m0.295s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -268,6 +282,27 @@ Rebecca Patterson is an economist and senior fellow at the Council on Foreign Re
 The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
 
 Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+sittenfeld-marriage-nyt-175.html
+Source: PreloadedData  Paragraphs: 1  Words: 43/61
+================================================================================
+
+SUMMARY
+
+As part of a series marking 175 years of eyewitness journalism, Times Opinion asked writers to revisit previously published guest essays. In 2015, Ms. Sittenfeld wrote about marriage after the Supreme Court’s decision to legalize same-sex unions. Below, she annotates her original essay.
+
+ARTICLE
+
+I Once Celebrated Marriage. Things Have Changed.
+Eleven years later, the novelist revisits a guest essay she wrote about marriage.
+By Curtis Sittenfeld
+Published 2026-09-28 09:00 UTC
+https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html
+
+As part of a series marking 175 years of eyewitness journalism, Times Opinion asked writers to revisit previously published guest essays. In 2015, Ms. Sittenfeld wrote about marriage after the Supreme Court’s decision to legalize same-sex unions. Below, she annotates her original essay.
+
+Curtis Sittenfeld’s novels include “Romantic Comedy,” “Rodham” and “Prep.” You can listen to her divorce song playlist below.
 
 ================================================================================
 john-husted-ohio-president-trump-midterms.html
@@ -2571,7 +2606,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.490s
-user	0m1.611s
-sys	0m0.368s
+real	0m1.456s
+user	0m1.658s
+sys	0m0.301s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
