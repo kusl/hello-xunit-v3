@@ -1,0 +1,42 @@
+================================================================================
+jack-smith-lawsuit-trump-blackburn.html
+Source: PreloadedData  Paragraphs: 13  Words: 695/695
+================================================================================
+
+SUMMARY
+
+A Republican senator on Wednesday sued the former special counsel Jack Smith and the Justice Department, arguing that a subpoena for her phone records during an investigation into Donald J. Trump violated the Constitution. The complaint, filed by Senator Marsha Blackburn of Tennessee in her state’s Middle District, could put before the courts a novel and contested constitutional issue on a matter that has become a Republican talking point: whether the so-called speech or debate clause bars subpoenas to phone companies for data about lawmakers’ communications. “We took our obligations seriously under the speech or debate clause,” Mr. Smith said.
+
+ARTICLE
+
+Republican Senator Sues Over Jack Smith’s Subpoena During Trump Inquiry
+The lawsuit, brought by Senator Marsha Blackburn of Tennessee, tests the reach of the Constitution’s “speech or debate” clause.
+By Charlie Savage
+Published 2026-09-30 21:27 UTC
+https://www.nytimes.com/2026/09/30/us/politics/jack-smith-lawsuit-trump-blackburn.html
+
+A Republican senator on Wednesday sued the former special counsel Jack Smith and the Justice Department, arguing that a subpoena for her phone records during an investigation into Donald J. Trump violated the Constitution.
+
+The complaint, filed by Senator Marsha Blackburn of Tennessee in her state’s Middle District, could put before the courts a novel and contested constitutional issue on a matter that has become a Republican talking point: whether the so-called speech or debate clause bars subpoenas to phone companies for data about lawmakers’ communications.
+
+Ms. Blackburn was among several lawmakers who apparently interacted with Mr. Trump while he was president, or with his proxies, during a period of days around the Jan. 6, 2021, riot at the Capitol. The lawsuit seeks a declaration that Mr. Smith conspired to violate her rights, $1 in symbolic damages from the former special counsel, and an order that the Justice Department destroy her records.
+
+When Mr. Smith oversaw an investigation into Mr. Trump’s attempt to overturn the 2020 election, he signed off on subpoenas to phone companies for lawmakers’ toll records, or logs showing when calls took place, but not their contents. The subpoenas were accompanied by nondisclosure orders to the phone companies, but came to light last year.
+
+Republicans have portrayed themselves as having been unfairly targeted, and have framed the subpoenas for their call records as violating the speech or debate clause. In her lawsuit, Ms. Blackburn’s lawyers said she sought to hold Mr. Smith “accountable for his gross abuse of power and his disregard for the Constitution’s separation of powers, the speech or debate clause,” and for other allegations.
+
+Mr. Smith faced similar accusations on Tuesday when he appeared before the Senate Judiciary Committee. Ms. Blackburn is a member of the panel but did not attend the hearing.
+
+In his testimony, Mr. Smith said that the lawmakers were not the targets of the investigation. He added that the intent of seeking the data was to gather corroborating evidence about calls by Mr. Trump or his proxies to members of Congress seeking to get them to delay the Electoral College certification proceedings, which he said “added to the powerful evidence we had of Donald Trump’s guilt.”
+
+Mr. Smith also noted that the public integrity section, which had been the Justice Department’s hub of legal expertise for issues involving criminal investigations and members of Congress until the Trump administration gutted it last year, signed off on the subpoenas as lawful.
+
+“We took our obligations seriously under the speech or debate clause,” Mr. Smith said. “It’s, in my view, an important part of the separation of powers. I had members of my staff who were very familiar with the clause, having worked in the public integrity section for years. We also, when it was appropriate or required, consulted with the public integrity section regarding application of that clause.”
+
+Ms. Blackburn’s complaint was full of political grievances. But beyond the bluster is a serious question of how far the speech or debate clause extends. The clause says that lawmakers “shall not be questioned in any other place” for their “speech or debate in either House.”
+
+It is widely agreed that the clause bars both prosecuting lawmakers for their legislative acts and compelling them to testify about them. But appeals courts have disagreed about whether or how the clause may also protect the confidentiality of legislative material in circumstances in which lawmakers are not being forced to divulge information and the data is relevant evidence for investigations targeting other people.
+
+To date, no court has held that the clause extends to barring subpoenas to phone companies. But lawmakers have also rarely had an opportunity to contest them in court, because investigators typically also obtain nondisclosure orders from a judge barring the phone companies from notifying their customers.
+
+The applications for nondisclosure orders by Mr. Smith’s team did not tell the court that the phone numbers belonged to lawmakers, as material unsealed this summer at the request of The New York Times confirmed. Department policy at the time did not require such notice to the judges being asked to issue the gag orders, but was later changed to do so.

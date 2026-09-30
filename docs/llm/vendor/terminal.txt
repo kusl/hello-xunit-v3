@@ -1,14 +1,14 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.129s
-user	0m10.659s
-sys	0m0.822s
+real	0m6.132s
+user	0m10.785s
+sys	0m0.808s
 
 Build succeeded in 0.4s
 
-real	0m0.555s
-user	0m0.547s
-sys	0m0.141s
+real	0m0.565s
+user	0m0.583s
+sys	0m0.112s
 Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
@@ -16,24 +16,24 @@ Restore complete (0.4s)
 
 Build succeeded in 1.5s
 
-real	0m1.644s
-user	0m1.215s
-sys	0m0.236s
+real	0m1.662s
+user	0m1.180s
+sys	0m0.273s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (710ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (688ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 895ms
+  duration: 882ms
 
-real	0m2.012s
-user	0m2.338s
-sys	0m0.450s
+real	0m2.001s
+user	0m2.359s
+sys	0m0.437s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 4 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.324s
-user	0m0.192s
-sys	0m0.166s
+real	0m0.330s
+user	0m0.196s
+sys	0m0.169s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.391s
-user	0m1.362s
-sys	0m0.289s
+real	0m1.384s
+user	0m1.358s
+sys	0m0.286s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.406s
-user	0m1.384s
-sys	0m0.277s
+real	0m1.432s
+user	0m1.413s
+sys	0m0.274s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -2934,6 +2934,69 @@ Best of the rest
 We’d like your feedback! Please email thoughts and suggestions to dealbook@nytimes.com.
 
 ================================================================================
+fed-renovations-trump-powell-report.html
+Source: PreloadedData  Paragraphs: 23  Words: 1213/1213
+================================================================================
+
+SUMMARY
+
+The Federal Reserve’s internal watchdog found no evidence of illegal behavior or administrative misconduct associated with the central bank’s nearly $2.5 billion project to overhaul its headquarters in Washington, D.C., even as it concluded that the renovations were poorly managed and lacked sufficient budget constraints. In a sweeping 120-page report, the Fed’s independent inspector general on Wednesday provided the most comprehensive overview to date of what caused extensive cost overruns on the project, which has been underway since 2022. The inspector general report found that the board did not obtain a project cost estimate until January 2026, three and half years after construction began and after more than $2 billion in costs had been earmarked.
+
+ARTICLE
+
+Fed’s Watchdog Finds No Misconduct or Illegal Activity in Costly Renovations
+A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U.S. attorney general.
+By Colby Smith
+Published 2026-09-30 17:00 UTC
+https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html
+
+The Federal Reserve’s internal watchdog found no evidence of illegal behavior or administrative misconduct associated with the central bank’s nearly $2.5 billion project to overhaul its headquarters in Washington, D.C., even as it concluded that the renovations were poorly managed and lacked sufficient budget constraints.
+
+In a sweeping 120-page report, the Fed’s independent inspector general on Wednesday provided the most comprehensive overview to date of what caused extensive cost overruns on the project, which has been underway since 2022. It identified a range of missteps, including the Board of Governors’ failure to obtain a total cost estimate until the work was well underway or to establish a “guaranteed maximum price.”
+
+The project last year became a major front in President Trump’s campaign to pressure the Fed into lowering interest rates. Mr. Trump repeatedly criticized Jerome H. Powell, who served as Fed chair until May, for the cost overruns and frequently raised the question of whether he had committed fraud as he floated the idea of firing him.
+
+The Federal Reserve Act stipulates that the president can remove a sitting Fed official only “for cause,” which has long been interpreted to mean gross negligence or a dereliction of duty. Mr. Trump’s attacks on Mr. Powell culminated in a criminal investigation led by the Justice Department over whether Mr. Powell misled Congress about the project.
+
+The inspector general’s report undermined the Justice Department’s investigation, which was abandoned in April after a number of legal setbacks. The watchdog found no wrongdoing by Mr. Powell or his colleagues, and it affirmed that no referrals were made to the U.S. attorney general.
+
+The report’s findings are significant given that Jeanine Pirro, U.S. attorney for the District of Columbia, had threatened to reopen the investigation at any point based on the inspector general’s findings. That possibility contributed to Mr. Powell’s decision to stay on as a governor after his term as chair expired, a position he can hold until January 2028. Kevin M. Warsh, whom Mr. Trump handpicked to replace Mr. Powell, took over in May.
+
+In a social media post on Wednesday, Mr. Trump said that Mr. Powell should be “forced to resign” from the board in the wake of the report.
+
+“He can’t manage a Building, and he certainly shouldn’t be allowed to manage his High Interest Rate Policy (only on “TRUMP!”),” the president wrote.
+
+Mr. Trump added that he had asked Todd Blanche, the attorney general, to study the findings. If Mr. Powell does not resign, Mr. Trump said he “should be sued, at the highest level, by the United States Government, for either corruption or incompetence, both of which are completely unacceptable.”
+
+In a statement on Wednesday, a spokesman for Ms. Pirro said she was in the process of reviewing the report.
+
+The watchdog’s report, which Mr. Powell commissioned in July 2025, was led by Michael Horowitz, who served as inspector general of the Justice Department before moving over to the Fed earlier that year. The document made clear that the Board of Governors, which has seven politically appointed, Senate-confirmed officials, was not engaged in the “day-to-day management of the renovation project.” Instead, those duties were delegated to staff members on the board’s Facility Services team.
+
+The inspector general report found that the board did not obtain a project cost estimate until January 2026, three and half years after construction began and after more than $2 billion in costs had been earmarked. A guaranteed maximum price was never set, meaning there was no cap on spending or built-in incentives to minimize costs.
+
+One aspect of the construction project that received significant criticism was the inclusion of certain design features in a 2021 proposal such as new marble, a rooftop terrace and private dining rooms for top policymakers. When pressed at a congressional hearing in June 2025, Mr. Powell denied that many of those features were part of the latest proposal.
+
+“There’s no V.I.P. dining room. There’s no new marble. We took down the old marble, we’re putting it back up. We’ll have to use new marble where some of the old marble broke. But there’s no special elevators. There’s just old elevators that have been there,” he said at the time.
+
+The inspector general’s report corroborated Mr. Powell’s statement, concluding that its investigators “did not find that these design features materially contributed to the substantial construction cost increases.”
+
+They acknowledged that some of the cost overruns were tied to inflation, which the Fed had flagged as a primary reason. But they also cited substantive design changes throughout the project, including the shift from an open-seating office plan to a closed-office arrangement, as well as the need for major mechanical, electrical and plumbing items that ran up the budget.
+
+In a statement on Wednesday, Senator Tim Scott, Republican of South Carolina, described the Fed’s cost overruns as “egregious” and said that “inflation does not change the Fed’s responsibility to manage its resources prudently and be accountable to Congress.” He vowed that the Senate Banking Committee, which he leads, would “continue rigorous oversight to ensure the Fed is transparent and stays focused on its mission.”
+
+His Democratic counterpart on the committee, Senator Elizabeth Warren of Massachusetts, said in her own statement that the watchdog’s findings confirm that there is “no basis to restart the president’s witch hunt” against Mr. Powell.
+
+In a letter to Mr. Horowitz on Tuesday, Mr. Warsh said he had retained the help of the General Services Administration, which is the agency responsible for managing federal work spaces, to work with the Fed “in the task of finally bringing the renovations to a speedy and successful completion.” He also said that the Fed would work with an independent auditor to examine the construction costs and, in keeping with the recommendations provided by the inspector general, that he would “promptly complete negotiations for a guaranteed maximum price for the project.” He also said staff would establish fixed metrics for the project’s budget and schedule.
+
+Mr. Warsh’s arrival at the Fed has to some extent reset relations between the central bank and the White House, at least with top leadership. Mr. Trump has so far refrained from criticizing Mr. Warsh, even after the chairman voted with his colleagues to raise rates in September.
+
+Mr. Trump directed his anger instead at other members of the Board of Governors, whom he accused of being “hostile” and “political.”
+
+One of those governors, Lisa D. Cook, is involved in an extensive legal battle with Mr. Trump, who in August renewed his efforts to oust her after the Supreme Court ruled against the administration’s earlier attempts. Michael S. Barr, a governor nominated by President Joseph R. Biden Jr., also appears to be under heightened scrutiny for the implosion of Silicon Valley Bank, which happened under his watch in 2023 when he was serving as vice chair for supervision.
+
+An external report on the bank’s failure released this month, which was commissioned by the current vice chair for supervision, Michelle W. Bowman, concluded that the central bank’s regulators “knew, or should have known,” about the mounting vulnerabilities at the lender. Instead, they failed to intervene in a timely fashion because of a “fear of taking action that may later be viewed as mistaken and being held accountable for such,” the report said.
+
+================================================================================
 trumps-new-tariffs-face-a-familiar-court-challenge.html
 Source: PreloadedData  Paragraphs: 21  Words: 1099/1099
 ================================================================================
@@ -3592,6 +3655,59 @@ Mr. Newsom was even more elusive than Mr. Becerra in 2018, the last time Califor
 Mr. Newsom, a Democrat who was lieutenant governor, debated John Cox, a Republican businessman, on the radio. No television cameras were allowed to broadcast the event. And it took place in the middle of a Monday morning.
 
 ================================================================================
+christa-pike-stay-execution-tennessee.html
+Source: PreloadedData  Paragraphs: 17  Words: 605/607
+================================================================================
+
+SUMMARY
+
+A federal court on Wednesday ordered a pause on the execution of Christa Pike, convicted of the murder of a classmate in 1995, just hours before she was set to die by lethal injection in Nashville. Ms. Pike, 50, would have been the first woman executed in Tennessee in more than 200 years. The lone woman on Tennessee’s death row, Ms. Pike has expressed remorse for her crime.
+
+ARTICLE
+
+Court Pauses Execution of Tennessee’s Lone Woman on Death Row
+Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years.
+By Emily Cochrane
+Published 2026-09-30 14:14 UTC
+https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html
+
+A federal court on Wednesday ordered a pause on the execution of Christa Pike, convicted of the murder of a classmate in 1995, just hours before she was set to die by lethal injection in Nashville.
+
+Ms. Pike, 50, would have been the first woman executed in Tennessee in more than 200 years. But her lawyers mounted a fierce last-ditch campaign to stop the execution, arguing that her defense at her initial trial had failed to consider her history of child sexual abuse and neglect.
+
+The ruling came after the Supreme Court on Tuesday had declined to intervene in the execution. Gov. Bill Lee, a Republican, also denied a request to allow Ms. Pike to serve out the remainder of her life in prison.
+
+The office of Jonathan Skrmetti, Tennessee’s attorney general, quickly appealed directly to the U.S. Supreme Court after Wednesday’s ruling, calling it a “technical issue” and vowing to “advocate for the lawfully-imposed sentence.”
+
+Tennessee’s “strong interest in finality and the surviving victims’ right to closure require rejection,” the state wrote in its filing.
+
+The execution had been scheduled for 10 a.m. in Nashville.
+
+Reporters and witnesses had gathered Wednesday at the Riverbend Maximum Security Institution in Nashville. There were white and purple mums on display outside, near large posters of Colleen Slemmer, the 19-year-old student Ms. Pike and two others tortured and killed in 1995. Ms. Slemmer’s family, steadfast in their support of the execution over three decades, had cobbled together the money needed to drive from their Florida home.
+
+But on Wednesday, a divided panel of the U.S. Court of Appeals for the Sixth Circuit said the pause was necessary to consider the new arguments from Ms. Pike’s legal team and the state’s response.
+
+“The interests of justice and the finality of Pike’s impending execution compel the entry of a short stay of execution in order to properly analyze the parties’ fully briefed arguments,” Judge Jane B. Stranch wrote, joined by Judge Karen Moore.
+
+The court’s order amounted to at least a brief reprieve for Ms. Pike while litigation continues.
+
+It was the latest twist in a decades-long legal battle over the case. The lone woman on Tennessee’s death row, Ms. Pike has expressed remorse for her crime. She was diagnosed and treated while in prison for bipolar disorder and post-traumatic stress disorder, which her lawyers said had contributed to her violence. Women who were incarcerated alongside Ms. Pike said she was a supportive and kind presence.
+
+But May Martinez, Ms. Slemmer’s mother, remained adamant that Ms. Pike could not atone for the death of her daughter and should be executed.
+
+“Christa Pike’s case has galvanized public opinion like few cases we have seen in recent years,” said Robin Maher, the executive director of the Death Penalty Information Center. She added that the last-minute stay “is a kind of high-wire balancing act, when the risks and stakes are at their most extreme.”
+
+In the grassy fields outside the prison, where protesters gathered both in favor and against the death penalty, there was confusion and disbelief over the last-minute intervention. Some people walked away, frustrated that another legal hurdle had temporarily delayed the execution.
+
+“I’m really sort of torn,” said Michelle van Allen, 48, who drove in from Kentucky and stood on the side marked off for supporters of Ms. Pike’s execution and the death penalty. The last-minute stay, she said, was “messing with people’s emotions.”
+
+Across the fence separating the two sides, Veronica Stokes, 42, wiped away tears, emotional as she spoke about Ms. Pike and her opposition to the execution.
+
+The pause, she said, “gives us more time to pray.”
+
+Ann E. Marimow contributed reporting. Seamus Hughes contributed research.
+
+================================================================================
 oakland-police-reform-federal-oversight.html
 Source: PreloadedData  Paragraphs: 22  Words: 842/842
 ================================================================================
@@ -3799,6 +3915,112 @@ Senate Democrats have made their own attempts at addressing the issue, all of wh
 In July, Senator Alex Padilla, Democrat of California, tried twice to offer a bipartisan bill that would bar members of Congress and their family members, as well as the president and vice president, from trading stocks.
 
 Republicans moved to block it both times.
+
+================================================================================
+jack-smith-lawsuit-trump-blackburn.html
+Source: PreloadedData  Paragraphs: 13  Words: 695/695
+================================================================================
+
+SUMMARY
+
+A Republican senator on Wednesday sued the former special counsel Jack Smith and the Justice Department, arguing that a subpoena for her phone records during an investigation into Donald J. Trump violated the Constitution. The complaint, filed by Senator Marsha Blackburn of Tennessee in her state’s Middle District, could put before the courts a novel and contested constitutional issue on a matter that has become a Republican talking point: whether the so-called speech or debate clause bars subpoenas to phone companies for data about lawmakers’ communications. “We took our obligations seriously under the speech or debate clause,” Mr. Smith said.
+
+ARTICLE
+
+Republican Senator Sues Over Jack Smith’s Subpoena During Trump Inquiry
+The lawsuit, brought by Senator Marsha Blackburn of Tennessee, tests the reach of the Constitution’s “speech or debate” clause.
+By Charlie Savage
+Published 2026-09-30 21:27 UTC
+https://www.nytimes.com/2026/09/30/us/politics/jack-smith-lawsuit-trump-blackburn.html
+
+A Republican senator on Wednesday sued the former special counsel Jack Smith and the Justice Department, arguing that a subpoena for her phone records during an investigation into Donald J. Trump violated the Constitution.
+
+The complaint, filed by Senator Marsha Blackburn of Tennessee in her state’s Middle District, could put before the courts a novel and contested constitutional issue on a matter that has become a Republican talking point: whether the so-called speech or debate clause bars subpoenas to phone companies for data about lawmakers’ communications.
+
+Ms. Blackburn was among several lawmakers who apparently interacted with Mr. Trump while he was president, or with his proxies, during a period of days around the Jan. 6, 2021, riot at the Capitol. The lawsuit seeks a declaration that Mr. Smith conspired to violate her rights, $1 in symbolic damages from the former special counsel, and an order that the Justice Department destroy her records.
+
+When Mr. Smith oversaw an investigation into Mr. Trump’s attempt to overturn the 2020 election, he signed off on subpoenas to phone companies for lawmakers’ toll records, or logs showing when calls took place, but not their contents. The subpoenas were accompanied by nondisclosure orders to the phone companies, but came to light last year.
+
+Republicans have portrayed themselves as having been unfairly targeted, and have framed the subpoenas for their call records as violating the speech or debate clause. In her lawsuit, Ms. Blackburn’s lawyers said she sought to hold Mr. Smith “accountable for his gross abuse of power and his disregard for the Constitution’s separation of powers, the speech or debate clause,” and for other allegations.
+
+Mr. Smith faced similar accusations on Tuesday when he appeared before the Senate Judiciary Committee. Ms. Blackburn is a member of the panel but did not attend the hearing.
+
+In his testimony, Mr. Smith said that the lawmakers were not the targets of the investigation. He added that the intent of seeking the data was to gather corroborating evidence about calls by Mr. Trump or his proxies to members of Congress seeking to get them to delay the Electoral College certification proceedings, which he said “added to the powerful evidence we had of Donald Trump’s guilt.”
+
+Mr. Smith also noted that the public integrity section, which had been the Justice Department’s hub of legal expertise for issues involving criminal investigations and members of Congress until the Trump administration gutted it last year, signed off on the subpoenas as lawful.
+
+“We took our obligations seriously under the speech or debate clause,” Mr. Smith said. “It’s, in my view, an important part of the separation of powers. I had members of my staff who were very familiar with the clause, having worked in the public integrity section for years. We also, when it was appropriate or required, consulted with the public integrity section regarding application of that clause.”
+
+Ms. Blackburn’s complaint was full of political grievances. But beyond the bluster is a serious question of how far the speech or debate clause extends. The clause says that lawmakers “shall not be questioned in any other place” for their “speech or debate in either House.”
+
+It is widely agreed that the clause bars both prosecuting lawmakers for their legislative acts and compelling them to testify about them. But appeals courts have disagreed about whether or how the clause may also protect the confidentiality of legislative material in circumstances in which lawmakers are not being forced to divulge information and the data is relevant evidence for investigations targeting other people.
+
+To date, no court has held that the clause extends to barring subpoenas to phone companies. But lawmakers have also rarely had an opportunity to contest them in court, because investigators typically also obtain nondisclosure orders from a judge barring the phone companies from notifying their customers.
+
+The applications for nondisclosure orders by Mr. Smith’s team did not tell the court that the phone numbers belonged to lawmakers, as material unsealed this summer at the request of The New York Times confirmed. Department policy at the time did not require such notice to the judges being asked to issue the gag orders, but was later changed to do so.
+
+================================================================================
+justice-department-complaint-judges-schiltz.html
+Source: PreloadedData  Paragraphs: 23  Words: 1040/1040
+================================================================================
+
+SUMMARY
+
+The Justice Department on Wednesday accused two of Minnesota’s federal judges of engaging in misconduct for comments made to The New York Times about how their court handled the administration’s immigration surge in Minneapolis this winter. The Justice Department urged a judicial investigation into four other federal judges in Minnesota who spoke to The Times. In a statement on Wednesday, Judge Schiltz, who was appointed by President George W. Bush, said he was “acting well within the ethical rules that apply to federal judges in speaking to The New York Times.”
+
+ARTICLE
+
+Justice Dept. Tries to Rebuke Federal Judges for Speaking to The Times
+Judge Patrick J. Schiltz had warned that the administration’s actions “created a grave threat to the rule of law.” The attorney general accused him of “obvious bias.”
+By Mattathias Schwartz and Devlin Barrett
+Published 2026-09-30 20:12 UTC
+https://www.nytimes.com/2026/09/30/us/politics/justice-department-complaint-judges-schiltz.html
+
+The Justice Department on Wednesday accused two of Minnesota’s federal judges of engaging in misconduct for comments made to The New York Times about how their court handled the administration’s immigration surge in Minneapolis this winter.
+
+In a six-page complaint filed with the Judicial Council of the Eighth Circuit, which includes the Minnesota district, the department alleged that the judges’ comments violated ethics rules that limit what judges are allowed to say publicly, particularly on pending cases. It singles out Judge Patrick J. Schiltz and Judge John R. Tunheim, both of whom were quoted in the Times article.
+
+At a news conference on Wednesday, Attorney General Todd Blanche accused the judges of “obvious bias” for giving interviews to The Times about the Trump administration’s immigration surge in Minnesota this winter. Judge Schiltz told The Times that the administration’s actions had “created a grave threat to the rule of law.” Mr. Blanche called those comments “overtly political.”
+
+The article, which appeared on Sept. 17, drew on interviews that took place the previous month with all but one of the judges who were active during the weeks when Operation Metro Surge put the Twin Cities, as well as the court, under tremendous pressure. The judges described the challenges they faced when their dockets were swamped with petitions from detainees, criminal cases against protesters and civil cases challenging the administration’s entire approach.
+
+The Justice Department urged a judicial investigation into four other federal judges in Minnesota who spoke to The Times. The department requested that Judge Schiltz and Judge Tunheim be ordered to recuse themselves from matters involving the Department of Homeland Security.
+
+In a statement on Wednesday, Judge Schiltz, who was appointed by President George W. Bush, said he was “acting well within the ethical rules that apply to federal judges in speaking to The New York Times.” He cited an opinion issued this year by a judicial committee, advising that judges are allowed to speak and write on “core judiciary matters,” including the rule of law and judicial independence.
+
+“That is exactly what I did,” he said.
+
+Judge Tunheim, who was appointed by President Bill Clinton, declined to comment.
+
+Complaints about judicial misconduct are considered by other judges. The circuit’s chief judge can choose to dismiss the complaint or appoint a committee to investigate further. If an investigative committee is formed, that group can recommend that a judge be censured or impose other punishments.
+
+In cases of extreme misconduct, the Judicial Council, the judiciary’s internal governing body, can refer a judge to Congress for impeachment. Ultimately, federal judges are appointed for life and can be ousted only by Congress.
+
+Jeremy Fogel, a retired federal judge who consults with judges on ethics questions, said he did not believe the judges had engaged in misconduct. The judges’ comments in the article, he added, “described breaches of professional obligations by government lawyers” and “appear to have been directed to matters within their purview as judges rather than broader policy questions.”
+
+A spokesman for The Times said, “Reporting by The New York Times on concerns among federal judges about the conduct of the Justice Department highlights the importance of public officials stepping up to shed light on governmental actions.”
+
+“Seeking to punish or silence those who speak up to journalists about any administration’s agenda undercuts democratic accountability and the public’s right to know,” added the spokesman, Charlie Stadtlander.
+
+The complaint escalates the long-simmering clash between the Trump administration and the district’s bench, which began when federal immigration agents poured into the Twin Cities last winter. It was aggravated by the killing of two Americans by federal agents, and pressure from the Justice Department to issue a warrant for the arrest of Don Lemon, the former cable news anchor.
+
+In January, Judge Schiltz compiled a list of nearly 100 court orders that he said the Trump administration had violated in its effort to sweep up and deport hundreds of undocumented immigrants, including some who had lived in the United States for years. The Minnesota court was inundated with petitions from detainees asking the court to review the legality of their detention. During the first three months of 2025, the court fielded two of those petitions. Over the same period in 2026, it received 1,116 of them.
+
+The Eighth Circuit was one of the few appeals courts to eventually rule in favor of the administration on the legality of its indefinite detention policy. That ruling has been appealed to the Supreme Court.
+
+This is not the first time that the administration has tried to wield the judiciary’s internal disciplinary process against judges who have issued unfavorable rulings. The Justice Department also filed an ethics complaint against Judge James E. Boasberg over comments it claimed he made at a private meeting of judges. That complaint was dismissed earlier this year.
+
+On Wednesday, Mr. Blanche drew a distinction between the criticism leveled against his department by judges and the public criticism he has leveled against them. He noted that he is not a judge and not bound by judicial ethics.
+
+He then seemed to acknowledge the Justice Department had in fact violated orders from the Minnesota judges but said the orders should not have been issued in the first place.
+
+“I’m allowed to get really fired up when, for example, judges in Minnesota complain about us violating court orders but the reason why, that we are, quote, violating court orders is because these judges are violating Supreme Court law, OK, in allowing these cases to be filed,” he said, apparently referring to a case that clarifies which courts have jurisdiction to hear detention challenges.
+
+After sharply criticizing the Minnesota judges on Wednesday, Mr. Blanche added that the department has “total respect for the judiciary. There’s not a prosecutor in this country that should ever, ever violate a court order.”
+
+Last year, Mr. Blanche railed against what he called “rogue judges” who were unfair to the administration.
+
+“It’s a war, man,” Mr. Blanche said at a public event with conservative lawyers. “They have a robe on, but they are more political or certainly as political as the most liberal governor,” he said, adding, “There’s a group of judges that are repeat players, and that’s obviously not by happenstance, that’s intentional.”
 
 ================================================================================
 trump-ai-luncheon-guests-ceos.html
@@ -4717,7 +4939,7 @@ She said that passengers had subdued the attacker and that a nurse and doctor on
 Asked how the passengers had stopped the attacker, Ms. Ohayon said, “I believe with their bare hands inside the cockpit.”
 
 
-real	0m1.485s
-user	0m1.769s
-sys	0m0.350s
+real	0m1.516s
+user	0m1.893s
+sys	0m0.355s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 

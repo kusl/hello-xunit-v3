@@ -1,0 +1,62 @@
+================================================================================
+fed-renovations-trump-powell-report.html
+Source: PreloadedData  Paragraphs: 23  Words: 1213/1213
+================================================================================
+
+SUMMARY
+
+The Federal Reserve’s internal watchdog found no evidence of illegal behavior or administrative misconduct associated with the central bank’s nearly $2.5 billion project to overhaul its headquarters in Washington, D.C., even as it concluded that the renovations were poorly managed and lacked sufficient budget constraints. In a sweeping 120-page report, the Fed’s independent inspector general on Wednesday provided the most comprehensive overview to date of what caused extensive cost overruns on the project, which has been underway since 2022. The inspector general report found that the board did not obtain a project cost estimate until January 2026, three and half years after construction began and after more than $2 billion in costs had been earmarked.
+
+ARTICLE
+
+Fed’s Watchdog Finds No Misconduct or Illegal Activity in Costly Renovations
+A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U.S. attorney general.
+By Colby Smith
+Published 2026-09-30 17:00 UTC
+https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html
+
+The Federal Reserve’s internal watchdog found no evidence of illegal behavior or administrative misconduct associated with the central bank’s nearly $2.5 billion project to overhaul its headquarters in Washington, D.C., even as it concluded that the renovations were poorly managed and lacked sufficient budget constraints.
+
+In a sweeping 120-page report, the Fed’s independent inspector general on Wednesday provided the most comprehensive overview to date of what caused extensive cost overruns on the project, which has been underway since 2022. It identified a range of missteps, including the Board of Governors’ failure to obtain a total cost estimate until the work was well underway or to establish a “guaranteed maximum price.”
+
+The project last year became a major front in President Trump’s campaign to pressure the Fed into lowering interest rates. Mr. Trump repeatedly criticized Jerome H. Powell, who served as Fed chair until May, for the cost overruns and frequently raised the question of whether he had committed fraud as he floated the idea of firing him.
+
+The Federal Reserve Act stipulates that the president can remove a sitting Fed official only “for cause,” which has long been interpreted to mean gross negligence or a dereliction of duty. Mr. Trump’s attacks on Mr. Powell culminated in a criminal investigation led by the Justice Department over whether Mr. Powell misled Congress about the project.
+
+The inspector general’s report undermined the Justice Department’s investigation, which was abandoned in April after a number of legal setbacks. The watchdog found no wrongdoing by Mr. Powell or his colleagues, and it affirmed that no referrals were made to the U.S. attorney general.
+
+The report’s findings are significant given that Jeanine Pirro, U.S. attorney for the District of Columbia, had threatened to reopen the investigation at any point based on the inspector general’s findings. That possibility contributed to Mr. Powell’s decision to stay on as a governor after his term as chair expired, a position he can hold until January 2028. Kevin M. Warsh, whom Mr. Trump handpicked to replace Mr. Powell, took over in May.
+
+In a social media post on Wednesday, Mr. Trump said that Mr. Powell should be “forced to resign” from the board in the wake of the report.
+
+“He can’t manage a Building, and he certainly shouldn’t be allowed to manage his High Interest Rate Policy (only on “TRUMP!”),” the president wrote.
+
+Mr. Trump added that he had asked Todd Blanche, the attorney general, to study the findings. If Mr. Powell does not resign, Mr. Trump said he “should be sued, at the highest level, by the United States Government, for either corruption or incompetence, both of which are completely unacceptable.”
+
+In a statement on Wednesday, a spokesman for Ms. Pirro said she was in the process of reviewing the report.
+
+The watchdog’s report, which Mr. Powell commissioned in July 2025, was led by Michael Horowitz, who served as inspector general of the Justice Department before moving over to the Fed earlier that year. The document made clear that the Board of Governors, which has seven politically appointed, Senate-confirmed officials, was not engaged in the “day-to-day management of the renovation project.” Instead, those duties were delegated to staff members on the board’s Facility Services team.
+
+The inspector general report found that the board did not obtain a project cost estimate until January 2026, three and half years after construction began and after more than $2 billion in costs had been earmarked. A guaranteed maximum price was never set, meaning there was no cap on spending or built-in incentives to minimize costs.
+
+One aspect of the construction project that received significant criticism was the inclusion of certain design features in a 2021 proposal such as new marble, a rooftop terrace and private dining rooms for top policymakers. When pressed at a congressional hearing in June 2025, Mr. Powell denied that many of those features were part of the latest proposal.
+
+“There’s no V.I.P. dining room. There’s no new marble. We took down the old marble, we’re putting it back up. We’ll have to use new marble where some of the old marble broke. But there’s no special elevators. There’s just old elevators that have been there,” he said at the time.
+
+The inspector general’s report corroborated Mr. Powell’s statement, concluding that its investigators “did not find that these design features materially contributed to the substantial construction cost increases.”
+
+They acknowledged that some of the cost overruns were tied to inflation, which the Fed had flagged as a primary reason. But they also cited substantive design changes throughout the project, including the shift from an open-seating office plan to a closed-office arrangement, as well as the need for major mechanical, electrical and plumbing items that ran up the budget.
+
+In a statement on Wednesday, Senator Tim Scott, Republican of South Carolina, described the Fed’s cost overruns as “egregious” and said that “inflation does not change the Fed’s responsibility to manage its resources prudently and be accountable to Congress.” He vowed that the Senate Banking Committee, which he leads, would “continue rigorous oversight to ensure the Fed is transparent and stays focused on its mission.”
+
+His Democratic counterpart on the committee, Senator Elizabeth Warren of Massachusetts, said in her own statement that the watchdog’s findings confirm that there is “no basis to restart the president’s witch hunt” against Mr. Powell.
+
+In a letter to Mr. Horowitz on Tuesday, Mr. Warsh said he had retained the help of the General Services Administration, which is the agency responsible for managing federal work spaces, to work with the Fed “in the task of finally bringing the renovations to a speedy and successful completion.” He also said that the Fed would work with an independent auditor to examine the construction costs and, in keeping with the recommendations provided by the inspector general, that he would “promptly complete negotiations for a guaranteed maximum price for the project.” He also said staff would establish fixed metrics for the project’s budget and schedule.
+
+Mr. Warsh’s arrival at the Fed has to some extent reset relations between the central bank and the White House, at least with top leadership. Mr. Trump has so far refrained from criticizing Mr. Warsh, even after the chairman voted with his colleagues to raise rates in September.
+
+Mr. Trump directed his anger instead at other members of the Board of Governors, whom he accused of being “hostile” and “political.”
+
+One of those governors, Lisa D. Cook, is involved in an extensive legal battle with Mr. Trump, who in August renewed his efforts to oust her after the Supreme Court ruled against the administration’s earlier attempts. Michael S. Barr, a governor nominated by President Joseph R. Biden Jr., also appears to be under heightened scrutiny for the implosion of Silicon Valley Bank, which happened under his watch in 2023 when he was serving as vice chair for supervision.
+
+An external report on the bank’s failure released this month, which was commissioned by the current vice chair for supervision, Michelle W. Bowman, concluded that the central bank’s regulators “knew, or should have known,” about the mounting vulnerabilities at the lender. Instead, they failed to intervene in a timely fashion because of a “fear of taking action that may later be viewed as mistaken and being held accountable for such,” the report said.
