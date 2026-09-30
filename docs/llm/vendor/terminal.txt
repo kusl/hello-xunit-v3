@@ -1,39 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.045s
-user	0m10.631s
-sys	0m0.775s
+real	0m5.751s
+user	0m10.510s
+sys	0m0.774s
 
 Build succeeded in 0.4s
 
-real	0m0.577s
-user	0m0.594s
-sys	0m0.119s
+real	0m0.571s
+user	0m0.579s
+sys	0m0.124s
 Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpUnitTests net10.0 succeeded (0.5s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.5s
 
-real	0m1.620s
-user	0m1.167s
-sys	0m0.261s
+real	0m1.609s
+user	0m1.148s
+sys	0m0.263s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (735ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (691ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 936ms
+  duration: 877ms
 
-real	0m2.095s
-user	0m2.474s
-sys	0m0.429s
+real	0m1.985s
+user	0m2.309s
+sys	0m0.420s
 On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.332s
-user	0m0.196s
-sys	0m0.165s
+real	0m0.325s
+user	0m0.199s
+sys	0m0.163s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.437s
-user	0m1.394s
-sys	0m0.295s
+real	0m1.398s
+user	0m1.380s
+sys	0m0.300s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.437s
-user	0m1.407s
-sys	0m0.292s
+real	0m1.428s
+user	0m1.387s
+sys	0m0.304s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -4047,7 +4047,7 @@ She said that passengers had subdued the attacker and that a nurse and doctor on
 Asked how the passengers had stopped the attacker, Ms. Ohayon said, “I believe with their bare hands inside the cockpit.”
 
 
-real	0m1.557s
-user	0m1.800s
-sys	0m0.397s
+real	0m1.441s
+user	0m1.756s
+sys	0m0.307s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
