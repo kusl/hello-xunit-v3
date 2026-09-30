@@ -1,48 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.660s
-user	0m11.064s
-sys	0m0.880s
+real	0m6.370s
+user	0m11.072s
+sys	0m0.894s
 
 Build succeeded in 0.5s
 
-real	0m0.618s
-user	0m0.582s
-sys	0m0.154s
+real	0m0.633s
+user	0m0.625s
+sys	0m0.137s
 Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (3.1s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (3.3s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.4s
+Build succeeded in 4.6s
 
-real	0m4.587s
-user	0m1.532s
-sys	0m0.264s
+real	0m4.722s
+user	0m1.534s
+sys	0m0.307s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-failed CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(relative: "2026/09/29/us/politics/democrats-voter-turnout.htm"···, paragraphs: 16, reportedWords: 660, authors: 3, figures: 0, graphics: 2, notes: 0) (4ms)
-  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-  Assert.Equal() Failure: Values differ
-  Expected: 660
-  Actual:   663
-    at CSharpUnitTests.SampleArticleTests.Sample_ExtractsTheCompleteBodyFromPreloadedData(String relative, Int32 paragraphs, Int32 reportedWords, Int32 authors, Int32 figures, Int32 graphics, Int32 notes) in CSharpUnitTests/ArticleExtractionTests.cs:1144
-    --- End of stack trace from previous location ---
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (742ms)
-Exit code: 2
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (768ms)
 
-Test run summary: Failed!
+Test run summary: Passed!
   total: 217
-  failed: 1
-  succeeded: 216
+  failed: 0
+  succeeded: 217
   skipped: 0
-  duration: 939ms
-Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
+  duration: 978ms
 
-real	0m2.075s
-user	0m2.491s
-sys	0m0.432s
+real	0m2.167s
+user	0m2.584s
+sys	0m0.447s
 On branch master
-Your branch is ahead of 'origin/master' by 5 commits.
+Your branch is ahead of 'origin/master' by 6 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -72,12 +63,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.360s
-user	0m0.201s
-sys	0m0.168s
-Restore complete (0.4s)
+real	0m0.351s
+user	0m0.189s
+sys	0m0.178s
+Restore complete (0.5s)
 
-Build succeeded in 0.5s
+Build succeeded in 0.6s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -90,12 +81,12 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.391s
-user	0m1.377s
-sys	0m0.285s
-Restore complete (0.4s)
+real	0m1.565s
+user	0m1.513s
+sys	0m0.313s
+Restore complete (0.5s)
 
-Build succeeded in 0.5s
+Build succeeded in 0.6s
 
 The following sources were used:
    https://api.nuget.org/v3/index.json
@@ -104,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.478s
-user	0m1.418s
-sys	0m0.315s
+real	0m2.244s
+user	0m1.714s
+sys	0m0.361s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -2265,7 +2256,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.536s
-user	0m1.667s
-sys	0m0.319s
+real	0m1.586s
+user	0m1.687s
+sys	0m0.347s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
