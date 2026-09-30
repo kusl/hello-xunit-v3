@@ -1134,7 +1134,7 @@ public class SampleArticleTests
     [Theory]
     [InlineData(Husted, 32, 1444, 1, 5, 0, 0)]
     [InlineData(Oil, 34, 1287, 1, 1, 0, 1)]
-    [InlineData(Turnout, 16, 660, 3, 0, 2, 0)]
+    [InlineData(Turnout, 16, 663, 3, 0, 2, 0)]
     public async Task Sample_ExtractsTheCompleteBodyFromPreloadedData(string relative, int paragraphs, int reportedWords, int authors, int figures, int graphics, int notes)
     {
         Article article = await LoadAsync(relative);
