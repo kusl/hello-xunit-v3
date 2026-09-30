@@ -1,39 +1,49 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.067s
-user	0m10.378s
-sys	0m0.793s
+real	0m5.960s
+user	0m10.527s
+sys	0m0.823s
 
 Build succeeded in 0.4s
 
-real	0m0.565s
-user	0m0.579s
-sys	0m0.126s
+real	0m0.570s
+user	0m0.565s
+sys	0m0.130s
 Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (3.0s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.2s
+Build succeeded in 1.4s
 
-real	0m4.337s
-user	0m1.362s
-sys	0m0.263s
+real	0m1.568s
+user	0m1.151s
+sys	0m0.280s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (699ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (1ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 29
+  Actual:   30
+    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
+    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (704ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 885ms
+  duration: 886ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m1.960s
-user	0m2.327s
-sys	0m0.420s
+real	0m2.008s
+user	0m2.323s
+sys	0m0.451s
 On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +73,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.339s
-user	0m0.180s
-sys	0m0.169s
+real	0m0.348s
+user	0m0.181s
+sys	0m0.185s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +91,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.392s
-user	0m1.349s
-sys	0m0.285s
+real	0m1.376s
+user	0m1.340s
+sys	0m0.313s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +105,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.406s
-user	0m1.365s
-sys	0m0.302s
+real	0m1.823s
+user	0m1.504s
+sys	0m0.330s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -652,6 +662,53 @@ The city said that it was extending the deadline to file proof of residency to O
 The city had sought dismissal of the suit, arguing that the plaintiffs had not shown that the rollout had meaningfully harmed them and that proving that a property was a primary residence was straightforward, even when it is owned by a trust or corporate entity.
 
 This is a developing story. Check back for updates.
+
+================================================================================
+subway-backpack-dragging-death.html
+Source: PreloadedData  Paragraphs: 14  Words: 573/575
+================================================================================
+
+SUMMARY
+
+A man died on Monday night after he was dragged by a train in Brooklyn because the bag he was carrying became stuck in a subway car’s doors, the police said. The man, Yaw Boahene, 57, from Brooklyn, was exiting an express A train at around 6 p.m. on Monday at the Utica Avenue station when his shopping bag was caught as the doors closed, a Police Department spokesman said. Police officers responding to a 911 call found Mr. Boahene unconscious near the tracks of the A train.
+
+ARTICLE
+
+Man Killed After Bag Gets Stuck in Subway Doors, Police Say
+The man, a 57-year-old from Brooklyn, was pulled by the train and found near the tracks at the Utica Avenue station.
+By Claire Fahy
+Published 2026-09-29 14:15 UTC
+https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html
+
+A man died on Monday night after he was dragged by a train in Brooklyn because the bag he was carrying became stuck in a subway car’s doors, the police said.
+
+The man, Yaw Boahene, 57, from Brooklyn, was exiting an express A train at around 6 p.m. on Monday at the Utica Avenue station when his shopping bag was caught as the doors closed, a Police Department spokesman said.
+
+Police officers responding to a 911 call found Mr. Boahene unconscious near the tracks of the A train. Emergency medical workers pronounced him dead at the scene. An investigation into Mr. Boahene’s death is continuing, the police said.
+
+In an interview on Tuesday, Demetrius Crichlow, the president of New York City Transit, a division of the Metropolitan Transportation Authority, said that a video of the incident shows Mr. Boahene unsteady on his feet and walking with a cane when he boarded the train at Rockaway Boulevard. He was also unstable when he got off at Utica Avenue, the video shows, and was carrying a thin, plastic shopping bag.
+
+The subway train Mr. Boahene got on is called an R211, the newest class of cars in the transit fleet. According to Mr. Crichlow, those trains have sensors that will open the door if they detect objects above a certain size. A hand, a shoe, a large bag — all should prevent the door from closing.
+
+“He was carrying a plastic bag, which has no real width to it,” Mr. Crichlow said. He added that “it’s a terrible situation, but we’re going to do whatever is possible to determine whether or not our equipment was part of it.”
+
+The train entered service in July 2024 and was inspected as recently as July 29, he added. When it was inspected last night after Mr. Boahene’s death, a review of the mechanical operations of the door showed it was “operating as intended,” Mr. Crichlow said.
+
+Driving a subway train longer than five cars — which A trains typically are — is a two-person job requiring an operator in the front to move the train and a conductor in the middle to control the doors, said John R. Ross, a former train service supervisor with the M.T.A., which runs the subway.
+
+The conductor’s job is to “observe the platform as the doors close, and to observe the platform as he’s departing the station,” Mr. Crichlow said, adding that the conductor of the train that dragged Mr. Boahene has been removed from service while the investigation continues.
+
+A spokeswoman for Transport Workers Union Local 100, which represents subway and bus workers, declined to comment.
+
+Incidents of subway trains dragging commuters to their deaths are rare but do happen.
+
+In October 2022, Joseph Ancona, 20, was killed at the 59th Street-Columbus Circle station after it appeared that his bag was stuck in a train door. He was dragged along the platform onto the tracks.
+
+Earlier that year, in June 2022, Marcus Bryant, 37, was caught between a Q train and the platform in Brooklyn and fell onto the tracks. Early reports suggested his clothes were stuck in the train’s door, but subway officials later contradicted those accounts.
+
+And in 2019, Vicente Alatorre, 39, was dragged into a tunnel by a train at Grand Central Station and died. In that case, it was initially thought that Mr. Alatorre’s clothes or a bag were stuck in the doors of a train, which authorities later denied.
+
+Stefanos Chen contributed reporting.
 
 ================================================================================
 adam-hamilton-kansas-senate.html
@@ -2592,7 +2649,7 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 
-real	0m1.402s
-user	0m1.548s
-sys	0m0.295s
+real	0m1.412s
+user	0m1.621s
+sys	0m0.257s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
