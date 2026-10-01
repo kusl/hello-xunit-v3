@@ -1,14 +1,14 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m5.681s
-user	0m10.147s
-sys	0m0.783s
+real	0m5.820s
+user	0m10.461s
+sys	0m0.762s
 
 Build succeeded in 0.4s
 
-real	0m0.567s
-user	0m0.585s
-sys	0m0.117s
+real	0m0.574s
+user	0m0.595s
+sys	0m0.108s
 Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
@@ -16,24 +16,24 @@ Restore complete (0.4s)
 
 Build succeeded in 1.4s
 
-real	0m1.547s
-user	0m1.194s
-sys	0m0.283s
+real	0m1.580s
+user	0m1.142s
+sys	0m0.271s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (679ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (702ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 868ms
+  duration: 888ms
 
-real	0m1.975s
-user	0m2.316s
-sys	0m0.408s
+real	0m1.983s
+user	0m2.324s
+sys	0m0.424s
 On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
+Your branch is ahead of 'origin/master' by 5 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.325s
-user	0m0.179s
-sys	0m0.184s
+real	0m0.331s
+user	0m0.186s
+sys	0m0.182s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,8 +81,8 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.387s
-user	0m1.376s
+real	0m1.369s
+user	0m1.352s
 sys	0m0.274s
 Restore complete (0.4s)
 
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.384s
-user	0m1.365s
-sys	0m0.262s
+real	0m1.403s
+user	0m1.384s
+sys	0m0.270s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -6133,6 +6133,103 @@ https://www.nytimes.com/2026/10/01/pageoneplus/quote-of-the-day-governments-hop-
 SEAN Ó HEIGEARTAIGH, a Cambridge professor and member of an E.U. advisory board on A.I., on the lack of efforts to regulate the technology.
 
 ================================================================================
+pike-execution-pentobarbital.html
+Source: PreloadedData  Paragraphs: 40  Words: 1300/1300
+================================================================================
+
+SUMMARY
+
+The execution team went through at least seven needles trying to find a vein suitable for delivering doses of a lethal drug to Tennessee inmate Christa Pike, her lawyers said on Thursday. Ms. Pike, who survived the botched execution on Wednesday night, was left with blistering and burning around the intravenous insertion sites that the execution team ultimately used to deliver the drug, the lawyers added. Those details reinforced the sense among outside medical experts that Ms. Pike had survived the procedure because the drug, pentobarbital, probably poured into tissue surrounding the insertion sites instead of entering her bloodstream.
+
+ARTICLE
+
+How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?
+A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.
+By Benjamin Mueller and Shaila Dewan
+Published 2026-10-01 17:51 UTC
+https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html
+
+The execution team went through at least seven needles trying to find a vein suitable for delivering doses of a lethal drug to Tennessee inmate Christa Pike, her lawyers said on Thursday.
+
+Ms. Pike, who survived the botched execution on Wednesday night, was left with blistering and burning around the intravenous insertion sites that the execution team ultimately used to deliver the drug, the lawyers added.
+
+Those details reinforced the sense among outside medical experts that Ms. Pike had survived the procedure because the drug, pentobarbital, probably poured into tissue surrounding the insertion sites instead of entering her bloodstream.
+
+That could have prevented the drug from reaching the levels needed in her circulatory system to stop her breathing.
+
+The drug may nonetheless have lowered her oxygen levels or weakened her circulation enough to cause permanent brain damage. Any leak of the drug into her tissue could also have caused chemical burns.
+
+Ms. Pike’s lawyers said she was in critical condition and receiving lifesaving medical care.
+
+Stephen Ferrell, one of her lawyers, said that while details of the execution attempt were consistent with there having been problems with the intravenous delivery, a number of other factors could have been involved.
+
+The Tennessee Department of Correction said in a statement on Wednesday night that it “had followed every step of the state’s lawful, established execution protocol approved by the attorney general’s office.” Officials did not answer questions on Thursday about what went wrong with the administration of the drug.
+
+Medical experts said there were signs that the two intravenous catheters, rather than directing the drug into Ms. Pike’s bloodstream, had allowed it to leak into the tissue surrounding the insertion point.
+
+That could have been because of how or where the catheters were inserted, the fragility of Ms. Pike’s veins, or for another reason. Her lawyers said that doctors had always had difficulty finding veins during her blood draws and that Ms. Pike has a blood disorder that exacerbates that problem.
+
+During the execution attempt, they added, Ms. Pike even tried to help the staff place the two IV lines.
+
+“She over and over again said, ‘Please, try up on my shoulder higher, please try here, please try here,’” Randy Spivey, another of her lawyers, said. He added that Ms. Pike thanked them once staff members thought they had established the two lines.
+
+Instances in which intravenous drugs leak into tissue under the skin are known as “IV infiltration,” and have been cited in past botched executions, including ones that caused extensive chemical burns.
+
+Experts said that experienced doctors in a medical setting would typically be able to recognize signs of an IV infiltration as it occurred.
+
+Members of the news media who served as witnesses to the execution attempt said that Ms. Pike at one point described a burning spot in her arm that felt as if it were going to burst and asked if that was normal.
+
+“The pain in her arm should have been a bright red flag that the IV was infiltrating,” said Dr. Mark Heath, an assistant professor of anesthesiology at Columbia University Irving Medical Center.
+
+Dr. Joel Zivot, a professor of anesthesiology at the Emory University School of Medicine who said that he had previously been retained by Ms. Pike’s lawyers as a medical expert, said that such an event would have caused the type of reaction that witnesses described.
+
+The result, he said, could have been a highly alkaline solution leaking into Ms. Pike’s arm. “Essentially, they’ve injected bleach into the tissue of her arm,” Dr. Zivot said.
+
+He added that he was speaking on his own behalf and not for Ms. Pike’s legal team, and that he had no direct knowledge of what happened during the execution attempt.
+
+Having examined Ms. Pike’s medical records before the execution attempt, Dr. Zivot said that she was also susceptible to an IV infiltration. Ms. Pike’s lawyers had previously argued that the procedure could be agonizing for her in part because she has small veins.
+
+“Her venous system was small, and there could be some fragility there,” Dr. Zivot said. “You push a lot of a caustic substance into a small vein like that, under pressure, it’s going to blow.”
+
+He said chemical properties of the lethal drug, pentobarbital, mean that it can burn tissue and skin during executions.
+
+Pentobarbital is a barbiturate that can treat seizures; it works by depressing activity in the nervous system. It is a mainstay drug for euthanizing animals. The drug has also been used in states with legal medical aid in dying.
+
+Its main effect is to shut down electrical activity in the brain, including neurons in the brainstem that control breathing. The body enters a coma-like state, followed by respiratory failure and cardiac arrest.
+
+The federal government adopted single-drug pentobarbital for lethal injections during the first Trump administration.
+
+Under President Biden, the protocol was rescinded after a review by the Justice Department in January 2025 concluded that there remained “significant uncertainty” about whether using the drug for lethal injections “causes unnecessary pain and suffering.”
+
+President Trump’s current administration has reinstated its use, and has said it will also use firing squads.
+
+In Ms. Pike’s case, medical experts said it was also possible that there had been something wrong with the pentobarbital itself.
+
+The primary manufacturer of pentobarbital has restricted the drug’s use in executions, the Justice Department review noted. As a result, states have turned to chemical companies and compounding pharmacies, which are more loosely regulated.
+
+“Is it possible that the pentobarbital itself was somehow not constituted properly?” Dr. Zivot said. “Could it have degraded? Could it have expired? All of those things are possible.”
+
+Almost as soon as lethal injection was first adopted in the United States in the late 1970s as a more medicalized, less painful method of execution, there were prolonged or botched executions.
+
+In part, that was because the injections were often administered by correctional workers with limited medical training. Most doctors and anesthesiologists declined to advise or participate on ethical grounds.
+
+In 2009, the maker of one of the key drugs, sodium thiopental, stopped production in the United States. Other drug companies prohibited the use of their products for executions.
+
+States began scrambling to obtain the drugs, turning to compounding pharmacies and resorting to legally questionable arrangements like loaning the drugs to one another and importing drugs labeled for veterinary use. At one point, the Drug Enforcement Administration even seized Georgia’s supply of lethal injection drugs.
+
+Prisoners argued in court that lethal injection did not eliminate pain and suffering, but only masked it. “It is not the most humane, it is the most humane-looking,” said Corinna Lain, a law professor and the author of “Secrets of the Killing State: the Untold Story of Lethal Injection,” published last year.
+
+In response to the controversies, states shrouded the process in secrecy, passing laws that kept the public from learning details such as how the drugs are obtained and what dosage is used.
+
+Ms. Pike’s lawyers said on Thursday that they hoped records would be preserved that would allow them to learn how her execution had gone wrong. They said they had long warned in court that Ms. Pike’s medical conditions could cause problems, but that those warnings went unheeded.
+
+Mr. Spivey, her lawyer, said that among the at least seven needles used to try to establish an IV line in Ms. Pike’s left arm alone was one that appeared to be bent when it was pulled from her arm after an unsuccessful attempt.
+
+Whatever the reason the execution failed, medical experts said, the possibility that Ms. Pike had suffered the effects of a nonfatal dose of pentobarbital for an extended period created a risk for lasting brain injury.
+
+“She could be facing profound medical complications,” Dr. Zivot said.
+
+================================================================================
 christa-pike-alive-tennessee-execution-halted.html
 Source: PreloadedData  Paragraphs: 31  Words: 972/977
 ================================================================================
@@ -7068,7 +7165,7 @@ When the execution was called off just before 11 a.m., Mr. Creech said, he had t
 “I thought maybe I might already be in the afterlife,” he said. “Even now, today, I stop and I have to catch myself and think, ‘Am I really dead? I was supposed to be dead on the 28th of February. Am I really dead, and this is part of the afterlife? Continued punishment for my sins that I’ve committed?’”
 
 
-real	0m1.570s
-user	0m2.137s
-sys	0m0.374s
+real	0m1.568s
+user	0m2.155s
+sys	0m0.367s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
