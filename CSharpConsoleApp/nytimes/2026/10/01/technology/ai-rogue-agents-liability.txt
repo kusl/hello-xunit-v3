@@ -1,0 +1,88 @@
+================================================================================
+ai-rogue-agents-liability.html
+Source: PreloadedData  Paragraphs: 35  Words: 1325/1327
+================================================================================
+
+SUMMARY
+
+In recent weeks, an unlikely coalition has assembled around a simple idea: Artificial intelligence companies should be held legally responsible when their systems go rogue. In a series of escalating attacks reported since July, A.I. models from OpenAI, Anthropic and others have hacked companies and even meddled with government websites, all without the knowledge of their creators. Common sense might indicate A.I. companies would also be held liable for their runaway technology.
+
+ARTICLE
+
+A.I. Is Going Rogue. Who Should Be Held Responsible?
+Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy
+By David McCabe
+Published 2026-10-01 15:25 UTC
+https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html
+
+In recent weeks, an unlikely coalition has assembled around a simple idea: Artificial intelligence companies should be held legally responsible when their systems go rogue.
+
+In a series of escalating attacks reported since July, A.I. models from OpenAI, Anthropic and others have hacked companies and even meddled with government websites, all without the knowledge of their creators.
+
+Since then, Jensen Huang, the Nvidia chief executive; David Sacks, the venture capitalist and a top White House adviser; and Lina Khan, the Federal Trade Commission chair under the Biden administration, have all endorsed the idea that A.I. companies are liable.
+
+“Law enforcers already have authority to charge companies and their CEOs for creating and releasing dangerous, unvetted, or defective products,” Ms. Khan said in a post to X last month, adding there’s “no A.I. exemption from laws already on the books.”
+
+Companies have long been held accountable for everything from faulty toys to plane crashes under consumer protection laws. Courts can hold companies legally responsible for damage caused by negligence or a defective product. And they can assign additional blame to other people or organizations that were involved.
+
+Common sense might indicate A.I. companies would also be held liable for their runaway technology. But the problem is so new that courts have largely yet to confront it, according to legal experts.
+
+There are some cases where A.I. companies would clearly be held responsible, the experts said — for example, if executives understand predicted risks posed by their models. But other claims will push the justice system's application of laws that hinge on human intent and knowledge.
+
+Some legal test cases are emerging. Florida’s Republican attorney general asked a state court on Monday to temporarily block OpenAI from developing new A.I. models without safety measures approved by an outside group, an attempt to prevent A.I. from going rogue.
+
+On Tuesday, a nonprofit in California sued OpenAI under a state unfair competition law for the hacking of the start-up Hugging Face. On Wednesday, an investigation by the F.T.C. into potential liability for harm to consumers became public. And on Thursday, California’s attorney general said the state had served a subpoena to OpenAI as part of a “broader inquiry into cybersecurity incidents and risks involving the company and its models.”
+
+Given the relative lack of safeguards around A.I., the legal drumbeat is likely to continue, said Woodrow Hartzog, a law professor at Boston University who studies technology law.
+
+“Worst-case scenario, they have massive liability on both the criminal and civil side, just depending on the facts of the individual case,” he said. “We haven’t seen the firm-busting case yet. But I could envision it.”
+
+A spokesman for Anthropic declined to comment. A spokeswoman for OpenAI did not comment. (The New York Times has sued OpenAI and its partner, Microsoft, accusing them of copyright infringement of news content related to A.I. systems. OpenAI and Microsoft have denied those claims.)
+
+Since ChatGPT was publicly launched in 2022, A.I. companies have built increasingly sophisticated models capable of writing code, operating a computer and engaging in daily interactions. A.I. companies have also built tools referred to as “agents,” able to traverse the internet to accomplish tasks ranging from sending an email to booking a reservation — or scraping vast amounts of data.
+
+The debate over liability exploded after companies ran tests in which agents broke out of testing environments and breached other companies. In the July incident, OpenAI disclosed that its A.I. had hacked Hugging Face, another tech firm, without its knowledge. Last month, OpenAI said its product had penetrated an Australian government system.
+
+OpenAI apologized for the Australian incident on Tuesday and said it was “working to do better in the future.” One Australian official said that in such cases, “liability has to be traced back to the intent of a person or a company that created or directed the agent.”
+
+The incidents have incited calls for more regulation of A.I. systems. But the U.S. government has largely taken a hands-off approach to the technology, citing fierce competition with China in a global A.I. race.
+
+On Tuesday, a group of companies including OpenAI and Anthropic met with President Trump and signed a voluntary pledge to add safety measures. States have also tried to fill the gap, issuing rules that require A.I. companies to take safety measures.
+
+Senator Josh Hawley, Republican of Missouri, said at a congressional hearing on Wednesday that lawmakers might need to clarify that A.I. agents should be held liable like individuals and companies for consumer harms.
+
+“We don’t have to invent an entirely new system,” he said, adding, “American law has worked beautifully when it comes to other products for literally centuries now.”
+
+The most prominent early lawsuits over A.I. harms have claimed chatbots advised teenagers to commit self-harm, ending in death by suicide. Parents have filed lawsuits against OpenAI and Character AI, a start-up, arguing the companies should be held responsible.
+
+In those cases, the companies have tried to use classic tech legal defenses: that speech is protected under the First Amendment and Section 230 of the Communications Decency Act. The latter shields online platforms from liability for content posted by users.
+
+In the Character AI case, the U.S. District Court for the Middle District of Florida ruled last year that the company’s A.I. models did not produce speech protected by the First Amendment. Section 230’s applicability in a second case remains an open question.
+
+When it comes to corporate liability involving humans, the law is more established. There are many ways that cybersecurity breaches can violate the law, according to legal experts. Hacking is a crime. Consumers can sue when their information is exposed in a breach. Regulators can bring lawsuits if a company’s management releases a defective product.
+
+But in many of the A.I. cases, the companies’ agents have gone rogue, disobeying or ignoring humans who set up security guardrails.
+
+Some of those cases may still be clear-cut, legal experts said. If an A.I. agent hacks another company during testing, the company that developed the agent could be held liable, they said. The A.I. company also may have used the product directly or through an outside testing firm, leaving little question about whether another entity, like a cavalier customer, might be responsible.
+
+The companies could also have known the potential for their products to carry out a hack, which can increase liability, the legal experts said. Employees at OpenAI, for example, have raised concerns about the company’s security practices when testing models, which were ignored, The Times reported.
+
+In those situations, a court could hold the A.I developer negligent if damage or harm was associated with a hack, the experts said.
+
+Liability becomes less clear in cases involving open-source A.I. models, the experts said, in which the developer of an A.I. product shares its underlying code and people can change it.
+
+Many legal liability concepts could be easily applied to A.I., said Catherine Sharkey, a law professor at New York University who is an expert in liability. If an A.I.-powered physical system, such as a medical device, causes harm, that could be an easy case.
+
+But judges will need to grapple with the implications of rapidly advancing systems that can do more and more on their own, she added.
+
+“With fully agentic A.I., it starts to really press the boundaries of a lot of doctrines that will have to adapt in a more significant way,” she said.
+
+Adding to the uncertainty: A.I. is inherently unpredictable.
+
+Courts find companies liable for negligence when they foresee that their products can cause harm. But building that case could be challenging if an A.I. model exhibited harmful behavior for the first time, said Ryan Calo, a law professor at the University of Washington who studies autonomous systems.
+
+It may also be difficult to show that an A.I. company intended to do harm, which can be essential to some criminal prosecutions, he added.
+
+“You have the possibility of victims without perpetrators,” Mr. Calo said.
+
+Kate Conger and Cecilia Kang contributed reporting.
