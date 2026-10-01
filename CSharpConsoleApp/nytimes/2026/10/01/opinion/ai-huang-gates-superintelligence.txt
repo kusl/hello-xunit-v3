@@ -1,0 +1,72 @@
+================================================================================
+ai-huang-gates-superintelligence.html
+Source: PreloadedData  Paragraphs: 26  Words: 1826/1882
+================================================================================
+
+SUMMARY
+
+Bret Stephens: Americans are growing hostile to artificial intelligence. Bret: So far the best economic research doesn’t back up the idea that A.I. is eliminating jobs, even in industries that have been early A.I. adopters. Bret: To me, the data center angst is a reminder that Americans of all political stripes always seem to want contrary things: We bemoan the loss of our manufacturing base — and the jobs and communities those manufacturers once supported — then wring our hands over the environmental or aesthetic costs of reacquiring that base.
+
+ARTICLE
+
+Behold the Paragons of Rank Incompetence
+Behold the paragons of rank incompetence.
+By Frank Bruni and Bret Stephens
+Published 2026-10-01 09:07 UTC
+https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html
+
+Bret Stephens: Americans are growing hostile to artificial intelligence. I’ve warned that letting A.I. write for you can be brain-eating, soul-destroying, even democracy-undermining. There’s also a bipartisan backlash against data centers. Plus a widespread conviction that A.I. is going to destroy most jobs. Not to mention dark fears — especially from its very creators — that it could go rogue and lead to the destruction of a large chunk of humanity itself.
+
+So, of course, the knee-jerk contrarian in me now finds myself warming to A.I., thinking it will create more jobs than it will destroy, generate medical and scientific breakthroughs that will save and prolong lives, and allow humanity to discover new skills and achieve previously unimaginable goals.
+
+Help me out, Frank: Which side of my brain is wrong?
+
+Frank Bruni: Medical and scientific advances — absolutely. That side of your brain is working just fine. And I can buy the idea that A.I. won’t be quite the jobs apocalypse that many people fear.
+
+But I see no arithmetic by which it doesn’t diminish the overall number of jobs. And the popular notion among A.I. evangelists that such job elimination will free people in joyless careers to wander rhapsodically through the flowery meadows of creativity — if they don’t need their wages, why aren’t they wandering now? How will they suddenly be able to afford their wandering when a bot has replaced them?
+
+Would you support some version of universal basic income? Because not everybody will get rich off A.I. stocks; according to a Gallup survey last year, more than 40 percent of American adults aren’t in the market at all, and stock ownership is predictably concentrated among the most affluent.
+
+Bret: So far the best economic research doesn’t back up the idea that A.I. is eliminating jobs, even in industries that have been early A.I. adopters. That stands to reason: Productivity-enhancing technologies like A.I. are typically revenue enhancing, and new revenues typically mean more jobs. A lot of types of work will doubtlessly be ended by A.I. — secretarial and paralegal work, for instance, or traditional coding. But many more jobs — whose work might seem even stranger to us now than, say, the description of an airplane mechanic of the 1940s would seem to a train engineer of the 1890s — will come into existence.
+
+As for universal basic income, I think it’s a terrible idea — an invitation for people not to work, which creates a million personal and social problems in its turn. And since we already have $40 trillion in national debt, it would also speed the way to total fiscal collapse.
+
+Frank: Leaving U.B.I. aside for the moment, I have a problem with the idea that the job market will just transition or adapt. Yes, the nimbleness and innovations of private enterprise are remarkable. Yes, there’s a genius to capitalism. But government will get involved — government will have to get involved — and right now that’s petrifying. We have in the Trump administration not only a paragon of rank incompetence (Iran, ICE, the Reflecting Pool, you name it) but also proof that American voters can support — serially — such madness. So moving past President Trump is not the same thing as moving into the clear.
+
+To go back to your opening question of whether A.I. is the Grim Reaper or a keeper, the answer depends utterly, to the point Bill Gates just made in a conversation with our colleague Ezra Klein, on our prudent management and careful planning. Bret, how confident do you feel that today’s America can do prudent management and careful planning?
+
+Bret: Zero confidence. We’re long past the days when the government could manage anything competently, like the Tennessee Valley Authority or the Apollo program. We now live in the era in which it takes government many decades to complete just a few miles of a subway.
+
+But I also think Bill Gates is wrong — or, well, probably wrong. The best regulation for A.I. is self-regulation, which is what OpenAI has done by delaying the release of its newest agent until it is sure it is safe. Also, I was much more impressed with Ezra’s interview of Jensen Huang, the Nvidia C.E.O. Huang’s argument is that the A.I. panic into which we seem to be talking ourselves is wildly overblown, and that the A.I. revolution will look a lot like past technological revolutions: a process that will be far more creative than it is destructive, even if it involves a fair bit of both.
+
+I also think that whatever we choose to do here in the U.S. to impose curbs on A.I. will not make an iota’s difference to what China chooses to do. And I’d rather have America in the lead in the world’s most important technology than to cede the field to an autocratic competitor.
+
+Frank: There is indeed something about the fever pitch of A.I. doomsaying that feels to me like precisely the kind of hysteria we must distrust. The measure of raw emotion in it doesn’t invite wisdom. So I don’t advocate a fast and thorough retreat here — I think Bernie Sanders, for example, is sounding too loud and too showy a note of alarm — but I do think that some kind of pause and some measure of reflection would be sensible and wouldn’t consign us to being economically foolish A.I. laggards. Again, my problem is whether we have the systems and leaders to make proper use of such a pause. This is the epitome of a moment when sage stewardship is everything, but the dawn of A.I. comes at the dusk of American sanity.
+
+Bret: Sage stewardship probably ended around the time of the Eisenhower administration.
+
+Frank: I mean, Trump’s meeting with tech billionaires at the White House on Tuesday was a joke. He told the gathered titans how “very brilliant” they are, clearly reveling in the belief that his proximity to all that brainpower affirmed his own. He prodded them to sign a vague voluntary agreement to do whatever the A.I. equivalent of wearing a seatbelt is. Most impressive of all, he got them to endorse his rebranding of “artificial intelligence” as “super intelligence.” How super! It’s reminiscent of trying to end the Iran war by simply claiming it’s not a war.
+
+Bret: He would have done better to call it Super-Duper-Pooper-Scooper Intelligence, since some days I think the most we can hope for from A.I. is that it might clean up at least some of our messes.
+
+But I’m curious about your views on one more point of A.I. contention: data centers. After years in which liberals and conservatives alike bemoaned the deindustrialization of America — factories shutting down and leaving rust belts in their wake — there is bipartisan opposition to an industry that promises to re-industrialize many of these same places.
+
+Frank: But to re-industrialize them in a highly obnoxious way. To a certain degree, the data center opposition is NIMBYism for the digital age. But it also goes far beyond that, because the centers are mirrors and vessels of so many anxieties, so much bitterness. They’re reminders of how many tech titans far from these communities are accruing more and more wealth that’s not shared, so they’re symbols of the country’s gross — and, I think, unsustainable — economic inequalities.
+
+They create enormous electricity demands at precisely the time when the Trump administration is turning its back on alternative sources of energy — a decision, by the way, that’s clearly going to leave us far behind international competitors in that technology race and that market. All in all, it’s hard to look at a hulking data center on the side of a road near you and feel a tingle about the glories of progress.
+
+Bret: To me, the data center angst is a reminder that Americans of all political stripes always seem to want contrary things: We bemoan the loss of our manufacturing base — and the jobs and communities those manufacturers once supported — then wring our hands over the environmental or aesthetic costs of reacquiring that base. We worry whenever economic growth lags and then become furious that some of the people providing economic growth might be getting an outsize share of the spoils. We want faster cures for diseases, faster access to every conceivable kind of information, faster delivery of our takeout orders, but at the same time convince ourselves that the technology that can help us do all that is going to end humanity as we know it.
+
+The hard truth that too many Americans won’t confront is that you can’t have it both ways. Want to live the truly simple life? It’s probably going to be harder and darker and poorer than the life we have now. And God knows humanity has tried it. Want to live in a world in which technology powers growth and growth takes energy? That’ll have its downsides, too. We just can’t seem to be content with the choices we make.
+
+Frank: We don’t want to make choices, period. Or have anything presented to us as an either/or, plus/minus, benefit/cost decision. With national affluence comes national brattiness, and the greatness of America’s promise — you can be whoever you want, the sky’s the limit, the frontier is endless — is coupled with the inevitability of Americans’ letdown. Much of what we’ve seen over the past decade of American life, especially our political life, are the wages of that disappointment. In a broad historical and international context, we’ve been living the dream. And that turned out to be a font not of satisfaction but of grievance.
+
+Bret: You’ve touched on something really important: There’s a trade-off between the sense — or, I should say, illusion — of limitlessness that is so much a part of the American character and the aimlessness that typifies so much of American life today. So many choices are given to us that every choice we wind up making tends to feel disappointing and dissatisfying. That’s the problem with nearly every society in which freedom is the governing value: It tends to deprive us of a sense of purpose that comes only when we tie ourselves to an ideal or a goal that, in one way or another, limits our freedom.
+
+Frank: There’s an additional — and maybe even bigger — complication or challenge of freedom. It leaves you with responsibility. If you are free to make your own choices, then only you can answer for the way they turn out. That’s a heavy burden that many people can’t bear. The cult of victimhood in modern America is in part a byproduct of freedom. You got in the way of my aspirations. Society blocked my path. Too often, that’s sadly true. But perhaps just as frequently, it’s a dodge. A cop-out. A pretty, self-absolving lie. It feels so much better to rage at others than to train a harsh light on yourself.
+
+Bret: Spoken with the kind of intelligence that, as the Apple co-founder Steve Wozniak reminded us a few months ago, matters most: actual intelligence.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

@@ -1,39 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj
 
-real	0m6.153s
-user	0m10.798s
-sys	0m0.775s
+real	0m6.844s
+user	0m11.340s
+sys	0m0.960s
 
-Build succeeded in 0.4s
+Build succeeded in 0.5s
 
-real	0m0.581s
-user	0m0.571s
-sys	0m0.131s
-Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (2.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+real	0m0.617s
+user	0m0.612s
+sys	0m0.127s
+Restore complete (0.5s)
+  CSharpClassLibrary net10.0 succeeded (3.1s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.1s
+Build succeeded in 4.4s
 
-real	0m4.307s
-user	0m1.406s
-sys	0m0.252s
+real	0m4.538s
+user	0m1.510s
+sys	0m0.282s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (805ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (775ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 995ms
+  duration: 976ms
 
-real	0m2.075s
-user	0m2.364s
-sys	0m0.429s
+real	0m2.150s
+user	0m2.535s
+sys	0m0.472s
 On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
+Your branch is ahead of 'origin/master' by 4 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.349s
-user	0m0.199s
-sys	0m0.167s
+real	0m0.381s
+user	0m0.191s
+sys	0m0.206s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.361s
-user	0m1.339s
-sys	0m0.268s
+real	0m1.563s
+user	0m1.409s
+sys	0m0.343s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,9 +95,9 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.408s
-user	0m1.343s
-sys	0m0.299s
+real	0m1.852s
+user	0m1.561s
+sys	0m0.323s
 ================================================================================
 ai-doctor-medical-students.html
 Source: PreloadedData  Paragraphs: 18  Words: 1197/1267
@@ -5865,6 +5865,146 @@ Julie Menin, a Democrat and speaker of the Council, represents a dense district 
 “That means working with communities to identify where new housing makes sense and ensuring that growth is accompanied by the transit, infrastructure, public space and other investments neighborhoods need,” she said.
 
 ================================================================================
+ai-huang-gates-superintelligence.html
+Source: PreloadedData  Paragraphs: 26  Words: 1826/1882
+================================================================================
+
+SUMMARY
+
+Bret Stephens: Americans are growing hostile to artificial intelligence. Bret: So far the best economic research doesn’t back up the idea that A.I. is eliminating jobs, even in industries that have been early A.I. adopters. Bret: To me, the data center angst is a reminder that Americans of all political stripes always seem to want contrary things: We bemoan the loss of our manufacturing base — and the jobs and communities those manufacturers once supported — then wring our hands over the environmental or aesthetic costs of reacquiring that base.
+
+ARTICLE
+
+Behold the Paragons of Rank Incompetence
+Behold the paragons of rank incompetence.
+By Frank Bruni and Bret Stephens
+Published 2026-10-01 09:07 UTC
+https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html
+
+Bret Stephens: Americans are growing hostile to artificial intelligence. I’ve warned that letting A.I. write for you can be brain-eating, soul-destroying, even democracy-undermining. There’s also a bipartisan backlash against data centers. Plus a widespread conviction that A.I. is going to destroy most jobs. Not to mention dark fears — especially from its very creators — that it could go rogue and lead to the destruction of a large chunk of humanity itself.
+
+So, of course, the knee-jerk contrarian in me now finds myself warming to A.I., thinking it will create more jobs than it will destroy, generate medical and scientific breakthroughs that will save and prolong lives, and allow humanity to discover new skills and achieve previously unimaginable goals.
+
+Help me out, Frank: Which side of my brain is wrong?
+
+Frank Bruni: Medical and scientific advances — absolutely. That side of your brain is working just fine. And I can buy the idea that A.I. won’t be quite the jobs apocalypse that many people fear.
+
+But I see no arithmetic by which it doesn’t diminish the overall number of jobs. And the popular notion among A.I. evangelists that such job elimination will free people in joyless careers to wander rhapsodically through the flowery meadows of creativity — if they don’t need their wages, why aren’t they wandering now? How will they suddenly be able to afford their wandering when a bot has replaced them?
+
+Would you support some version of universal basic income? Because not everybody will get rich off A.I. stocks; according to a Gallup survey last year, more than 40 percent of American adults aren’t in the market at all, and stock ownership is predictably concentrated among the most affluent.
+
+Bret: So far the best economic research doesn’t back up the idea that A.I. is eliminating jobs, even in industries that have been early A.I. adopters. That stands to reason: Productivity-enhancing technologies like A.I. are typically revenue enhancing, and new revenues typically mean more jobs. A lot of types of work will doubtlessly be ended by A.I. — secretarial and paralegal work, for instance, or traditional coding. But many more jobs — whose work might seem even stranger to us now than, say, the description of an airplane mechanic of the 1940s would seem to a train engineer of the 1890s — will come into existence.
+
+As for universal basic income, I think it’s a terrible idea — an invitation for people not to work, which creates a million personal and social problems in its turn. And since we already have $40 trillion in national debt, it would also speed the way to total fiscal collapse.
+
+Frank: Leaving U.B.I. aside for the moment, I have a problem with the idea that the job market will just transition or adapt. Yes, the nimbleness and innovations of private enterprise are remarkable. Yes, there’s a genius to capitalism. But government will get involved — government will have to get involved — and right now that’s petrifying. We have in the Trump administration not only a paragon of rank incompetence (Iran, ICE, the Reflecting Pool, you name it) but also proof that American voters can support — serially — such madness. So moving past President Trump is not the same thing as moving into the clear.
+
+To go back to your opening question of whether A.I. is the Grim Reaper or a keeper, the answer depends utterly, to the point Bill Gates just made in a conversation with our colleague Ezra Klein, on our prudent management and careful planning. Bret, how confident do you feel that today’s America can do prudent management and careful planning?
+
+Bret: Zero confidence. We’re long past the days when the government could manage anything competently, like the Tennessee Valley Authority or the Apollo program. We now live in the era in which it takes government many decades to complete just a few miles of a subway.
+
+But I also think Bill Gates is wrong — or, well, probably wrong. The best regulation for A.I. is self-regulation, which is what OpenAI has done by delaying the release of its newest agent until it is sure it is safe. Also, I was much more impressed with Ezra’s interview of Jensen Huang, the Nvidia C.E.O. Huang’s argument is that the A.I. panic into which we seem to be talking ourselves is wildly overblown, and that the A.I. revolution will look a lot like past technological revolutions: a process that will be far more creative than it is destructive, even if it involves a fair bit of both.
+
+I also think that whatever we choose to do here in the U.S. to impose curbs on A.I. will not make an iota’s difference to what China chooses to do. And I’d rather have America in the lead in the world’s most important technology than to cede the field to an autocratic competitor.
+
+Frank: There is indeed something about the fever pitch of A.I. doomsaying that feels to me like precisely the kind of hysteria we must distrust. The measure of raw emotion in it doesn’t invite wisdom. So I don’t advocate a fast and thorough retreat here — I think Bernie Sanders, for example, is sounding too loud and too showy a note of alarm — but I do think that some kind of pause and some measure of reflection would be sensible and wouldn’t consign us to being economically foolish A.I. laggards. Again, my problem is whether we have the systems and leaders to make proper use of such a pause. This is the epitome of a moment when sage stewardship is everything, but the dawn of A.I. comes at the dusk of American sanity.
+
+Bret: Sage stewardship probably ended around the time of the Eisenhower administration.
+
+Frank: I mean, Trump’s meeting with tech billionaires at the White House on Tuesday was a joke. He told the gathered titans how “very brilliant” they are, clearly reveling in the belief that his proximity to all that brainpower affirmed his own. He prodded them to sign a vague voluntary agreement to do whatever the A.I. equivalent of wearing a seatbelt is. Most impressive of all, he got them to endorse his rebranding of “artificial intelligence” as “super intelligence.” How super! It’s reminiscent of trying to end the Iran war by simply claiming it’s not a war.
+
+Bret: He would have done better to call it Super-Duper-Pooper-Scooper Intelligence, since some days I think the most we can hope for from A.I. is that it might clean up at least some of our messes.
+
+But I’m curious about your views on one more point of A.I. contention: data centers. After years in which liberals and conservatives alike bemoaned the deindustrialization of America — factories shutting down and leaving rust belts in their wake — there is bipartisan opposition to an industry that promises to re-industrialize many of these same places.
+
+Frank: But to re-industrialize them in a highly obnoxious way. To a certain degree, the data center opposition is NIMBYism for the digital age. But it also goes far beyond that, because the centers are mirrors and vessels of so many anxieties, so much bitterness. They’re reminders of how many tech titans far from these communities are accruing more and more wealth that’s not shared, so they’re symbols of the country’s gross — and, I think, unsustainable — economic inequalities.
+
+They create enormous electricity demands at precisely the time when the Trump administration is turning its back on alternative sources of energy — a decision, by the way, that’s clearly going to leave us far behind international competitors in that technology race and that market. All in all, it’s hard to look at a hulking data center on the side of a road near you and feel a tingle about the glories of progress.
+
+Bret: To me, the data center angst is a reminder that Americans of all political stripes always seem to want contrary things: We bemoan the loss of our manufacturing base — and the jobs and communities those manufacturers once supported — then wring our hands over the environmental or aesthetic costs of reacquiring that base. We worry whenever economic growth lags and then become furious that some of the people providing economic growth might be getting an outsize share of the spoils. We want faster cures for diseases, faster access to every conceivable kind of information, faster delivery of our takeout orders, but at the same time convince ourselves that the technology that can help us do all that is going to end humanity as we know it.
+
+The hard truth that too many Americans won’t confront is that you can’t have it both ways. Want to live the truly simple life? It’s probably going to be harder and darker and poorer than the life we have now. And God knows humanity has tried it. Want to live in a world in which technology powers growth and growth takes energy? That’ll have its downsides, too. We just can’t seem to be content with the choices we make.
+
+Frank: We don’t want to make choices, period. Or have anything presented to us as an either/or, plus/minus, benefit/cost decision. With national affluence comes national brattiness, and the greatness of America’s promise — you can be whoever you want, the sky’s the limit, the frontier is endless — is coupled with the inevitability of Americans’ letdown. Much of what we’ve seen over the past decade of American life, especially our political life, are the wages of that disappointment. In a broad historical and international context, we’ve been living the dream. And that turned out to be a font not of satisfaction but of grievance.
+
+Bret: You’ve touched on something really important: There’s a trade-off between the sense — or, I should say, illusion — of limitlessness that is so much a part of the American character and the aimlessness that typifies so much of American life today. So many choices are given to us that every choice we wind up making tends to feel disappointing and dissatisfying. That’s the problem with nearly every society in which freedom is the governing value: It tends to deprive us of a sense of purpose that comes only when we tie ourselves to an ideal or a goal that, in one way or another, limits our freedom.
+
+Frank: There’s an additional — and maybe even bigger — complication or challenge of freedom. It leaves you with responsibility. If you are free to make your own choices, then only you can answer for the way they turn out. That’s a heavy burden that many people can’t bear. The cult of victimhood in modern America is in part a byproduct of freedom. You got in the way of my aspirations. Society blocked my path. Too often, that’s sadly true. But perhaps just as frequently, it’s a dodge. A cop-out. A pretty, self-absolving lie. It feels so much better to rage at others than to train a harsh light on yourself.
+
+Bret: Spoken with the kind of intelligence that, as the Apple co-founder Steve Wozniak reminded us a few months ago, matters most: actual intelligence.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+gas-prices-oil-crash.html
+Source: PreloadedData  Paragraphs: 22  Words: 1161/1233
+================================================================================
+
+SUMMARY
+
+When the United States and Israel attacked Iran in February, a temporary surge in oil prices was a given. Oil prices will retreat, initially to where they were in January, around $60 to $70 per barrel. The effects of high oil prices are not evenly distributed.
+
+ARTICLE
+
+If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash
+An oil bust is on the horizon.
+By Philip Delves Broughton
+Published 2026-10-01 09:01 UTC
+https://www.nytimes.com/2026/10/01/opinion/gas-prices-oil-crash.html
+
+When the United States and Israel attacked Iran in February, a temporary surge in oil prices was a given. Seven months on, with the international price for a barrel of crude around $100 and tankers still cowering in the Strait of Hormuz, drivers seem resigned to paying $5 for a gallon of gas for the foreseeable future.
+
+They needn’t be: Oil’s big bust is coming. The stage is set for a price crash, and not the kind that would benefit President Trump before the midterm elections.
+
+Oil busts happen first in drips, then in blowouts. In March, at the oil industry’s annual jamboree in Houston, executives celebrated how the Trump administration had simplified their lives. Regulatory approvals that used to take years were being waved through in days. Exploration and production were booming, and the surge in prices from the war was already plumping profits. Oil traders were feasting on the volatility.
+
+Older heads, however, recalled a darker time. In early 1986, oil prices fell from roughly $30 a barrel to $10 after Saudi Arabia decided to flood the market to punish OPEC members who were flouting production limits. The combination of a U.S. slump and the fall in global oil prices took Houston into its own version of the Great Depression.
+
+Pawnshops, bursting with furs and Rolexes, had to turn away consigners. In the evening, the sunlight shone through empty skyscrapers, unfiltered by people or furniture. The former Texas governor John Connally filed for bankruptcy and sold his possessions at auction. The psychological effects were deep and lasting.
+
+Something similar will happen if the Iran war ends and shipping resumes freely through the strait. Oil prices will retreat, initially to where they were in January, around $60 to $70 per barrel.
+
+But a more dramatic fall now looks likely, beyond the careful forecasts of supply and demand.
+
+During the recession that followed the 2008 financial crisis, prices fell from around $140 a gallon to $40, and during Covid they plummeted from $60 to $20. A similar drop today could take prices to $30 and below. At that price, the Saudis could make money but not U.S. oil producers.
+
+The commerce secretary, Howard Lutnick, said recently that the administration wants oil prices to collapse. The plan is to open the spigots of global oil, starting in Venezuela, with the goal of $2-per-gallon gasoline, forever — which translates to crude oil pricing at $30 to $40 a barrel.
+
+While an appealing campaign pledge, a price that low would devastate the U.S. oil industry. The break-even price for American oil producers drilling new wells is north of $60 a barrel; for shale drillers, even higher. In Mr. Lutnick’s world, the cheering oil barons of Houston, and their employees and dependents, would soon face economic Armageddon.
+
+In a balanced state, the world produces and consumes around 105 million barrels of liquid fuels daily, including crude oil. This year, both supply and demand are down. The International Energy Agency’s latest annual estimate is that global demand for oil will fall by 2.5 million barrels per day, while supply will fall by 5.7 million barrels per day. Through the summer, the world drew on its inventories to fill the gap between supply and demand. Those stores, such as the United States’ Strategic Petroleum Reserve, are now running dry.
+
+Changes of a few percentage points in supply and demand may not seem like much. But it is in the margins where you find the seeds of collapse.
+
+While the Persian Gulf has been blocked, countries in other parts of the world have been investing to increase production. Guyana’s vast fields are now producing at scale, after years of investment led by Exxon Mobil. Argentina’s president, Javier Milei, is pushing to expand production in Patagonia. Venezuela’s antiquated oil infrastructure is expected to be overhauled with a rush of funding.
+
+An end to the war in Ukraine could bring much of Russia’s sanctioned oil out of the shadow fleets and back onto the open market, once it repairs its shattered infrastructure. The question then will be whether there will be buyers for all this supply.
+
+In the meantime, champions of renewable energy are closer than ever to the tipping-point moment when alternative energy becomes inexpensive, reliable and widely available. This year, renewables, mostly wind and solar, are providing just over half the electricity consumed in California and Western Europe.
+
+The biggest obstacles to greater use are storage and transmission to ensure consistent delivery. Oil’s instability may be the final push investors need to accelerate the transition. Surging electricity demand from Big Tech and A.I. giants is also supercharging investments into alternatives, including small, modular nuclear reactors.
+
+The effects of high oil prices are not evenly distributed. Asian countries, which rely heavily on imports of Gulf oil, have suffered more in recent months than Western countries, which have regional supplies and more diversified energy systems. In the 1970s, Japan adjusted to the near quadrupling of oil prices by developing nuclear power and investing in lighter, less energy-intensive manufacturing. The hardest-hit victims of today’s price rises will be making similar calculations.
+
+Mr. Trump’s quixotic foreign policy has also left many countries wondering if depending on oil, which relies so much on American action and inaction around the world, is worth the hassle. America’s exasperated Middle Eastern allies will soon be walking into the arms of China, a huge oil buyer. The latest attack on Saudi Arabia’s crucial east-west oil pipeline will likely affect supply for months, increasing the sense that this supposedly limited war has spun out of control.
+
+There is also the prospect of recession, another demand killer. The simplest reading of the recent tremors in the bond markets is that winter is coming. The United States and much of Europe are too deeply in debt. The A.I. bubble is a rogue agent or two away from deflating. Borrowing costs are rising, and a worldwide recession would dent demand for oil at a moment of rising supply.
+
+Watch out: When oil prices start to fall, producers race to the bottom. They increase production, which briefly sustains revenues until the additional supply forces prices down further. One by one, higher-cost producers are forced out, unable to sustain the losses. The 1986 price collapse was devastating for the Soviet Union. A similar collapse today could crush Vladimir Putin’s Russia.
+
+Despite a production-cost advantage, Saudi Arabia cannot tolerate low crude prices the way it used to. That nation’s population has nearly tripled since 1986, and its development planners are thirsty for capital. Sudden and searing economic pain in the Middle East may destabilize political decision making.
+
+Throughout the petroverse, then, conditions are now pointing toward another oil collapse. It is just a question of when. That may be welcome news to drivers filling their gas tanks. But like the recent price escalation, it is also rife with unintended and disastrous consequences for the oil industry, and the economies and countries that depend on it.
+
+Philip Delves Broughton is also the author of “Ahead of the Curve: Two Years at Harvard Business School.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
 mexico-ai-trump.html
 Source: PreloadedData  Paragraphs: 42  Words: 3060/3148
 ================================================================================
@@ -6086,6 +6226,106 @@ Mr. Becerra, if elected, would likely be a very different kind of leader. His vi
 Mr. Becerra brags about shopping at Costco. Mr. Newsom declared on his taxes that he had given away $45,000 worth of Armani suits.
 
 Debate moderators did not ask the candidates if they would emulate Mr. Newsom by hosting a podcast with right-wing influencers, spilling their family tea in a memoir or staging a photo op at the top of a bridge. They really didn’t have to.
+
+================================================================================
+gina-hinojosa-andy-beshear-dem…ic-governors-association.html
+Source: PreloadedData  Paragraphs: 19  Words: 847/847
+================================================================================
+
+SUMMARY
+
+As polls suggest that Gina Hinojosa, a Democrat, is competitive in her campaign to become the first Latina governor of the usually reliably Republican state of Texas, a growing number of prominent Latino officials are angry that she is not getting more help from the party. Now there are veiled threats that if the Democratic Governors Association fails to invest in her bid, some Latino leaders could withhold their support from the group’s chairman, Gov. Andy Beshear of Kentucky, should he, as expected, run for president in 2028. “All Democrats would do better when and if we help Gina Hinojosa win Texas,” said one of the Democrats who signed the letter, Senator Ruben Gallego of Arizona, who like Mr. Beshear is considering a 2028 run.
+
+ARTICLE
+
+Should Democrats Spend in Deep-Red Texas? A Battle Could Echo in 2028.
+Allies of Gina Hinojosa want a Democratic group to support her bid for Texas governor — putting pressure on its chairman, Gov. Andy Beshear of Kentucky, who is weighing a run for president.
+By Reid J. Epstein
+Published 2026-10-01 09:03 UTC
+https://www.nytimes.com/2026/10/01/us/politics/gina-hinojosa-andy-beshear-democratic-governors-association.html
+
+As polls suggest that Gina Hinojosa, a Democrat, is competitive in her campaign to become the first Latina governor of the usually reliably Republican state of Texas, a growing number of prominent Latino officials are angry that she is not getting more help from the party.
+
+Now there are veiled threats that if the Democratic Governors Association fails to invest in her bid, some Latino leaders could withhold their support from the group’s chairman, Gov. Andy Beshear of Kentucky, should he, as expected, run for president in 2028.
+
+“We are asking you to invest in a competitive race with the largest Latino electorate in the country following an election cycle where Republicans made alarming inroads with Latinos,” read a letter more than 70 Latino officials sent Wednesday to Mr. Beshear at the D.G.A.
+
+Ms. Hinojosa’s allies have recruited a cadre of officials, including some from the early-voting states of Nevada and New Mexico, to push Mr. Beshear to direct the group to spend $10 million on her campaign against Gov. Greg Abbott, the incumbent Republican who is seeking a fourth term.
+
+“All Democrats would do better when and if we help Gina Hinojosa win Texas,” said one of the Democrats who signed the letter, Senator Ruben Gallego of Arizona, who like Mr. Beshear is considering a 2028 run. “No matter who you are, no matter if you’re running for president, you want Gina Hinojosa to be the governor of Texas.”
+
+Last week, the D.G.A. allocated $650,000 to help the Democratic candidate for governor in Alaska. Texas has been a back-burner race for the D.G.A., which has so far invested in backing Democratic candidates in Arizona, Georgia, Iowa, Kansas, Maine, Michigan, Nevada, Ohio, and Wisconsin. It has not yet spent or directed money on advertising in Texas.
+
+“Gina Hinojosa is a great candidate and running a great campaign,” Mr. Beshear said in a statement to The New York Times on Wednesday. “The D.G.A. is currently investing by paying expenses and providing staff, with more to come. My goal as chair of the D.G.A. this year is to win as many races as we can and that’s exactly what we’re doing by going on offense and expanding the map.”
+
+When asked about Ms. Hinojosa’s race in an interview published last week by USA Today, Mr. Beshear said he would not allow his own presidential aspirations to color how he directs D.G.A. resources this year.
+
+“I, as the DGA chair, can’t be motivated by pleasing or not pleasing anyone when it comes to ’28,” Mr. Beshear said. “I made a commitment to win as many races as I can in ’26.”
+
+The pleas for more aid come as polls show Ms. Hinojosa competitive with Mr. Abbott, whose campaign has spent $68 million in advertising so far, according to AdImpact, a media tracking firm, while she has spent just $8.7 million.
+
+Mr. Beshear’s PAC, In This Together, sent $25,000 to Ms. Hinojosa’s campaign and he has been making fund-raising calls to donors on her behalf, a D.G.A. official said. Mr. Beshear and Ms. Hinojosa spoke by phone on Tuesday, according to two people briefed on the exchange.
+
+Gov. Michelle Lujan Grisham of New Mexico, the nation’s lone sitting Latina governor, has been phoning donors to help Ms. Hinojosa raise money, she said. She said she has also worked with Mr. Beshear to direct resources to Hispanic communities. “We should all be focused on supporting Gina,” said Ms. Lujan Grisham, whose state will be early in the 2028 primary calendar.
+
+The fund-raising disparity in Texas illustrates a longstanding problem in Democratic politics: Their donors are far more inclined to invest in candidates running for Congress or president than they are in those running for state office.
+
+“It is extremely challenging for us to get national donors to pay attention to governor’s races outside of their states,” said Peter O’Keefe, a former Democratic Governors Association treasurer who remains involved in the group’s fund-raising.
+
+Texas has been a reliably Republican state for decades. President Trump won it by 14 points in 2024. The state’s last Democratic governor was Ann Richards, who lost her 1994 re-election bid to George W. Bush.
+
+But Ms. Hinojosa’s allies are trying to pressure Mr. Beshear with a host of polls that show her within shouting distance of Mr. Abbott. Staying out of Texas, they say, would damage Mr. Beshear’s chances in Nevada and New Mexico, Latino-heavy states that Democrats have put at the front of their presidential nominating calendar in 2028.
+
+“I don’t think it’s helpful for his politics at all,” said Sergio Gonzales, a veteran of Democratic Latino politics who was a senior aide to Vice President Kamala Harris, and who helped organize the letter. “It hurts his politics now, it certainly would hurt any future aspirations that he has for higher office because Latinos are all over this country.”
+
+The letter was a follow-up to another sent last month, which made the initial $10 million request.
+
+Asked about the $10 million request from her allies, Ms. Hinojosa said in a text message Wednesday: “That would be great!”
+
+================================================================================
+tennessee-executions-christa-pike-lee-review.html
+Source: PreloadedData  Paragraphs: 14  Words: 470/470
+================================================================================
+
+SUMMARY
+
+Tennessee has called off another planned execution in 2026 and will review the way it puts prisoners to death after an inmate, Christa Pike, survived two doses of a lethal drug in the state’s second botched attempt at capital punishment this year. In 2022, he ordered a review after prison officials failed to properly test the drugs before an execution. Mr. Lee also ordered a third-party review of what happened during the execution attempt, during which Ms. Pike remained alive, breathing and snoring for nearly an hour before she was taken to a hospital.
+
+ARTICLE
+
+Tennessee Pauses a Planned Execution After a Failed Attempt
+Gov. Bill Lee, a Republican, ordered a review of the state’s lethal injection process after the botched attempt to put Christa Pike to death. She was hospitalized Wednesday.
+By Emily Cochrane
+Published 2026-10-01 12:51 UTC
+https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html
+
+Tennessee has called off another planned execution in 2026 and will review the way it puts prisoners to death after an inmate, Christa Pike, survived two doses of a lethal drug in the state’s second botched attempt at capital punishment this year.
+
+It is the second time in five years that Gov. Bill Lee, a Republican, has paused executions because of questions over the effectiveness of the state’s lethal injections. In 2022, he ordered a review after prison officials failed to properly test the drugs before an execution.
+
+“Carrying out a lawfully imposed sentence is among the state’s most serious responsibilities,” he said in a statement after the attempted execution of Ms. Pike. “The people of Tennessee expect it to be done in a manner that is not only legal and constitutional, but is effective.”
+
+Mr. Lee also ordered a third-party review of what happened during the execution attempt, during which Ms. Pike remained alive, breathing and snoring for nearly an hour before she was taken to a hospital.
+
+The remaining execution for this year, for a man convicted of murdering a friend, had been scheduled for December. This year, Mr. Lee issued a reprieve for another death-row inmate whose execution was canceled after medical staff members failed to find a vein.
+
+Out of four planned executions this year in Tennessee, only one took place without incident.
+
+Ms. Pike, 50, was hospitalized Wednesday evening after it was clear she was still conscious after two doses of the lethal drug pentobarbital. It was not immediately clear Thursday morning what her condition was, or what had gone wrong.
+
+Ms. Pike, convicted of the 1995 murder of a classmate, had been on death row for more than three decades. She would have been the first woman executed in the state in more than 200 years.
+
+Her lawyers had raised concerns about whether the procedure could be carried out, given the first failed execution attempt this year. They also warned that Ms. Pike’s pain could be exacerbated by her history of sexual trauma, along with other medical issues.
+
+The Wednesday execution was already delayed after a flurry of last-minute legal challenges. But after the Supreme Court cleared the way, Tennessee officials moved ahead.
+
+Only a few people were allowed to witness the attempt to end Ms. Pike’s life. While the curtains separating the witness space from the execution chamber were drawn for much of the time, reporters said they could hear Ms. Pike breathing and snoring for nearly an hour.
+
+At one point, they said, she described a burning pain in her arm.
+
+The Tennessee Department of Correction said in a statement it “had followed every step of the state’s lawful, established execution protocol approved by the attorney general’s office.”
+
+“The lethal injection chemical in the protocol has consistently been effective,” the department said.
 
 ================================================================================
 israel-flight-flydubai-pilot-captain-smit-machchhar.html
@@ -6454,7 +6694,7 @@ She said that passengers had subdued the attacker and that a nurse and doctor on
 Asked how the passengers had stopped the attacker, Ms. Ohayon said, “I believe with their bare hands inside the cockpit.”
 
 
-real	0m1.573s
-user	0m2.108s
-sys	0m0.405s
+real	0m1.632s
+user	0m2.241s
+sys	0m0.415s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
