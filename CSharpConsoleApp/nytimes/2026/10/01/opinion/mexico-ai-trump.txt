@@ -1,0 +1,106 @@
+================================================================================
+mexico-ai-trump.html
+Source: PreloadedData  Paragraphs: 42  Words: 3060/3148
+================================================================================
+
+SUMMARY
+
+At a moment when the post-World War II global trade architecture is teetering, Mexico is testing the notion that the United States can unilaterally decouple from the rest of the world. Mr. Trump has dismissed the trade relationship, claiming that Mexico produces nothing the United States needs: “I mean, hot tamales, tomatoes, a couple of things.” The president’s effort to use tariffs to steer manufacturing back to the United States can only go so far; some economic paradigms are so entrenched that even Mr. Trump will have a hard time reversing them.
+
+ARTICLE
+
+This Is Something Trump Can’t Break
+The president’s effort to use tariffs to steer manufacturing back to the United States can only go so far.
+By Mary Beth Sheridan
+Published 2026-10-01 05:00 UTC
+https://www.nytimes.com/2026/10/01/opinion/mexico-ai-trump.html
+
+This essay is part of “The New World Disorder,” a series exploring the disintegration of the postwar international system and how countries are adjusting as America steps aside.
+
+No one expected the artificial intelligence revolution to appear here, on the edge of the Mexican city of Juárez, across from a patch of tiny homes where Roger Vilchis sells Tostitos and Coca-Cola from a roadside stand. His neighborhood is all dust and heat, with dogs sleeping in the dirt roads and norteño music bouncing through the air. A sign on a chain-link fence warns: “It is prohibited to throw garbage or dead animals here.”
+
+So when a long white building started rising a few years ago on a tract of land the size of several football fields, Mr. Vilchis, 25, figured it might be a shopping center. It turned out to be a factory — and not just any factory. To the astonishment of the neighbors, the plant belonged to Inventec, a Taiwanese giant with over $20 billion a year in sales that makes servers for artificial intelligence. No A.I. backlash in this blue-collar barrio: “We saw it as good,” Mr. Vilchis told me. “We realized there will be more work.”
+
+The Inventec facility, one of several new server factories in this desert valley bordering Texas, is a looming testament to how Mexico is surviving — and even challenging — the Trump administration’s escalating assault on free trade. At a moment when the post-World War II global trade architecture is teetering, Mexico is testing the notion that the United States can unilaterally decouple from the rest of the world.
+
+While “free trade is no longer the reality we are living,” as Mexico’s economy secretary, Marcelo Ebrard, put it recently, Mexico and other middle powers are banking on their competitive advantages and indispensability to the U.S. economy to withstand the Trump administration’s tariff campaign. As Washington throws its might into dominating the global A.I. market, Mexico has become an increasingly important supplier for America’s artificial intelligence boom, providing more than one-third of the United States’ imported computer servers.
+
+This growth has accelerated despite President Trump’s best efforts to replace America’s longtime free-trade philosophy with economic nationalism. On July 24, after the Supreme Court struck down the president’s “Liberation Day” tariffs, the administration introduced fresh tariffs on goods from more than 80 countries, citing an obscure law against unfair trade practices. A month later, Mr. Trump imposed 50 percent tariffs on an array of Canadian exports, which took effect after trade negotiations collapsed.
+
+In all of these moves, Mr. Trump has broken sharply with a U.S. policy consensus dating back to the post-World War II era: that international agreements to cut tariffs promote growth and stability. To Mr. Trump, free trade is not a tide lifting all boats; it is more like a hurricane, crashing into domestic manufacturing and killing jobs. Since he took office, average U.S. tariffs on imported goods have more than quadrupled, from 2.1 percent to almost 10 percent, according to the independent Tax Policy Center.
+
+Mexico has not been exempt, enduring new tariffs on its cars, steel and aluminum — all critical exports. Mr. Trump has dismissed the trade relationship, claiming that Mexico produces nothing the United States needs: “I mean, hot tamales, tomatoes, a couple of things.”
+
+The numbers, as they often do with this administration, tell a different story. Mexico surpassed Canada as the United States’ biggest trade partner in 2024, and its lead over that country and China, ranked third, has only continued to grow. Supercharged by America’s data center build-out, Mexico’s exports of goods to the United States surged by 16 percent year-on-year in the first seven months of 2026 — to a record of nearly $359 billion. The burgeoning Mexican server industry has become a symbol of Mr. Trump’s competing priorities: to establish U.S. dominance in artificial intelligence, but also to rein in trade deficits.
+
+I traveled to Juárez in August to understand how Mexico and other middle powers are adapting to this more chaotic and disordered trade environment — and navigating these contradictions. Some governments have won reprieves from harsh U.S. tariffs by increasing investment in the United States — in Taiwan’s case, a stunning $250 billion for semiconductor plants and tech manufacturing — or further opening their markets to American goods. Several have agreed to other U.S. demands in a kind of quid pro quo; Mexico, for example, is subjecting foreign investment to an enhanced national-security review and ramping up cooperation against drug cartels.
+
+But such concessions don’t tell the whole story. The president’s effort to use tariffs to steer manufacturing back to the United States can only go so far; some economic paradigms are so entrenched that even Mr. Trump will have a hard time reversing them.
+
+Nowhere is that clearer than in Juárez.
+
+Decades ago, Juárez — just across the Rio Grande from El Paso, Texas — was known for its cotton fields and quickie-divorce industry (Elizabeth Taylor and Marilyn Monroe were among those who untied the knot here). Its transformation into an industrial powerhouse began in the 1960s, when the Mexican government created the “border industrialization” program, a scheme that allowed export-oriented assembly plants, or “maquiladoras,” to operate in a free-trade zone stretching along the Mexican border. By the late 1990s, when I began to visit Juárez as a reporter, the North American Free Trade Agreement, or NAFTA, had sparked an explosion of factories. Today the city is a sort of shop floor for American industry.
+
+Mr. Trump has made no secret of his disdain for NAFTA, which he has called “the worst trade deal maybe ever signed anywhere.” Throughout his first term, he negotiated a successor treaty to NAFTA known as the U.S.M.C.A, which included rules that were more favorable for U.S. automakers, among other things. This term, he has refused to join Mexico and Canada in inking a 16-year renewal of the U.S.M.C.A, opting instead to delay while he seeks even tougher terms.
+
+But the border has an economic logic all of its own. Unwinding U.S.-Mexico supply chains “would have a monumental economic and political cost,” Luis de la Calle, a former Mexican trade negotiator, told me. Many U.S. businesses — from A.I. data centers that get their servers from Juárez to Iowa farms exporting chicken feed — now rely on Mexico, as a supplier or customer. For American consumers, that trade has kept prices in check on strawberries, compact cars, pacemakers and countless other products. With U.S. inflation stuck above 3 percent, and the cost of fuel surging, the president only has so much room to maneuver — whatever his dreams of a fortress economy.
+
+Indeed, Mr. Trump’s efforts to impose 25 percent tariffs on Mexico’s and Canada’s exports to the U.S. in March 2025 were met with an outcry from U.S. industry and a drop in the stock market. Days later, the White House changed its mind, exempting products that comply with U.S.M.C.A rules — accounting for about four-fifths of Mexico’s exports to the United States.
+
+“Reality,” as Mr. de la Calle said, “will end up winning.”
+
+César Ochoa has watched Mexico go global. He is one of Juárez’s city fathers, a 64-year-old with salt-and-pepper hair and a banker’s neat attire. His office is a hushed, wood-paneled sanctuary just off a noisy six-lane highway lined by tire shops, gas stations and burrito stands. Such is Juárez.
+
+Mr. Ochoa arrived in the border city in 1992, a Mexican rancher’s son who had made his way to Harvard Law School. A few years earlier, Mexico had joined the General Agreement on Tariffs and Trade, a rules-based system promoted by the U.S. government after World War II to lower tariffs and rebuild the global economy. (It would later evolve into the World Trade Organization.)
+
+Since the 1940s, the Mexican government had zealously protected its fledgling industrial sector, walling off imports with high tariffs and limiting foreign investment. But the result was inefficient, uncompetitive firms. By the 1990s, Mexico was desperate for economic growth and foreign capital.
+
+When NAFTA took effect in 1994, “the gates were opened,” Mr. Ochoa recalled. Mexican stores were bursting with cheap TVs and stereos, Levi’s jeans and Snickers bars. American businesses rushed in to do joint ventures. Mr. Ochoa helped OfficeMax set up its Mexican franchises. Home Depot and Costco stores sprouted around the country; Walmart became one of Mexico’s biggest employers.
+
+NAFTA offered U.S. companies access to Mexico’s fast-growing consumer market and a vast pool of workers who often earned less than $2 an hour. If the corporations benefited, many of their employees did not. In the United States, millions of American factory jobs vanished — a drop that many economists attribute more to automation and the China shock than NAFTA, but one that nonetheless caused deep pain in the Rust Belt and ultimately catalyzed support for Mr. Trump. In Mexico, shantytowns sprung up to house laborers pouring into the industrial boomtowns, and Juárez became infamous for the murders of hundreds of women.
+
+The NAFTA border frenzy didn’t last. China joined the World Trade Organization in 2001, offering an even lower-cost work force and drawing tens of thousands of factory jobs away from Mexico. Then came a bloody drug war starting in the late 2000s. Still, Juárez persisted, developing a complex logistics and manufacturing infrastructure.
+
+And bilateral trade continued to grow. Americans came to rely on the tomatoes, berries and avocados that are the fruits of Mexico’s longer growing season, while American grain producers, with their more advanced technology and colossal farms, became the suppliers of half the corn consumed in Mexico. Car parts zipped back and forth from Mexico to America to Canada in a three-country assembly of vehicles. In 2020, a startled Pentagon had to appeal to Mexico to open factories that were closed during the pandemic, and help the U.S. maintain critical supply chains for its defense contractors.
+
+Thousands of white buses now rumble through Juárez each day, delivering workers to factories. Scores of major international firms operate big factories, and smaller manufacturers can now open plants in a matter of weeks, thanks to the system of so-called shelter companies that provide a vast array of services — leasing factory space, hiring employees, handling import-export permits, and even stamping out thousands of tortillas for hungry workers.
+
+“Geography is destiny,” said Mr. Ochoa. The trade momentum, he said, isn’t determined solely by the terms of the next agreement. “It’s driven by the needs of the U.S. market.”
+
+If Juárez’s rise was powered by American corporations, the current boom belongs to the Taiwanese. As trade tensions have mounted between the United States and China, a wave of companies have “near-shored” factories reliant on lower-cost labor from Asia to Mexico. Today, four of Taiwan’s manufacturing giants — Foxconn, Inventec, Wistron and Pegatron — have operations in Juárez.
+
+Initially, this so-called Taiwanese cluster pumped out goods like iPhones and Dell computers. But in the last few years, the factories have pivoted, amid exploding demand for technology for artificial intelligence and cloud computing. According to local officials and current and former employees, and confirmed by the state government, the companies now make the servers that fill the data centers of Google, Amazon, Microsoft and other companies, taking advantage of duty-free entry to the U.S. market under the U.S.M.C.A. Last year, computing technology became Mexico’s largest export. So far, Mr. Trump has refrained from imposing tariffs on those goods, given the economic and strategic importance of A.I. (Or, as he recently branded it: “superintelligence.”)
+
+Taiwanese firms are also investing north of the border, lured by incentives from both the Biden and Trump administrations. TSMC, which makes the majority of the world’s advanced semiconductor chips, plans to plow $265 billion into several massive factories in Arizona. As the United States focused on producing high-end chips, Mexico’s well-established infrastructure was ready to build more basic, complementary electronics, like servers. Over the decades, the Juárez factories “enabled us to train these incredible engineers and technicians,” Pancho Uranga, a vice president at Foxconn, told me.
+
+Today, more than one-third of college and tech-school students in Chihuahua, the state including Juárez, are studying science, technology, engineering or math. Officials have poured millions of dollars into the construction of two tech centers in the city, which will offer residents training in machine learning, robotics and other skills.
+
+Despite the excitement building at the prospect of an A.I. windfall, so far the boom has been a mixed blessing. Unlike the Mexican vehicle industry, which generates around one million jobs and has given rise to a large domestic auto-parts industry, the server plants employ relatively few people — and a lot of machines. And the expensive servers, which cost anywhere from around half a million dollars to $7 million apiece, are pumping up the Mexican trade surplus with the United States, as Mr. Trump rails against bilateral trade imbalances. (He sees them as a sign the United States is being “ripped off,” a view most economists reject.) Now, to avoid tariffs on other critical industries, Mexican officials are searching for ways to cool down the red-hot server exports. But any such effort would most likely hurt the A.I. giants currently keeping the U.S. economy afloat.
+
+The Taiwanese keep a low profile in Juárez. My requests for interviews at the factories — via company officials and press offices, Taiwan’s official representative in Mexico and state authorities — were met with polite noes. Most U.S. firms that contract the Taiwanese manufacturers to make their laptops, servers and other products impose strict nondisclosure rules. The U.S. companies reportedly buying the servers also declined to confirm they were made by firms in Juárez.
+
+To be sure, Mr. Trump can claim credit for pressuring some manufacturers to move jobs back to the United States from Juárez and other cities. But the results are modest. Consider the case of Eric Wong, who manages factories in Juárez for two Hong Kong-based companies that produce goods for the U.S. market, including plastic Christmas wreaths, holiday lights and kiddie pools. Mr. Wong shifted some production of extension cables to a plant in the El Paso suburbs this year, after tariffs raised the cost of copper inputs. But that only created around 100 jobs on the American side. Another 1,500 workers remain in Juárez, doing work that isn’t feasible at U.S. wages; clients like Walmart will only pay so much for a Christmas wreath.
+
+Mr. Trump’s effort to dismantle free trade with Mexico faces not just economic headwinds, but political ones. So many constituencies benefit from the U.S.M.C.A. that it has generated rare, strong bipartisan support. The 41 U.S. southern border counties in California, Arizona, New Mexico and Texas collectively generate $1 trillion a year in gross domestic product, according to recent research. A 30-foot-high steel wall may snake across the edge of Juárez, a powerful sign of Mr. Trump’s efforts to cordon off the country. But it cannot obscure just how deeply intertwined the borderlands are.
+
+On my trip to Juárez in August, I visited a notorious neighborhood called Anapra, on the western outskirts of the city. When I first reported from there in 1997, it was a dusty hellscape of treeless desert, where factory workers lived in shacks cobbled together from cardboard and wood. The air was thick with eye-watering smoke from brick makers burning tires and old oil to heat their ovens.
+
+Today, the shacks have been replaced by small cinder-block homes with running water. There is an air-conditioned supermarket, as well as a gym, a hardware store and a restaurant called “Pink Sushi.” Living standards have risen, albeit not to the first world standards once predicted by NAFTA enthusiasts.
+
+What’s even more striking are the townhouse developments where Juárez’s engineers and factory managers live, flanking strip malls with fancy taco joints and hair salons offering $200 color jobs. I did a double-take at a concrete monument: the Arc de Triomphe, or a copy of it, anyway. Behind it sat a gated community of mini-mansions called Campos Elíseos — Juárez’s own Champs-Élysées.
+
+These are “islands of prosperity,” a local economist told me. It seemed an apt metaphor for how free trade has affected Mexico over the past few decades. A number of states in the north and central regions have flourished, but they are surrounded by an informal national economy in which around half of Mexican workers continue to toil in precarious jobs, with lower wages and few benefits. The government has hiked the minimum wage but failed to make the kind of structural reforms, like improving education and infrastructure and encouraging deeper local supply chains, that could allow these other areas to advance. As in the United States, the fruits of globalization have disproportionately benefited better-educated workers. Yet exports are the most vibrant part of Mexico’s economy, and even leftist politicians who once opposed NAFTA — including President Claudia Sheinbaum — are eager to preserve free trade.
+
+Mexico has so far resisted the worst of Mr. Trump’s trade war, thanks to its deep commercial ties with the United States and the preferential treatment its exports still receive through the U.S.M.C.A. Ms. Sheinbaum’s administration has been actively managing up, too, stressing its bona fides as an ally, and may yet persuade the U.S. president to lower tariffs. Mexican officials have expressed optimism that a new trade accord is near.
+
+But one of the other core elements of the free trade agreements — certainty — has taken a beating. In Juárez, hundreds of millions of dollars of investment are on hold, awaiting the results of the U.S.M.C.A. talks. With Mr. Trump using tariffs as an all-purpose weapon — to press countries to curb drug trafficking, to lower their trade surpluses, to stop buying Russian oil — any agreement is subject to change.
+
+In Juárez, the high-tech industry continues to grow, betting that the demands of the U.S. economy will prove more durable than the whims of one man. On the last day of my trip, a young commercial real estate agent named Juan Alberto Mayorga drove me around southeastern Juárez, pointing out manufacturing plants springing up. His firm had just sold one to Inventec: an airy building of nearly 386,000 square feet, almost as big as New York City’s Bryant Park, just down the street from the other Inventec plant.
+
+The newly acquired site had been designed to hold not one but two mega-factories. Already, bulldozers and backhoes were scooping and pushing the sandy earth outside the building. The agent looked on happily, saying, “They’re certainly going to develop more.”
+
+Mary Beth Sheridan is a journalist specializing in Latin America and a fellow at the Georgetown Americas Institute. She was the Mexico City bureau chief for The Washington Post from 2023 to 2025.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

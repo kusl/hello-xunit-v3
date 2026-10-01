@@ -1,0 +1,87 @@
+================================================================================
+nyc-affordable-housing-neighborhoods.html
+Source: PreloadedData  Paragraphs: 29  Words: 1130/1131
+================================================================================
+
+SUMMARY
+
+Geographically and culturally distant, these New York City neighborhoods have something in common: They are among the 12 community districts that have allowed the least affordable housing to be built over the past five years, according to an analysis released on Thursday by the Department of City Planning. Starting Jan. 1, the City Council will lose its authority to reject many types of new housing in those places. One of those measures created a “fast track” for development by giving the City Planning Commission, instead of the City Council, the authority to approve or reject housing projects that include affordable housing in the 12 community districts that have allowed the least affordable housing to be built, relative to their size.
+
+ARTICLE
+
+The New York City Neighborhoods Where It’s Hardest to Build Housing
+Some City Council members are losing an informal veto power over new projects in their districts after voters approved a measure aimed at eliminating roadblocks to development.
+By Mihir Zaveri
+Published 2026-10-01 04:01 UTC
+https://www.nytimes.com/2026/10/01/nyregion/nyc-affordable-housing-neighborhoods.html
+
+On the South Shore of Staten Island, single-family homes are interspersed with woods and wetlands. In Bay Ridge, Brooklyn, small apartment buildings and houses line streets near the Verrazano Bridge. On Manhattan’s Upper East Side, majestic prewar co-op buildings rise alongside Central Park.
+
+Geographically and culturally distant, these New York City neighborhoods have something in common: They are among the 12 community districts that have allowed the least affordable housing to be built over the past five years, according to an analysis released on Thursday by the Department of City Planning. That distinction will soon carry consequences.
+
+Starting Jan. 1, the City Council will lose its authority to reject many types of new housing in those places.
+
+“For far too long, our city has lagged in terms of housing production relative to our growth,” said Sideya Sherman, the director of the department, “but particularly the area of affordable housing production, where we see some communities that are creating a lot of housing and some communities that are creating little to none.”
+
+The districts identified on Wednesday are clustered in parts of eastern Queens, southern Brooklyn, Staten Island and Manhattan’s Upper West and Upper East Sides.
+
+They include:
+
+- Brooklyn Community District 10: Bay Ridge, Dyker Heights
+- Brooklyn C.D. 12: Borough Park, Kensington
+- Brooklyn C.D. 18: Canarsie, Flatlands
+-  Manhattan C.D. 7: Upper West Side
+- Manhattan C.D. 8: Upper East Side, Roosevelt Island
+- Queens C.D. 4: Corona, Elmhurst
+- Queens C.D. 5: Ridgewood, Maspeth, Middle Village
+- Queens C.D. 10: South Ozone Park, Howard Beach
+- Queens C.D. 11: Auburndale, Bayside, Douglaston
+- Queens C.D. 13: Queens Village, Bellerose, Rosedale
+- Staten Island C.D. 2: Mid-Island
+- Staten Island C.D. 3: South Shore
+
+The effort to spur development in these areas is the latest step in New York’s continuing struggle with a housing shortage that has helped make the city one of the most expensive places to live in the world.
+
+Nearly everybody agrees that the city needs more housing. But there have long been tensions over who gets to decide where it is built: City Hall, which has a broad view of the problem, or the City Council, whose members represent neighborhood interests.
+
+In particular, City Hall officials and council members are at odds over members’ unofficial veto power over projects in their district. While many developments must be approved by the whole Council, it has typically allowed the decision to rest with the member representing the district where the project would be built.
+
+But in November, voters approved several ballot measures that would threaten that veto, and make it easier to build homes.
+
+One of those measures created a “fast track” for development by giving the City Planning Commission, instead of the City Council, the authority to approve or reject housing projects that include affordable housing in the 12 community districts that have allowed the least affordable housing to be built, relative to their size. A majority of the planning commission’s members are appointed by the mayor.
+
+The City Council had opposed the measures, which were written by an independent commission and supported by Mayor Zohran Mamdani, asserting that its members needed the threat of the veto to push for the inclusion of amenities like parks and schools. Council members had also used it to pressure developers to make their projects even more affordable than initially proposed.
+
+Phil Wong, a Democrat who represents parts of Queens, said the city was moving in the “wrong direction” by taking land-use decisions away from neighborhoods.
+
+“New Yorkers voted for these charter changes, whether everyone fully understood what they were voting for or not, and unfortunately this is one of the consequences,” he said.
+
+The low-development districts were identified using a formula: The number of affordable homes permitted to be built in each community district between 2021 and 2026 was divided by the total number of housing units that district contained in 2021. The result was an approximate rate of affordable housing production.
+
+In the community district including Bay Ridge, for example, which had more than 55,000 homes in 2021, only three affordable homes were added over the past five years. In the Queens community district that includes neighborhoods like Rosedale and Cambria Heights, which had more than 66,000 homes in 2021, only nine affordable homes were added.
+
+More than 150 affordable homes were added over the past five years on the Upper West Side. But because the area was already relatively dense — it had more than 126,000 homes in 2021 — its rate of affordable housing development was relatively low.
+
+In each of the 12 community districts identified on Wednesday, the rate was 0.2 percent or less.
+
+By contrast, the community districts that allowed the most affordable housing to be built are almost all in the Bronx. Each of the top five districts added more than 2,500 affordable homes over five years, a rate of more than seven percent.
+
+The ballot measure that created the “fast track” also gave the mayor powers to more quickly build affordable housing financed by the city, which Mr. Mamdani has already used.
+
+Voters also approved two other measures intended to encourage development.
+
+One made it easier to build “modest” developments, such as those that would be up to 30 percent bigger than current rules allow. Those changes would also be subject to approval from the planning commission, and not the City Council.
+
+Another created an appeals board that could overrule a decision by the Council to reject or modify an affordable housing development. The board would need agreement between two of its three members: the mayor, the Council speaker and the president of the borough where the development was proposed.
+
+The effects of the changes may become clear only in the coming years, as developers assess the demand for new homes.
+
+But the new paradigm is sure to upset some Council members and local activists who are loath to cede control over development in their neighborhoods.
+
+Frank Morano, a Republican representing the South Shore of Staten Island, said that his district was “not an empty space on a planner’s map” and that the changes removed a layer of “local accountability.”
+
+“I support creating housing, including affordable housing, but it has to make sense for the neighborhood, the infrastructure and the people who already call it home,” Mr. Morano said. “The answer to the housing crisis can’t be stripping communities of their voice and then calling that progress.”
+
+Julie Menin, a Democrat and speaker of the Council, represents a dense district on the Upper East Side. She said it was “critical” that the city plan for the growth that might follow in the affected areas.
+
+“That means working with communities to identify where new housing makes sense and ensuring that growth is accompanied by the transit, infrastructure, public space and other investments neighborhoods need,” she said.
