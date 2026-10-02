@@ -9221,3 +9221,344 @@ Prime Minister Benjamin Netanyahu of Israel would later identify the pilot who w
 
 The Indian Embassy in Riyadh confirmed the pilot’s identity and said in a statement that he was in a hospital in Tabuk in stable condition.
 
+================================================================================
+jobs-report-economy.html
+Source: RenderedHtml  Paragraphs: 150  Words: 5959
+================================================================================
+
+SUMMARY
+
+The Labor Department is set to release employment numbers for September on Friday, at a time of stability in the job market and volatility elsewhere in the American economy. In May, just 10 stocks, all of them tech companies, accounted for more than 40 percent of the total market capitalization of the S&P 500. Analysts are warning, nearly uniformly, that if the United States held back its diesel from the global market, the result would briefly lower prices for Americans, but rapidly hurt the rest of the world.
+
+ARTICLE
+
+Live Updates: Fresh Jobs Figures to Bring Insights on U.S. Economy
+The job market has been strong and unemployment steady as inflation has unsettled markets and raised costs for consumers.
+By Talmon Joseph Smith, Colby Smith, Eshe Nelson, Ben Casselman, Tony Romm, Jeff Sommer, Sydney Ember, Maddie McGarvey, Gregory Schmidt, Lisa Friedman, River Akira Davis and Joe Rennison
+Published 2026-10-02 09:48 UTC
+https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy
+
+Latest
+
+Here’s the latest.
+
+The Labor Department is set to release employment numbers for September on Friday, at a time of stability in the job market and volatility elsewhere in the American economy.
+
+U.S. employers and workers have experienced successive shocks in recent years. First, the pandemic, then inflation, then wars and tariffs that have pushed prices higher still. Throughout, however, unemployment has remained low and economic growth has been solid.
+
+One reason for steadiness in the job market is a shift in supply: Even as hiring rates have slowed, baby boomers have retired at a notable pace and the Trump administration’s immigration restrictions have limited entrants to the work force. Yet labor force participation among midcareer workers remains strong, an indicator that there is still enough demand for workers to keep employment rates historically high.
+
+Here’s what else to know:
+
+The powerful yet fragile force propping up stocks and the economy.
+
+Despite all the turmoil in the bond market, both the stock market and the broader economy appear to be reasonably strong.
+
+I pointed out one reason for this apparent anomaly last week. Oil prices and the war in Iran have driven up interest rates sharply, often dominating the financial news and causing hardship for millions of people. But while the rates on 10-year U.S. Treasuries have hit their highest level since 2002, those rates were considered normal in the era before the financial crisis that started in late 2007.
+
+The world has certainly changed, though. A potent but fragile force is now propping up the stock market and the economy: the artificial intelligence industry.
+
+For a measure of how important A.I. has become for the stock market, consider that the iShares U.S. Technology ETF, an exchange-traded fund that serves as a rough proxy for A.I.-led tech stocks, returned 33.7 percent for this calendar year through Thursday. That compares with 4.1 percent for the ProShares S&P 500 Ex-Technology ETF, which strips out many, but not all, of the tech stocks of the benchmark S&P 500.
+
+A.I.’s role in the overall U.S. economy is harder to quantify, but it is substantial.
+
+Mark Zandi, the chief economist at Moody’s Analytics, told me that A.I. accounted for a hefty chunk of the U.S. economy’s growth this year. The latest government report says real gross domestic product grew at an annual rate of 2.3 percent in the second quarter of this year. Mr. Zandi estimated that 0.6 to 0.7 percentage points — or perhaps 30 percent of the economy’s inflation-adjusted growth this year — came from the A.I. boom, directly or indirectly.
+
+But this may be a precarious economic foundation.
+
+Concerns about the dangers of the technology have mounted, after reports that rogue A.I. agents hadn’t merely escaped their confines but also appeared to hide their tracks.
+
+Evan Hubinger, an Anthropic safety researcher, estimated the potential threat from A.I. in a post on X, saying he believed the chance that A.I. “could kill all humans” within the next decade was greater than 10 percent.
+
+No wonder leaders of A.I. companies have been calling for a slowdown in the pace of development of the technology until human safety can be assured. “Guardrails” for A.I. are being widely discussed, if not always swiftly put in place.
+
+President Trump has denounced such concerns as a “hoax.” My New York Times colleagues David E. Sanger, Jonathan Swan, Cecilia Kang and Dustin Volz have reported that the president worries that if the A.I. boom falters, the stock market could crash and a recession could quickly follow.
+
+I have no way of knowing exactly what would happen if the A.I. momentum were to suddenly decelerate or even reverse. But I have no doubt that it would be a blow to the economy and a bigger setback for the stock market.
+
+The Stock Market
+
+It wouldn’t necessarily take a major new A.I. safety threat, or the imposition of new regulations or a slowdown in A.I. investment, to stop the A.I. stock market boom.
+
+Many Wall Street strategists expect that to happen on its own, sooner or later.
+
+In an analysis on Tuesday, for example, Capital Economics, an independent financial research service based in London, warned, “There are growing signs that the A.I. equity market boom is in its final stages.”
+
+A.I. has driven stock prices so high that it has formed a giant market “bubble” that is likely to burst — perhaps not quite yet, but before the end of next year, the firm says. In the meantime, it says, rising bond yields and energy prices are testing the “resilience” of world stock markets.
+
+The bursting of a market bubble is difficult to pinpoint in advance. I’m reluctant to go as far as Capital Economics has because corporate profits are remarkably high at the moment, and they are making stock market valuations look cheaper and more reasonable. That’s not the typical pattern for a late-stage market bubble.
+
+What has been happening is this: When earnings rise faster than stock prices, the price-to-earnings ratio — a standard comparison of share prices and underlying corporate profits — drops. Stocks have fallen close to their price levels of early June, while Wall Street analysts estimate that S&P 500 earnings grew more than 29 percent in the three months through September.
+
+If the sizzling earnings pace can be sustained — a big if — the stock market’s advance will look less like a bubble and more like a remarkable rally, one powered by A.I.
+
+That said, as I’ve pointed out, the A.I. boom that the release of ChatGPT in 2022 initiated has already made the stock market extremely concentrated. For the first time since their inception in the 1970s, S&P 500 index funds are no longer diversified.
+
+In May, just 10 stocks, all of them tech companies, accounted for more than 40 percent of the total market capitalization of the S&P 500. The Vanguard 500 Index Fund’s biggest holdings are Nvidia, Apple, Microsoft, Amazon, Alphabet, Broadcom, Meta, Micron and Tesla, followed by JPMorgan Chase. All but JPMorgan are involved in developing A.I., to one degree or another (with Apple a laggard in that regard). A major blow to A.I. stocks would hurt millions of people who hold them in retirement funds.
+
+The Economy
+
+A sharp stock market decline would also damage the broader economy, which is being stimulated by A.I. in two principal ways, Mr. Zandi said.
+
+First is the “wealth effect,” through which rising asset prices, like those for stocks and homes, make affluent people more likely to spend money. In February, he estimated that “for every $1 increase in net worth, consumer spending ultimately increases by 2 cents.” In 2025, he said, “the wealth effect added a full percentage point to consumer spending growth and over 0.7 percent to G.D.P. growth.”
+
+This wealth effect — supercharged by A.I. — helps to explain how the richest 20 percent of consumers have contributed to growing consumer spending this year, even as overall consumer sentiment declines.
+
+After a market crash, the wealth effect would reverse itself “and the economy would take a hit,” Mr. Zandi told me.
+
+The second way that A.I. is spurring the economy is through enormous corporate spending on data centers, power supplies and infrastructure. The sums involved are staggering. Goldman Sachs estimated in August that it would amount to $1 trillion worldwide in 2026. And that’s just a start, if the A.I. industry has its way.
+
+In a new research paper, “Financing the A.I. Buildout,” presented at the Brookings Institution late last month, Stijn Van Nieuwerburgh, a Columbia University business professor, estimated that by 2032 total capital expenditures by A.I. companies in the United States could amount to $10.3 trillion. That number is so big that it demands some perspective, which Professor Van Nieuwerburgh provided.
+
+He estimated that capital expenditures on A.I. could average 3.63 percent of G.D.P. each year and become the biggest infrastructure project in U.S. history — “larger, relative to the economy, than the major U.S. canal, railroad, electrification, highway and telecommunications investment booms.”
+
+I’m not sure that all that spending will take place. Whether A.I. investment grows to that level — and generates profits high enough to justify the stupendous cost — is a $10 trillion question.
+
+It has already intertwined with the fluctuations of the bond market. Financing these projects requires mountains of debt.
+
+Higher bond interest rates will make A.I. projects more expensive. This, in turn, could act as a drag on the stock market and the broader economy.
+
+Yet the A.I. boom is powering ahead, despite concerns about safety, cost, ultimate profitability — and existential questions about whether advanced A.I. might actually be a new form of consciousness. The stakes couldn’t be higher.
+
+If A.I. penetrates the entire economy and turns out to be a truly transformative technology, it could bolster productivity and create some new jobs. But many jobs that exist now could disappear. Those without the education and skills for an A.I. world could be grievously damaged.
+
+The short-term effects are also likely to be painful if the development of A.I. slows anytime soon.
+
+For long-term investors, the implications are profound. Sticking with the broad stock market during the A.I. boom has paid off so far. It may continue to do so, though extraordinary risks clearly abound.
+
+Diversifying with bonds has been unsatisfying lately. But the turmoil in the bond market has made bonds much more attractive — in comparison with stocks — than they were just a couple of years ago. The higher income provided by bonds at today’s yields makes them better buys, compared with stocks.
+
+Short-term interest rates are rising, too. While that is painful for borrowers, it makes money-market funds and high-yield savings accounts more appealing places to stash the extra cash you may need if you are worried about potential trouble ahead.
+
+Soaring instrument prices could stop the music at many schools.
+
+Jeff Lipscomb, a high school orchestra director in Kanawha County, W.Va., has been doing a lot of math.
+
+For example, he has 12 cellists but only 10 cellos. If the school district gives him a total budget of $500 to $600 for the year, but one new cello costs more than $1,000, what should Mr. Lipscomb do? What if he needs some new violins and violas, too?
+
+“I’ve actually had to buy instruments out of my own pocket,” Mr. Lipscomb said from his classroom at South Charleston High School on the first Monday of the school year. “I just kind of have to.”
+
+Like many music teachers, Mr. Lipscomb has become attuned to tight budgets. Lately, though, the cost of instruments has ballooned beyond his ability to make do.
+
+Pandemic-era supply chain snarls lifted prices for goods across the board. President Trump’s global tariffs further swelled the cost of foreign-made instruments. Then in August, the Trump administration proposed additional 25 percent tariffs on trumpets, tubas and other brass instruments, citing “national security threats” under a provision it has used to impose duties on foreign metals.
+
+The consequences have reverberated across the country. Higher instrument prices are a particular threat to lower-income districts where enrollment and budgets are shrinking.
+
+An elementary school music teacher in Beaverton, Ore., has considered 3-D printing ukuleles because she cannot afford them. In Passaic, N.J., an arts administrator is doubling down on encouraging students to clean and care for their instruments so they last longer. The superintendent of a small district in Washington County, Pa., has taken to scouring eBay and Facebook Marketplace for used instruments.
+
+Proponents of musical education say the tariffs are endangering school music programs and threatening to push the extracurricular activity out of reach for many families. John Mlynczak, the chief executive of the National Association of Music Merchants, a trade group, warned that higher instrument prices could lead to “empty music classrooms.”
+
+“The camaraderie that happens in a community when everyone goes and supports the Friday night football game?” he said. “Imagine that without a marching band.”
+
+Some instruments, such as higher-end Fender and Gibson guitars, are made in the United States. But most elementary, middle and high schools rely on less expensive beginner instruments that are largely made in China. Many school districts own or rent instruments they lend to students at no or little cost.
+
+As Mr. Trump escalated his trade war with China last year, music teachers grew wary.
+
+Schools were already dealing with a confluence of challenges, including the end of federal pandemic aid, budget cuts and declining enrollment. Inflation was driving up costs.
+
+“It’s kind of like a perfect storm of all these different things happening at once that can cause a bigger mess,” said Annamarie Bollino, a seasoned public school arts administrator who sits on the executive board of the National Association for Music Education, an advocacy group.
+
+She said she expected that the proposed tariffs on brass instruments would further push up prices.
+
+The effective tariff rate on instruments in June was about 13 percent, said Cullen Hendrix, a senior fellow at the Peterson Institute for International Economics. That was down from a peak of nearly 24 percent last September but more than twice as high as before Mr. Trump’s second term.
+
+Band and orchestral instruments have been hit the hardest, he said. In the second quarter of this year, imports of instruments were down nearly 20 percent from the same period in 2024. Imports of orchestral string instruments, including violins, violas and cellos, dropped 50 percent. Brass instruments fell 43 percent.
+
+“It’s hitting the horns, it’s hitting the strings, it’s hitting the percussion,” Mr. Hendrix said. “All of those things combined are kind of sapping the available pool of tools that we can provide these children to begin their journey.”
+
+Carolynn Langston has been teaching music at low-income elementary schools in Oregon for two decades. Her room this year, at a school in Beaverton, has a colorful rug surrounded by a rainbow of paw prints to indicate where her students should stand. In one corner are patterned drums and other percussion instruments. She described her musical philosophy as “sing, dance, play.”
+
+Schools like hers will feel the higher instrument prices most.
+
+“I don’t even have a budget,” Ms. Langston said. “Zero money.”
+
+When she wants to buy instruments — or a carpet, for that matter — she applies for grants, including from a local educational foundation. Sometimes she requests money from people directly. She considered using a 3-D printer to make plastic ukuleles. At least they would be more durable.
+
+In May 2025, Ms. Langston asked the local foundation for $700 to replace a large bar on one of her xylophones. “It’s one note you can play — it’s very loud and very low,” she said.
+
+By the time she went to buy the part that fall, the cost had jumped to $750. The foundation agreed to pay the extra, but the increase stung.
+
+“Instruments are more expensive, which then squeezes even tighter on somebody like me,” she said.
+
+Latasha Casterlow-Lalla, the supervisor of visual and performing arts for Passaic Public Schools in northern New Jersey, said many instruments had doubled or tripled in price since the pandemic. A student saxophone that used to be $420 is more than $900. Tubas are at least $9,000, and the high school band wants four. If the proposed brass tariffs go into effect, she said, buying all of them would probably take her five or six years. By then, the would-be tuba players would have graduated.
+
+Students are hard on their instruments, and Ms. Casterlow-Lalla estimated that each one lasted 10 years at most, and often less. Anticipating that costs will continue to rise, she is pushing principals for better storage to keep instruments functioning longer. She is also emphasizing proper cleaning and care to students and parents.
+
+She worries above all that she will not have enough instruments for all the students who want to play. If registration in school music programs falls as a result, it could create a domino effect where the district pulls funding.
+
+“We’re going to eventually hit our rubber-meets-the-road moment,” she said.
+
+When Mr. Lipscomb was growing up, he variously wanted to be a paleontologist, an astronaut or a computer programmer. But from the moment he graduated from high school, he dreamed of teaching music. He got a college degree, a teaching degree and a master’s degree and then a doctorate in music composition from Louisiana State University.
+
+“I like how it sounds — I like how it makes me feel,” he said. “I’m normally an introverted person, but it’s one of the few times that I actually enjoy being around people.”
+
+For 15 years, Mr. Lipscomb has taught orchestra classes in Kanawha County’s high schools, including Capital High School, his alma mater. The only full-time orchestra director in the district, he spends a lot of time driving from one school to the other.
+
+His music program is small, typically around 60 students. When he has a particularly strong class, he teaches it a challenging repertoire. Otherwise, he focuses on scales and technique.
+
+The district provides instruments for some students who cannot afford to buy or rent them, but Mr. Lipscomb’s $500-to-$600 annual budget is not enough. He spent all of the money he was allocated last year and this year on two cellos.
+
+One student, a freshman viola player, told him shortly after the school year began that she had to drop his class because her family could not afford to rent her instrument. He said he could lend her one free of charge, but she declined.
+
+Mr. Lipscomb worries that rising instrument prices mean the students who stay will be stuck playing old instruments. He knows that when children play on instruments that sound bad, they do not blame the instruments. They blame themselves.
+
+But the district is in a budget crunch, in part because it is losing students. He wishes he had thought to buy more instruments earlier in his career, before prices rose so much.
+
+“It’s tough for me to say, but you got to work with what you’ve got,” Mr. Lipscomb said. “Unfortunately a lot of these old instruments, it’s what I got.”
+
+As mortgage rates climb, buyers are seeking loan options that come with more risk.
+
+Mortgage rates continue to rise, compounding an affordability crunch that has squeezed many Americans’ wallets. Now, soaring rates are prompting some home buyers to roll the dice that they will fall in a few years.
+
+The average 30-year, fixed-rate mortgage, the most popular home loan in the United States, rose to 7.28 percent this week, up from 7.03 percent last week and the highest since November 2023, the mortgage financing giant Freddie Mac said Thursday.
+
+“Mortgage rates jumped to their highest level in almost three years, pushing borrowers to the sidelines,” said Joel Kan, deputy chief economist at the Mortgage Bankers Association, a trade group.
+
+Mortgage rates had fallen below 6 percent at the end of February, but began to climb after the United States and Israel attacked Iran on Feb. 28. The war in Iran has driven up energy costs, which in turn has stoked inflation fears. In response, investors have pushed up the yield on the 10-year Treasury note, which on Thursday reached its highest level since 2002.
+
+The 10-year Treasury yield underpins a wide range of consumer and corporate borrowing, including mortgages. With the yield climbing quickly, the jump in mortgage rates this week was the biggest since October 2022.
+
+Adjustable-rate mortgages can be significantly lower than their fixed-rate counterparts, real estate experts say, sometimes as much as a full percentage point, a difference that can potentially save home buyers thousands of dollars annually. The ARM, as the loan is known, also comes with the risk that rates will continue to climb, hurting owners when the loan resets.
+
+ARMs are an enticing option among buyers put off by the jump in fixed-rate mortgages, Mr. Kan said.
+
+The Mortgage Bankers Association reported a recent uptick in the share of ARM applications, to 10.3 percent of overall mortgage applications, the highest in a year.
+
+Here’s what you need to know about adjustable-rate mortgages.
+
+How does an adjustable-rate mortgage work?
+
+Fixed-rate mortgages lock in one rate over the lifetime of the loan, usually 30 years. ARMs, on the other hand, offer a low “teaser” rate for a set time, typically five, seven or 10 years, after which they readjust to the market rate, often annually, for the remainder of the loan. This helps owners keep their monthly payments lower during the introductory period.
+
+Borrowers who use ARMs are betting that mortgage rates will eventually fall, giving them the opportunity to refinance their loan at a lower rate or sell their home before the introductory period ends and the rate begins to fluctuate.
+
+ARMs make up a small portion of the overall mortgage market, which is dominated by fixed-rate products. But now that fixed-rate mortgages have climbed above 7 percent, interest in ARMs is starting to grow, said Archana Pradhan, the principal economist at Cotality, a provider of housing market data.
+
+The national average rate for an ARM with a five-year introductory rate that resets annually is 6.56 percent, according to Bankrate.com.
+
+“The wider the gap between ARM rates and the fixed rates, the stronger the incentive to choose an ARM,” Ms. Pradhan said.
+
+How safe is an ARM?
+
+ARMs offer savings for borrowers, but they also introduce market volatility.
+
+The loans were popular during the early 2000s housing bubble, peaking at around 36 percent of overall mortgage applications in 2005, according to data from the Mortgage Bankers Association. After the housing market crashed in 2008, the share of applications for ARMs plunged to about 6 percent.
+
+Stricter underwriting standards have made ARMs safer for consumers, who are protected by limits that prevent the variable rate from jumping too high.
+
+Still, they are not for everyone, said Nick Rocco, a mortgage loan officer in the Baltimore area. Borrowers need to have a plan for what to do after the introductory period ends regardless of where mortgage rates are. “There is no crystal ball,” he said.
+
+Who should apply for an ARM?
+
+Nearly 72 percent of buyers who take out an ARM have a chance within five years to refinance it into a 30-year fixed-rate mortgage that is at least 0.5 percentage points lower than their original rate, according to a report from Redfin, an online real estate marketplace.
+
+That can translate into big savings every month for borrowers, Ms. Pradhan said. “It’s more meaningful for higher loans, because they are able to save hundreds of dollars compared to the lower amount of loans,” she said.
+
+Mr. Rocco said he recently worked with a couple who used an ARM to finance the purchase of a $750,000 home. The buyers had experience with ARMs, he said, and knew to put 20 percent down, which lowered their introductory rate.
+
+“They have a little more risk tolerance and they’re a little bit more comfortable knowing the fact that they can refinance out of that adjustable rate,” he said.
+
+But Ms. Pradhan said ARMs made better sense for buyers who intended to sell after the introductory period ended.
+
+“Refinancing may be an exit strategy, but it’s not a guarantee,” she added. “One of the risks of an ARM is the higher payment in the future.”
+
+Trump’s threat to ban diesel exports sets off global alarms.
+
+The Iran war has sent diesel prices soaring around the world, straining national budgets, adding costs to businesses and snarling supply chains from farms to ports.
+
+Now President Trump is threatening to ban or restrict the export of diesel from the United States, which is the top supplier to more than a dozen countries including Mexico, Canada and much of Europe. Oil executives and world leaders are issuing increasingly dire warnings that the result could be global price spikes on everything from groceries to jet fuel.
+
+“I think it would have a whole bunch of consequences that need to be considered,” Meg O’Neill, the chief executive of the British oil giant BP, said in an interview on Thursday.
+
+Ms. O’Neill noted that talk of a ban comes as BP and other oil companies are focused on “getting as much through our system as we possibly can every day, trying to get every liter of gasoline or diesel to our customers.”
+
+Often called the workhorse fuel of the global economy, diesel is made from crude oil at refineries. It powers the heavy machinery, trucks, tractors and agricultural equipment crucial to heavy industry. When diesel prices rise, so do freight charges and other transportation costs, which often cascade into higher prices for things like food at the supermarket or even gasoline at the pump — because the heavy-duty tankers that deliver gas themselves run on diesel.
+
+The primary reason for the price jump is a lack of refining capacity caused by the war in Iran. Missile strikes have damaged refineries in the Middle East, and the disruptions in shipping in the region have made it harder to transport. In addition, Ukraine has attacked and damaged many Russian refineries. That has forced Russia, a major exporter, to hoard its supplies of diesel.
+
+In the United States, retail diesel prices climbed last month to a record high of more than $6.50 per gallon — nearly 70 percent more than this time last year. That’s put intense pressure on Mr. Trump and Republicans to find ways to lower costs, particularly before the midterm elections in November.
+
+The crunch touches many corners of the world.
+
+In Europe and Britain, the price of diesel has gone up by 40 percent since mid-June. In Canada prices have surged to record highs of more than 2 Canadian dollars per liter for the last 12 weeks, up about 59 percent compared with before the war. In some places, diesel shortages and high fuel costs are leaving irrigation pumps empty, damaging rice harvests.
+
+Analysts are warning, nearly uniformly, that if the United States held back its diesel from the global market, the result would briefly lower prices for Americans, but rapidly hurt the rest of the world. Even in the United States, many warn, a ban would soon be self-defeating.
+
+“This would be a tremendous shock and blow,” said Robert McNally, president of Rapidan Energy Group, a research and consulting firm in Washington. “The rest of the world would have no choice but to absorb a huge price increase for diesel,” he said.
+
+Capital Economics, a research firm based in London, warned that a U.S. diesel export ban could cause a shock comparable to the natural gas crisis in Europe after Russia’s invasion of Ukraine in 2022, which caused gas prices to surge more than 180 percent, according to the European Central Bank.
+
+Mr. Trump on Wednesday indicated that he is still considering a ban. “I’m thinking about it,” he said.
+
+Ben Dietderich, a spokesman for Chris Wright, the U.S. energy secretary, said Trump administration officials “continue to work closely together as they consider a variety of options to help lower energy costs for the American people.”
+
+A U.S. export ban on diesel would be deeply damaging in Europe, which has become increasingly dependent on American fuel since the loss of supplies from Russia.
+
+The continent is also going into the winter with natural gas storage levels at multiyear lows, driven by the disruptions in the Middle East.
+
+“Europe is one of the most exposed regions, if not the most exposed one, when it comes to diesel, because Europe imports a huge amount of diesel and we are entering the harsh season, the winter season,” Fatih Birol, head of the International Energy Agency, said this week ahead of a European Union energy ministers meeting in Dublin.
+
+Europe imports about 1.5 million barrels a day, with a third coming from the United States, according to S&P Global, a market data firm. The dependency on American imports is made more difficult by a reduction in European refineries in recent years because of high operating costs and climate regulations.
+
+“I’ve sent a very clear signal to my American counterpart and also the public, which is that it is not in the interest of anybody — not the U.S., not us — to not have as free a flow of energy as possible in these difficult times,” Dan Jorgensen, the European Union’s energy minister, said on Tuesday.
+
+In general, analysts expect Asia to be less directly affected by a potential ban on U.S. diesel exports than other regions, including Europe. That is because Asia largely draws from regional producers, including South Korea and China, which are among the biggest in the world.
+
+Asia is typically a net exporter of diesel and receives only a small percentage of U.S. diesel exports each year, according to Vortexa, a commodities-data firm.
+
+The problem for Asia is that reduced diesel supply to Europe, Latin America and elsewhere will drive up prices globally, said Sushant Gupta, research director of Asia Pacific refining and oils at Wood Mackenzie, an energy consultancy.
+
+“The world is already reeling under the pressure of diesel shortages,” Mr. Gupta said. If Europe runs low on diesel, it will bid up prices from available suppliers, he said. “Whether it is Asia or whether it’s Europe, they’re all globally connected.”
+
+Asia is still managing to secure most of the oil it requires, but at much higher costs, which are reflected in diesel prices. Benchmarks for diesel sold in Asia have come down from a high of more than $200 a barrel in March, though at around $180 a barrel in mid-September, current levels remain twice their prewar values.
+
+The countries most vulnerable to supply shortages and diesel price increases include Australia and many nations in Southeast Asia, which are the region’s biggest diesel importers.
+
+In the Philippines and elsewhere, the high cost of diesel and other fuels has caused inflation to rise. The Asian Development Bank forecasts that inflation in developing Asia and the Pacific region will accelerate to 4.2 percent this year from 3 percent last year. Several governments, including Indonesia and Malaysia, have begun subsidizing energy to help lower prices, but this adds to national debt burdens.
+
+A big unknown for global markets is how much diesel China, the world’s largest importer of oil, will export in the coming months. Immediately following the start of the war in Iran, China restricted diesel exports — a move that worsened already-high prices for diesel and other petroleum products for major importers in Asia.
+
+But, analysts say, China has started again to restrict some of its sizable exports of refined crude products including diesel.
+
+Right now, “China is the only country which has spare capacity to run more crude to produce diesel,” said Wood Mackenzie’s Mr. Gupta. If the United States decides to ban exports, “other major refineries can’t run more to produce more diesel to fill up that gap.”
+
+Rick Joswick, an oil analyst for S&P Global, said the most acute pain would be felt in countries with little or no refining capacity, particularly in Latin America. Honduras, for example, gets about 40,000 barrels a day of diesel from the United States, and Panama which gets 30,000. Those aren’t enormous amounts, but neither country has a refinery.
+
+“It would be a traumatic loss for Europe, but for those countries it would be catastrophic,” Mr. Joswick said.
+
+U.S. bond yields hit their highest level since 2002, driving up borrowing costs.
+
+A global sell-off in the government bond market continued on Thursday after the yield on 10-year U.S. Treasury notes reached its highest level since 2002, driving up borrowing costs for consumers and companies around the world.
+
+The 10-year U.S. Treasury yield, which underpins corporate and consumer interest rates, soared as high as 5.34 percent on Thursday, its highest since 2002, before easing back to around 5.24 percent, ending the day at it highest level since 2007.
+
+The yield on 10-year French bonds rose to 4.92 percent, also its highest since 2002. Benchmark 10-year notes in Italy and Japan also rose on Thursday, while other regions were more mixed. When bond yields rise, the price, or value, of that bond declines.
+
+The latest moves came as oil prices remained elevated, intensifying short-term inflation pressure that is likely to keep central banks around the world from lowering interest rates soon. Brent crude, the international oil benchmark, is trading above $100 a barrel, even as more oil is flowing from the Middle East than at any point since the start of the war with Iran. Brent has risen roughly 40 percent since the start of the conflict in late February.
+
+Stocks, which are typically sensitive to rising interest rates and oil prices, eased lower in early trading before rebounding, with the S&P 500 ending the day 0.2 percent higher on Thursday, which is the start of the fourth quarter.
+
+The S&P 500 wrapped up the third quarter with a small 2 percent gain, as A.I. companies continued to push the broader market higher. But there were also signs in the quarter that the higher yields were putting pressure on some sectors of the stock market.
+
+Utilities, which borrow heavily in the bond market, trailed the index, falling more than 13 percent for the quarter. The Russell 2000 index of smaller companies, which also tend to be exposed to changes in borrowing costs, fell 7.2 percent in the third quarter, ending five consecutive quarters of gains.
+
+“The Middle East war has really turned everything around,” said Mahmood Pradhan, a nonresident fellow at Bruegel, a think tank in Brussels, and former deputy director of the European department at the International Monetary Fund. He added that central banks were back to raising interest rates, which is increasing costs for the government and leaving it even less cash to support the economy should conditions worsen.
+
+Aside from the war with Iran, analysts and investors have attributed much of the rise in yields to a sharp increase in global growth expectations, driven by the expansion of artificial intelligence.
+
+The build out of data centers and other A.I. infrastructure is leading investors to anticipate that the Fed may need to keep interest rates elevated to prevent the economy from overheating.
+
+But there are also many other forces pushing yields higher, from resurgent inflationary pressure to worries about heavy public debt loads that are becoming more expensive for governments to maintain as yields and interest rates rise.
+
+Markets are “very nervous” following long-running concerns about public debt, Mr. Pradhan said.
+
+Though bond prices fluctuated on Thursday, the trends pushing up yields are unlikely to dissipate soon, analysts warn.
+
+The boom in artificial intelligence-related investment in the United States is both supporting economic growth and increasing the supply of bonds in the market. The conflict in the Middle East and its disruptions to world oil supplies grind on.
+
+Central bankers are increasingly alert to the threat that inflation could stay above their targets for too long. Last month, the Federal Reserve, European Central Bank and Bank of Japan increased rates, and traders expect them to do so again this year. The Bank of England signaled it could raise interest rates, too.
+
+These higher borrowing costs are colliding with high government debt levels and creating difficult budget choices because of punishing debt interest payments. In Europe, attention has turned to France, which is trying to pass a budget that will slightly reduce its deficit. But the country has repeatedly struggled to do so, and the coming presidential election, set for April, has made many investors skeptical of France’s ability to improve its fiscal situation in the short term.
+
+While yields are rising across Europe, French bonds are also underperforming. The spread between the yield on French 10-year bonds and German bonds, which are Europe’s benchmark safe asset, widened to nearly 1.3 percentage points, the most since 2012, reflecting investors’ demand for a bigger premium to hold French debt.
+
