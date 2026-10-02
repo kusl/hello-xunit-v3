@@ -1,0 +1,82 @@
+================================================================================
+endometriosis-diagnosis-tests.html
+Source: PreloadedData  Paragraphs: 30  Words: 1302/1304
+================================================================================
+
+SUMMARY
+
+Getting an endometriosis diagnosis is notoriously hard. The Food and Drug Administration has not approved any noninvasive endometriosis test. In both cases, a majority had endometriosis.
+
+ARTICLE
+
+Do Endometriosis Tests Really Work?
+Patients and doctors are eager for a noninvasive way to diagnose the disease, and several start-ups are offering new options. Here’s what to know about them.
+By Maggie Astor
+Published 2026-09-29 09:00 UTC
+https://www.nytimes.com/2026/09/29/well/live/endometriosis-diagnosis-tests.html
+
+Getting an endometriosis diagnosis is notoriously hard.
+
+It takes seven to nine years on average, and patients are often told their agonizing pain is normal menstrual cramping or in their head. If they do find a helpful doctor, many need surgery to confirm the diagnosis, because imaging doesn’t reliably show it. The disease, in which tissue similar to the uterine lining grows outside the uterus, is estimated to affect at least one in 10 reproductive-age women.
+
+For many, a reliable noninvasive test feels like the holy grail. Now, several start-ups claim to have found it, offering to diagnose endometriosis by examining RNA molecules in saliva, proteins in blood or electrical signals in the gastrointestinal tract.
+
+“The premise is a good one, because currently the standard of care is invasive,” said Dr. Ja Hyun Shin, a gynecologic surgery specialist at Weill Cornell Medicine.
+
+But so far, she and other experts said, the evidence for the new tests is limited to small studies of patients who may not be broadly representative.
+
+Katherine Burns, an associate professor at the University of Cincinnati College of Medicine who studies endometriosis and has it herself, said she understood why patients were eager: She suffered for about 10 years without a diagnosis and would have tried anything to get answers and relief. “But one of the things that I’ve learned along the way is, you have to ask questions,” she said.
+
+Here is what we know about the new tests.
+
+What’s being marketed?
+
+The Food and Drug Administration has not approved any noninvasive endometriosis test. But several companies are offering products “for research purposes only,” or through a regulatory loophole that the F.D.A. has sought unsuccessfully to close.
+
+Endometriosis sometimes appears on M.R.I.s or ultrasounds, but often not — so for many women, the only way to get a definitive diagnosis is for a surgeon to search for lesions and take biopsies. The premise of the new tests is that they can detect biomarkers, or changes in body fluids or functions, associated with the disease.
+
+One, called Endotest, checks saliva for a pattern of microRNAs, molecules that are involved in regulating genes. Another, EndoSure, measures gastrointestinal electrical activity. A third, EndomTest, checks blood for two proteins. Each test is backed by at least one peer-reviewed study run or funded by its manufacturer.
+
+A fourth test, from Xella Health, uses a proprietary artificial intelligence algorithm to analyze blood biomarkers, symptoms and medical history for endometriosis risk, but its accuracy has not been publicly assessed. Xella is also developing a menstrual fluid test, based so far on an unpublished analysis of 28 samples — not enough to draw conclusions from, given how different endometriosis can be in different patients, said Stacey Missmer, a professor of women’s health at the University of Michigan Medical School.
+
+What’s the evidence?
+
+The initial studies of Endotest and EndoSure found that they accurately identified more than 90 percent of people both with and without endometriosis. But the studies had limitations, many experts said, including size, types of patients and the fact that they were funded or conducted by the products’ manufacturers.
+
+Endotest’s main study involved 971 patients; EndoSure’s had 154. In both cases, a majority had endometriosis. Tests can perform misleadingly well in such “high prevalence” populations, because they have little opportunity to misdiagnose people who have other conditions, said Dr. Tamer Seckin, an endometriosis surgeon and founder of the Endometriosis Foundation of America.
+
+A recent study of Endotest by independent researchers found less impressive results, but it was small and conducted in an unrepresentative population. Two small studies in Belgium and Brazil have also examined EndoSure, but they haven’t been peer-reviewed, and included so few people without endometriosis that researchers couldn’t reliably estimate how well the test identified them.
+
+Ziwig, Endotest’s manufacturer, said “prospective real-world studies involving up to 25,000 women” were underway. Dr. Mark Noar, EndoSure’s executive chairman, said it was also working on studies in broader populations.
+
+Many experts said they considered the microRNA technology behind Endotest promising, if not yet perfected. While there haven’t been many studies of Endotest, microRNA’s overall potential as a biomarker has been studied more.
+
+The evidence for EndoSure’s technology, examining gut electrical signals, is more preliminary, said Dr. Seckin, Dr. Shin and Dr. Ted Lee, the director of minimally invasive gynecologic surgery at NYU Langone Health.
+
+Christine Metz, a professor at the Feinstein Institutes for Medical Research at Northwell Health, said EndoSure’s initial study was promising. But Dr. Metz noted that numerous diseases, medications and other factors can affect gut motility, so more research is needed to confirm whether the signals EndoSure measures are specific to endometriosis.
+
+As for EndomTest, the protein-based option, a small study by its developer showed nearly no false positives but many false negatives: It only identified 46.2 percent of people with endometriosis. (Andrew Levin, the chief executive of the company that has licensed it, said further studies were underway.) And despite the lack of false positives in the study, the test relies in part on a protein that rises with many diseases. The company says examining two proteins together makes the test more accurate, but Dr. Seckin and Dr. Missmer were skeptical.
+
+A British health agency is considering allowing Endotest, the microRNA alternative, to be used temporarily in the National Health Service to generate more evidence. But the agency said the other new tests weren’t ready for that yet.
+
+Experts emphasized that, while reliable noninvasive tests could speed up diagnosis, they may not provide the information that surgery can about the severity and location of endometriosis lesions — and tests with unproven accuracy are risky. False positives can lead to unnecessary surgical treatment, and false negatives can prevent diagnosis.
+
+A false negative from a test advertised as reliable is “the worst thing that can happen,” said Semir Beyaz, an endometriosis researcher at Cold Spring Harbor Laboratory, because being told nothing is wrong is “what they have been going through forever.”
+
+What comes next?
+
+A test that is now on the market, or a modified version, could conceivably be validated within a few years.
+
+“I find these things very promising first steps,” Dr. Beyaz said.
+
+In the meantime, experts emphasized that doctors can be confident many patients have endometriosis based on symptoms and a physical examination, and treat them accordingly. “We could really be doing much, much better immediately if we just listened to our patients,” said Dr. Hugh Taylor, a professor and chair of obstetrics, gynecology and reproductive sciences at Yale School of Medicine who studies microRNA as an endometriosis marker.
+
+New tests might be most useful in patients whose symptoms are ambiguous, like those with unexplained infertility but no pain, or adolescents with mild symptoms that could be early signs of endometriosis.
+
+In addition to Endotest, a large clinical trial is looking at a microRNA blood test called DotEndo, based on Dr. Taylor’s research. (Dr. Taylor is on its scientific advisory board.) The trial was designed in consultation with the F.D.A., said Heather Bowerman, the founder and chief executive of DotLab, which makes the test. If the results are good, she said, DotLab may seek F.D.A. approval as soon as 2027, though it hasn’t decided which regulatory route to take.
+
+At the same time, new discoveries are underscoring how much researchers still may not know.
+
+A recent paper from Dr. Taylor’s team was one of the first to report that adolescents with early-stage endometriosis may show different microRNA markers from adults. That could mean different tests are needed, said the lead author, Dr. Alla Vash-Margita, an associate professor of obstetrics, gynecology and reproductive sciences at Yale.
+
+Dr. Taylor said he believed “we will have noninvasive diagnostics for endometriosis in the near future.” But, he added, “Whether any of the ones we’re seeing now are going to be the best test is hard to know.”
