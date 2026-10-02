@@ -1,0 +1,72 @@
+================================================================================
+ai-tech-innovation.html
+Source: PreloadedData  Paragraphs: 25  Words: 1530/1590
+================================================================================
+
+SUMMARY
+
+The walls are closing in on artificial intelligence: moratoriums on new data center construction, job-loss concerns and rising alarm over safety. Workers whose time was saved can move on to other tasks, also helping the economy expand. Later, innovations such as the telegraph, the telephone, railroads, the internal combustion engine and the commercialization of electricity produced a golden age of productivity growth that carried on into the 20th century.
+
+ARTICLE
+
+Six Charts That Show Just How Much We Need A.I.
+All the worry about artificial intelligence should not obscure this key point: If we don’t develop it, we’ll be a lot worse off.
+By Steven Rattner
+Published 2026-10-02 09:03 UTC
+https://www.nytimes.com/2026/10/02/opinion/ai-tech-innovation.html
+
+The walls are closing in on artificial intelligence: moratoriums on new data center construction, job-loss concerns and rising alarm over safety.
+
+All valid worries. But none are sufficient to turn away from one of the greatest technological innovations in history, one with the potential to reinvigorate our slow-growth economy and make it easier to address the country’s increasingly challenging problems. For all the concern about the technology, we need A.I. to deliver.
+
+A quick Economics 101 refresh: Growth — and the increases in incomes and living standards that come with it — is a function of just two things, a larger labor force and how much each worker produces. More workers increase the overall size of the pie. But individuals don’t get a larger share unless each worker produces more.
+
+Greater national income, particularly if it comes from higher productivity, gives the nation more legroom to redistribute wealth fairly among citizens and reduce inequality. It also provides resources to hold down the national debt and fund public services such as health care and education.
+
+On their own, workers generally can’t become more productive. Investment helps, such as by replacing old manufacturing equipment. Training can benefit, too. But the key driver of efficiency is technological innovation. Think robots in factories, self-checkout in a drugstore or automated lawn mowers.
+
+Inventions like these lower the amount of labor required to perform tasks, which reduces companies’ costs and keeps a lid on prices. Workers whose time was saved can move on to other tasks, also helping the economy expand.
+
+For thousands of years, humans suffered from little innovation and saw little change in standards of living. Then, around 1500, productivity started to grow as farming methods became modestly more modern. Beginning in the mid-19th century, the beneficent effects of the Industrial Revolution took hold thanks to extraordinary innovations such as mechanized looms (famously attacked by the Luddites) and steam power.
+
+Later, innovations such as the telegraph, the telephone, railroads, the internal combustion engine and the commercialization of electricity produced a golden age of productivity growth that carried on into the 20th century.
+
+In the early 1970s, productivity growth slowed and has remained depressed for most of the past half-century, with notable exceptions such as the internet boom. Ending the productivity sluggishness should be a top national priority, and using A.I. is the most promising way.
+
+Examples of its power already abound. Siemens uses its A.I. co-pilot to walk technicians through repairs of factory machines, decreasing time spent on unplanned equipment maintenance by 25 percent. Kaiser Permanente has deployed an A.I. scribe to streamline note-taking, cutting documentation time for physicians by nearly 16,000 hours. John Deere has an A.I.-equipped camera system that saved farmers 31 million gallons of herbicide mix in 2025 by spraying the substance only where the system detects weeds.
+
+More will come. History suggests that innovation’s effects on the economy can take years, even decades, to play out. The surge in productivity growth after World War II was driven in part by the continuing deployment of electricity generators and other 19th-century inventions.
+
+Soon after Henry Ford introduced the assembly line in 1913, he famously raised the pay of his workers to $5 a day. Because of his factories’ high productivity, the company’s profits still soared, and the price of a Model T fell to just $260 in 1925 from as much as $600 in 1913.
+
+In 1987, the economist Robert Solow, who would later win a Nobel Prize, said, “You can see the computer age everywhere but in the productivity statistics.” He spoke prematurely. Productivity rose sharply in the late 1990s, stimulating growth, adding jobs and leading the federal government under President Bill Clinton to an unusual (and never matched) string of budget surpluses.
+
+Anticipating the unfolding prosperity of his time, John Maynard Keynes wrote in his 1930 essay, “Economic Possibilities for Our Grandchildren,” that within a century, the average worker would toil for only 15 hours a week. Keynes got that wrong, but not for the seemingly obvious reason. Productivity — and accordingly, inflation-adjusted wages — has risen so much since then that Americans could labor just seven hours a week to afford the same lifestyle they enjoyed in 1930. Instead, the average American works 38.3 hours a week, down only 20 percent from 1930. But workers now have more time for leisure and family, and the hours they do spend on the job support bigger incomes and more comfortable lifestyles than their grandparents enjoyed — more goods, bigger houses, pleasure travel and the like.
+
+A.I. has the potential to enhance the way we live in the same way. It saved me and my colleague, Will McGrew, many hours of prowling the internet to research this essay. That left us with time to do other tasks.
+
+Of course there are risks. A.I. will eliminate jobs in some sectors — just like telephone operators disappeared in the last century — even as the productivity gains it generates will create demand for new jobs in others. The historical record has borne this out time and time again. No technological improvement in the history of the world has ultimately failed to create more jobs than it destroyed.
+
+When I started on Wall Street in 1982, we had only hand calculators — no personal computers, no Excel for running models, just pencils and large sheets of paper on which to scribble our calculations. Those “spreadsheets” then had to be typed by a secretarial pool. If my boss found a mistake or wanted a different scenario prepared, we started from scratch. As the technology evolved, lots of those menial tasks disappeared, and yet employment in the financial sector is vastly greater today.
+
+To date, A.I. has killed a limited number of jobs while boosting employment for plumbers, electricians, data scientists and market research analysts. More job losses — and offsetting employment gains — are probably to come, though. The country’s leaders need to anticipate the possibility of an A.I. “rust belt” and create policies to help workers adjust. The government can provide retraining and educational subsidies to younger workers. For older ones, the nation needs to shore up the social safety net, potentially embracing ideas such as wage insurance for those displaced. And securing the solvency of Social Security and Medicare is essential.
+
+The country has dealt with challenges like these before. In 1900, 41 percent of the American work force was on the farm. By 2022, that had dropped to 1.2 percent. The transition succeeded because many workers migrated to cities and the expanding manufacturing sector. Yes, the economies of agricultural states suffered, but we mitigated that with a wide array of government programs aimed at shoring up rural America.
+
+The cost of these government investments should be paid by the beneficiaries of A.I. Thus far, the gains from artificial intelligence have accrued not to workers, but to investors who have reaped soaring profits from the explosive increase in the value of companies in the A.I. industry.
+
+We have many ways to make that right. Some have suggested a “token tax.” (Tokens are a measure of A.I. usage.) The wildly generous tax benefits A.I. companies receive for their capital expenditures — enacted in President Trump’s first term and made permanent in his second — should be curbed, as should the sales and property tax exemptions that many states provide to data centers. And with corporate profits generally booming, Washington should edge the corporate tax rate back up toward the 35 percent that existed before Donald Trump’s presidency.
+
+The more daunting challenge A.I. poses is to ensure that the technology is developed and used safely, a necessity that tech C.E.O.s and independent experts have spoken about with increasing urgency. On this, too, I believe humans can succeed in managing the risk.
+
+The United States and other nations have safely regulated food, medicines, aviation, nuclear energy and many other potentially dangerous items. I remember the widespread fears that the Nuclear Age brought. I participated in air raid drills in the basement of my suburban elementary school, huddled near barrels of emergency rations. Movie thrillers such as “Fail Safe” and “On the Beach” dramatized nuclear catastrophe, and later “The China Syndrome” warned about nuclear power. Yet many nations have continued to develop atomic energy and nuclear weapons with a remarkable record of safety.
+
+As with other powerful technologies, new A.I. products must be tested thoroughly by a governmental entity before they can be deployed. Among other things, governments should consider mandating kill switches in A.I. products, which would provide humans a final defense against models that have gone rogue. Containing the spread of A.I. technology will be more difficult than, say, limiting nuclear proliferation, because A.I. technology is easier to transfer across borders. This is why international cooperation, particularly with China, is critical for global A.I. security. At the same time, powerful models depend on physical inputs — microchips and data centers — and the U.S. lead in the A.I. build-out will therefore be an asset for keeping A.I. under control.
+
+Those calling to stop A.I. development and those insisting that no regulation is necessary are both wrong. As with many promising technologies, the risks of A.I. will never be eliminated. But they should be manageable. And the payoff could be immense.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+Additional research by William McGrew.

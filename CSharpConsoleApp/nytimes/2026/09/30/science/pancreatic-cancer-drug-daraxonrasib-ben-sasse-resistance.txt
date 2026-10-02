@@ -1,0 +1,54 @@
+================================================================================
+pancreatic-cancer-drug-daraxon…sib-ben-sasse-resistance.html
+Source: PreloadedData  Paragraphs: 19  Words: 756/756
+================================================================================
+
+SUMMARY
+
+Last week, the former senator from Nebraska Ben Sasse announced that his Stage 4 pancreatic cancer had developed resistance to a cutting edge treatment. Cancer specialists were not surprised: Nearly every pancreatic cancer patient taking that drug, called daraxonrasib, eventually develops resistance, said Dr. Andrew Aguirre, a pancreatic cancer specialist at the Dana-Farber Cancer Institute in Boston. The drug, which was approved in August, electrified patients and doctors by doubling the median survival time of patients with advanced pancreatic cancer.
+
+ARTICLE
+
+Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working
+Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib.
+By Gina Kolata
+Published 2026-09-30 17:39 UTC
+https://www.nytimes.com/2026/09/30/science/pancreatic-cancer-drug-daraxonrasib-ben-sasse-resistance.html
+
+Last week, the former senator from Nebraska Ben Sasse announced that his Stage 4 pancreatic cancer had developed resistance to a cutting edge treatment. Cancer specialists were not surprised: Nearly every pancreatic cancer patient taking that drug, called daraxonrasib, eventually develops resistance, said Dr. Andrew Aguirre, a pancreatic cancer specialist at the Dana-Farber Cancer Institute in Boston.
+
+The drug, which was approved in August, electrified patients and doctors by doubling the median survival time of patients with advanced pancreatic cancer. And yet like other targeted cancer drugs, it is not a cure: Even for patients in which the treatment is effective, it can suddenly stop working after about seven months.
+
+But now researchers are finding ways that resistance forms, hoping to extend life further. They are focusing on the big questions: Why would pancreatic cancer stop responding to daraxonrasib? And how was resistance even developing? After all, the drug strangles a protein the cancer cells need to survive. So how do the cells escape it and grow?
+
+They have some clues.
+
+Some were found in a preliminary study presented on Friday at the American Association for Cancer Research Conference on Pancreatic Cancer in San Diego, by Dr. Aguirre, who is a principal investigator for the study.
+
+The work involved an unusual effort by three groups: Break Through Cancer, a nonprofit that brings researchers together to tackle challenging problems in cancer treatment; the Lustgarten Foundation, which supports research on pancreatic cancer; and Revolution Medicines, which makes daraxonrasib.
+
+Although developing resistance is common for all types of cancer treatments — which is why patients may have to try one therapy after another — each type of resistance looks different. To figure out how this particular resistance was emerging, researchers at leading medical centers recruited 66 patients with advanced pancreatic cancer who were already enrolled in an early stage study of the drug. They were then asked to have their tumors biopsied in order to advance science.
+
+For each participant, one biopsy was done before treatment began, the next about two weeks later and the third when the drug stopped working.
+
+The first thing the investigators noticed was that daraxonrasib was killing cancer cells so quickly that by two weeks after treatment began, their number was cut in half.
+
+But, Dr. Aguirre said, the key was in the remaining cells: “What is different about the tumor cells that are still there?”
+
+In many cases the remaining cancer cells actually looked different. Before treatment, the cells looked aggressive — poorly formed, grossly abnormal. Two weeks later, the cells that survived were still cancer cells, but they often appeared more like cells that respond to chemotherapy, said Dr. Mark Goldsmith, chairman and chief executive of Revolution Medicines.
+
+That, he said, indicated that daraxonrasib might work better if patients took it along with chemotherapy — an important finding.
+
+They also have hints of what is going on from a recent blood study that involved 44 patients with advanced pancreatic cancer. Researchers examined their blood before treatment with daraxonrasib and after their cancers became resistant to the drug.
+
+Blood can contain fragments of DNA shed by cancer cells. Those DNA fragments are not as good as a biopsy, but they were informative. They revealed that more than half of the cancers evaded daraxonrasib by flooding their cells with profuse amounts of the protein — KRAS — that daraxonrasib blocks.
+
+The researchers, Dr. Goldsmith added, are now seeing the same effect in biopsies of patients who have relapsed.
+
+That, he said, indicates that KRAS is so important to these cancer cells that the cells will find ways to get KRAS even when daraxonrasib is present. And, he added, that raises the question of whether patients should be getting two or more KRAS inhibitors to work in tandem. There are now over 90 KRAS inhibitors in clinical trials.
+
+Why a subset of other patients develop resistance is still a mystery. “There can be nongenetic changes, for example, in the cancer cells or in the cells surrounding the tumor, that let it start to grow,” Dr. Aguirre said.
+
+Tyler Jacks, the president of Break Through Cancer and the founding director of M.I.T.’s Koch Institute for Integrative Cancer Research, said the investigation had received another round of funding, this time to ask how the tumors respond to daraxonrasib in combination with other therapies.
+
+“We all believe that daraxonrasib and other KRAS inhibitors are important initial steps,” Dr. Jacks said. For the future, he said, he’s confident that the work — doing science in patients, as he puts it — will lead to, “one day, cures.”

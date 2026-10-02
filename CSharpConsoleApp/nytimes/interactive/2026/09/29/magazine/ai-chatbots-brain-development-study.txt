@@ -1,0 +1,58 @@
+================================================================================
+ai-chatbots-brain-development-study.html
+Source: RenderedHtml  Paragraphs: 20  Words: 649
+================================================================================
+
+SUMMARY
+
+Across millions of math sessions by a group that ranged from fifth graders to college students, the researchers compared performance from before 2022, when ChatGPT first came out, with the work that followed its arrival. Researchers found that after 2022, the time students spent mulling over online test questions dropped precipitously on the questions readily handled by chatbots, while their performance improved. But the students who had used A.I. more like a tutor, to explain complex concepts or clarify ideas, not only retained high test scores in the second round, but their essays were higher quality as well.
+
+ARTICLE
+
+Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows.
+We’re starting to learn more about how the technology can change us.
+By Juliana Castro Varón and Dylan Freedman
+Published 2026-09-29 20:34 UTC
+https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html
+
+Machine Learnings
+
+Artificial intelligence is changing the world, and the humans in it, in ways we don’t yet understand. People are increasingly worried that if we rely on chatbots for thinking, our brains will become slower and less engaged. Is A.I. making us stupider? Scientists, too, want to know.
+
+A team of researchers from the University of California, Irvine, and the education company McGraw Hill examined a decade of data from a popular online learning tool by McGraw Hill, starting in 2015. Across millions of math sessions by a group that ranged from fifth graders to college students, the researchers compared performance from before 2022, when ChatGPT first came out, with the work that followed its arrival.
+
+To analyze the results, they split the questions into two types. First: text-based problems that students could easily copy into a chatbot.
+
+And next: visual, interactive or multistep questions that were harder for a chatbot.
+
+Researchers found that after 2022, the time students spent mulling over online test questions dropped precipitously on the questions readily handled by chatbots, while their performance improved.
+
+But when the students were given proctored tests away from their computers, their results were worse than they had been before A.I.
+
+Sina Rismanchian, a Ph.D. candidate at U.C. Irvine and one of the lead authors of the preliminary study, noted that A.I. lets students offload the process required to solve a mathematical problem.
+
+Another multi-institutional study, prepared for the forthcoming Conference on Language Modeling and cited by Rismanchian and his co-authors, shows that when people (in this experiment, adults) become accustomed to skipping the productive struggle of logical and analytical tasks and having the process automated, they are more likely to give up on hard questions that they could otherwise figure out.
+
+A.I. tools condition people to expect immediate responses and deny them the experience of working through challenges, the authors say, which is crucial for skill development and one of the strongest predictors of long-term learning.
+
+“Part of how A.I. is making us dumber,” says Dr. Adam Green, a cognitive neuroscientist at Georgetown University, is “undercutting the development of learning how to think in younger people that now have an alternative.”
+
+Green compares the brain’s tendency to conserve effort to calorie retention.
+
+“Whatever you could do that exerted the least calories but didn’t kill you was the best thing to do evolutionarily,” he says.
+
+But all is not lost. Studies suggest that — for the brain — there are better ways to use A.I.
+
+In July, professors at Middlebury College released a preprint study in which more than 200 undergraduates were asked to write an essay and take a proctored multiple-choice test.
+
+One group of students had access to A.I. to research a topic and write the essay. The other group didn’t. The researchers found that the A.I.-enabled group wrote longer and slightly higher-quality essays. Their test scores were also higher.
+
+A week later, the participants returned for a similar test, but now both groups worked unassisted. The authors broke down the students’ second-round performance based on how A.I. was used in the first round.
+
+The students who relied on A.I. to draft their entire essays in the first round floundered. Their test scores decreased.
+
+But the students who had used A.I. more like a tutor, to explain complex concepts or clarify ideas, not only retained high test scores in the second round, but their essays were higher quality as well.
+
+Experimental evidence suggests that using A.I. not as a full shortcut, but as a means to exercise what they were supposed to learn, allowed them to outperform the remaining participants in the A.I. group and those who hadn’t used A.I. at all.
+
+In other words, these studies so far agree: Artificial intelligence is affecting how people, especially the young, learn and remember. Whether we will be dumber as a result might depend on how — not if — we use A.I.
