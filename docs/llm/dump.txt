@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-02 11:44:59
+Generated (UTC): 2026-10-02 11:56:47
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      429cce409cf733ec7226c0290eee3edc0f9efb2f
+Git Commit:      4a263a216508a503ac8139dc9352a6a80763d53f
 Git Branch:      master
 Git Dirty:       no
 .NET SDK:        10.0.112
@@ -2400,8 +2400,8 @@ static string DefaultSamplesDirectory()
 FILE:     CSharpUnitTests/ArticleExtractionTests.cs
 SIZE:     50.51 KB (51725 bytes)
 LINES:    1244
-SHA256:   4ecf758fb7299091e9e4762c60d522399dfd2c598841d82bd64dedb8b1c539cf
-MODIFIED: 2026-10-02 11:44:35 (UTC)
+SHA256:   37fc30fc4ed9b256edf7bee22d41b5ed07193d2ac70b525e8313abbdda2f6100
+MODIFIED: 2026-10-02 11:56:22 (UTC)
 ================================================================================
 
 using System.Text;
@@ -3645,7 +3645,7 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(105, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        Assert.Equal(110, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
     }
 }
 
@@ -4285,9 +4285,9 @@ MODIFIED: 2026-09-27 06:37:13 (UTC)
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-02 11:44:59
+EXPORT COMPLETED (UTC): 2026-10-02 11:56:47
 Total Files Exported:   16
 Total Source Size:      0.13 MB (139417 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): 969322d2b3a26266c608f304d0666f2e8e5cb10c8f960ada53b30343dfc62b80
+DUMP SHA256 (of all lines above this one): b0b54887e4c54afc905df541a0c0388ddcaab40263177369fa183334eda941ec

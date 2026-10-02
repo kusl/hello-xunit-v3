@@ -1,0 +1,82 @@
+================================================================================
+china-ai-overuse.html
+Source: PreloadedData  Paragraphs: 29  Words: 1208/1210
+================================================================================
+
+SUMMARY
+
+As China’s government pushes its citizens to embrace artificial intelligence, it is confronting a problem partly of its own making: overreliance on the technology. State media reports have featured stories that serve as cautionary tales: a farmer who lost 25 acres of seedlings after asking an A.I. for advice, children who have become so attached to chatbots that they want their parents to speak like them and A.I.-generated micro dramas with characters that look like carbon copies of one another. These cases and others have raised concerns in China that as it rushes to catch up with the United States in A.I., it is running into adverse side effects created by the new technology, which is accused of undermining human relationships and depriving people of their better judgment.
+
+ARTICLE
+
+China’s Push into A.I. Has Led to a Problem: Too Much Usage
+As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.
+By Yan Zhuang
+Published 2026-10-02 04:01 UTC
+https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html
+
+As China’s government pushes its citizens to embrace artificial intelligence, it is confronting a problem partly of its own making: overreliance on the technology.
+
+State media reports have featured stories that serve as cautionary tales: a farmer who lost 25 acres of seedlings after asking an A.I. for advice, children who have become so attached to chatbots that they want their parents to speak like them and A.I.-generated micro dramas with characters that look like carbon copies of one another.
+
+These cases and others have raised concerns in China that as it rushes to catch up with the United States in A.I., it is running into adverse side effects created by the new technology, which is accused of undermining human relationships and depriving people of their better judgment. The government, seeking to direct how people use the technology, has responded by imposing new regulations and judicial guidelines on its use — and misuse.
+
+The response reflects how the ruling Communist Party is trying to balance its ambitions to promote the widespread use of A.I. with a desire to avoid anything that might undermine social order, say analysts.
+
+The party is “recognizing that the more they develop the technology, the more there’s going to be social challenges that they have to deal with,” said Scott Singer, a fellow and co-director of the China A.I. Initiative at the Carnegie Endowment for International Peace. “Where the party is sensitive is any area where they feel like the technology is getting better in a way that fundamentally could disrupt social stability.”
+
+Mr. Singer said the party is particularly sensitive to disruptions caused not only to human relationships but also the job market as A.I. threatens to replace workers.
+
+Concerns about overuse are shared among China’s citizens, who say they see the spread of the technology as inevitable even as they question its benefits and tire of its ubiquity.
+
+Xie Tong, a graphic designer in Beijing, uses A.I. in her own work at a consulting agency and can no longer imagine her life without it. But she despairs at encountering A.I. all around her — in the subway ads that she sees on her commute and in the work of contractors at her job who obviously relied on A.I.
+
+“It’s like a marriage where you curse your partner but you can’t leave them,” she said.
+
+Limits on Virtual Friends
+
+For a time, China’s A.I. push created a boom in virtual companion apps, including ones offering romantic partners, personal tutors and A.I. avatars of family members.
+
+In a country already struggling with a shrinking population and a historically low birthrate, the proliferation has led to concerns from Beijing about A.I. replacing human relationships. State media quoted experts saying people could soon find it hard to navigate real interactions. Reports cited a 2025 survey by the China Youth and Children Research Center of more than 8,500 minors that showed more than 20 percent “only wanted to chat with A.I. and did not want to talk with real people.”
+
+That mirrored the concerns of some parents like Vivian Lyu, a stay-at-home mother in Hangzhou who two years ago introduced her 5-year-old daughter, Polly, to Doubao, an A.I. assistant created by ByteDance, the parent company of TikTok.
+
+Soon, the child was chatting with the A.I. and a personalized companion on the app nearly every day. At first, Ms. Lyu thought the A.I. was good at keeping Polly entertained when the mother had to take care of household tasks. “When you feel like you don’t have a choice, you use Doubao,” she said.
+
+Over time, though, Polly started asking for Doubao instead of seeking out activities that used to interest her, like playing with other children or drawing pictures. Ms. Lyu said she worried that the chatbot was warping her daughter’s understanding of how relationships worked, saying that Polly sometimes talked to Doubao in a “very self-centered, doing-whatever-she-wants kind of way.”
+
+In July, the government imposed limits on A.I. companions that require platforms to step in if users exhibited unhealthy dependencies. Under the new rules, platforms must intervene if users show signs of self-harm.
+
+The rules also banned virtual relationships between chatbots and minors, which forced ByteDance to shut down the feature on Doubao that allowed users to create companions.
+
+Polly can no longer access her personalized A.I. companion, but she is still talking to Doubao’s A.I. chatbot, Ms. Lyu said. The mother considered banning her daughter from using chatbots but concluded that such a step could make it harder for Polly to adjust to the technology as she grows older. Instead, Ms. Lyu has limited Polly’s chatbot time to one hour a day.
+
+“My hope is for her to understand from a young age that these electronic products, or all of these things related to A.I., are just tools,” Ms. Lyu said.
+
+Real World Problems
+
+Just as in many countries, China is struggling with so-called A.I. literacy — understanding how the technology works and its limits. In recent months, the media has documented a growing number of A.I. mishaps involving people who blindly believed in the technology.
+
+There was the case of a hiker who became stranded atop a mountain in August after A.I.-generated instructions left him improperly equipped. In several separate cases earlier in the summer, people fell ill after eating poisonous mushrooms that were misidentified by A.I., including a 9-year-old boy who spent eight days in a hospital.
+
+One of the most widely covered cases involved a farmer in the eastern province of Anhui who lost 25 acres of sesame seedlings in July after following a pesticide regimen drawn up by an A.I. assistant.
+
+The 67-year-old farmer, whom the reports identified only by his last name, Wu, lost 150,000 yuan, or about $22,000, worth of crops after the A.I. recommended an herbicide that turned out to be unsuitable, the reports said.
+
+The Communist Party’s mouthpiece, People’s Daily, argued in a commentary that A.I. in sectors like agriculture should use only information that comes from authoritative sources.
+
+It also called for farmers to be trained in “critical thinking about A.I. suggestions, helping farmers transform from passive implementers of technology into active participants who can control the tools.”
+
+A Backlash Against Cheap A.I. Fodder
+
+A.I. has also become ubiquitous in micro dramas, the wildly popular short-form, soapy shows that are made for mobile viewing. In the first eight months of the year, more than 90 percent of the 430,000 micro dramas released in China were generated by A.I., the government said in late September.
+
+These dramas can be churned out cheaply in minutes with no cameras, production crews or human performers. But they have come under fire for their low quality and for taking the jobs of humans.
+
+An article in August in Beijing Youth Daily, the official publication of the Communist Youth League, complained that production companies were churning out A.I.-created micro dramas with boring, interchangeable characters.
+
+Some influential voices have gone as far as to say they will boycott micro dramas generated entirely by A.I.
+
+Hu Xijin, the former editor of the state-run Global Times, told his 25 million followers on the social media platform Weibo recently that he would not watch such dramas to avoid “filling up our recreational time with cheap A.I. fodder like pig feed.”
+
+Siyi Zhao contributed research.

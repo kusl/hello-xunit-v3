@@ -1,0 +1,94 @@
+================================================================================
+ai-stocks-bonds-economy.html
+Source: PreloadedData  Paragraphs: 37  Words: 1468/1471
+================================================================================
+
+SUMMARY
+
+Despite all the turmoil in the bond market, both the stock market and the broader economy appear to be reasonably strong. A potent but fragile force is now propping up the stock market and the economy: the artificial intelligence industry. But I have no doubt that it would be a blow to the economy and a bigger setback for the stock market.
+
+ARTICLE
+
+The Powerful Yet Fragile Force Propping Up Stocks and the Economy
+The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.
+By Jeff Sommer
+Published 2026-10-02 09:03 UTC
+https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html
+
+Despite all the turmoil in the bond market, both the stock market and the broader economy appear to be reasonably strong.
+
+I pointed out one reason for this apparent anomaly last week. Oil prices and the war in Iran have driven up interest rates sharply, often dominating the financial news and causing hardship for millions of people. But while the rates on 10-year U.S. Treasuries have hit their highest level since 2002, those rates were considered normal in the era before the financial crisis that started in late 2007.
+
+The world has certainly changed, though. A potent but fragile force is now propping up the stock market and the economy: the artificial intelligence industry.
+
+For a measure of how important A.I. has become for the stock market, consider that the iShares U.S. Technology ETF, an exchange-traded fund that serves as a rough proxy for A.I.-led tech stocks, returned 33.7 percent for this calendar year through Thursday. That compares with 4.1 percent for the ProShares S&P 500 Ex-Technology ETF, which strips out many, but not all, of the tech stocks of the benchmark S&P 500.
+
+A.I.’s role in the overall U.S. economy is harder to quantify, but it is substantial.
+
+Mark Zandi, the chief economist at Moody’s Analytics, told me that A.I. accounted for a hefty chunk of the U.S. economy’s growth this year. The latest government report says real gross domestic product grew at an annual rate of 2.3 percent in the second quarter of this year. Mr. Zandi estimated that 0.6 to 0.7 percentage points — or perhaps 30 percent of the economy’s inflation-adjusted growth this year — came from the A.I. boom, directly or indirectly.
+
+But this may be a precarious economic foundation.
+
+Concerns about the dangers of the technology have mounted, after reports that rogue A.I. agents hadn’t merely escaped their confines but also appeared to hide their tracks.
+
+Evan Hubinger, an Anthropic safety researcher, estimated the potential threat from A.I. in a post on X, saying he believed the chance that A.I. “could kill all humans” within the next decade was greater than 10 percent.
+
+No wonder leaders of A.I. companies have been calling for a slowdown in the pace of development of the technology until human safety can be assured. “Guardrails” for A.I. are being widely discussed, if not always swiftly put in place.
+
+President Trump has denounced such concerns as a “hoax.” My New York Times colleagues David E. Sanger, Jonathan Swan, Cecilia Kang and Dustin Volz have reported that the president worries that if the A.I. boom falters, the stock market could crash and a recession could quickly follow.
+
+I have no way of knowing exactly what would happen if the A.I. momentum were to suddenly decelerate or even reverse. But I have no doubt that it would be a blow to the economy and a bigger setback for the stock market.
+
+The Stock Market
+
+It wouldn’t necessarily take a major new A.I. safety threat, or the imposition of new regulations or a slowdown in A.I. investment, to stop the A.I. stock market boom.
+
+Many Wall Street strategists expect that to happen on its own, sooner or later.
+
+In an analysis on Tuesday, for example, Capital Economics, an independent financial research service based in London, warned, “There are growing signs that the A.I. equity market boom is in its final stages.”
+
+A.I. has driven stock prices so high that it has formed a giant market “bubble” that is likely to burst — perhaps not quite yet, but before the end of next year, the firm says. In the meantime, it says, rising bond yields and energy prices are testing the “resilience” of world stock markets.
+
+The bursting of a market bubble is difficult to pinpoint in advance. I’m reluctant to go as far as Capital Economics has because corporate profits are remarkably high at the moment, and they are making stock market valuations look cheaper and more reasonable. That’s not the typical pattern for a late-stage market bubble.
+
+What has been happening is this: When earnings rise faster than stock prices, the price-to-earnings ratio — a standard comparison of share prices and underlying corporate profits — drops. Stocks have fallen close to their price levels of early June, while Wall Street analysts estimate that S&P 500 earnings grew more than 29 percent in the three months through September.
+
+If the sizzling earnings pace can be sustained — a big if — the stock market’s advance will look less like a bubble and more like a remarkable rally, one powered by A.I.
+
+That said, as I’ve pointed out, the A.I. boom that the release of ChatGPT in 2022 initiated has already made the stock market extremely concentrated. For the first time since their inception in the 1970s, S&P 500 index funds are no longer diversified.
+
+In May, just 10 stocks, all of them tech companies, accounted for more than 40 percent of the total market capitalization of the S&P 500. The Vanguard 500 Index Fund’s biggest holdings are Nvidia, Apple, Microsoft, Amazon, Alphabet, Broadcom, Meta, Micron and Tesla, followed by JPMorgan Chase. All but JPMorgan are involved in developing A.I., to one degree or another (with Apple a laggard in that regard). A major blow to A.I. stocks would hurt millions of people who hold them in retirement funds.
+
+The Economy
+
+A sharp stock market decline would also damage the broader economy, which is being stimulated by A.I. in two principal ways, Mr. Zandi said.
+
+First is the “wealth effect,” through which rising asset prices, like those for stocks and homes, make affluent people more likely to spend money. In February, he estimated that “for every $1 increase in net worth, consumer spending ultimately increases by 2 cents.” In 2025, he said, “the wealth effect added a full percentage point to consumer spending growth and over 0.7 percent to G.D.P. growth.”
+
+This wealth effect — supercharged by A.I. — helps to explain how the richest 20 percent of consumers have contributed to growing consumer spending this year, even as overall consumer sentiment declines.
+
+After a market crash, the wealth effect would reverse itself “and the economy would take a hit,” Mr. Zandi told me.
+
+The second way that A.I. is spurring the economy is through enormous corporate spending on data centers, power supplies and infrastructure. The sums involved are staggering. Goldman Sachs estimated in August that it would amount to $1 trillion worldwide in 2026. And that’s just a start, if the A.I. industry has its way.
+
+In a new research paper, “Financing the A.I. Buildout,” presented at the Brookings Institution late last month, Stijn Van Nieuwerburgh, a Columbia University business professor, estimated that by 2032 total capital expenditures by A.I. companies in the United States could amount to $10.3 trillion. That number is so big that it demands some perspective, which Professor Van Nieuwerburgh provided.
+
+He estimated that capital expenditures on A.I. could average 3.63 percent of G.D.P. each year and become the biggest infrastructure project in U.S. history — “larger, relative to the economy, than the major U.S. canal, railroad, electrification, highway and telecommunications investment booms.”
+
+I’m not sure that all that spending will take place. Whether A.I. investment grows to that level — and generates profits high enough to justify the stupendous cost — is a $10 trillion question.
+
+It has already intertwined with the fluctuations of the bond market. Financing these projects requires mountains of debt.
+
+Higher bond interest rates will make A.I. projects more expensive. This, in turn, could act as a drag on the stock market and the broader economy.
+
+Yet the A.I. boom is powering ahead, despite concerns about safety, cost, ultimate profitability — and existential questions about whether advanced A.I. might actually be a new form of consciousness. The stakes couldn’t be higher.
+
+If A.I. penetrates the entire economy and turns out to be a truly transformative technology, it could bolster productivity and create some new jobs. But many jobs that exist now could disappear. Those without the education and skills for an A.I. world could be grievously damaged.
+
+The short-term effects are also likely to be painful if the development of A.I. slows anytime soon.
+
+For long-term investors, the implications are profound. Sticking with the broad stock market during the A.I. boom has paid off so far. It may continue to do so, though extraordinary risks clearly abound.
+
+Diversifying with bonds has been unsatisfying lately. But the turmoil in the bond market has made bonds much more attractive — in comparison with stocks — than they were just a couple of years ago. The higher income provided by bonds at today’s yields makes them better buys, compared with stocks.
+
+Short-term interest rates are rising, too. While that is painful for borrowers, it makes money-market funds and high-yield savings accounts more appealing places to stash the extra cash you may need if you are worried about potential trouble ahead.

@@ -7808,6 +7808,166 @@ Mr. McAdams said in an interview that he worries he will not be able to qualify 
 “Even a model foreigner might not meet the requirements now,” he said. “The tide is shifting, and not in a productive way.”
 
 ================================================================================
+ai-stocks-bonds-economy.html
+Source: PreloadedData  Paragraphs: 37  Words: 1468/1471
+================================================================================
+
+SUMMARY
+
+Despite all the turmoil in the bond market, both the stock market and the broader economy appear to be reasonably strong. A potent but fragile force is now propping up the stock market and the economy: the artificial intelligence industry. But I have no doubt that it would be a blow to the economy and a bigger setback for the stock market.
+
+ARTICLE
+
+The Powerful Yet Fragile Force Propping Up Stocks and the Economy
+The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.
+By Jeff Sommer
+Published 2026-10-02 09:03 UTC
+https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html
+
+Despite all the turmoil in the bond market, both the stock market and the broader economy appear to be reasonably strong.
+
+I pointed out one reason for this apparent anomaly last week. Oil prices and the war in Iran have driven up interest rates sharply, often dominating the financial news and causing hardship for millions of people. But while the rates on 10-year U.S. Treasuries have hit their highest level since 2002, those rates were considered normal in the era before the financial crisis that started in late 2007.
+
+The world has certainly changed, though. A potent but fragile force is now propping up the stock market and the economy: the artificial intelligence industry.
+
+For a measure of how important A.I. has become for the stock market, consider that the iShares U.S. Technology ETF, an exchange-traded fund that serves as a rough proxy for A.I.-led tech stocks, returned 33.7 percent for this calendar year through Thursday. That compares with 4.1 percent for the ProShares S&P 500 Ex-Technology ETF, which strips out many, but not all, of the tech stocks of the benchmark S&P 500.
+
+A.I.’s role in the overall U.S. economy is harder to quantify, but it is substantial.
+
+Mark Zandi, the chief economist at Moody’s Analytics, told me that A.I. accounted for a hefty chunk of the U.S. economy’s growth this year. The latest government report says real gross domestic product grew at an annual rate of 2.3 percent in the second quarter of this year. Mr. Zandi estimated that 0.6 to 0.7 percentage points — or perhaps 30 percent of the economy’s inflation-adjusted growth this year — came from the A.I. boom, directly or indirectly.
+
+But this may be a precarious economic foundation.
+
+Concerns about the dangers of the technology have mounted, after reports that rogue A.I. agents hadn’t merely escaped their confines but also appeared to hide their tracks.
+
+Evan Hubinger, an Anthropic safety researcher, estimated the potential threat from A.I. in a post on X, saying he believed the chance that A.I. “could kill all humans” within the next decade was greater than 10 percent.
+
+No wonder leaders of A.I. companies have been calling for a slowdown in the pace of development of the technology until human safety can be assured. “Guardrails” for A.I. are being widely discussed, if not always swiftly put in place.
+
+President Trump has denounced such concerns as a “hoax.” My New York Times colleagues David E. Sanger, Jonathan Swan, Cecilia Kang and Dustin Volz have reported that the president worries that if the A.I. boom falters, the stock market could crash and a recession could quickly follow.
+
+I have no way of knowing exactly what would happen if the A.I. momentum were to suddenly decelerate or even reverse. But I have no doubt that it would be a blow to the economy and a bigger setback for the stock market.
+
+The Stock Market
+
+It wouldn’t necessarily take a major new A.I. safety threat, or the imposition of new regulations or a slowdown in A.I. investment, to stop the A.I. stock market boom.
+
+Many Wall Street strategists expect that to happen on its own, sooner or later.
+
+In an analysis on Tuesday, for example, Capital Economics, an independent financial research service based in London, warned, “There are growing signs that the A.I. equity market boom is in its final stages.”
+
+A.I. has driven stock prices so high that it has formed a giant market “bubble” that is likely to burst — perhaps not quite yet, but before the end of next year, the firm says. In the meantime, it says, rising bond yields and energy prices are testing the “resilience” of world stock markets.
+
+The bursting of a market bubble is difficult to pinpoint in advance. I’m reluctant to go as far as Capital Economics has because corporate profits are remarkably high at the moment, and they are making stock market valuations look cheaper and more reasonable. That’s not the typical pattern for a late-stage market bubble.
+
+What has been happening is this: When earnings rise faster than stock prices, the price-to-earnings ratio — a standard comparison of share prices and underlying corporate profits — drops. Stocks have fallen close to their price levels of early June, while Wall Street analysts estimate that S&P 500 earnings grew more than 29 percent in the three months through September.
+
+If the sizzling earnings pace can be sustained — a big if — the stock market’s advance will look less like a bubble and more like a remarkable rally, one powered by A.I.
+
+That said, as I’ve pointed out, the A.I. boom that the release of ChatGPT in 2022 initiated has already made the stock market extremely concentrated. For the first time since their inception in the 1970s, S&P 500 index funds are no longer diversified.
+
+In May, just 10 stocks, all of them tech companies, accounted for more than 40 percent of the total market capitalization of the S&P 500. The Vanguard 500 Index Fund’s biggest holdings are Nvidia, Apple, Microsoft, Amazon, Alphabet, Broadcom, Meta, Micron and Tesla, followed by JPMorgan Chase. All but JPMorgan are involved in developing A.I., to one degree or another (with Apple a laggard in that regard). A major blow to A.I. stocks would hurt millions of people who hold them in retirement funds.
+
+The Economy
+
+A sharp stock market decline would also damage the broader economy, which is being stimulated by A.I. in two principal ways, Mr. Zandi said.
+
+First is the “wealth effect,” through which rising asset prices, like those for stocks and homes, make affluent people more likely to spend money. In February, he estimated that “for every $1 increase in net worth, consumer spending ultimately increases by 2 cents.” In 2025, he said, “the wealth effect added a full percentage point to consumer spending growth and over 0.7 percent to G.D.P. growth.”
+
+This wealth effect — supercharged by A.I. — helps to explain how the richest 20 percent of consumers have contributed to growing consumer spending this year, even as overall consumer sentiment declines.
+
+After a market crash, the wealth effect would reverse itself “and the economy would take a hit,” Mr. Zandi told me.
+
+The second way that A.I. is spurring the economy is through enormous corporate spending on data centers, power supplies and infrastructure. The sums involved are staggering. Goldman Sachs estimated in August that it would amount to $1 trillion worldwide in 2026. And that’s just a start, if the A.I. industry has its way.
+
+In a new research paper, “Financing the A.I. Buildout,” presented at the Brookings Institution late last month, Stijn Van Nieuwerburgh, a Columbia University business professor, estimated that by 2032 total capital expenditures by A.I. companies in the United States could amount to $10.3 trillion. That number is so big that it demands some perspective, which Professor Van Nieuwerburgh provided.
+
+He estimated that capital expenditures on A.I. could average 3.63 percent of G.D.P. each year and become the biggest infrastructure project in U.S. history — “larger, relative to the economy, than the major U.S. canal, railroad, electrification, highway and telecommunications investment booms.”
+
+I’m not sure that all that spending will take place. Whether A.I. investment grows to that level — and generates profits high enough to justify the stupendous cost — is a $10 trillion question.
+
+It has already intertwined with the fluctuations of the bond market. Financing these projects requires mountains of debt.
+
+Higher bond interest rates will make A.I. projects more expensive. This, in turn, could act as a drag on the stock market and the broader economy.
+
+Yet the A.I. boom is powering ahead, despite concerns about safety, cost, ultimate profitability — and existential questions about whether advanced A.I. might actually be a new form of consciousness. The stakes couldn’t be higher.
+
+If A.I. penetrates the entire economy and turns out to be a truly transformative technology, it could bolster productivity and create some new jobs. But many jobs that exist now could disappear. Those without the education and skills for an A.I. world could be grievously damaged.
+
+The short-term effects are also likely to be painful if the development of A.I. slows anytime soon.
+
+For long-term investors, the implications are profound. Sticking with the broad stock market during the A.I. boom has paid off so far. It may continue to do so, though extraordinary risks clearly abound.
+
+Diversifying with bonds has been unsatisfying lately. But the turmoil in the bond market has made bonds much more attractive — in comparison with stocks — than they were just a couple of years ago. The higher income provided by bonds at today’s yields makes them better buys, compared with stocks.
+
+Short-term interest rates are rising, too. While that is painful for borrowers, it makes money-market funds and high-yield savings accounts more appealing places to stash the extra cash you may need if you are worried about potential trouble ahead.
+
+================================================================================
+china-exports-diesel-energy.html
+Source: PreloadedData  Paragraphs: 23  Words: 949/955
+================================================================================
+
+SUMMARY
+
+China is again restricting exports of diesel, jet fuel and gasoline, threatening to squeeze global energy markets already strained by fuel supply disruptions. China’s state-owned oil giants have recently started slowing exports of refined products, according to oil analysts in regular contact with the companies. The sudden drop in Chinese fuel exports sent Asian countries scrambling for alternative supplies.
+
+ARTICLE
+
+China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets
+China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.
+By Keith Bradsher and Alexandra Stevenson
+Published 2026-10-02 10:56 UTC
+https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html
+
+China is again restricting exports of diesel, jet fuel and gasoline, threatening to squeeze global energy markets already strained by fuel supply disruptions.
+
+China’s state-owned oil giants have recently started slowing exports of refined products, according to oil analysts in regular contact with the companies. Shipments are continuing to countries with close ties to Beijing, including Cambodia, but the government has stopped granting new commercial export permits to wider global markets.
+
+The move echoes restrictions Beijing imposed in March after the war in Iran disrupted oil flows through the Strait of Hormuz. The sudden drop in Chinese fuel exports sent Asian countries scrambling for alternative supplies. Those restrictions were eventually eased. But this time, the curbs come as diesel markets are already contending with diminished supply.
+
+Russia this week renewed a ban on diesel exports after Ukrainian drone attacks damaged refineries that also supply fuel to Russian forces in eastern Ukraine. A fire at an Indian refinery on Tuesday prompted its owner to halt some exports of refined products, including diesel, to prioritize domestic customers. And in the United States, President Trump has threatened to restrict diesel exports so as to lower costs for truckers ahead of the midterm elections.
+
+China’s latest move sent diesel prices up 5 percent on Wednesday and Thursday in Singapore, Asia’s main energy trading hub, even as crude oil prices fell almost 10 percent. Diesel prices gave up their gains on Friday, returning to about $170 a barrel after European countries discussed whether to release diesel strategic reserves into the market.
+
+Jet fuel prices have also climbed in East Asia, raising the prospect of higher airline costs and ticket prices. Fuel is one of the two main expenses for airlines, along with labor.
+
+China’s restrictions amount to “a significant tightening of the diesel market at a time when the diesel market is already in crisis,” said Tom Reed, a longtime specialist in China’s oil policies at Argus, a commodities pricing and energy research firm in London.
+
+Mr. Reed estimated that the restrictions would reduce China’s exports of refined products to 480,000 barrels a day in October, from an earlier forecast of 750,000 barrels. After refiners exercise export quotas left over from September, shipments could fall to 300,000 barrels per day in November unless Beijing changes course, he added.
+
+Uncertainty remains about how long the restrictions will last. Muyu Xu, an oil analyst at Kpler, a commodities research and ship-tracking firm, said it was unclear whether Beijing has imposed a lasting halt or had delayed approving new export licenses because of a weeklong national holiday that started on Thursday. The market may have to wait until next week for a clearer signal, she said.
+
+“They’ve still got time to reassess the situation,” she said.
+
+Reuters reported earlier that Chinese refiners had suspended exports of oil products beyond Hong Kong and Macau until further notice.
+
+The country’s largest refiner, China Petroleum and Chemical Corporation, or Sinopec, told industry experts last month that it would begin curbing production and exports in October in response to a directive from the National Development and Reform Commission, China’s main economic planning agency.
+
+The company did not immediately respond to a request for comment.
+
+The decision reveals, in part, Beijing’s concern about rising crude prices. China is the world’s largest importer of oil and officials are wary of encouraging refiners to buy more crude when global prices are high. Domestic diesel demand is also rising during China’s autumn harvest.
+
+Sinopec, which relies heavily on imported crude, has already started reducing the amount of oil processed at its refineries, Ms. Xu said. Its main rival, PetroChina, relies more on domestic crude. Both companies are majority-owned by the Chinese government, but some of their shares are publicly traded. PetroChina did not respond to phone calls or an email for comment.
+
+Another pressure is coming from Iran.
+
+For years, China’s smaller private refineries have bought almost all of Iran’s crude oil exports at steep discounts, despite Western sanctions intended to pressure Tehran over its nuclear program. Those refiners sell diesel, gasoline and jet fuel primarily inside China, leaving the large state-owned refiners with more fuel available for export.
+
+But seaborne shipments of Iranian crude arriving in China have dried up over the past two months because of an American naval embargo outside the Persian Gulf. The private refiners kept running at full capacity through September, Mr. Reed said, drawing down crude inventories to take advantage of high prices for refined products.
+
+China faced a similar squeeze earlier this year. In the early days of the war in Iran, Beijing restricted oil-product exports from mainland China with a few exceptions, including Hong Kong and Macau and a few closely aligned countries. Chinese exports of refined products fell to about 300,000 barrels a day from April to June, alarming Asian countries that rely heavily on Chinese refineries.
+
+Vietnam, the Philippines and Australia were among those that appealed to Beijing. Vietnam faced a jet fuel shortage that forced its national carrier to cancel flights. In the Philippines, the agriculture secretary pressed China’s ambassador over restrictions on fertilizer exports. Australia’s foreign minister traveled to Beijing in April, an appeal that was followed by a broader Chinese commitment to cooperate with Australian companies.
+
+Chinese exports of gasoline, jet fuel and diesel recovered to prewar levels in July and nearly doubled in August, according to Chinese customs data.
+
+Now, those assurances are being tested as China’s inventories shrink and Iranian crude remains unavailable.
+
+In a statement on Friday, a spokesperson for Australia’s Department of Foreign Affairs and Trade said it continued to “engage with China and other countries” and was focused on securing energy supplies and supporting regional energy security.
+
+Murphy Zhao and Li You contributed reporting.
+
+================================================================================
 democrats-wealthy-taxes.html
 Source: PreloadedData  Paragraphs: 26  Words: 2060/2059
 ================================================================================
@@ -8242,6 +8402,154 @@ To find previous Modern Love essays, Tiny Love Stories and podcast episodes, vis
 Want more Modern Love? Watch the TV series, sign up for the newsletter and listen to the podcast on iTunes or Spotify. We also have two books, “Modern Love: True Stories of Love, Loss, and Redemption” and “Tiny Love Stories: True Tales of Love in 100 Words or Less.”
 
 ================================================================================
+mlk-shot-caldwell.html
+Source: PreloadedData  Paragraphs: 35  Words: 1642/1642
+================================================================================
+
+SUMMARY
+
+The first loud noise that Earl Caldwell heard on the night Martin Luther King Jr. was murdered was the sound of a soda bottle falling from the second-story balcony of the Lorraine Motel. Thinking it was a gunshot, Caldwell rushed to the door of his room. Caldwell knew it had to be King.
+
+ARTICLE
+
+A Shot Rang Out. M.L.K. Went Down. And a Reporter’s Instincts Kicked In.
+Earl Caldwell was staying at the Memphis hotel where the civil rights leader was killed.
+By Marc Lacey
+Published 2026-10-02 09:00 UTC
+https://www.nytimes.com/2026/10/02/us/mlk-shot-caldwell.html
+
+The first loud noise that Earl Caldwell heard on the night Martin Luther King Jr. was murdered was the sound of a soda bottle falling from the second-story balcony of the Lorraine Motel.
+
+Thinking it was a gunshot, Caldwell rushed to the door of his room. It was a false alarm.
+
+Then came a second sound, this one louder. He likened it to an explosion in its ferocity, and it turned out to be what he feared: a rifle shot directed at King, mortally wounding him.
+
+Caldwell was the lone reporter at the motel in Memphis on that spring night in 1968. He was in Room 215. King was upstairs and several rooms over, in 306. Caldwell’s dispatch in the next day’s New York Times captured one of the civil rights movement’s seminal moments. There would be weeks of rage over the murder, which he covered. And decades of dispute over how it all went down, which he participated in as well.
+
+“Reporters believe that if you are there, you can see what happens and then you can tell it, the real story, witnessed firsthand,” Caldwell wrote more than 50 years after the assassination. “That day — April 4, 1968 — was my lesson on what really happens: You are there, yet you don’t see everything. But in the tangle of events, there is a sliver of whatever it is that happened that comes past you, and that’s precious.”
+
+The Times had sent Caldwell to Memphis to keep close to King, who was then under siege. There were death threats against him and challenges to his leadership. A week earlier, a rally he led in Memphis for striking sanitation workers had turned violent, and critics questioned whether he was in control of his movement anymore.
+
+Caldwell, who joined a virtually all-white staff at The Times in 1967 after a decade of reporting on sports and news for smaller papers, had never met King before shaking his hand in Memphis on that trip. And he almost bungled his first big assignment.
+
+He had landed an interview with King the day before the fatal shooting, in which King spoke of the movement’s future. But as a storm swept through Memphis that evening, Caldwell was unaware of King’s last-minute decision to go to Mason Temple, a local church, and deliver what would be his final speech, the one in which he seemed to anticipate his own death.
+
+Caldwell never heard King say he’d been to the mountaintop. That he had “seen the Promised Land.” That he thought he “may not get there with you.”
+
+When Caldwell learned of King’s speech the next morning on the news, he thought he might lose his job. The church had been full of competitors, who captured King’s prophetic words. Caldwell spent the day trying, and failing, to match the story he had missed.
+
+That evening was warm, and Caldwell, back in his motel room, kicked off his shoes, stripped down to his underwear and left his door cracked open.
+
+Then the bottle fell.
+
+And, at just after 6 p.m., history unfolded one floor up.
+
+Caldwell darted into the motel parking lot. He saw King’s driver with his hands on his head screaming, “Oh, no, oh, no, oh, no.”
+
+“What’s the matter?” Caldwell shouted. “What’s the matter? What’s going on?”
+
+Someone responded: “They shot him. They shot him.”
+
+Caldwell knew it had to be King.
+
+“I dashed out into the lot but a few steps outside the door I remembered my trousers,” he said, recounting these events later that month in an internal Times publication called Times Talk. He put on his pants. He slipped into some shoes. He grabbed a jacket, a stack of paper and a pen. Then he rushed out, forgetting his room key and locking himself out.
+
+He had missed King’s prophetic final speech. He had heard but not seen the gunshot that killed him. As he later noted, on-the-scene reporting often comes down to luck. (“You are there, yet you don’t see everything.”) So with respect to the details that he was able to observe, Caldwell tried to be meticulous. Hustling up the motel stairway to the murder scene, he bent over and, as he told a friend later, inspected the wound in King’s neck.
+
+“Earl’s reportorial instincts were as sharp as a tack,” said Jack White, a retired journalist who spoke to Caldwell many times about the events of that night. “Dr. King is lying there on the ground. He’s being cradled by Ralph Abernathy. Earl gets close to King and he told me about the gaping hole in his face and said he put his fist up — and he’d later describe it as fist size. He wasn’t just guessing. He actually put his fist up to Dr. King’s face.”
+
+Joseph Louw, a South African photographer who was working on a documentary about King, was also at the Lorraine that night. He took the famous image of King sprawled on the balcony with his closest aides pointing in the direction from where the fatal shot had come. In another of Louw’s photos, Caldwell is visible next to King’s body.
+
+At some point, Caldwell sprinted to a nearby pay phone and inserted two nickels. Out of breath, he told his editor in New York what had occurred, prompting a wholesale remake of the next day’s front page.
+
+“Blood gushed from the right jaw and neck area. His necktie had been ripped off by the blast,” Caldwell dictated over the phone to a rewrite man in New York, who turned his account into a story that appeared under a banner headline: “Martin Luther King Is Slain in Memphis; A White Is Suspected; Johnson Urges Calm.”
+
+The details Caldwell gathered transported readers to the scene. “Dr. King was shot while he leaned over a second-floor railing outside his room at the Lorraine Motel,” the article reported. “He was chatting with two friends just before starting for dinner.”
+
+There was one detail in his article that would be debated for years. Caldwell quoted King’s driver, Solomon Jones Jr., saying that he had seen a man creep away from a thicket across from the motel. Although Caldwell did not mention it in his Times story, he said later that he, too, saw a man moving through the bushes.
+
+This was at odds with the F.B.I. account. The bureau insisted that James Earl Ray, who pleaded guilty to the killing, had acted alone and had fired from a nearby rooming house. (Ray later recanted.)
+
+Caldwell believed that the shot might have come from someone in the bushes and resented that no one from the government interviewed him until 1998, when President Bill Clinton reopened the investigation into the shooting at the behest of the King family. Ultimately, the Justice Department reaffirmed that Ray had acted alone, writing in its report that Caldwell “understandably misrecollects observing someone in the brush.”
+
+Caldwell was disillusioned, and in his subsequent job as a columnist for The New York Daily News he regularly raised what he considered the unsolved mystery of King’s killing. His friend Jack White said that Caldwell fumed at the suggestion he had misremembered anything.
+
+Today, the Lorraine houses the National Civil Rights Museum, and Caldwell’s former room is now a storage closet. But earlier this year, the museum added an exhibit on alternative theories of the killing. Caldwell’s deep baritone can be heard describing holes in the F.B.I.’s case.
+
+The next chapter in Caldwell’s career proved equally momentous. As the Black Panther Party rose in prominence after King’s death, Caldwell was dispatched by The Times to Northern California to report on the group. He earned the Panthers’ trust, spending long hours inside the group’s hangouts, where he witnessed its stockpile of weapons. In one attention-getting piece, he quoted a Panther leader saying that the group backed the “overthrow of the federal government.”
+
+Under the directorship of J. Edgar Hoover, the F.B.I. was intent on undermining the Panthers and frequently pressed reporters for information on their sources. Once, as Lee Levine recounts in a forthcoming book, “In Bad Faith: Earl Caldwell and the Fight for a Free Press,” an agent showed up at the Times newsroom in New York seeking information from Caldwell about a story, and Caldwell handed over his notes.
+
+But now, aware that any cooperation with the government would end his access to the Panthers, he rebuffed the F.B.I. He then received a subpoena ordering him to testify before a federal grand jury. After an attorney for The Times suggested that he would likely have to turn over some information to federal authorities, Caldwell retained his own lawyer. Reporters, he insisted, should not be used as spies for the government. “It goes against everything you stand for in journalism,” he later told Time magazine. He refused to appear before the grand jury and was held in contempt of court.
+
+He fought the subpoena all the way to the Supreme Court, which, in a case that included two other reporters, ruled that the First Amendment did not protect Caldwell and the other journalists from having to testify. (Earlier this year, the Trump administration invoked the ruling to argue that its subpoenas of five Times reporters was lawful. A federal judge disagreed, and prosecutors withdrew the subpoenas.)
+
+Though he lost his case, the ruling against Caldwell prompted dozens of state legislatures to enact “shield laws” protecting journalists from being forced to turn over their confidential sources to the government. It also solidified his place at the center of much of the drama of the civil rights era.
+
+“You have to show up to be in place where things are happening,” said Alex Caldwell Maynard, Caldwell’s godson, who has stayed close to him even as he has suffered ill health and, now 91, has moved to a nursing home. “He seemed to be everywhere.”
+
+================================================================================
+truckers-diesel-costs.html
+Source: PreloadedData  Paragraphs: 21  Words: 1048/1053
+================================================================================
+
+SUMMARY
+
+Then came the war in Iran, which sent the price of diesel fuel skyrocketing and turned a fill-up into an $1,000-a-tank ordeal. He does not plan to return home until the holidays unless diesel prices fall sharply. Diesel prices are averaging $6.39 a gallon nationally, up from $3.71 a year ago, according to AAA.
+
+ARTICLE
+
+Truckers Are ‘Just Trying to Hang On’ When a Fill-Up Tops $1,000
+Truckers are among the hardest hit by the soaring cost of diesel fuel. High prices are forcing some to stay on the road for months and others to park their rigs.
+By Audra D. S. Burch
+Published 2026-10-02 09:01 UTC
+https://www.nytimes.com/2026/10/02/us/truckers-diesel-costs.html
+
+When Sean Howarth started his independent trucking business last year, he made sure to reserve one week a month for his family — a girlfriend and her two children — at home in Miami between three weeks on the road.
+
+Then came the war in Iran, which sent the price of diesel fuel skyrocketing and turned a fill-up into an $1,000-a-tank ordeal. For now, the only way to make ends meet, Mr. Howarth said, is to get on the road and stay there. He has not been home since mid-August. He sleeps in his truck and has missed birthdays, volleyball games and date nights salsa dancing at a local club. He does not plan to return home until the holidays unless diesel prices fall sharply.
+
+“I am just trying to hang on,” he said.
+
+Diesel prices are averaging $6.39 a gallon nationally, up from $3.71 a year ago, according to AAA. The high cost of fuel is battering owner-operator truck drivers, who help deliver food, construction materials, medical supplies, electronics and other goods across the country.
+
+Independent truckers, already dealing with stagnant freight rates, rising expenses, and wafer-thin profit margins, are doing all they can to stay afloat. Some have turned to crowdfunding to raise money for gas and maintenance. Others have simply parked their rigs as they hope for a reprieve.
+
+“This is crushing to our industry,” said Lewie Pugh, executive vice president of the Owner-Operator Independent Drivers Association, which represents more than 135,000 members. “When fuel goes up a dollar a gallon at the pump, that’s another $400 per week that they have to spend. That’s a huge, huge hit to a small business trucker.”
+
+Last week, Mr. Howarth said, he hauled a load of construction equipment from Rogers, Minn., to Johnstown, N.Y. With about 800 miles to go, he began the dreaded search for cheap diesel fuel, tapping on a mobile app to identify the best prices in real time. The final cost: $626 to top off for a load that grossed about $1,000. The profit was a fraction of the $5,300 he owes on his monthly truck payment and insurance.
+
+Mr. Howarth often tries to match load drop-offs with nearby pickups to avoid empty miles and increase profits, but each jump in diesel price has felt like a gut punch, he said. He can make the numbers work with enough good-paying loads, but any more fuel spikes could wipe him out. For now, he is limiting jobs to the East Coast and Midwest, avoiding California, where the average cost of diesel is $8.38 a gallon.
+
+“When I started, it cost me $500 to fill my tank, and now it’s $950 or $1,100-plus, depending on where I am in the country,” said Mr. Howarth, 36, who worked for a trucking company before starting his own business. “Right when things are starting to seem a little easier and go in the right direction, the fuel costs go through the roof.”
+
+For many Americans, the rising price of regular gasoline is a grim reminder of the painfully expensive cost of living. But diesel prices reverberate beyond the gas tank to consumer goods trucked from ports and factories, agricultural products harvested by diesel-powered machinery, even the mail. Fuel supplies were disrupted not only by the war in Iran but by Ukraine’s attacks on Russian diesel refineries in response to Russia’s missile strikes on its cities.
+
+Republicans, particularly those in close midterm races, are looking for ways to tamp down bubbling voter anger by calling for an end to the war and a ban on diesel exports. On Tuesday, Gov. Brian Kemp of Georgia, who would like another Republican, Rick Jackson, to succeed him when he retires this year, became the latest state leader to suspend gas taxes temporarily.
+
+Taylor Rogers, a White House spokeswoman, said President Trump met with refiners at the White House to try to find ways to expand refining capacity to bring prices down. She added, “As the U.S. continues to maintain full control of the Strait of Hormuz, oil and gas prices will fall back to pre-conflict levels.”
+
+Energy Secretary Chris Wright said this week on Fox News Channel that he intends to ask European countries to release strategic diesel reserves to draw down prices.
+
+“There’s a very good chance we have hit peak prices,” he said. “We are almost surely going to see diesel prices decline.”
+
+For truckers, a price drop cannot come fast enough. Mr. Pugh, who has been driving trucks for more than 25 years, said that about 90 percent of all trucking companies are small businesses and that many are forced to float costs until they get paid 30 to 90 days later. Most negotiate with a broker on the pay for each run, working “load to load.” They can’t raise their rates when fuel spikes in the same way their larger competitors can, he said.
+
+The situation has set social media ablaze. Truckers have posted videos from gas stations and truck stops as fill-ups top $1,000. In one TikTok clip, an exasperated trucker standing next to his rig said the high cost effectively “takes food out of the mouths of your children.”
+
+For about two years, Renardo Harmon has subcontracted with a small Alabama-based carrier to haul dry goods to stores such as Dollar General, Big Lots and Roses Discount Stores across the Southeast.
+
+Mr. Harmon makes a flat rate of around $2.40 a mile and covers his own expenses, including diesel fuel, maintenance and insurance. It now costs him $900 to $1,000 to fill his tank, double the pre-Iran war price.
+
+“These high diesel costs are trickling down to my house expenses, my rent, my groceries,” said Mr. Harmon, 40, of Atlanta. “If I am not making a profit, than I am not going to be able to afford my rent or make payments on my car.”
+
+“At $3 to $4 a gallon, you can survive,” he continued. “But if the prices don’t drop, a lot of us might be forced to suspend operations until things get better,” he said, adding that he is not sure whether to blame “the government or the oil refineries.”
+
+“What I know for sure, is that it doesn’t have to be this way,” he said. “We should be able to make a decent living.”
+
+Kirsten Noyes and Alain Delaqueriere contributed research.
+
+================================================================================
 headaches-brain-sag-spinal-fluid-leak.html
 Source: PreloadedData  Paragraphs: 17  Words: 1406/1406
 ================================================================================
@@ -8295,6 +8603,89 @@ Two weeks later, Abdulrazzak inserted a tiny catheter into the woman’s thigh. 
 When the patient woke up, Abdulrazzak told her that she would have a headache for a week or so. Her body had increased the amount of spinal fluid it made trying to compensate for the leak. Now that the leak was sealed, her body would have to reduce its spinal fluid output, and that would take a little time.
 
 She went home the next day, and she did have a headache. But as promised, over the next couple of weeks, the pain gradually disappeared. Her memory started to improve. The real test, she knew, would come when she and her friend and their husbands went out. So, some six weeks after her procedure, the two couples struck out for one of their favorite places. She hadn’t had a headache for weeks, and worried the thunderous music would bring it all back. They found a seat as far from the speakers as they could get. Finally the band came out and picked up their instruments. The woman’s heart raced. But once the lead guitarist struck his first chord, quickly followed by bass, drums and keyboard, she sensed that her headaches were gone for good and life could finally return to normal.
+
+================================================================================
+china-ai-overuse.html
+Source: PreloadedData  Paragraphs: 29  Words: 1208/1210
+================================================================================
+
+SUMMARY
+
+As China’s government pushes its citizens to embrace artificial intelligence, it is confronting a problem partly of its own making: overreliance on the technology. State media reports have featured stories that serve as cautionary tales: a farmer who lost 25 acres of seedlings after asking an A.I. for advice, children who have become so attached to chatbots that they want their parents to speak like them and A.I.-generated micro dramas with characters that look like carbon copies of one another. These cases and others have raised concerns in China that as it rushes to catch up with the United States in A.I., it is running into adverse side effects created by the new technology, which is accused of undermining human relationships and depriving people of their better judgment.
+
+ARTICLE
+
+China’s Push into A.I. Has Led to a Problem: Too Much Usage
+As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.
+By Yan Zhuang
+Published 2026-10-02 04:01 UTC
+https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html
+
+As China’s government pushes its citizens to embrace artificial intelligence, it is confronting a problem partly of its own making: overreliance on the technology.
+
+State media reports have featured stories that serve as cautionary tales: a farmer who lost 25 acres of seedlings after asking an A.I. for advice, children who have become so attached to chatbots that they want their parents to speak like them and A.I.-generated micro dramas with characters that look like carbon copies of one another.
+
+These cases and others have raised concerns in China that as it rushes to catch up with the United States in A.I., it is running into adverse side effects created by the new technology, which is accused of undermining human relationships and depriving people of their better judgment. The government, seeking to direct how people use the technology, has responded by imposing new regulations and judicial guidelines on its use — and misuse.
+
+The response reflects how the ruling Communist Party is trying to balance its ambitions to promote the widespread use of A.I. with a desire to avoid anything that might undermine social order, say analysts.
+
+The party is “recognizing that the more they develop the technology, the more there’s going to be social challenges that they have to deal with,” said Scott Singer, a fellow and co-director of the China A.I. Initiative at the Carnegie Endowment for International Peace. “Where the party is sensitive is any area where they feel like the technology is getting better in a way that fundamentally could disrupt social stability.”
+
+Mr. Singer said the party is particularly sensitive to disruptions caused not only to human relationships but also the job market as A.I. threatens to replace workers.
+
+Concerns about overuse are shared among China’s citizens, who say they see the spread of the technology as inevitable even as they question its benefits and tire of its ubiquity.
+
+Xie Tong, a graphic designer in Beijing, uses A.I. in her own work at a consulting agency and can no longer imagine her life without it. But she despairs at encountering A.I. all around her — in the subway ads that she sees on her commute and in the work of contractors at her job who obviously relied on A.I.
+
+“It’s like a marriage where you curse your partner but you can’t leave them,” she said.
+
+Limits on Virtual Friends
+
+For a time, China’s A.I. push created a boom in virtual companion apps, including ones offering romantic partners, personal tutors and A.I. avatars of family members.
+
+In a country already struggling with a shrinking population and a historically low birthrate, the proliferation has led to concerns from Beijing about A.I. replacing human relationships. State media quoted experts saying people could soon find it hard to navigate real interactions. Reports cited a 2025 survey by the China Youth and Children Research Center of more than 8,500 minors that showed more than 20 percent “only wanted to chat with A.I. and did not want to talk with real people.”
+
+That mirrored the concerns of some parents like Vivian Lyu, a stay-at-home mother in Hangzhou who two years ago introduced her 5-year-old daughter, Polly, to Doubao, an A.I. assistant created by ByteDance, the parent company of TikTok.
+
+Soon, the child was chatting with the A.I. and a personalized companion on the app nearly every day. At first, Ms. Lyu thought the A.I. was good at keeping Polly entertained when the mother had to take care of household tasks. “When you feel like you don’t have a choice, you use Doubao,” she said.
+
+Over time, though, Polly started asking for Doubao instead of seeking out activities that used to interest her, like playing with other children or drawing pictures. Ms. Lyu said she worried that the chatbot was warping her daughter’s understanding of how relationships worked, saying that Polly sometimes talked to Doubao in a “very self-centered, doing-whatever-she-wants kind of way.”
+
+In July, the government imposed limits on A.I. companions that require platforms to step in if users exhibited unhealthy dependencies. Under the new rules, platforms must intervene if users show signs of self-harm.
+
+The rules also banned virtual relationships between chatbots and minors, which forced ByteDance to shut down the feature on Doubao that allowed users to create companions.
+
+Polly can no longer access her personalized A.I. companion, but she is still talking to Doubao’s A.I. chatbot, Ms. Lyu said. The mother considered banning her daughter from using chatbots but concluded that such a step could make it harder for Polly to adjust to the technology as she grows older. Instead, Ms. Lyu has limited Polly’s chatbot time to one hour a day.
+
+“My hope is for her to understand from a young age that these electronic products, or all of these things related to A.I., are just tools,” Ms. Lyu said.
+
+Real World Problems
+
+Just as in many countries, China is struggling with so-called A.I. literacy — understanding how the technology works and its limits. In recent months, the media has documented a growing number of A.I. mishaps involving people who blindly believed in the technology.
+
+There was the case of a hiker who became stranded atop a mountain in August after A.I.-generated instructions left him improperly equipped. In several separate cases earlier in the summer, people fell ill after eating poisonous mushrooms that were misidentified by A.I., including a 9-year-old boy who spent eight days in a hospital.
+
+One of the most widely covered cases involved a farmer in the eastern province of Anhui who lost 25 acres of sesame seedlings in July after following a pesticide regimen drawn up by an A.I. assistant.
+
+The 67-year-old farmer, whom the reports identified only by his last name, Wu, lost 150,000 yuan, or about $22,000, worth of crops after the A.I. recommended an herbicide that turned out to be unsuitable, the reports said.
+
+The Communist Party’s mouthpiece, People’s Daily, argued in a commentary that A.I. in sectors like agriculture should use only information that comes from authoritative sources.
+
+It also called for farmers to be trained in “critical thinking about A.I. suggestions, helping farmers transform from passive implementers of technology into active participants who can control the tools.”
+
+A Backlash Against Cheap A.I. Fodder
+
+A.I. has also become ubiquitous in micro dramas, the wildly popular short-form, soapy shows that are made for mobile viewing. In the first eight months of the year, more than 90 percent of the 430,000 micro dramas released in China were generated by A.I., the government said in late September.
+
+These dramas can be churned out cheaply in minutes with no cameras, production crews or human performers. But they have come under fire for their low quality and for taking the jobs of humans.
+
+An article in August in Beijing Youth Daily, the official publication of the Communist Youth League, complained that production companies were churning out A.I.-created micro dramas with boring, interchangeable characters.
+
+Some influential voices have gone as far as to say they will boycott micro dramas generated entirely by A.I.
+
+Hu Xijin, the former editor of the state-run Global Times, told his 25 million followers on the social media platform Weibo recently that he would not watch such dramas to avoid “filling up our recreational time with cheap A.I. fodder like pig feed.”
+
+Siyi Zhao contributed research.
 
 ================================================================================
 protein.html
