@@ -1,84 +1,4 @@
 
-So unless you believe in trickle-down or something, this is not equity at work. Can the A.I., not only through personalized learning but personalized motivation, overcome that? And I really believe that we can get that right.
-
-Well, there’s a question here of A.I. tools that are specifically designed for this, and then a question in what we were just talking about with cellphones and smartphones and social media, and of how A.I. will diffuse through society.
-
-And I think the big concern here, and one I have as well, is this — but now it gets called cognitive offloading. That what A.I. is being used for in mass numbers by students, and being really quickly adopted for, is: I didn’t do the reading; summarize it for me. Or: I have to write this essay; draft it for me. Or: Help me with these math problems.
-
-And even, I think — we saw a big study out of China that was striking to me, where you saw kids using A.I. had increases on their homework scores, and then when they had to test outside of that context, their test scores began falling pretty sharply.
-
-And so certainly one can imagine A.I. programs that’ll be good here. But in terms of a technology and a way of interacting with the world diffusing through society, well, of course it could help people learn linear algebra or whatever it might be.
-
-Then, in practice, what it’s going to do is people will be using it to help them, and both from a student level and up through the professional level, it will begin to degrade the learning — the creativity that happens through the hard work of drafting and struggling and challenging yourself.
-
-Yeah. Well, you clearly would get bimodality, where a student can use A.I. to be lazy and corrupt the measurement system, or a student can use A.I. to help them learn more.
-
-I have to say, in terms of my learning about subjects, this is the best time of my life. I mean, I take YouTube videos and put them into the chat, I have A.I.s talk with each other — what a nirvana.
-
-I always had the ability to send mail to somebody like the Intellectual Ventures C.E.O. Nathan Myhrvold, who knows physics. Well, now I discuss the physics thing with the A.I., and then if it’s a super important decision — for example, I’m going to invest $1 billion — I’ll send it to Nathan and say: Could you look this over? But 24 hours a day, keeping up-to-date on the latest malaria thing or vaccine thing.
-
-So that bimodal modality is going to be there, and it really does go back to this motivational part of it.
-
-Is that a place where there should be more limits on the systems?
-
-You mentioned a few minutes ago China — which, for all we’ve talk about, it’d be impossible for us to strike a deal with them. But China currently has stronger national-level regulations on A.I. than we do, including things like social companionship for kids.
-
-One of the places that you talk about in the essay, where maybe we want to be more aggressive, is around children. And that’s a place where I think it is reasonable for the government to be paternalistic. We should be paternalistic.
-
-And social media always feels to me like an experiment we ran on kids. A lot of the internet does. And I don’t so much mind us running the experiment on adults, but I wonder if we want to be more aggressive in what we don’t let kids do with A.I. until we have a better sense of how it affects them — everything from learning relationships to trying to make it harder to have A.I. help you cheat on your homework.
-
-Yeah, I don’t think a black-and-white ban is necessary, because I do think with monitoring — which I’m a broken record on that — making sure it’s staying within the bounds of what’s appropriate, what the parents want, our capabilities there are very strong.
-
-There are many systems that try to help by, instead of telling you the answer, they engage with you on how you reason through the problem. And so then the question is: Can you make sure the student isn’t going to those outside systems and just getting the answer? Instead, they’re engaged in the system that brings them along step by step in that reasoning process, so that they’ll be more capable the next time.
-
-And so, yes, seeing what that student is doing and deciding: OK, do you call in a psychiatrist? Do you call in the parents? In a lot of these systems, the idea of monitoring will be very important. And at different ages, the visibility of the parent about what’s going on and how time is being spent.
-
-At, say, some very young age, a parent probably should have complete visibility into the exact dialogue that the student’s engaged in. As the child gets older, there are things about sexual identity or things that, really, it’s beneficial for that to at some level be private or not. I think there’s a lot of tuning to go on with this.
-
-One of the partners the foundation is working with is Common Sense Media, who do a very good job of saying to parents: This TV show or this movie, this is what it exposes you to.
-
-But this is a much tougher area. Most of these systems that have been set up with parental control, the parent’s lack of technical sophistication is such that it doesn’t really matter that you tried to engage the parent. Nothing happens.
-
-In my case, I didn’t know that my daughter had a second cellphone, so that was a fairly straightforward way that she, in late hours, was able to stay on social networking when I hoped that she would be sleeping. And so we have to be realistic about how these things are designed.
-
-People will worry about the privacy issues there. That’s fine. It’s not an argument for being unmonitored in terms of what your kid is doing.
-
-So the next two years, then, politically: You have the midterms coming up, then you’ll have a presidential election in 2028.
-
-So if this were to go, not just in terms of passing laws the way you want it to, but because you center your call on this coming together of society to discuss, debate, respond — what are you actually envisioning here?
-
-So I’d have two metrics. One is the obvious safeguards to minimize the cyber and bio risks, and then the second would be the nature of the dialogue.
-
-If the dialogue ends up being one party is for A.I. and the other party’s against, then we’ll have the climate change scenario again, which is not a great place to be. You don’t have room for debate when you only have the two extremes.
-
-And the default case, at least right at the moment, seems to be very little middle ground about how we should manage A.I.
-
-Let’s say that a very different administration and a very different composition of political power exists in 2029, and there’s interest in rebuilding American foreign aid. What would your advice be on how to build it back so it’s effective — so the American people understand what they’re getting for that spending, and so it’s actually doing good?
-
-So if you ask the American people what portion of the budget’s going to help people in poor countries, it’s generally more than 5 percent. People say 10 or 15 percent. So the fact that it was about a half a percent and now it’s going down toward a quarter of a percent, that would be pretty shocking to people.
-
-Understanding that the money is well spent, that it really does save millions of lives, that it made every bit of difference in terms of H.I.V. and malaria and tuberculosis and maternal survival — Americans should hear what they should be proud of, even at that half-a-percent level.
-
-So a moral argument will be made. It will be made in the face of an overall debt level that will be very tough. And whatever safety network needs to be created because of A.I. impacts, that will be competing for those dollars.
-
-Always our final question: What are three books you’d recommend to the audience?
-
-Well, one I literally binged this weekend was “The Correspondent” by Virginia Evans. That’s fiction — very touching, very upbeat.
-
-Apropos of what we’ve just discussed, there’s one called “Into the Wood Chipper” by Nicholas Enrich, which talks about how somebody didn’t go to a party one weekend and they decided instead to put U.S.A.I.D. into the wood chipper.
-
-About a month ago I read “The Infinity Machine” by Sebastian Mallaby.
-
-An A.I. book.
-
-Yeah. A history of Demis Hassabis and DeepMind, but you get a sense of the whole founding of the A.I. industry. It does an incredible job.
-
-Bill Gates, thank you very much.
-
-Thank you.
-
-You can listen to this conversation by following “The Ezra Klein Show” on the NYTimes app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts. View a list of book recommendations from our guests here.
-
 This episode of “The Ezra Klein Show” was produced by Jack McCordick. Fact-checking by Michelle Harris, with Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Gautam Srikishan. Our recording engineer is Aman Sahota. Cinematography by Marina King, Kyle Kelley and Elliot deBruyn. Video editing by Julian Hackney, Brandon Belk-Yee, Arpita Aneja and Steph Khoury. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Rollin Hu, Kristin Lin, Emma Kehlbeck and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser. Transcript editing by Kate Wilkinson and Lauren Leibowitz.
 
 The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
@@ -7633,4 +7553,107 @@ The Indian Embassy in Riyadh confirmed the pilot’s identity and said in a stat
 real	0m1.612s
 user	0m2.264s
 sys	0m0.418s
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+
+real	0m5.561s
+user	0m10.639s
+sys	0m0.760s
+
+Build succeeded in 0.4s
+
+real	0m0.568s
+user	0m0.580s
+sys	0m0.121s
+Restore complete (0.4s)
+  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpConsoleApp net10.0 succeeded (0.1s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpUnitTests net10.0 succeeded (0.2s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+
+Build succeeded in 1.2s
+
+real	0m1.345s
+user	0m1.107s
+sys	0m0.231s
+Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (653ms)
+
+Test run summary: Passed!
+  total: 217
+  failed: 0
+  succeeded: 217
+  skipped: 0
+  duration: 839ms
+
+real	0m1.911s
+user	0m2.231s
+sys	0m0.377s
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Starting project export...
+Project Path: /home/kushal/src/dotnet/HelloXUnit
+Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Listing files via git...
+Found 16 files to export
+Processing (1/16): .editorconfig
+Processing (2/16): .gitignore
+Processing (3/16): CSharpClassLibrary/ArticleExtraction.cs
+Processing (4/16): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (5/16): CSharpClassLibrary/FilenameString.cs
+Processing (6/16): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (7/16): CSharpConsoleApp/Program.cs
+Processing (8/16): CSharpUnitTests/ArticleExtractionTests.cs
+Processing (9/16): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (10/16): CSharpUnitTests/FilenameStringTests.cs
+Processing (11/16): Directory.Build.props
+Processing (12/16): Directory.Packages.props
+Processing (13/16): HelloXUnit.slnx
+Processing (14/16): README.md
+Processing (15/16): export.sh
+Processing (16/16): global.json
+
+Export completed successfully!
+Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Total source size: 0.13 MB across 16 files
+
+real	0m0.330s
+user	0m0.169s
+sys	0m0.203s
+Restore complete (0.4s)
+
+Build succeeded in 0.5s
+Project 'CSharpClassLibrary' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpConsoleApp' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpUnitTests' has the following package references
+   [net10.0]: 
+   Top-level Package                Requested   Resolved
+   > Microsoft.NET.Test.Sdk         18.10.1     18.10.1 
+   > xunit.runner.visualstudio      4.0.0       4.0.0   
+   > xunit.v3                       4.0.1       4.0.1   
+
+
+real	0m1.329s
+user	0m1.329s
+sys	0m0.259s
+Restore complete (0.4s)
+
+Build succeeded in 0.5s
+
+The following sources were used:
+   https://api.nuget.org/v3/index.json
+
+The given project `CSharpClassLibrary` has no updates given the current sources.
+The given project `CSharpConsoleApp` has no updates given the current sources.
+The given project `CSharpUnitTests` has no updates given the current sources.
+
+real	0m1.400s
+user	0m1.363s
+sys	0m0.292s
+
+real	0m1.620s
+user	0m2.300s
+sys	0m0.414s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
