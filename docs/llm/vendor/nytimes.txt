@@ -3260,6 +3260,125 @@ My home has survived, but will I have anywhere to return to, when the war is ove
 Constant Méheut contributed reporting.
 
 ================================================================================
+xbox-microsoft-asha-sharma.html
+Source: PreloadedData  Paragraphs: 48  Words: 1840/1840
+================================================================================
+
+SUMMARY
+
+Asha Sharma, the 38-year-old chief executive of Microsoft’s Xbox division, approaches questions with the camera-ready positivity of Zohran Mamdani and the corporate pragmatism of Sam Altman. “Great things happen over time, and I think most people quit too early,” said Sharma, who became the face of Xbox in February despite having no prior experience in video games. “Xbox is not for sale,” Sharma said.
+
+ARTICLE
+
+Xbox’s Millennial C.E.O. Isn’t Playing Around
+“I think the industry will require disruption,” said Asha Sharma, who has overseen layoffs and divested studios since inheriting Microsoft’s flailing video game division.
+By Zachary Small
+Published 2026-09-30 09:00 UTC
+https://www.nytimes.com/2026/09/30/arts/xbox-microsoft-asha-sharma.html
+
+Asha Sharma, the 38-year-old chief executive of Microsoft’s Xbox division, approaches questions with the camera-ready positivity of Zohran Mamdani and the corporate pragmatism of Sam Altman. Like those other millennial leaders, she answers swiftly, with proverbs on demand.
+
+“Great things happen over time, and I think most people quit too early,” said Sharma, who became the face of Xbox in February despite having no prior experience in video games. Her appointment came amid a crisis in the industry, where production costs are soaring.
+
+The challenges are particularly acute at Microsoft, which has sold far fewer consoles this generation than Nintendo and Sony. Flagship franchises like Halo and Gears of War have waning cultural relevance. An acquisitions-heavy strategy that brought in Minecraft and Call of Duty has produced meager profits.
+
+“Our business today is not healthy,” Sharma declared in a July letter to Xbox employees.
+
+Sharma, formerly the president of product within Microsoft’s CoreAI division and a chief operating officer at Instacart, made her first 100 days at Xbox a high-stakes campaign to win over hearts and minds.
+
+The most expensive tier of Game Pass, a subscription service with hundreds of new and old games? Discounted. Console mascots on competing platforms? Throttled. The clumsy integration of artificial intelligence? Nixed.
+
+Sharma gave her personal cellphone number to journalists and influencers. Her new chief strategy officer tutored reporters on the company’s economic challenges. She skillfully dodged questions about her predecessor’s strategic blunders.
+
+The gambit appeared to work.
+
+Misogynistic and racist vitriol that had greeted Sharma, who was raised by Indian parents who immigrated from New Zealand to Wisconsin, dissipated a few weeks into her tenure. Influencers posted about her “impossible Xbox problem,” describing the $23 billion division like an underdog.
+
+The consensus among many gamers even held through a difficult summer when 20 percent of employees lost their jobs with Xbox and the company divested five of its development studios. Three days after the layoffs, it was announced that she had been appointed to the U.S. Federal Reserve’s Productivity and Jobs task force.
+
+By September, Sharma had returned to the company’s headquarters in Redmond, Wash., following a nationwide tour of Xbox studios. In Maryland, union members had planted hundreds of red flags, one for every lost job. After everything she had seen, how much longer could the charm offensive last?
+
+“In life there is only winning and learning,” Sharma said in her office, manipulating a NeeDoh stress ball and producing one of her Confucian managerial maxims. “I’m learning every single day.”
+
+‘Xbox Is Not for Sale’
+
+Microsoft, Sony and Nintendo are facing a cascade of economic problems. Video game consoles like the Xbox Series X|S are becoming more expensive to produce as A.I. companies, including Microsoft, drive up demand for memory and processing chips. Audiences are choosing free-to-play games on their phones, and even best-sellers struggle to meet ballooning development costs.
+
+Industry leaders are calling it the worst crash since the 1980s, with one survey finding that a third of employees had lost their jobs since 2024.
+
+Xbox has also faded in relevance at Microsoft over the past decade, accounting for about 6 percent of total profits at a company focused on data infrastructure and artificial intelligence.
+
+“Xbox has always been an aspirational part of Microsoft’s portfolio,” said Jesper Juul, a professor at the Royal Danish Academy researching video games. “Now they are facing an existential question.”
+
+Does Microsoft still need Xbox? Could Xbox survive without Microsoft?
+
+“Despite the reset that we are going through, we still have 500 million players every single month,” Sharma said in New York this summer. She arrived for lunch at the Modern in a suede jacket despite the sweltering heat and wildfire smoke outside. Alongside her was Craig Cincotta, a corporate attaché in a fedora.
+
+Cincotta now serves as her chief of staff, but the roles were reversed when a 22-year-old Sharma joined Microsoft’s marketing department. She worked in 2013 for Cincotta, then a communications director; he recalled an “incredibly curious” Sharma who approached tasks with “tremendous positivity.”
+
+Now an early riser with three children and intense hobbies like boxing and racecar driving, Sharma has a singular focus on success. “All I can do is look at it from a first principles perspective,” she said. “And I think the industry will require disruption.”
+
+When discussing her experience at Instacart, Sharma talked about walking through dozens of grocery stores to understand how they worked. She demurred when asked to pick a favorite. “I love all of them,” she said, as if she might be headed back into the frozen foods aisle. (“Publix is up there,” she later said.)
+
+But she did not stall when asked if her endgame at Xbox was divestiture.
+
+“Xbox is not for sale,” Sharma said. “We will do whatever it takes to set the company up for success, and we will look at the right partnerships, the right operating model and everything needed to achieve that.”
+
+In boxing, they call that a bob and weave.
+
+The chief executive of Microsoft, Satya Nadella, declined an interview request but said on a recent podcast that he expected Sharma to get Xbox back to growth in the next fiscal year. He has also complained that YouTube streamers earned more off Xbox’s games than Microsoft did.
+
+Many analysts are predicting an eventual spinoff. An independent Xbox could form a strategic partnership with Microsoft to maintain its technological edge without dragging down the company’s balance sheet.
+
+Microsoft executives noted that there is always speculation about a possible Xbox sale, and that it had never happened. “We’ve got a long way to go with Microsoft,” Sharma said, “and we’re going to take the long-term view.”
+
+An Uphill Battle
+
+In 2000, Xbox’s founders faced Bill Gates, Microsoft’s chairman, and Steve Ballmer, its chief executive, in a pivotal meeting known internally as “The Valentine’s Day Massacre.” The founders presented a PowerPoint showing that the venture would lose $1.6 billion. Gates and Ballmer yelled for hours before finally approving the concept.
+
+Two former executives with knowledge of the meeting said a dual promise won them over: Xbox would extend Microsoft’s technological dominance from the office to the living room, while creating a wedge against Japanese competitors like Sony, which was making nearly a quarter of its revenue from gaming.
+
+“Xbox was Microsoft’s spearhead into the home,” Juul said, explaining why subsequent console iterations pushed entertainment features like live television and web browsing despite lukewarm consumer interest.
+
+Phil Spencer, Xbox’s chief executive before Sharma, modeled his strategy on Microsoft’s successful Office 365 and OneDrive subscription rollouts, aiming to grow Game Pass to 100 million users. “Subscriptions were all the rage back then,” Rhys Elliott, a market analyst, said.
+
+Nadella, Microsoft’s chief executive, bankrolled a large acquisition spree to supply the service. The push began in 2014 with a $2.5 billion deal for the Minecraft studio Mojang, culminating nearly a decade later in the $75.4 billion purchase of Activision Blizzard, publisher of Call of Duty, World of Warcraft and Candy Crush.
+
+The Activision deal might have cost Xbox its technological edge.
+
+Fearing that Microsoft would monopolize cloud gaming, British regulators scrutinized the acquisition, saying it risked undermining innovation. To appease regulators and balance debt from the purchase, Xbox shelved designs for controllers devoted to cloud gaming, three former employees said. The experience that remains has been glitchy and disappointed players. (An Xbox spokeswoman denied that the controllers were shelved because of the regulatory process.)
+
+Game Pass has also fallen short of expectations, reaching 34 million subscribers before membership began declining. Out of concern it was cannibalizing software sales, Microsoft is no longer immediately adding Call of Duty games to the service.
+
+These are some of the challenges Sharma must confront from her Redmond office, where nearly a dozen Xbox controllers rest on pedestals like tiny sculptures. During an interview, her television lights up as gamers send friend requests to her Xbox Live account.
+
+“Clarity is kindness,” Sharma said, using one of her favorite catchphrases. “I have to create clarity so we can confront the challenges and go solve them.”
+
+Return of the Console Wars
+
+Sharma wants Xbox properties to entertain a billion people, which means opening untapped markets in Africa, Latin America and South Asia by using cloud computing technology to run games on computers and smartphones.
+
+Spencer marketed the same idea under the unpopular slogan “This is an Xbox.” Sharma flipped the perspective by saying she would provide “the ability to play anywhere.” Another pillar of her strategy is reinvesting in Minecraft as a competitor to Roblox, which has captivated a younger generation of gamers.
+
+“We have always said play is a basic human need, but I think creation is a basic human need,” said Jason Ronald, who is leading Xbox’s efforts to shape its next generation. “I think the lines between players and developers are going to get blurrier and blurrier.”
+
+Leaders at the company describe the future of its consoles — code-named Project Helix — as embodying that idea. Executives declined to discuss specifics, but their descriptions make it sound like a toy box, and developers have suggested that Microsoft will leverage its research into A.I. to accomplish such a task.
+
+In recent months, Xbox has benefited from decisions by competitors. When Sony said it would stop making physical game discs for the PlayStation in 2028, Microsoft announced a disc-to-digital entitlement program that would let players carry purchases into the future. When Sony canceled its partnership with Hideo Kojima, Xbox quickly struck a deal with one of the industry’s auteurs.
+
+After hours of diplomatic conversation about her competitors, Sharma had a rare moment of speechlessness when discussing the deal for Kojima’s upcoming stealth game Physint. She laughed at the idea of apologizing to Sony before shrugging and saying she was happy Kojima chose to work with Xbox.
+
+The agreement was substantially below what Xbox would typically spend to develop a premium game, according to people close to the agreement, and included film and TV rights. Sharma also clarified that work with Sony would continue: “Competition and collaboration can coexist.”
+
+Sharma spent a weekend in Tokyo with Kojima, posing in aviator sunglasses and an Xbox/Kojima Productions sweatshirt, and is traveling almost every week through the end of the year. On her birthday this summer, she was attending an Xbox Game Camp in Minneapolis with the incoming chief executive of Best Buy.
+
+While she is away, a large counter in the beige Xbox building on Microsoft’s campus tallies Sharma’s time as chief executive. Over the atrium where employees take their coffee breaks, a banner exclaims “RETURN OF XBOX.”
+
+Achieving that goal will not be easy. In late September, Xbox announced that nearly 270 employees would be laid off, a move that gutted the team behind Halo, putting the future of the science-fiction series under Activision.
+
+“I don’t think you sign up for roles like this for work-life balance,” Sharma had said weeks earlier with a little swagger. “I think you signed up for them because you believe in the mission and you do what it takes.”
+
+================================================================================
 china-ai-deepseek-huawei.html
 Source: PreloadedData  Paragraphs: 16  Words: 580/585
 ================================================================================
@@ -3603,6 +3722,83 @@ Google’s Hollywood ambitions extend beyond 100 Zeros. Over the summer, the com
 The response to the A24 deal showed the distrust Google must overcome among the artists and film enthusiasts it hopes to court. Ms. Sedgwick, wary though she was, offered the kind of acceptance Google hopes to win.
 
 “It’s a fine line,” Mr. Zepp said, “between dictating a narrative — tell a positive story — versus, hopefully, if you understand this, you’re actually going to want to tell a positive story.”
+
+================================================================================
+situational-awareness-stock-market-leverage.html
+Source: PreloadedData  Paragraphs: 30  Words: 1335/1334
+================================================================================
+
+SUMMARY
+
+There were, in retrospect, more than a few details about Situational Awareness that might have given a savvy Wall Street lender pause. Other Wall Street banks are still lending to the hedge fund. Wealthy investors, who have some $10 billion riding on Situational Awareness, appear to be sticking with the hedge fund.
+
+ARTICLE
+
+Hedge Fund’s Near Collapse Lays Bare Risks of Borrowing to Bet on A.I.
+A meltdown at Situational Awareness, an A.I.-focused investment firm, is raising tough questions about the Wall Street banks that lent billions to the upstart firm.
+By Matthew Goldstein and Rob Copeland
+Published 2026-09-30 09:02 UTC
+https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html
+
+There were, in retrospect, more than a few details about Situational Awareness that might have given a savvy Wall Street lender pause.
+
+The eight-person hedge fund was led by a 24-year-old without a whiff of trading experience. Few people were assigned to monitor investment risk at the fund, which had been created only in 2024, and the chief compliance officer at the time split his time between his apartment in Reno, Nev., and the headquarters in San Francisco, according to regulatory filings and people briefed on the matter.
+
+Yet none of that stopped Wall Street’s biggest banks, including Goldman Sachs and Bank of America, from lending the hedge fund tens of billions of dollars. That allowed it to build a giant one-way bet on artificial intelligence stocks that imploded over the summer in spectacular fashion when some of its investments suffered steep declines.
+
+Situational Awareness survived by finding a buyer for much of its stocks so it could pay back its lenders. But regulators say the firm’s near collapse revealed a vulnerability still lurking in the market: the perils of banks’ lending lavishly to big investors.
+
+The amount of borrowed money, or what’s known as leverage, in the stock market has never been larger, or grown faster. As of midyear, hedge funds had borrowed nearly $3.7 trillion from banks, the highest amount in more than a decade, according to the Treasury Department, and more than triple what it was just six years ago at the start of the pandemic. Though some bank financing has been used for shorts — investments that pay off when markets fall — most of it has been used to wager that stocks will go ever higher.
+
+Leverage increases the buying power of an investment fund and allows it to add to the money raised from investors. That has helped propel the S&P 500 to 27 record closing highs this year, and a 158 percent gain, including dividends, since 2020.
+
+In a market where many investors have made bets with large amounts of borrowed money, an episode of forced selling can have a domino effect driving down stocks broadly.
+
+“A confident genius with a lot of leeway from his investors, and leverage from his counterparties, can be one of the most dangerous things in finance,” said Tyler Gellasch, president of Healthy Markets Association, which advocates for greater transparency.
+
+In good times, borrowing by hedge funds can supersize investment gains when markets are rising — generating hefty returns for investors and fat fees for the banks. But all the borrowing can have the opposite effect when markets turn.
+
+Banks typically require traders to swiftly pay back their loans once they start experiencing significant losses. To come up with that cash, investors are often forced to sell off their stock investments, which is what happened to Situational Awareness. The firm sold about $20 billion worth of stocks to a rival hedge fund, Kenneth Griffin’s Citadel, at a discount. The market quickly dived, then recovered.
+
+But the regulators now have their eyes on the broader dangers involved.
+
+Frank Smets, head of economic analysis and statistics for the Bank for International Settlements, which helps coordinate the efforts of the world’s central banks, told reporters this month that the near failure of an “A.I.-focused hedge fund served as another reminder of these risks.” The primary risk being that highly leveraged hedge funds would be forced to quickly dump stocks and incite a mass sell-off.
+
+When Situational Awareness began operations in summer 2024, Leopold Aschenbrenner, its founder, had never so much as interned at an investment firm.
+
+A German native who had graduated from Columbia University, he gained a measure of fame when OpenAI fired him for reportedly sharing company secrets. Two months later, he wrote an essay in which he mused about raising a fund to capitalize on what he foresaw as the inevitable evolution and power of A.I.
+
+Of the firm’s eight employees, only four worked on managing its investments, a regulatory filing shows. Other than the firm’s compliance officer at the time, the fund did not have a team solely focused on managing investment risk, said two people briefed on the fund’s operations but not permitted to discuss them publicly. Given the billions of dollars in investor money the firm managed, the people said it was unusual to have so few employees monitoring compliance and risk.
+
+In June, a month before the roof fell in, the fund replaced the compliance officer with the general counsel for a hedge fund affiliated with Sequoia Capital, the venture capital firm.
+
+Despite these growing pains, Situational Awareness had gone looking for loans from Wall Street at an opportune time.
+
+This spring and early summer, fees generated by banks’ prime brokerage units — which lend primarily to hedge funds — were a major driver of the industry’s record profits. Revenue in so-called equity financing, the bank divisions that house prime brokerage, in the second quarter soared as much as 91 percent at Goldman Sachs, for example.
+
+On some particularly risky trades, Situational Awareness had been paying banks a larger-than-normal spread, or premium over the base line interest rates banks charge — according to one banker involved in the transactions but not permitted to discuss their terms. That amounted to lucrative fees for the lenders.
+
+Emboldened to borrow even more, the firm’s executives asked several lenders to increase leverage from four times the amount of money it has collected from investors to 10 times, according to the banker.
+
+Within weeks of the sell-off at Situational Awareness, the Securities and Exchange Commission opened an investigation into the firm and sent subpoenas to Goldman Sachs, Bank of America, Citi and JPMorgan Chase seeking information about trades they financed. Those banks and the S.E.C. have declined to comment on the questioning, and it’s not guaranteed that the investigation will produce accusations of wrongdoing.
+
+Mr. Aschenbrenner declined through a spokesman to be interviewed. Last month, when The New York Times first reported on the subpoenas, the spokesman pledged that the fund would “cooperate to the fullest extent with any regulatory request.”
+
+To help measure systemic risk in the financial industry, hedge funds are required to provide securities regulators with information about their overall borrowing levels. It was part of regulatory package that emerged from the 2008 financial crisis. This year, the S.E.C. and the Commodity Futures Trading Commission proposed easing some of those rules.
+
+Senator Elizabeth Warren, the top Democrat on the Senate Banking Committee, said in a statement that the proposal by the Trump administration and the S.E.C. “would make these already shadowy markets even more opaque, creating blind spots for financial regulators that could harm their ability to respond after major market events.”
+
+To some degree, the system worked in the case of Situational Awareness. The losses to the banks appear to have been minimal, largely because Citadel stepped in to buy up assets from Situational Awareness, providing it with the cash to pay back lenders.
+
+Not long after Situational Awareness’s meltdown, JPMorgan all but cut off the firm from borrowing, two people briefed on the relationship said. Talks with Morgan Stanley to provide billions of dollars in additional borrowing fell apart for a spell, but have resumed. Other Wall Street banks are still lending to the hedge fund.
+
+Wealthy investors, who have some $10 billion riding on Situational Awareness, appear to be sticking with the hedge fund. After the summer swoon, the price of A.I. stocks rebounded even though a flurry of A.I. executives called for regulation to slow down advances in the technology. Situational Awareness still holds a valuable stake in Anthropic, the big A.I. firm that is poised to go public in November.
+
+Situational Awareness has significantly increased its hiring and now has 25 employees, including three working on compliance matters, a firm representative said.
+
+If it appears the firm has learned lessons, Mr. Gellasch of the Healthy Markets Association said Wall Street needed to learn some, too.
+
+“Compliance officers and regulators will likely spend years asking how the risks grew so quickly,” he said.
 
 ================================================================================
 trumps-new-tariffs-face-a-familiar-court-challenge.html
@@ -4206,6 +4402,97 @@ Leading the Future is not hurting for cash. It accepted $50 million from the ven
 (The New York Times sued OpenAI and Microsoft in 2023, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
 
 Cade Metz and Sri Muppidi contributed reporting.
+
+================================================================================
+william-draper-dead.html
+Source: PreloadedData  Paragraphs: 37  Words: 1359/1361
+================================================================================
+
+SUMMARY
+
+Bill Draper, who started his pioneering career as a Silicon Valley investor by steering a rented Pontiac through the orchard-dotted Santa Clara Valley of Northern California in the early 1960s, drumming up business in an era when few entrepreneurs had even heard the term “venture capital,” died on Sept. 8 at his home in Atherton, Calif. His death was confirmed by his daughter Polly Draper. Mr. Draper recalled his reply: “‘OK,’ I said, ‘If you don’t like it, let’s turn it down.’”
+
+ARTICLE
+
+He Was a Tech Investor Before There Was a Silicon Valley
+Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips. He has died at 98.
+By Alex Williams
+Published 2026-09-30 09:02 UTC
+https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html
+
+Bill Draper, who started his pioneering career as a Silicon Valley investor by steering a rented Pontiac through the orchard-dotted Santa Clara Valley of Northern California in the early 1960s, drumming up business in an era when few entrepreneurs had even heard the term “venture capital,” died on Sept. 8 at his home in Atherton, Calif. He was 98.
+
+His death was confirmed by his daughter Polly Draper.
+
+The “man who saw Silicon Valley before it existed,” as the magazine BW Businessworld recently called him, Mr. Draper began his career more than a decade before Silicon Valley acquired its name in the early 1970s, at a time when computer coding was still done using punched paper cards.
+
+As a founder or managing director of a string of trailblazing venture capital companies, including Sutter Hill Ventures and Draper Richards, he helped start an industry worth hundreds of billions of dollars, alongside titans like Arthur Rock, Eugene Kleiner, Thomas J. Perkins and Don Valentine.
+
+Known for his glass-half-full mentality, he was called Dr. Yes by his colleagues at Draper Richards because “he loved to say, ‘We’re in!’ to a deal at an initial meeting before we could do the due diligence,” Robin Richards Donohoe, the company’s co-founder, said in an interview.
+
+His long list of wins over the decades included placing early bets on the video game maker Activision, as well as Skype, OpenTable, the printer company Qume and Corbin-Farnsworth, a pioneering maker of defibrillators, pacemakers and heart monitors.
+
+Armed with a Harvard M.B.A., Mr. Draper arrived in California in 1959 to join Draper, Gaither and Anderson, which was co-founded by his father, William H. Draper Jr., a prominent New York investment banker, and was considered the first venture capital firm west of the Mississippi River.
+
+“It was the only game in town,” the younger Mr. Draper recalled in a 2011 oral history with the Computer History Museum in Mountain View, Calif.
+
+The tech industry was still in its infancy, and so was its business infrastructure. In those days, the investment community “didn’t know a semiconductor from a piece of Swiss cheese,” said Jay Last, a celebrated founder of Fairchild Semiconductor who helped develop the chips that propelled the computer revolution.
+
+In 1962, Mr. Draper partnered with his friend Franklin Pitcher Johnson Jr., known as Pitch, to start their own firm, Draper & Johnson Investment Company. At the time, the sun-dappled Santa Clara Valley, south of San Francisco, was one of the largest fruit-growing regions in the world, nicknamed the Valley of Heart’s Delight.
+
+“It was a lot of fruit orchards in Sunnyvale, in Santa Clara and so on, and we’d go look for doors to knock on that looked like they had to do with some kind of technology or electronics,” Mr. Draper recalled in the oral history.
+
+“We’d ask for the president,” he said, “and he’d come out, typically about our age, and he’d ask, ‘Well, what do you guys do?’ And we’d say, ‘Venture capital.’ And he’d say, ‘What?’ And then we’d explain what it was. And then he’d say, ‘Well, come on in and hear about my company.’”
+
+Mr. Draper continued, “We became the go-to guys in the Valley,” adding, “We were the kind of people that friends of friends of friends would call to ask about these various deals.”
+
+Around 1965, he and Mr. Johnson went their separate ways. Mr. Draper joined Sutter Hill, a real estate company that, under his direction and that of Paul Wythes, another industry trailblazer, branched off into venture capital.
+
+During those early days, the business culture in Silicon Valley was often breezily informal. One of Sutter Hill’s successful investments in disk-drive companies, Quantum Corporation, began when four engineers dropped in.
+
+“They didn’t come in with a business plan and a PowerPoint demonstration or anything,” Mr. Draper said in 2011. “They came in to just say: ‘Hey, we’re thinking of starting a company. We need some money, maybe a couple million dollars to get it going.’”
+
+William Henry Draper III was born on Jan. 1, 1928, in White Plains, N.Y., the youngest of three children of Katherine (Baum) Draper and the elder Mr. Draper, an executive at Dillon, Read & Co., a premier New York investment banking house. After World War II, his father served as under secretary of the Army and helped coordinate the Marshall Plan.
+
+After graduating in 1946 from Scarsdale High School, where he was the student body president, Bill enrolled at Yale. “I thought Harvard was a little too intellectual for me, and Princeton was a little too social,” he said. “Yale sounded right in the middle.”
+
+He became a member of the elite Skull and Bones society and studied economics, history and political science, earning his bachelor’s degree in 1950. During the Korean War, he served on the front lines as a second lieutenant.
+
+He went on to attend Harvard Business School, where he studied under the influential professor Georges Doriot, who advised him — as Mr. Draper recalled in a 2010 Harvard oral history — to “get out of Boston” after graduating and “get into something that’s got some muscle.”
+
+Mr. Draper heeded the advice and took a management training position at the Chicago-based Inland Steel Company, where he met Mr. Johnson, who grew up in Palo Alto and eventually persuaded him to move to California.
+
+During the 1980s, Mr. Draper realized that his “learning curve was flattened out” in venture capital and detoured into public service, serving as president and chairman of the Export-Import Bank of the United States, where he oversaw efforts to stoke exports, in part by providing financing and loans to foreign buyers of American goods.
+
+Five years later, he took over the United Nations Development Program, overseeing about 8,000 aid workers around the world, fighting poverty, funding environmental and health programs and promoting democracy.
+
+During his seven years there, the agency’s programs grew in value to $1.5 billion, from $890 million. By the end, he said, “I’d been to 101 developing countries and raised money from the rich countries to give to poor countries.”
+
+“I felt like Robin Hood,” he continued.
+
+His experience abroad inspired him to return to venture capital, but with an international focus. In the mid-1990s, he joined Ms. Richards Donohoe in founding Draper International, one of the first American venture capital funds to focus on companies in India.
+
+A related domestic fund, Draper Richards, has invested in companies like Skype, OpenTable, Selectica and Athenahealth.
+
+Mr. Draper later decided to apply his business experience to the nonprofit world — “venture philanthropy,” as he called it — and helped establish what became the Draper Richards Kaplan Foundation, which has funded more than 280 nonprofit and for-profit social enterprises serving some 700 million people around the world.
+
+Over the decades, the industry that he helped create evolved almost beyond recognition as it lurched toward the era of trillion-dollar I.P.O.s.
+
+At Sutter Hill, “we had a lot of doubles and triples, and not many strikeouts,” Mr. Draper said in the Harvard interview. “That has changed because the size of the typical venture firm is so great now that they want to move the needle” — which changed the risk-reward ratio.
+
+Firms came to believe, he said, that “if this company’s worth $7 billion, we don’t need to make too many other good decisions.”
+
+Mr. Draper’s wife of more than 60 years, Phyllis (Culbertson) Draper, died in 2018. In addition to their daughter Polly, he is survived by another daughter, Rebecca Draper; a son, Timothy; eight grandchildren; and 13 great-grandchildren.
+
+Venture capitalists are basically fishermen, Mr. Draper said, dropping in countless lines and never knowing when they might reel in a whopper.
+
+For him, there was one very big fish that got away. At Sutter Hill in the 1970s, he sent a younger colleague to check out yet another tech start-up.
+
+Upon his return, the colleague told him, “Well, you know, they kept me waiting for a half an hour, and the people were pretty arrogant, and after all it’s an $18 million valuation.”
+
+Mr. Draper recalled his reply: “‘OK,’ I said, ‘If you don’t like it, let’s turn it down.’”
+
+“That company,” he added, “was Apple Computer.”
 
 ================================================================================
 amputee-wrong-leg-lawsuit-ohio.html
@@ -9214,6 +9501,137 @@ But the students who had used A.I. more like a tutor, to explain complex concept
 Experimental evidence suggests that using A.I. not as a full shortcut, but as a means to exercise what they were supposed to learn, allowed them to outperform the remaining participants in the A.I. group and those who hadn’t used A.I. at all.
 
 In other words, these studies so far agree: Artificial intelligence is affecting how people, especially the young, learn and remember. Whether we will be dumber as a result might depend on how — not if — we use A.I.
+
+================================================================================
+ai-super-pac-money-midterm-elections.html
+Source: RenderedHtml  Paragraphs: 53  Words: 2483
+================================================================================
+
+SUMMARY
+
+Artificial intelligence companies racing to shape how the federal government might regulate their industry amid rising safety and economic concerns are spending heavily to influence which candidates make it to Congress. A New York Times analysis of federal campaign finance data shows that the political groups aligned with the two leading A.I. developers, OpenAI and Anthropic, have quietly but decisively intervened in key 2026 races, spending on campaign advertising and outreach to voters to the tune of $55.7 million. The Times analysis of federal advertising and campaign outreach expenditures made by the four major super PACs during this cycle showed that they have spent far more money in support of Democrats — $28 million to back 21 Democrats and nearly $19 million to boost 30 Republicans — and that the candidates they backed almost always won.
+
+ARTICLE
+
+A.I. Groups Are Spending Millions to Influence the Midterms
+See how groups aligned with Anthropic and OpenAI have funneled major money into the fight for control of Congress.
+By Catie Edmondson, Matt Zdun and Daniel Wood
+Published 2026-09-29 04:02 UTC
+https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html
+
+Artificial intelligence companies racing to shape how the federal government might regulate their industry amid rising safety and economic concerns are spending heavily to influence which candidates make it to Congress.
+
+A New York Times analysis of federal campaign finance data shows that the political groups aligned with the two leading A.I. developers, OpenAI and Anthropic, have quietly but decisively intervened in key 2026 races, spending on campaign advertising and outreach to voters to the tune of $55.7 million.
+
+So far, the spending has been concentrated almost entirely in the primaries. The two groups have spent $52.6 million on safe seats — those that are unlikely to change party hands but that often feature intense intraparty contests. The big A.I. players have also spent more heavily for Democrats than Republicans. They have boosted candidates who align with their agendas, helped defeat those they see as hostile to it and ingratiated themselves with front-runners who are likely to be in positions of power in the next Congress to make decisions critical to their bottom lines.
+
+But with voters quickly souring on their industry — including demanding that lawmakers do more to regulate A.I. and halt or mitigate the proliferation of data centers — they have taken pains to obscure their involvement. With few exceptions, they have intervened without ever explicitly mentioning A.I. or data centers in the TV and digital ads they have purchased.
+
+(The Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+The Times reviewed 95 unique ads bought by four A.I. super PACs heavily funded by the two biggest players — the OpenAI-aligned Leading the Future and the Anthropic-aligned Public First Action — each of which funnels its money through separate Republican and Democratic groups. None of the ads mentioned data centers. Only seven mentioned A.I. or an A.I. company directly.
+
+An ad for Representative Barry Moore, Republican of Alabama, featured the phrase “CHAMPION AMERICAN INNOVATION” as he shook hands with firefighters in a garage — one of several A.I.-backed advertisements that used that phrase over images of workplaces that appeared to have nothing to do with artificial intelligence.
+
+Another was in support of former Representative Jesse Jackson Jr., a Democrat running for an open House seat in Illinois. It was paid for by Think Big, which is aligned with OpenAI, and praised him as committed to reducing gun violence and supporting law enforcement.
+
+And in some instances, both the Republican and Democratic groups funded by the same big A.I. player created advertisements advocating opposing sides of an issue. For example, these two spots for House candidates in Texas, one Democrat and one Republican, praise opposite positions on immigration. Both are funded by the Anthropic-aligned super PACs.
+
+“It’s so cynical,” said Nate Blouin, a state senator in Utah who lost a Democratic primary to an opponent who had been backed by more than $1 million in A.I.-funded ads. “They’re coming into races in safe seats that they know that they’re going to be decided in the primaries, and they are spending millions of dollars on things that are unrelated to the core issue that they are pushing for.”
+
+It is a strategy that has also been deployed this cycle by the American Israel Public Affairs Committee, another major interest group whose brand has become a liability in recent years and has spent in the midterms to the tune of tens of millions of dollars while rarely mentioning its top issue.
+
+The companies behind the spending have somewhat different policy agendas. Anthropic generally supports stricter regulation on A.I. development, while OpenAI, tends to push for fewer guardrails to allow for the acceleration of A.I. development. But they both share the same goal: promoting A.I. and electing policymakers who hold a favorable view of it.
+
+In a statement, Anthony Rivera-Rodriguez, a spokesman for Public First Action, vehemently denied that the Anthropic-aligned group had a parallel agenda to the political group affiliated with OpenAI.
+
+“We reject any suggestion that we have anything in common with Leading the Future, a group that exists to gut every serious attempt to regulate artificial intelligence,” he said. His organization, he added, “was founded to be the counterweight to Big Tech’s political machine,” and stands “with the people willing to fight for real rules on this technology and protect kids, workers and families from A.I. harms.”
+
+Jesse Hunt, a spokesman for Leading the Future, said the group was “focused on building a bench of champions who understand the need for a national A.I. framework that keeps America at the forefront of innovation while putting responsible safeguards in place to protect workers, families and communities.”
+
+The Times analysis of federal advertising and campaign outreach expenditures made by the four major super PACs during this cycle showed that they have spent far more money in support of Democrats — $28 million to back 21 Democrats and nearly $19 million to boost 30 Republicans — and that the candidates they backed almost always won.
+
+Rewarding the A.I.-Friendly
+
+Late last year, Representative Valerie P. Foushee, a Democrat who represents most of North Carolina’s research triangle, was staring down a formidable primary challenge.
+
+Then, two days before Nida Allam, a younger, more progressive candidate who had challenged her in the past, announced that she was running again against Ms. Foushee, Representative Hakeem Jeffries of New York, the Democratic leader, named the congresswoman as co-chairwoman of the party’s new Commission on A.I. and the Innovation Economy.
+
+Two months later, the Anthropic-aligned Jobs and Democracy PAC spent $1.6 million in support of Ms. Foushee. She won narrowly, defeating Ms. Allam by less than 1 percentage point.
+
+“These committees and task forces — they’re basically a flag or indicator to the lobbyist industry that these are people who will have decision-making power over your industry and so you need to go spend money on their campaigns,” Ms. Allam said in a recent interview. “No one is spending that amount of money unless they’re getting something in return.”
+
+In a statement, Ms. Foushee denied that the money had bought any favorable treatment for A.I., saying that her work on the issue “has centered on establishing guardrails, holding corporations accountable, and protecting our children, communities and jobs.”
+
+She pointed to legislation she joined after her primary win that would tax large A.I. companies to establish a federal jobs program and direct the National Institute of Standards and Technology “to ensure proper watermarking, digital fingerprinting and metadata is required for audio and visual content generated by artificial intelligence.”
+
+That record, Ms. Foushee said, “clearly demonstrates that I am here to put A.I. regulations in place that prioritize people over corporations and billionaires.”
+
+Still, unlike many Democrats who have aggressively criticized the industry, Ms. Foushee, a member of the House Science, Space and Technology Committee who also sits on a bipartisan A.I. task force, had already signaled an embrace of the technology. In 2024, she led legislation that aimed to increase diversity in A.I. research and education.
+
+(She was not the only Democrat on the party’s A.I. task force to benefit from the industry’s largess. Public First bought ads in support of Representative Josh Gottheimer of New Jersey that advocate implementing A.I. safeguards, including one that praises him as someone who “can make sure A.I. serves us — not the other way around.”)
+
+In Washington State, American Mission waded into the G.O.P. primary to replace Representative Dan Newhouse, who is retiring at the end of this Congress, to back Amanda McKinney. Ms. McKinney, a Yakima County commissioner, won President Trump’s endorsement this cycle, but was running against a former racecar driver who had won Mr. Trump’s endorsement in 2024 when he challenged Mr. Newhouse.
+
+“She believes the United States must lead in artificial intelligence and advanced technologies, not surrender leadership to China or other adversaries,” her campaign website says. “Amanda opposes heavy-handed regulation that stifles innovation or drives jobs overseas.”
+
+American Mission spent about $780,000 to support Ms. McKinney. She advanced from her primary with 35 percent of the vote.
+
+Punishing the Skeptics
+
+With other seats, in Utah, Illinois and New York, the PACs moved to undercut candidates who had established themselves as foes of A.I.
+
+The most prominent example was in the primary to succeed Representative Jerrold Nadler, Democrat of New York. The race was inundated by outside spending after Alex Bores, an assemblyman, sponsored legislation seeking to regulate advanced artificial intelligence models. That set off a multimillion-dollar influx from rival A.I. interests, with Think Big, aligned with OpenAI, attacking Mr. Bores and Jobs and Democracy, aligned with Anthropic, defending him. He narrowly lost the race.
+
+Along with Ms. Foushee’s contest in North Carolina and a primary in the district of Representative Debbie Wasserman Schultz, the former chairwoman of the Democratic National Committee, the race drew the most money from the A.I. PACs this cycle.
+
+In Utah, Think Big intervened to boost Ben McAdams, a former Democratic congressman.
+
+It was not expected to be a highly competitive primary, and was made even less so after Punchbowl News unearthed a series of old posts in which his opponent, Mr. Blouin, joked about sexual assault and made offensive comments about women and Mormons. Mr. McAdams made no mention of A.I. on his campaign website, though he wrote an opinion essay arguing that schools “should begin treating A.I. fluency as a basic form of literacy.” He said he opposed the construction of a 40,000-acre A.I. data-center campus proposed in the district.
+
+But Mr. Blouin, the state senator, described himself as a “leading skeptic of the push for unchecked growth of data centers,” and grew increasingly vocal about A.I. and data-center regulation as the race went on.
+
+Think Big spent about $1.1 million on television and digital ads and text-message blasts supporting Mr. McAdams. Asked for comment, Mr. McAdams reiterated a previous statement he had made during a June debate, in which he said that “every member of Congress needs to be proactive in providing oversight of A.I. in order to protect jobs, our kids, the environment and the fabric of our communities.”
+
+“That will require federal guardrails to make sure this technology happens carefully and transparently, with appropriate regulation, strong oversight, human accountability, and safeguards for data privacy and civil rights,” he said. “A.I. could potentially cure cancer, but it could also destroy our kids. I believe thoughtful policy can unleash the good and stop the bad.”
+
+And in a pair of crowded Democratic primaries in the Chicago area and parts of central Illinois, Think Big spent a combined $2.6 million in support of two centrist former members of Congress — Melissa Bean and Mr. Jackson — who were both running against more progressive opponents.
+
+Mr. Jackson was lagging in fund-raising behind both Robert Peters, a state senator, and Donna Miller, a Cook County commissioner. In the two months before the primary, his campaign raised just $72,000, compared with Ms. Miller’s $670,000 and Mr. Peters’s $224,000.
+
+That is when Mr. Jackson leaned into talking about A.I. He cited it in an opinion column touting the benefits of the technology for family caregivers, discussed it at a local candidate forum and even used it in an ad in which A.I. simulated the voice of former Representative Bobby Rush, whose vocal cords had been damaged by cancer, offering his endorsement of Mr. Jackson.
+
+The progressive candidate in that race, Mr. Peters, had supported a law banning A.I. mental health therapy, and legislation creating legal safeguards for artists whose work was copied or reproduced using A.I.
+
+As Think Big began pouring money in support of Mr. Jackson into the race, Fairshake, a pro-cryptocurrency group, began running advertisements against Mr. Peters, who was backed by Senator Bernie Sanders of Vermont and other progressives, accusing him of being beholden to corporate interests.
+
+“For me,” Mr. Peters said, “it was like a punishment on my legislative record.”
+
+In the end, neither man won the primary. The victor, Ms. Miller, was not backed by either of the major A.I. players. But they may have seen her as an ally, anyway.
+
+The A.I. section of the “Priorities” section of Ms. Miller’s campaign website is roughly seven times as long as all other issue sections, including health care and jobs.
+
+“I’ll support responsible innovation in technology, digital assets and business development that benefits working people and local communities,” she wrote.
+
+Backing the Front-Runners
+
+The A.I. groups spent in support of clear front-runners in primaries all across the country, including favorites of party leaders, many of them Republican. Representative Kevin Hern of Oklahoma, who was widely expected to win the nomination to replace Markwayne Mullin in the Senate, was backed by nearly $1.3 million spent by American Mission and Defending Our Values before his victory in June.
+
+Defending Our Values also supported Carlos De La Cruz, the brother of Representative Monica De La Cruz of Texas, who both received speaking slots at the midterms convention in Dallas. Mr. De La Cruz is favored to win his election; the nonpartisan Cook Political Report recently rated Ms. De La Cruz’s race as a “tossup.”
+
+American Mission spent about $375,000 to support Senator Lindsey Graham for his primary campaign in South Carolina, though it was never expected to be particularly competitive. After he died, the super PAC spent nearly $1.2 million supporting his sister, Darline, in the primary and general contests.
+
+A Vanishing Money Trail
+
+With five weeks left until the midterms, the A.I. groups have yet to wade into many general election contests.
+
+American Mission has doled out roughly $500,000 each on behalf of three Republican candidates for Senate who are running in less competitive races: Representative Julia Letlow in Louisiana, and Senators Darline Graham of South Carolina and Cindy Hyde-Smith of Mississippi. Think Big, the Democratic super PAC, has spent nearly $300,000 to support three House candidates — Representatives Greg Stanton of Arizona, Emilia Sykes of Ohio and Steven Horsford of Nevada — as well as roughly $50,000 to support Representative Joseph D. Morelle in New York.
+
+The amounts could grow. But political operatives closely following their spending believe that the groups will have to shift their strategy amid the furious outpouring of anti-A.I. sentiment, and will instead move money through other means. That could include donating directly to the major political PACs associated with House Democrats or Republicans, or establishing smaller, more obscure groups to move the money through, as AIPAC has done.
+
+Usamah Andrabi, the communications director for Justice Democrats, the ultraprogressive organization that backed many candidates whom A.I. groups spent against, said the industry’s influence was already becoming as difficult to track as that of AIPAC and other pro-Israel groups.
+
+“There was a time where I could tell you every Israel lobby super PAC, and I cannot tell you that anymore because there’s so many pop-up PACs, there’s so many shell PACs, there’s so many pass-throughs,” Mr. Andrabi said. “And I think the same thing is happening with the A.I. lobby.”
 
 ================================================================================
 dubai-flight-tel-aviv-israel-pilots.html

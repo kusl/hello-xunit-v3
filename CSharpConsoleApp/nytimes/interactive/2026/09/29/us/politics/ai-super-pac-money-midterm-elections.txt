@@ -1,0 +1,130 @@
+================================================================================
+ai-super-pac-money-midterm-elections.html
+Source: RenderedHtml  Paragraphs: 53  Words: 2483
+================================================================================
+
+SUMMARY
+
+Artificial intelligence companies racing to shape how the federal government might regulate their industry amid rising safety and economic concerns are spending heavily to influence which candidates make it to Congress. A New York Times analysis of federal campaign finance data shows that the political groups aligned with the two leading A.I. developers, OpenAI and Anthropic, have quietly but decisively intervened in key 2026 races, spending on campaign advertising and outreach to voters to the tune of $55.7 million. The Times analysis of federal advertising and campaign outreach expenditures made by the four major super PACs during this cycle showed that they have spent far more money in support of Democrats — $28 million to back 21 Democrats and nearly $19 million to boost 30 Republicans — and that the candidates they backed almost always won.
+
+ARTICLE
+
+A.I. Groups Are Spending Millions to Influence the Midterms
+See how groups aligned with Anthropic and OpenAI have funneled major money into the fight for control of Congress.
+By Catie Edmondson, Matt Zdun and Daniel Wood
+Published 2026-09-29 04:02 UTC
+https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html
+
+Artificial intelligence companies racing to shape how the federal government might regulate their industry amid rising safety and economic concerns are spending heavily to influence which candidates make it to Congress.
+
+A New York Times analysis of federal campaign finance data shows that the political groups aligned with the two leading A.I. developers, OpenAI and Anthropic, have quietly but decisively intervened in key 2026 races, spending on campaign advertising and outreach to voters to the tune of $55.7 million.
+
+So far, the spending has been concentrated almost entirely in the primaries. The two groups have spent $52.6 million on safe seats — those that are unlikely to change party hands but that often feature intense intraparty contests. The big A.I. players have also spent more heavily for Democrats than Republicans. They have boosted candidates who align with their agendas, helped defeat those they see as hostile to it and ingratiated themselves with front-runners who are likely to be in positions of power in the next Congress to make decisions critical to their bottom lines.
+
+But with voters quickly souring on their industry — including demanding that lawmakers do more to regulate A.I. and halt or mitigate the proliferation of data centers — they have taken pains to obscure their involvement. With few exceptions, they have intervened without ever explicitly mentioning A.I. or data centers in the TV and digital ads they have purchased.
+
+(The Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+The Times reviewed 95 unique ads bought by four A.I. super PACs heavily funded by the two biggest players — the OpenAI-aligned Leading the Future and the Anthropic-aligned Public First Action — each of which funnels its money through separate Republican and Democratic groups. None of the ads mentioned data centers. Only seven mentioned A.I. or an A.I. company directly.
+
+An ad for Representative Barry Moore, Republican of Alabama, featured the phrase “CHAMPION AMERICAN INNOVATION” as he shook hands with firefighters in a garage — one of several A.I.-backed advertisements that used that phrase over images of workplaces that appeared to have nothing to do with artificial intelligence.
+
+Another was in support of former Representative Jesse Jackson Jr., a Democrat running for an open House seat in Illinois. It was paid for by Think Big, which is aligned with OpenAI, and praised him as committed to reducing gun violence and supporting law enforcement.
+
+And in some instances, both the Republican and Democratic groups funded by the same big A.I. player created advertisements advocating opposing sides of an issue. For example, these two spots for House candidates in Texas, one Democrat and one Republican, praise opposite positions on immigration. Both are funded by the Anthropic-aligned super PACs.
+
+“It’s so cynical,” said Nate Blouin, a state senator in Utah who lost a Democratic primary to an opponent who had been backed by more than $1 million in A.I.-funded ads. “They’re coming into races in safe seats that they know that they’re going to be decided in the primaries, and they are spending millions of dollars on things that are unrelated to the core issue that they are pushing for.”
+
+It is a strategy that has also been deployed this cycle by the American Israel Public Affairs Committee, another major interest group whose brand has become a liability in recent years and has spent in the midterms to the tune of tens of millions of dollars while rarely mentioning its top issue.
+
+The companies behind the spending have somewhat different policy agendas. Anthropic generally supports stricter regulation on A.I. development, while OpenAI, tends to push for fewer guardrails to allow for the acceleration of A.I. development. But they both share the same goal: promoting A.I. and electing policymakers who hold a favorable view of it.
+
+In a statement, Anthony Rivera-Rodriguez, a spokesman for Public First Action, vehemently denied that the Anthropic-aligned group had a parallel agenda to the political group affiliated with OpenAI.
+
+“We reject any suggestion that we have anything in common with Leading the Future, a group that exists to gut every serious attempt to regulate artificial intelligence,” he said. His organization, he added, “was founded to be the counterweight to Big Tech’s political machine,” and stands “with the people willing to fight for real rules on this technology and protect kids, workers and families from A.I. harms.”
+
+Jesse Hunt, a spokesman for Leading the Future, said the group was “focused on building a bench of champions who understand the need for a national A.I. framework that keeps America at the forefront of innovation while putting responsible safeguards in place to protect workers, families and communities.”
+
+The Times analysis of federal advertising and campaign outreach expenditures made by the four major super PACs during this cycle showed that they have spent far more money in support of Democrats — $28 million to back 21 Democrats and nearly $19 million to boost 30 Republicans — and that the candidates they backed almost always won.
+
+Rewarding the A.I.-Friendly
+
+Late last year, Representative Valerie P. Foushee, a Democrat who represents most of North Carolina’s research triangle, was staring down a formidable primary challenge.
+
+Then, two days before Nida Allam, a younger, more progressive candidate who had challenged her in the past, announced that she was running again against Ms. Foushee, Representative Hakeem Jeffries of New York, the Democratic leader, named the congresswoman as co-chairwoman of the party’s new Commission on A.I. and the Innovation Economy.
+
+Two months later, the Anthropic-aligned Jobs and Democracy PAC spent $1.6 million in support of Ms. Foushee. She won narrowly, defeating Ms. Allam by less than 1 percentage point.
+
+“These committees and task forces — they’re basically a flag or indicator to the lobbyist industry that these are people who will have decision-making power over your industry and so you need to go spend money on their campaigns,” Ms. Allam said in a recent interview. “No one is spending that amount of money unless they’re getting something in return.”
+
+In a statement, Ms. Foushee denied that the money had bought any favorable treatment for A.I., saying that her work on the issue “has centered on establishing guardrails, holding corporations accountable, and protecting our children, communities and jobs.”
+
+She pointed to legislation she joined after her primary win that would tax large A.I. companies to establish a federal jobs program and direct the National Institute of Standards and Technology “to ensure proper watermarking, digital fingerprinting and metadata is required for audio and visual content generated by artificial intelligence.”
+
+That record, Ms. Foushee said, “clearly demonstrates that I am here to put A.I. regulations in place that prioritize people over corporations and billionaires.”
+
+Still, unlike many Democrats who have aggressively criticized the industry, Ms. Foushee, a member of the House Science, Space and Technology Committee who also sits on a bipartisan A.I. task force, had already signaled an embrace of the technology. In 2024, she led legislation that aimed to increase diversity in A.I. research and education.
+
+(She was not the only Democrat on the party’s A.I. task force to benefit from the industry’s largess. Public First bought ads in support of Representative Josh Gottheimer of New Jersey that advocate implementing A.I. safeguards, including one that praises him as someone who “can make sure A.I. serves us — not the other way around.”)
+
+In Washington State, American Mission waded into the G.O.P. primary to replace Representative Dan Newhouse, who is retiring at the end of this Congress, to back Amanda McKinney. Ms. McKinney, a Yakima County commissioner, won President Trump’s endorsement this cycle, but was running against a former racecar driver who had won Mr. Trump’s endorsement in 2024 when he challenged Mr. Newhouse.
+
+“She believes the United States must lead in artificial intelligence and advanced technologies, not surrender leadership to China or other adversaries,” her campaign website says. “Amanda opposes heavy-handed regulation that stifles innovation or drives jobs overseas.”
+
+American Mission spent about $780,000 to support Ms. McKinney. She advanced from her primary with 35 percent of the vote.
+
+Punishing the Skeptics
+
+With other seats, in Utah, Illinois and New York, the PACs moved to undercut candidates who had established themselves as foes of A.I.
+
+The most prominent example was in the primary to succeed Representative Jerrold Nadler, Democrat of New York. The race was inundated by outside spending after Alex Bores, an assemblyman, sponsored legislation seeking to regulate advanced artificial intelligence models. That set off a multimillion-dollar influx from rival A.I. interests, with Think Big, aligned with OpenAI, attacking Mr. Bores and Jobs and Democracy, aligned with Anthropic, defending him. He narrowly lost the race.
+
+Along with Ms. Foushee’s contest in North Carolina and a primary in the district of Representative Debbie Wasserman Schultz, the former chairwoman of the Democratic National Committee, the race drew the most money from the A.I. PACs this cycle.
+
+In Utah, Think Big intervened to boost Ben McAdams, a former Democratic congressman.
+
+It was not expected to be a highly competitive primary, and was made even less so after Punchbowl News unearthed a series of old posts in which his opponent, Mr. Blouin, joked about sexual assault and made offensive comments about women and Mormons. Mr. McAdams made no mention of A.I. on his campaign website, though he wrote an opinion essay arguing that schools “should begin treating A.I. fluency as a basic form of literacy.” He said he opposed the construction of a 40,000-acre A.I. data-center campus proposed in the district.
+
+But Mr. Blouin, the state senator, described himself as a “leading skeptic of the push for unchecked growth of data centers,” and grew increasingly vocal about A.I. and data-center regulation as the race went on.
+
+Think Big spent about $1.1 million on television and digital ads and text-message blasts supporting Mr. McAdams. Asked for comment, Mr. McAdams reiterated a previous statement he had made during a June debate, in which he said that “every member of Congress needs to be proactive in providing oversight of A.I. in order to protect jobs, our kids, the environment and the fabric of our communities.”
+
+“That will require federal guardrails to make sure this technology happens carefully and transparently, with appropriate regulation, strong oversight, human accountability, and safeguards for data privacy and civil rights,” he said. “A.I. could potentially cure cancer, but it could also destroy our kids. I believe thoughtful policy can unleash the good and stop the bad.”
+
+And in a pair of crowded Democratic primaries in the Chicago area and parts of central Illinois, Think Big spent a combined $2.6 million in support of two centrist former members of Congress — Melissa Bean and Mr. Jackson — who were both running against more progressive opponents.
+
+Mr. Jackson was lagging in fund-raising behind both Robert Peters, a state senator, and Donna Miller, a Cook County commissioner. In the two months before the primary, his campaign raised just $72,000, compared with Ms. Miller’s $670,000 and Mr. Peters’s $224,000.
+
+That is when Mr. Jackson leaned into talking about A.I. He cited it in an opinion column touting the benefits of the technology for family caregivers, discussed it at a local candidate forum and even used it in an ad in which A.I. simulated the voice of former Representative Bobby Rush, whose vocal cords had been damaged by cancer, offering his endorsement of Mr. Jackson.
+
+The progressive candidate in that race, Mr. Peters, had supported a law banning A.I. mental health therapy, and legislation creating legal safeguards for artists whose work was copied or reproduced using A.I.
+
+As Think Big began pouring money in support of Mr. Jackson into the race, Fairshake, a pro-cryptocurrency group, began running advertisements against Mr. Peters, who was backed by Senator Bernie Sanders of Vermont and other progressives, accusing him of being beholden to corporate interests.
+
+“For me,” Mr. Peters said, “it was like a punishment on my legislative record.”
+
+In the end, neither man won the primary. The victor, Ms. Miller, was not backed by either of the major A.I. players. But they may have seen her as an ally, anyway.
+
+The A.I. section of the “Priorities” section of Ms. Miller’s campaign website is roughly seven times as long as all other issue sections, including health care and jobs.
+
+“I’ll support responsible innovation in technology, digital assets and business development that benefits working people and local communities,” she wrote.
+
+Backing the Front-Runners
+
+The A.I. groups spent in support of clear front-runners in primaries all across the country, including favorites of party leaders, many of them Republican. Representative Kevin Hern of Oklahoma, who was widely expected to win the nomination to replace Markwayne Mullin in the Senate, was backed by nearly $1.3 million spent by American Mission and Defending Our Values before his victory in June.
+
+Defending Our Values also supported Carlos De La Cruz, the brother of Representative Monica De La Cruz of Texas, who both received speaking slots at the midterms convention in Dallas. Mr. De La Cruz is favored to win his election; the nonpartisan Cook Political Report recently rated Ms. De La Cruz’s race as a “tossup.”
+
+American Mission spent about $375,000 to support Senator Lindsey Graham for his primary campaign in South Carolina, though it was never expected to be particularly competitive. After he died, the super PAC spent nearly $1.2 million supporting his sister, Darline, in the primary and general contests.
+
+A Vanishing Money Trail
+
+With five weeks left until the midterms, the A.I. groups have yet to wade into many general election contests.
+
+American Mission has doled out roughly $500,000 each on behalf of three Republican candidates for Senate who are running in less competitive races: Representative Julia Letlow in Louisiana, and Senators Darline Graham of South Carolina and Cindy Hyde-Smith of Mississippi. Think Big, the Democratic super PAC, has spent nearly $300,000 to support three House candidates — Representatives Greg Stanton of Arizona, Emilia Sykes of Ohio and Steven Horsford of Nevada — as well as roughly $50,000 to support Representative Joseph D. Morelle in New York.
+
+The amounts could grow. But political operatives closely following their spending believe that the groups will have to shift their strategy amid the furious outpouring of anti-A.I. sentiment, and will instead move money through other means. That could include donating directly to the major political PACs associated with House Democrats or Republicans, or establishing smaller, more obscure groups to move the money through, as AIPAC has done.
+
+Usamah Andrabi, the communications director for Justice Democrats, the ultraprogressive organization that backed many candidates whom A.I. groups spent against, said the industry’s influence was already becoming as difficult to track as that of AIPAC and other pro-Israel groups.
+
+“There was a time where I could tell you every Israel lobby super PAC, and I cannot tell you that anymore because there’s so many pop-up PACs, there’s so many shell PACs, there’s so many pass-throughs,” Mr. Andrabi said. “And I think the same thing is happening with the A.I. lobby.”

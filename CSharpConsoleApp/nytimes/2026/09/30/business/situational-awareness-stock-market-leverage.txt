@@ -1,0 +1,76 @@
+================================================================================
+situational-awareness-stock-market-leverage.html
+Source: PreloadedData  Paragraphs: 30  Words: 1335/1334
+================================================================================
+
+SUMMARY
+
+There were, in retrospect, more than a few details about Situational Awareness that might have given a savvy Wall Street lender pause. Other Wall Street banks are still lending to the hedge fund. Wealthy investors, who have some $10 billion riding on Situational Awareness, appear to be sticking with the hedge fund.
+
+ARTICLE
+
+Hedge Fund’s Near Collapse Lays Bare Risks of Borrowing to Bet on A.I.
+A meltdown at Situational Awareness, an A.I.-focused investment firm, is raising tough questions about the Wall Street banks that lent billions to the upstart firm.
+By Matthew Goldstein and Rob Copeland
+Published 2026-09-30 09:02 UTC
+https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html
+
+There were, in retrospect, more than a few details about Situational Awareness that might have given a savvy Wall Street lender pause.
+
+The eight-person hedge fund was led by a 24-year-old without a whiff of trading experience. Few people were assigned to monitor investment risk at the fund, which had been created only in 2024, and the chief compliance officer at the time split his time between his apartment in Reno, Nev., and the headquarters in San Francisco, according to regulatory filings and people briefed on the matter.
+
+Yet none of that stopped Wall Street’s biggest banks, including Goldman Sachs and Bank of America, from lending the hedge fund tens of billions of dollars. That allowed it to build a giant one-way bet on artificial intelligence stocks that imploded over the summer in spectacular fashion when some of its investments suffered steep declines.
+
+Situational Awareness survived by finding a buyer for much of its stocks so it could pay back its lenders. But regulators say the firm’s near collapse revealed a vulnerability still lurking in the market: the perils of banks’ lending lavishly to big investors.
+
+The amount of borrowed money, or what’s known as leverage, in the stock market has never been larger, or grown faster. As of midyear, hedge funds had borrowed nearly $3.7 trillion from banks, the highest amount in more than a decade, according to the Treasury Department, and more than triple what it was just six years ago at the start of the pandemic. Though some bank financing has been used for shorts — investments that pay off when markets fall — most of it has been used to wager that stocks will go ever higher.
+
+Leverage increases the buying power of an investment fund and allows it to add to the money raised from investors. That has helped propel the S&P 500 to 27 record closing highs this year, and a 158 percent gain, including dividends, since 2020.
+
+In a market where many investors have made bets with large amounts of borrowed money, an episode of forced selling can have a domino effect driving down stocks broadly.
+
+“A confident genius with a lot of leeway from his investors, and leverage from his counterparties, can be one of the most dangerous things in finance,” said Tyler Gellasch, president of Healthy Markets Association, which advocates for greater transparency.
+
+In good times, borrowing by hedge funds can supersize investment gains when markets are rising — generating hefty returns for investors and fat fees for the banks. But all the borrowing can have the opposite effect when markets turn.
+
+Banks typically require traders to swiftly pay back their loans once they start experiencing significant losses. To come up with that cash, investors are often forced to sell off their stock investments, which is what happened to Situational Awareness. The firm sold about $20 billion worth of stocks to a rival hedge fund, Kenneth Griffin’s Citadel, at a discount. The market quickly dived, then recovered.
+
+But the regulators now have their eyes on the broader dangers involved.
+
+Frank Smets, head of economic analysis and statistics for the Bank for International Settlements, which helps coordinate the efforts of the world’s central banks, told reporters this month that the near failure of an “A.I.-focused hedge fund served as another reminder of these risks.” The primary risk being that highly leveraged hedge funds would be forced to quickly dump stocks and incite a mass sell-off.
+
+When Situational Awareness began operations in summer 2024, Leopold Aschenbrenner, its founder, had never so much as interned at an investment firm.
+
+A German native who had graduated from Columbia University, he gained a measure of fame when OpenAI fired him for reportedly sharing company secrets. Two months later, he wrote an essay in which he mused about raising a fund to capitalize on what he foresaw as the inevitable evolution and power of A.I.
+
+Of the firm’s eight employees, only four worked on managing its investments, a regulatory filing shows. Other than the firm’s compliance officer at the time, the fund did not have a team solely focused on managing investment risk, said two people briefed on the fund’s operations but not permitted to discuss them publicly. Given the billions of dollars in investor money the firm managed, the people said it was unusual to have so few employees monitoring compliance and risk.
+
+In June, a month before the roof fell in, the fund replaced the compliance officer with the general counsel for a hedge fund affiliated with Sequoia Capital, the venture capital firm.
+
+Despite these growing pains, Situational Awareness had gone looking for loans from Wall Street at an opportune time.
+
+This spring and early summer, fees generated by banks’ prime brokerage units — which lend primarily to hedge funds — were a major driver of the industry’s record profits. Revenue in so-called equity financing, the bank divisions that house prime brokerage, in the second quarter soared as much as 91 percent at Goldman Sachs, for example.
+
+On some particularly risky trades, Situational Awareness had been paying banks a larger-than-normal spread, or premium over the base line interest rates banks charge — according to one banker involved in the transactions but not permitted to discuss their terms. That amounted to lucrative fees for the lenders.
+
+Emboldened to borrow even more, the firm’s executives asked several lenders to increase leverage from four times the amount of money it has collected from investors to 10 times, according to the banker.
+
+Within weeks of the sell-off at Situational Awareness, the Securities and Exchange Commission opened an investigation into the firm and sent subpoenas to Goldman Sachs, Bank of America, Citi and JPMorgan Chase seeking information about trades they financed. Those banks and the S.E.C. have declined to comment on the questioning, and it’s not guaranteed that the investigation will produce accusations of wrongdoing.
+
+Mr. Aschenbrenner declined through a spokesman to be interviewed. Last month, when The New York Times first reported on the subpoenas, the spokesman pledged that the fund would “cooperate to the fullest extent with any regulatory request.”
+
+To help measure systemic risk in the financial industry, hedge funds are required to provide securities regulators with information about their overall borrowing levels. It was part of regulatory package that emerged from the 2008 financial crisis. This year, the S.E.C. and the Commodity Futures Trading Commission proposed easing some of those rules.
+
+Senator Elizabeth Warren, the top Democrat on the Senate Banking Committee, said in a statement that the proposal by the Trump administration and the S.E.C. “would make these already shadowy markets even more opaque, creating blind spots for financial regulators that could harm their ability to respond after major market events.”
+
+To some degree, the system worked in the case of Situational Awareness. The losses to the banks appear to have been minimal, largely because Citadel stepped in to buy up assets from Situational Awareness, providing it with the cash to pay back lenders.
+
+Not long after Situational Awareness’s meltdown, JPMorgan all but cut off the firm from borrowing, two people briefed on the relationship said. Talks with Morgan Stanley to provide billions of dollars in additional borrowing fell apart for a spell, but have resumed. Other Wall Street banks are still lending to the hedge fund.
+
+Wealthy investors, who have some $10 billion riding on Situational Awareness, appear to be sticking with the hedge fund. After the summer swoon, the price of A.I. stocks rebounded even though a flurry of A.I. executives called for regulation to slow down advances in the technology. Situational Awareness still holds a valuable stake in Anthropic, the big A.I. firm that is poised to go public in November.
+
+Situational Awareness has significantly increased its hiring and now has 25 employees, including three working on compliance matters, a firm representative said.
+
+If it appears the firm has learned lessons, Mr. Gellasch of the Healthy Markets Association said Wall Street needed to learn some, too.
+
+“Compliance officers and regulators will likely spend years asking how the risks grew so quickly,” he said.
