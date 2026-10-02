@@ -1,10 +1,10 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-02 11:37:05
+Generated (UTC): 2026-10-02 11:37:48
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      93b0df6bb5cb55e5ca562eea8784c9d041a2c53f
+Git Commit:      ec316c4156b6b0ed59bf18f1640f2cb6b34fcc63
 Git Branch:      master
-Git Dirty:       no
+Git Dirty:       yes (uncommitted changes are included below)
 .NET SDK:        10.0.112
 Files Exported:  16
 ===============================================================================
@@ -2400,8 +2400,8 @@ static string DefaultSamplesDirectory()
 FILE:     CSharpUnitTests/ArticleExtractionTests.cs
 SIZE:     50.51 KB (51725 bytes)
 LINES:    1244
-SHA256:   1807aa0472d011ac923c5d569b7c3b9054c1c8991f6ece4953fb9020892dd02a
-MODIFIED: 2026-10-02 11:36:11 (UTC)
+SHA256:   169f94116fb914fc84b068de8dbbe28c37456a83ee1f5b82b5785fbdc4cb2134
+MODIFIED: 2026-10-02 11:37:25 (UTC)
 ================================================================================
 
 using System.Text;
@@ -3645,7 +3645,7 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(103, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        Assert.Equal(104, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
     }
 }
 
@@ -4285,9 +4285,9 @@ MODIFIED: 2026-09-27 06:37:13 (UTC)
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-02 11:37:05
+EXPORT COMPLETED (UTC): 2026-10-02 11:37:49
 Total Files Exported:   16
 Total Source Size:      0.13 MB (139417 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): dde3713f26b830177a56b6ca5b8dbb82843e41e4b6e31539acde69f0d4deee5e
+DUMP SHA256 (of all lines above this one): 8ac7d635aa12f786281c3b71cf5ec451e581efe79dde9a674d8bd19063cefb54
