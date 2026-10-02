@@ -3516,6 +3516,95 @@ One of those governors, Lisa D. Cook, is involved in an extensive legal battle w
 An external report on the bank’s failure released this month, which was commissioned by the current vice chair for supervision, Michelle W. Bowman, concluded that the central bank’s regulators “knew, or should have known,” about the mounting vulnerabilities at the lender. Instead, they failed to intervene in a timely fashion because of a “fear of taking action that may later be viewed as mistaken and being held accountable for such,” the report said.
 
 ================================================================================
+google-hollywood-krya-sedgwick.html
+Source: PreloadedData  Paragraphs: 36  Words: 1539/1539
+================================================================================
+
+SUMMARY
+
+“Sweetwater” is part of 100 Zeros, a new partnership between Google and Range that gives the tech giant a foothold in Hollywood’s artistic ranks. Mr. Zepp and Mr. Micelli declined to say how much money Google and Range had committed to 100 Zeros. Google and Range are also using 100 Zeros to experiment with what entertainment itself might become.
+
+ARTICLE
+
+Google Wants Hollywood to Stop Being So Afraid of Technology
+100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.
+By Brooks Barnes
+Published 2026-09-30 15:16 UTC
+https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html
+
+More and more, Hollywood depicts technology as a countdown to catastrophe.
+
+Google would like Hollywood to consider another possibility: What if the technological future isn’t terrifying at all?
+
+Consider “Sweetwater,” a short film starring Kyra Sedgwick that has been playing at festivals. It depicts artificial intelligence as a source of comfort and connection: Ms. Sedgwick plays the A.I. hologram of a dead movie star who appears to her grieving son. Google commissioned the film with Range Media Partners, and A.I. researchers at Google advised on how the digital ghost might plausibly function.
+
+“Sweetwater” is part of 100 Zeros, a new partnership between Google and Range that gives the tech giant a foothold in Hollywood’s artistic ranks. The venture, which operates separately from Google-owned YouTube, has three ambitions: Shape how technology — particularly Google technology — appears onscreen; experiment with emerging forms of entertainment; and build relationships with talent.
+
+An ambitious slate of microdramas is designed to do all three. Made for phones and unfolding in short, serialized episodes, the shows will begin rolling out on the Google TV streaming app in December. They’re a testing ground for A.I. production tools and other Google technology. And the microdramas put Google in business with marquee producers and actors, relationships that it hopes will extend well beyond the shows themselves.
+
+One of the 30-episode series — “Dateable,” from Mike Fleiss, the creator of “The Bachelor” — is a reality show about a woman racing to find love before she turns 30. She’ll record herself on an Android phone. (Naturally.)
+
+“Oftentimes, you’ve seen technology represented onscreen in a way that is intentionally making a point that may just be a bit misinformed,” said Jonathan Zepp, Google’s head of entertainment content and platforms.
+
+“The world is changing quickly,” Mr. Zepp continued. “Technology is enabling that change, and it’s in all our interests, I think, from a societal perspective, for that story to be told accurately, authentically.”
+
+100 Zeros is microscopic compared with Apple and Amazon’s Hollywood operations. But it is another example of technology giants extending their enormous reach into Hollywood — and, increasingly, into the stories that popular culture tells about technology itself. This sort of soft power can show up in different ways, like Amazon MGM Studios’s recent decision not to release “Artificial,” a barbed dramatization of OpenAI, a company in which Amazon has invested $50 billion.
+
+Hollywood has increasingly imagined technology in dystopian terms. Examples from this year include “The Audacity” on AMC, the coming CBS drama “Cupertino” and the films “Good Luck, Have Fun, Don’t Die” and “Mercy.” All depict technology and the people behind it as variously venal, reckless and dangerous.
+
+Researchers have found that science fiction can shape public attitudes toward emerging technologies. It may even rub off on the technology itself: Anthropic, the Google-backed A.I. company, disclosed in May that versions of its Claude chatbot appeared to have learned from science fiction stories in which A.I. is evil and intent on self-preservation. In simulated tests, the models sometimes behaved accordingly — including by blackmailing engineers.
+
+Google can push only so hard. Filmmakers and showrunners can bristle at the slightest whiff of creative meddling, and audiences can tune out when they sense a corporate agenda.
+
+Even some of the artists who have participated in 100 Zeros projects have conflicting feelings. “It’s self-serving, for sure,” Ms. Sedgwick said of Google’s involvement in “Sweetwater,” which also features Michael Keaton, who directed it. “There’s no question about that.”
+
+She added: “Tech companies are definitely trying to portray A.I. as kind and loving and slightly human. I think it’s problematic and questionable.”
+
+But Ms. Sedgwick also welcomed Google’s expanding role in film production. “They have a lot of money and resources, and if they want to be part of telling stories — giving filmmakers and writers, directors money to make actual movies instead of some A.I. version of a movie — then I’m all for it,” she said. “Ultimately, I think that they respect the craft and want it to continue.”
+
+Getting Hollywood to listen is where Range comes in.
+
+A talent management and production company, founded in 2020, Range represents prominent actors, writers and directors, including Bradley Cooper, Johnny Depp, Gabrielle Union, Damon Lindelof and Halle Berry. Range helped produce “A Complete Unknown,” the recent Bob Dylan biopic starring Timothée Chalamet. Its other film credits include “Primetime,” an A24 drama starring Robert Pattinson that took in an estimated $19 million over the weekend. Range also operates in music, sports, publishing and online media.
+
+100 Zeros gives Range a calling card to appeal to clients: access to Google when technology is rapidly changing how entertainment is made and consumed.
+
+“Google has the most remarkable toolbox,” said Peter Micelli, a co-founder of Range and its chief executive. Google tools include Android XR, an operating system for smart glasses, and Flow, A.I. filmmaking software that can generate and edit video.
+
+Mr. Micelli cited 100 Zeros as one reason that resistance to A.I. among Range clients was easing.
+
+“The tide is shifting in a big way, and I think we’ve had a healthy role in that — in explaining to people that there are positives,” he said. “We live too much in this dystopian ‘Oh, it’s going to be terrible.’”
+
+Mr. Zepp and Mr. Micelli declined to say how much money Google and Range had committed to 100 Zeros. People who have done business with 100 Zeros say it’s millions of dollars. The year-old venture is structured as a rotating fund, with revenue from its projects going toward financing new ones.
+
+What Google gets in return varies.
+
+With some projects, 100 Zeros is chiefly trying to bring ascendant filmmakers and established stars into the Google orbit. 100 Zeros, for instance, has backed Neon films like Joachim Trier’s “Sentimental Value” and Tilman Singer’s “Cuckoo.” 100 Zeros was also a financier of the recent stoner comedy “The Wrong Girls,” starring Kristen Stewart and Alia Shawkat. Coming up is “Family Movie,” a horror comedy that Ms. Sedgwick directed with her husband, Kevin Bacon.
+
+“The Wrong Girls” and “Family Movie” also feature characters using Google devices. Google has long pursued traditional product placement through United Talent Agency. 100 Zeros is meant to expand that effort by getting involved much earlier — helping develop, finance or produce entertainment that incorporates technology, either as products or as a core part of the story.
+
+Google and Range are also using 100 Zeros to experiment with what entertainment itself might become.
+
+There has yet to be a breakout microdrama in the United States, where an earlier experiment with quick-bite entertainment, Quibi, famously flopped. But the format, which originated in China, is expected to generate roughly $14 billion worldwide this year, a 27 percent increase from 2025, according to Omdia, a research firm. Beyond “Dateable,” 100 Zeros has microshows coming from Kenan Thompson of “Saturday Night Live,” the “American Idol” creator Simon Fuller and the “Charlie’s Angels” director McG.
+
+Mr. Fleiss said the micro format, cheap to produce and unburdened by decades of convention, offered a chance to rethink reality television.
+
+“I wanted to eliminate the manipulation and artificial qualities that come from an overproduced reality show,” he said of “Dateable.” At a time when launching a show is increasingly difficult, “Google can also generate huge awareness,” Mr. Fleiss added.
+
+Google TV, where the microdramas will debut, has an estimated 50 million monthly active users worldwide, up 9 percent from a year ago, according to Sensor Tower, an app analytics firm. Afterward, 100 Zeros plans to syndicate the shows to other platforms.
+
+Other 100 Zeros experiments depart more radically from conventional television. At the Venice Film Festival this month, 100 Zeros backed several projects for smart glasses that use Android XR, Google’s operating system for virtual- and augmented-reality devices. “Nevatars,” an animated story from Andy Serkis, allows viewers to converse with A.I. characters. “Galápagos: The Last Eden,” a nature documentary narrated by Margot Robbie, allows viewers to interact with a digital Charles Darwin.
+
+100 Zeros is also a partner in the Future Vision XPrize, a new $3.5 million competition for short films and trailers depicting hopeful, technology-enabled futures. On Friday, “The Gifted,” about a boy who uses A.I. to rebuild his dead mother from her texts, voice and diary, was named the winner. Google and Range, through 100 Zeros, will develop and help finance a feature film based on the winning short.
+
+“This competition creates space for a different, equally essential kind of storytelling — one that explores the complex optimism of a world in transition,” said Peter Diamandis, who founded the contest.
+
+Google’s Hollywood ambitions extend beyond 100 Zeros. Over the summer, the company’s DeepMind laboratory announced a partnership with A24, the independent studio known for its fiercely loyal following, to develop A.I. tools for filmmakers. Google also invested roughly $75 million in the company, prompting a backlash among cinephiles worried about A.I.’s encroachment on filmmaking.
+
+The response to the A24 deal showed the distrust Google must overcome among the artists and film enthusiasts it hopes to court. Ms. Sedgwick, wary though she was, offered the kind of acceptance Google hopes to win.
+
+“It’s a fine line,” Mr. Zepp said, “between dictating a narrative — tell a positive story — versus, hopefully, if you understand this, you’re actually going to want to tell a positive story.”
+
+================================================================================
 trumps-new-tariffs-face-a-familiar-court-challenge.html
 Source: PreloadedData  Paragraphs: 21  Words: 1099/1099
 ================================================================================
