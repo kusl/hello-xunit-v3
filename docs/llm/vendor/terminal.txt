@@ -414,4 +414,107 @@ sys	0m0.390s
 real	0m2.367s
 user	0m3.474s
 sys	0m0.631s
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+
+real	0m8.612s
+user	0m13.714s
+sys	0m1.244s
+
+Build succeeded in 0.6s
+
+real	0m0.819s
+user	0m0.828s
+sys	0m0.172s
+Restore complete (0.6s)
+  CSharpClassLibrary net10.0 succeeded (3.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpConsoleApp net10.0 succeeded (0.5s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpUnitTests net10.0 succeeded (0.9s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+
+Build succeeded in 5.6s
+
+real	0m5.763s
+user	0m2.035s
+sys	0m0.368s
+Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (876ms)
+
+Test run summary: Passed!
+  total: 217
+  failed: 0
+  succeeded: 217
+  skipped: 0
+  duration: 1s 116ms
+
+real	0m2.586s
+user	0m3.139s
+sys	0m0.527s
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Starting project export...
+Project Path: /home/kushal/src/dotnet/HelloXUnit
+Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Listing files via git...
+Found 16 files to export
+Processing (1/16): .editorconfig
+Processing (2/16): .gitignore
+Processing (3/16): CSharpClassLibrary/ArticleExtraction.cs
+Processing (4/16): CSharpClassLibrary/CSharpClassLibrary.csproj
+Processing (5/16): CSharpClassLibrary/FilenameString.cs
+Processing (6/16): CSharpConsoleApp/CSharpConsoleApp.csproj
+Processing (7/16): CSharpConsoleApp/Program.cs
+Processing (8/16): CSharpUnitTests/ArticleExtractionTests.cs
+Processing (9/16): CSharpUnitTests/CSharpUnitTests.csproj
+Processing (10/16): CSharpUnitTests/FilenameStringTests.cs
+Processing (11/16): Directory.Build.props
+Processing (12/16): Directory.Packages.props
+Processing (13/16): HelloXUnit.slnx
+Processing (14/16): README.md
+Processing (15/16): export.sh
+Processing (16/16): global.json
+
+Export completed successfully!
+Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
+Total source size: 0.13 MB across 16 files
+
+real	0m0.436s
+user	0m0.237s
+sys	0m0.242s
+Restore complete (0.6s)
+
+Build succeeded in 0.7s
+Project 'CSharpClassLibrary' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpConsoleApp' has the following package references
+   [net10.0]: No packages were found for this framework.
+Project 'CSharpUnitTests' has the following package references
+   [net10.0]: 
+   Top-level Package                Requested   Resolved
+   > Microsoft.NET.Test.Sdk         18.10.1     18.10.1 
+   > xunit.runner.visualstudio      4.0.0       4.0.0   
+   > xunit.v3                       4.0.1       4.0.1   
+
+
+real	0m1.943s
+user	0m1.788s
+sys	0m0.442s
+Restore complete (0.5s)
+
+Build succeeded in 0.7s
+
+The following sources were used:
+   https://api.nuget.org/v3/index.json
+
+The given project `CSharpClassLibrary` has no updates given the current sources.
+The given project `CSharpConsoleApp` has no updates given the current sources.
+The given project `CSharpUnitTests` has no updates given the current sources.
+
+real	0m2.333s
+user	0m1.985s
+sys	0m0.418s
+
+real	0m2.306s
+user	0m3.561s
+sys	0m0.666s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
