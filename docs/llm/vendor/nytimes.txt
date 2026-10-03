@@ -367,25 +367,25 @@ This is for sure an esoteric part of international finance. It’s also a vital 
 
 We need to start in 1990. The bursting of Japan’s go-go bubble economy and the subsequent long economic slump prompted companies there to sit on their cash rather than invest. Japan’s central bank embarked on a range of experiments to jump-start the economy, starting with rapidly cutting short-term interest rates from a peak of 6 percent in 1990 to nearly zero by the middle of the decade.
 
-Economic growth didn’t rise enough to encourage households to spend. Instead, they preferred to wait for prices to fall. The Bank of Japan kept trying. It bought vast amounts of government bonds, a process known as quantitative easing, and in 2016, introduced negative interest rates. The yield on Japan’s 10-year bond hovered around one-tenth of a percentage point. For an equivalent U.S. Treasury bond, the interest rate it paid at the time was 2.35 percent.
+Economic growth didn’t rise enough to encourage households to spend. Instead, they preferred to wait for prices to fall. The Bank of Japan kept trying. It bought vast amounts of government bonds, a process known as quantitative easing, and in 2016 introduced negative interest rates. The yield on Japan’s 10-year bond hovered around one-tenth of a percentage point. For an equivalent U.S. Treasury bond, the interest rate it paid at the time was 2.35 percent.
 
 The real-world result was that Japan effectively paid people to borrow its currency. An investor could finance the purchase of a foreign asset, such as a Treasury bond, with yen. Without markets budging at all, the trade would make money, given the difference between the borrowing cost and the yield on the Treasury bond purchased. This is what financial analysts call the carry trade.
 
-Over the years, and in similar ways, the yen funded investments around the world — in currencies, bonds and equities. As long as other countries’ returns looked sufficiently more attractive, the carry trade grew. There is no definitive measure for its size. One Treasury Department estimate, which reflects a number of factors including the carry trade, says that of mid-2025, Japanese investors owned around $2.8 trillion of U.S. equities, bonds and other assets.
+Over the years, and in similar ways, the yen funded investments around the world — in currencies, bonds and equities. As long as other countries’ returns looked sufficiently more attractive, the carry trade grew. There is no definitive measure for its size. One Treasury Department estimate, which reflects a number of factors including the carry trade, says that as of mid-2025, Japanese investors owned around $2.8 trillion of U.S. equities, bonds and other assets.
 
 Undoing this would be the financial equivalent of a tide rushing out before a tsunami strikes. The first hint of what it could look like came in 2024. That July, U.S. government bond yields were more than three percentage points higher than their Japanese equivalents. Investors borrowed yen and sold them for dollars to buy Treasury bonds. That selling weakened the yen to levels that alarmed policymakers. Japanese exporters benefit from a weaker yen since it makes their goods more competitive overseas, but households suffer because the price of imported goods rises.
 
-That month, not only did Japan’s Finance Ministry intervene to stem the yen’s decline, but the Bank of Japan also increased interest rates, hinted at more rate hikes to come and said it would cut bond purchases. The combination reversed the logic of the carry trades and investors started heading for the exits.
+That month, not only did Japan’s Finance Ministry intervene to stem the yen’s decline, but the Bank of Japan also increased interest rates, hinted at more rate hikes to come and said it would cut bond purchases. The combination reversed the logic of the carry trades, and investors started heading for the exits.
 
-That turned to panic when a disappointing U.S. jobs report in August 2024 convinced investors that the Federal Reserve might need to cut interest rates. This too made the carry trade less attractive. The tsunami hit on Aug. 5 — Japan’s Nikkei equity index fell 12.4 percent in a single session, its biggest one-day loss since the Wall Street crash of October 1987. The S&P 500 index fell 3 percent.
+That turned to panic when a disappointing U.S. jobs report in August 2024 convinced investors that the Federal Reserve might need to cut interest rates. This, too, made the carry trade less attractive. The tsunami hit on Aug. 5 — Japan’s Nikkei equity index fell 12.4 percent in a single session, its biggest one-day loss since the Wall Street crash of October 1987. The S&P 500 index fell 3 percent.
 
-Fast forward to today: Policymakers in Japan and the United States are trying to thread a tiny, sharp needle. Both governments are spending more, including on defense and infrastructure. That spending requires more government debt. At the same time, stubbornly high inflation is frustrating voters and forcing central banks to raise interest rates. That could undermine economic growth — government bond yields, after all, anchor borrowing costs for items including home mortgages and auto loans. Higher interest rates also raise the cost of servicing all that debt, which eats into funds for other government priorities.
+Fast-forward to today: Policymakers in Japan and the United States are trying to thread a tiny, sharp needle. Both governments are spending more, including on defense and infrastructure. That spending requires more government debt. At the same time, stubbornly high inflation is frustrating voters and forcing central banks to raise interest rates. That could undermine economic growth — government bond yields, after all, anchor borrowing costs for items including home mortgages and auto loans. Higher interest rates also raise the cost of servicing all that debt, which eats into funds for other government priorities.
 
 So how can both countries simultaneously support growth, fight inflation and bring down long-term interest rates?
 
 While an economic boost from artificial intelligence may help at some point, Japan’s finance minister floated an answer in July. She suggested asking Japan’s government pension investment fund, which manages $2.1 trillion in assets, to sell some foreign bonds and buy Japanese ones. This would require selling foreign currencies, including a lot of dollars. In other words, the inverse of the yen carry trade. The move would help lower Japanese bond yields without slowing Japanese growth.
 
-Unfortunately, such a step would boomerang on the United States, because it would most likely push up Treasury bond yields and weaken the dollar. That’s among the reasons Treasury Secretary Scott Bessent has been intervening in markets in novel ways, including seeking a pathway for Japan to tackle the challenges facing its own currency and bond markets without needing to sell U.S. Treasurys.
+Unfortunately, such a step would boomerang on the United States, because it would most likely push up Treasury bond yields and weaken the dollar. That’s among the reasons Treasury Secretary Scott Bessent has been intervening in markets in novel ways, including seeking a pathway for Japan to tackle the challenges facing its own currency and bond markets without needing to sell U.S. Treasuries.
 
 Even if these various interventions work, the risk remains that investors will take at least some of their money out of America and back to Japan.
 
@@ -10979,6 +10979,279 @@ Some influential voices have gone as far as to say they will boycott micro drama
 Hu Xijin, the former editor of the state-run Global Times, told his 25 million followers on the social media platform Weibo recently that he would not watch such dramas to avoid “filling up our recreational time with cheap A.I. fodder like pig feed.”
 
 Siyi Zhao contributed research.
+
+================================================================================
+the-luxury-of-looking-a-mess.html
+Source: PreloadedData  Paragraphs: 12  Words: 1055/1139
+================================================================================
+
+SUMMARY
+
+I’ve been obsessing over this year’s return to relevance of a fashion brand that I wore 20 years ago: 7 for All Mankind. It’s once again selling the low-rise jeans that made it famous, now alongside the rest of the 2006 uniform: hip-hugger belts, tiny jackets with princess shoulders and giant, comically impractical platform heels. Isn’t there some adage about living long enough to see the music and the clothes of your youth repackaged and sold back to you?
+
+ARTICLE
+
+The Luxury of Looking a Mess
+You live long enough and the music and the clothes of your youth get repackaged and sold back to you. But skinny jeans and white belts? Really?
+By Lizzy Goodman
+Published 2026-10-03 11:00 UTC
+https://www.nytimes.com/2026/10/03/opinion/culture/the-luxury-of-looking-a-mess.html
+
+I’ve been obsessing over this year’s return to relevance of a fashion brand that I wore 20 years ago: 7 for All Mankind. It’s once again selling the low-rise jeans that made it famous, now alongside the rest of the 2006 uniform: hip-hugger belts, tiny jackets with princess shoulders and giant, comically impractical platform heels. In a runway show during New York Fashion Week last month, it doubled down on hyping a self-consciously 2006 tousled party girl.
+
+These deliberately messy clothes feel deeply familiar to me. I wore them all the first time around. My friends and I mixed vintage with repurposed clothing: shrunken leather jackets off the racks at Buffalo Exchange, plus a skinny scarf stolen from rail-thin rock boys who bought their jeans from the Gap’s girls department. So it’s been equal parts hilarious and destabilizing to watch the look of my early 20s reappear, to rapturous praise, on the Instagram feeds of very stylish friends who are actually in their early 20s.
+
+I understand this is an established-to-the-point-of-cliché pattern. Isn’t there some adage about living long enough to see the music and the clothes of your youth repackaged and sold back to you? Fine. But skinny jeans and white belts? Really?
+
+In an era when even teenagers are plumping, smoothing, nipping and tucking their way into uniformity, it suddenly feels luxurious to look undone, to be able to afford that kind of recklessness, sartorially and emotionally. Quiet luxury, the dominant fashion philosophy of the past few years, was never about restraint so much as erasure: the expensive, exhausting work of looking as if you have no visible seams, no history, no night before.
+
+When I was 22 and living on the Lower East Side, my roommate, Sarah, and I scoured Rainbow on Canal Street for Day-Glo clothes in fabrics that felt (and probably were) flammable. We wore them with thrifted ’50s lingerie and vintage rock T-shirts Sarah cut apart and safety-pinned back together, dressing from an ever-shifting pile of shared clothes on the floor, then painting our lips with drugstore Wet n Wild red lipstick.
+
+Nobody wanted to look bad, obviously. We were as vain and as preening as any other set of young people. But it was possible to look terrible and still be cool. Joe Strummer famously said about punk that “if you were ugly, you were in.” Karen O once put it this way: “Every photo you’d see would be basically the most unattractive, ugly moment of every show, but it’s pretty awesome that that’s what they wanted to showcase. The real. The gritty, visceral — bleh — real.” Beauty had value in the early 2000s, as it always does and always will. It just wasn’t the only currency. And more to the point, it would have seemed gauche to have beauty and not spend it: not live in it, not see how far it could get you.
+
+Is that what is missing today? We live in an era of mass market Botox and filler (and now on-demand GLP-1s) and wellness coaches and self-improvement book clubs and ketamine shamans, and all the other self-management products that are meant to fix our faces, bodies and souls are merely the market responding to our need to curate ourselves, 24/7, for life online. In the end, what are we really getting out of that? Where is the carnal payoff?
+
+When I asked one of my 20-something friends why she loves 7 she sent me multiple screenshots of Ashton Kutcher in cargo shorts, part of a trove of Y2K inspiration she apparently keeps handy on her phone. Looking at these, I was reminded that the 2000s were not, by any reasonable measure, a great fashion era. Message T-shirts, trucker hats, asymmetrical striped dresses from Forever 21 that look like dish towels. So much of what we wore was so very bad. And yet, in those images she’d collected of the era’s celebrities, with their disheveled frosted-tip fashion sense, I could see an appealing idea of early 2000s life. It was an experience of youth that was messier, smaller, more D.I.Y., more insouciant and private — and that now feels mostly unavailable, even to people who are actually young.
+
+Look again at my friend’s Y2K party pic collection and you’ll see people who were completely absorbed in the actual living of their actual lives — even the Olsen twins, even the C-listers with the bad self-tans that, in hindsight, my friend pointed out, just made everyone look young.
+
+It’s appropriate that the 7 relaunch would be fronted by Chloë Sevigny, who at 51 remains the reigning archetype of the girl the brand is appealing to, and who has, for years, been lamenting the blandification of fashion and culture. Two years ago, asked where she would never want to live, Ms. Sevigny landed on Los Angeles, drolly rattling off a list of critiques that included the hard water and “monotonous” sunshine, before more thoughtfully describing the as a place that makes her feel “self-conscious” and “uncomfortable” because it’s so specifically constructed around the entertainment business. So many places feel like that now — virtually every street corner on every city block is just another anonymous stage for influencers with indistinguishable faces and bodies shooting indistinguishable content to sell products that will make us look more like them.
+
+These new 7 clothes feel like an attempt to sell you a different option. Instead of looking like someone styled for a repressive fantasy of perfection, perhaps you might like to look like someone caught in the middle of her imperfect life. There’s a risk associated with this approach: that you’ll look bad, wear the wrong thing, say the wrong thing, be seen as unfinished. But for the cost of a moment of messiness, you can reclaim a little lived-in disorder. That may be why wearing a pair of cheap-looking but not actually cheap low-rise jeans can suddenly feel like a deliberate act of freedom.
+
+Back in the day I owned a pair of 7s. They were probably the most expensive thing in my wardrobe then. Stiff, dusty blue with a little stretch — novel, at the time — something like a denim scuba suit, with a crease built permanently into the fade. They were great. They were ridiculous. They’ve been in storage for the last 20 years. This fall, they’re going back into rotation.
+
+Lizzy Goodman, a contributing writer at The New York Times Magazine, is the author of “Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+trump-ad-love-me-painter.html
+Source: PreloadedData  Paragraphs: 27  Words: 1226/1236
+================================================================================
+
+SUMMARY
+
+Set to the song “Love Me” by the singer-songwriter JMSN, the roughly 30-second spot shows a rapid progression of pictures and video of President Trump, as he touts his accomplishments and denounces “communism, socialism and Marxism.” For his part, President Trump — who personally directed the chief of the Office of Management and Budget, Russell Vought, to use taxpayer funds for the ad campaign — says “these are ads for the country.” But again, it is less the cost than the fact that the president is showing his deep contempt for a fundamental norm of American democracy: We don’t use government to glorify our political leaders, at least not while they’re alive.
+
+ARTICLE
+
+‘What Authoritarian Governments Do to Promote Their Leaders’
+The president shows his contempt for us. Again.
+By Jamelle Bouie
+Published 2026-10-03 15:27 UTC
+https://www.nytimes.com/2026/10/03/opinion/trump-ad-love-me-painter.html
+
+Have you seen this?
+
+It’s one in a slew of pro-Trump ads that has been airing since last Wednesday. Set to the song “Love Me” by the singer-songwriter JMSN, the roughly 30-second spot shows a rapid progression of pictures and video of President Trump, as he touts his accomplishments and denounces “communism, socialism and Marxism.” As it ends, you are informed that it was “Paid for by the U.S. Government.”
+
+Trump is deeply unpopular and running strange, propagandistic advertisements is not likely to change that fact. But the wisdom of the campaign notwithstanding, the real problem with this is more legal than political. It is against the law to use taxpayer dollars for propaganda and explicitly partisan purposes.
+
+“This may be felony criminal theft and conversion of government property for political campaign purposes,” Representative Jamie Raskin of Maryland, a Democrat, wrote on social media. “It is a Hatch Act violation for any government employees who worked on it or used government resources to make it. It is blatantly unethical under numerous federal ethics provisions proscribing the use of government resources for political campaigns.”
+
+In a news release, The White House wrote that the ad is a public service announcement, “a reminder for Americans to love their country and know why it’s worth defending — at home, at the border, and abroad.” For his part, President Trump — who personally directed the chief of the Office of Management and Budget, Russell Vought, to use taxpayer funds for the ad campaign — says “these are ads for the country.” “I’m not promoting a candidate,” he added. “I’m not promoting myself because I’m not running for office. I’m promoting the country.”
+
+But unlike a public service announcement, this ad — and others like it — aren’t promoting a government program or service. They exist to glorify President Trump: to love him, as the song suggests.
+
+Richard Painter, a former White House ethics lawyer who served under President George W. Bush, gave The Associated Press a blunt assessment of the advertising campaign. “You watch all three ads, they’re sheer propaganda,” he said, adding that “This is increasingly looking like what authoritarian governments do to promote their leaders.”
+
+Compared with the money used to build the president’s ballroom, this is not an expensive campaign. So far, the White House has spent about $5.5 million of a $20 million contract to produce and promote its pro-Trump propaganda. But again, it is less the cost than the fact that the president is showing his deep contempt for a fundamental norm of American democracy: We don’t use government to glorify our political leaders, at least not while they’re alive.
+
+If future Americans want to vote to memorialize or otherwise praise past leaders, that is up to them. But it is not the place of the president to issue propaganda on his behalf, with money taken from the public till.
+
+It is not clear that Democrats have the appetite to impeach Trump for a third time. Even if they did, there is almost no chance that they would have the votes to convict and remove him from office. And yet, this is exactly the type of offense that demands a response from the legislature. A president that shows this much contempt for the republican character of the American system — who seeks, at every opportunity, to set himself up as a strongman over the entire nation — is a president who must be sanctioned by the people’s representatives.
+
+There are any number of strategic reasons to do this as well. With both chambers of Congress, should they win them, Democrats could orchestrate a long investigation and drawn-out trial that consumes the administration and implicates key figures beyond the president. But to be honest, I care less about the politics here than I do the principle. If this propaganda campaign — among many other offenses — isn’t worthy of an article of impeachment, then nothing is.
+
+What I Wrote
+
+Speaking of legally questionable, fraudulent spending, I wrote my column this week on the president’s effort to seize the power to spend from Congress.
+
+It does not receive as much attention as Trump’s assault on American cities or his draconian program of deportations and removals, but the president and his administration have been waging an all-out war on Congress’s once-sacrosanct power of the purse.
+
+I joined my colleagues David French and Michelle Cottle on an episode of “The Opinions.” And in the latest episode of my podcast with John Ganz, we discussed the 1998 World War II drama, “Saving Private Ryan.”
+
+Now Reading
+
+Michael Kazin on “equality” and its discontents for Democracy.
+
+Kate Manne, a professor of philosophy at Cornell University, comments on the mood on campus for The Cut.
+
+Valentín Tapia on the fight to save Chile’s democracy for Liberal Currents.
+
+Adam Serwer on Trump and the Supreme Court for The Atlantic.
+
+Mark Lilla on Judith Shklar and the “liberalism of fear” for The New York Review of Books.
+
+Photo of the Week
+
+This is The Greenbrier, a resort near White Sulphur Springs, W.Va. I took this photo during the summer while driving in the area.
+
+Now Eating: Taverna Salad
+
+We’re still getting good summer produce here in Virginia, and so I used a recent haul from the market to make this salad. It is a perfect accompaniment to a meal of grilled meat or fish. It also works on its own as a nice, light lunch. Be sure to use your best olive oil and red wine vinegar. And feel free to adjust the recipe to your liking. I prefer to make this, for instance, with feta cheese. I also go easy on the capers, or omit them entirely. Recipe comes from NYT Cooking.
+
+Ingredients
+
+- ⅓ cup plus 2 tablespoons extra-virgin olive oil
+- 2 tablespoons red wine vinegar
+- 1 teaspoon minced garlic (1 small clove)
+- ½ teaspoon dried oregano
+- Salt and pepper
+- 3 medium tomatoes, cored, seeded and diced into ½-inch pieces (or 1 cup halved cherry tomatoes)
+- 1 (15-ounce) can chickpeas, rinsed
+- 1 orange or yellow bell pepper, halved, seeded and diced into ½-inch pieces
+- ½ large English cucumber, halved, seeded and diced into ½-inch pieces
+- ½ cup pitted Kalamata olives
+- ¼ cup chopped fresh parsley
+- ¼ cup minced red onion or shallot
+- 2 tablespoons (drained) capers, coarsely chopped
+- 2 scallions, thinly sliced
+- 1 (6-inch) pita
+- 1 (8-ounce) block halloumi cheese, patted dry and cut into ¾-inch-thick slices
+
+Directions
+
+In a small bowl, combine ⅓ cup olive oil with the vinegar, garlic and oregano. Whisk vigorously to combine then season to taste with salt and pepper.
+
+In a large bowl, combine the tomatoes, chickpeas, bell pepper, cucumber, olives, parsley, red onion, capers and scallions. Pour the dressing over the salad and toss well.
+
+Chop the pita into 1-inch pieces and place them in a small bowl. Drizzle with 1 tablespoon olive oil, sprinkle with salt and toss to coat. Heat an 8-inch skillet over medium. Add the pita pieces and cook, tossing often, until toasted and golden brown, about 5 minutes. Return to the small bowl to cool, reserving the skillet.
+
+Place the halloumi slices on a small plate and drizzle with 1 tablespoon olive oil. Heat the same skillet over medium-high heat, and cook the halloumi until golden brown, 2 to 3 minutes per side. Transfer to a cutting board and cut the slices into bite-size cubes.
+
+Add the pita and halloumi to the salad, toss well and serve.
+
+================================================================================
+trump-empowers-iranian-extremists.html
+Source: PreloadedData  Paragraphs: 24  Words: 1048/1108
+================================================================================
+
+SUMMARY
+
+In early March, nine days after starting his war with Iran, President Trump held a news conference to crow about his “military success, the likes of which people haven’t seen.” Peter Navarro, a White House senior counselor, wrote an essay in March explaining why: “Iran War Will Lower Energy Prices.” Instead, Trump’s Iran war should be taught for decades as a model of how not to conduct either war or foreign policy.
+
+ARTICLE
+
+Why Iran Could Choose to Escalate the War
+Threats to withdraw from the Nuclear Nonproliferation Treaty are growing in Tehran.
+By Nicholas Kristof
+Published 2026-10-03 11:32 UTC
+https://www.nytimes.com/2026/10/03/opinion/trump-empowers-iranian-extremists.html
+
+In early March, nine days after starting his war with Iran, President Trump held a news conference to crow about his “military success, the likes of which people haven’t seen.”
+
+“We’re winning very decisively,” he claimed, and “the result will be lower oil prices.”
+
+Peter Navarro, a White House senior counselor, wrote an essay in March explaining why: “Iran War Will Lower Energy Prices.” Defense Secretary Pete Hegseth in April announced “a historic and overwhelming victory” that had rendered Iran “combat-ineffective for years to come.”
+
+Instead, Trump’s Iran war should be taught for decades as a model of how not to conduct either war or foreign policy. It’s an example of how hubris can swamp a presidency and lead it to military solutions for difficult global problems — and, in the process, make everything worse.
+
+Now Trump finds himself stuck in the Sartre play “No Exit.”
+
+“The unsettling reality is that the conflict is nowhere near over,” Ali Vaez of the International Crisis Group writes in a Foreign Affairs essay titled “The New Forever War.”
+
+Still, the Trumpian myopia persists, with the administration continuing to claim that its pressure on Iran is a smashing success. “The blockade is working; it’s working like nothing we’ve ever seen,” Treasury Secretary Scott Bessent told Fox News in September.
+
+Hmm. Diesel prices at a few places in California have hit $9.99 a gallon, the maximum price those pumps can display. The United States has already spent more than $43 billion on the war, by a lowball Pentagon estimate — more than enough to provide free college education for a year to every American family earning less than $125,000 annually. Higher prices caused by the war have cost the typical American family about $1,000, according to the economist Mark Zandi. More broadly, we’ve depleted our arsenal, cost American and Iranian lives, possibly committed war crimes, exposed American vulnerabilities, effectively lost access to some bases and weakened American military credibility as far away as East Asia.
+
+Against that, the Trump administration believes it has the upper hand because of the economic pressure the blockade is creating for Iran.
+
+Well, maybe. It’s true that the Iranian economy is a catastrophe and that ordinary Iranians — the people we are supposed to be helping — are suffering greatly. The exchange rate is now more than 2.5 million rials to the dollar, one-tenth of the rial’s value in 2021.
+
+Yet Washington doesn’t seem to understand that instead of surrendering, Iran may choose to escalate. “They’ve come to the conclusion that the only way they survive is to shoot their way out,” Vali Nasr, an Iran expert at the Johns Hopkins School of Advanced International Studies, told me. He suggested that Iran could increase attacks on shipping and, especially if it is attacked, strike oil infrastructure around the Gulf.
+
+I fear that Esfandyar Batmanghelidj, an Iran watcher at a British think tank, is right when he says: “Iran did not wage a scorched earth campaign — but it may yet do so if the current situation persists for too long. That is what everyone who actually follows this region and its dynamics is worried about.”
+
+It’s difficult to see a deal being reached, partly because both Trump and Iran have a history of overreaching. It doesn’t help that Trump’s chief negotiators, Jared Kushner and Steve Witkoff, are real estate investors chosen for their closeness to Trump rather than for, er, their diplomatic savvy.
+
+Iranian leaders also seem cocky. Ahmad Vahidi, the commander in chief of the Islamic Revolutionary Guards Corps, boasted in August that Iran had brought the United States “to its knees.” Foreign Minister Abbas Araghchi told “Meet the Press” that Iran was fully prepared for a new round of fighting, “even if it comes to a doomsday war.”
+
+One rare issue on which I agree with Trump is the paramount importance of preventing Iran from acquiring nuclear weapons. In Trump’s speech to the United Nations — the one in which he mused about whether he should “annihilate the Islamic republic and do it quickly” — he insisted that “Iran will never have a nuclear weapon.”
+
+That’s easy to say. But Trump’s war may have actually increased the likelihood of Iran’s making a drive toward a nuclear weapon.
+
+Trump’s war began by killing the previous supreme leader, who had issued a fatwa saying that Iran would not develop nuclear weapons. The new supreme leader, his son, does not inherit that fatwa and has not issued his own, so now “there’s a serious conversation in Iran” about pursuing nuclear weapons, Nasr told me.
+
+A new measure before the Iranian Parliament proposes withdrawing from the Nuclear Nonproliferation Treaty, and 32 Iranian figures have called on the country to do so. That would be a cataclysm.
+
+“Any other country but Iran would have pulled out of the N.P.T. if treated the same way,” Araghchi told reporters.
+
+We should take these warnings seriously.
+
+One reason professors will teach Trump’s war as an example of military malpractice is that it fits neatly into a larger pattern of counterproductive American policies toward Iran. I deplore the brutality, corruption and economic incompetence of Iran’s rulers — so it’s infuriating that America has repeatedly empowered Iranian extremists.
+
+First, the United States helped topple a democratically elected prime minister in 1953, energizing nationalists and souring Iranians on the West. Then in the 1960s and 70s, the United States gave Iran a nuclear reactor, backed an increasingly autocratic shah and overstepped in ways that helped allow Ayatollah Ruhollah Khomeini to become a national force by denouncing American imperialism.
+
+President George W. Bush’s 2003 Iraq war toppled Saddam Hussein, an enemy of Iran, and empowered Shiite militias that support Iran. In 2018, President Trump announced his withdrawal from the Obama nuclear pact with Iran. The capstone in this “march of folly,” to borrow a phrase from the historian Barbara Tuchman, was Trump’s war on Iran this year, which has bolstered military hard-liners in Tehran and enabled them to project greater power over the Persian Gulf and global oil markets.
+
+That’s what I find particularly worth studying: How is it that for three-quarters of a century, we Americans have so bungled our foreign policy that we have systematically empowered Iranian extremists? They call us the “Great Satan,” but in truth our ineptitude has made us their benefactors.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+zohran-mamdani-united-nations.html
+Source: PreloadedData  Paragraphs: 19  Words: 1239/1297
+================================================================================
+
+SUMMARY
+
+A few days before the leaders of the world streamed into the cavernous, marble-lined General Assembly Hall to deliver their speeches on the grave crises convulsing our combustible world, Mayor Zohran Mamdani offered his own, somewhat surprising solution to the problem of rising authoritarianism: filling potholes. Mamdani asked a gathering of mayors from big cities across the world, explaining his obsession with potholes, more than 200,000 of which have been filled across the city since he took office. Before he was elected prime minister earlier this year, Shah was the mayor of Kathmandu, Nepal’s biggest city and its capital.
+
+ARTICLE
+
+Mamdani’s Surprisingly Persuasive Solution to a World on Fire
+The New York City mayor has an antidote to globe-spanning distemper.
+By Lydia Polgreen
+Published 2026-10-03 11:00 UTC
+https://www.nytimes.com/2026/10/03/opinion/zohran-mamdani-united-nations.html
+
+A few days before the leaders of the world streamed into the cavernous, marble-lined General Assembly Hall to deliver their speeches on the grave crises convulsing our combustible world, Mayor Zohran Mamdani offered his own, somewhat surprising solution to the problem of rising authoritarianism: filling potholes.
+
+“If politics cannot deliver on the block where you live, why would you trust it to deliver anywhere?” Mamdani asked a gathering of mayors from big cities across the world, explaining his obsession with potholes, more than 200,000 of which have been filled across the city since he took office. “If you are making a New Yorker’s life a little smoother, so too you are making their journey to believe in government’s ability to deliver for them.”
+
+It is commonplace to lament the ineffectual talking shop that the United Nations General Assembly has become, with its blustering speeches and endless unread communiqués. Wars of aggression are raging in Ukraine and Iran; Israel has carried out a genocide in Gaza; climate catastrophes impoverish and kill. In the face of these calamities, the organization appears powerless.
+
+Today, the body’s soaring aims — to create a more peaceful, humane world that respects the sovereignty of each nation and the dignity of each human being — seem like a fantasy from another dimension. Citizens the world over are dissatisfied with their governments and in many places are souring on democracy itself. Can it be any surprise that this supranational body comes in for such contempt?
+
+And yet Mamdani sensed an opportunity to reclaim some of its founding spirit. Racing across the city last week, he seemed to be offering an antidote to globe-spanning distemper. To restore faith in institutions, you must begin from the bottom up, starting with things as simple as potholes. Politics, as he put it, “has to translate to the pavement.”
+
+New York City has long held a singular spot on the international stage, and its mayors have become global figures. But Mamdani, by dint of his youth, his improbable rise and his unusual background, brings a vivid symbolism to the role. African by birth, South Asian by heritage, American by choice, Mamdani in many ways embodies the cosmopolitan ideal at the heart of the United Nations’ founding.
+
+World leaders lined up to spend time with him. He went to Queens with Ireland’s prime minister for a bingo game at an Irish American community center. He met with Brazil’s octogenarian leftist president and breakfasted with Spain’s dashing left-wing prime minister. Norway’s prime minister tagged along with him to visit a New York City classroom and talk about artificial intelligence in education.
+
+Even President Trump couldn’t resist some time with the mayor. Last Monday he dropped by Gracie Mansion, spending about an hour behind closed doors with Mamdani — an eternity in presidential scheduling. Trump seemed in no rush to leave as the two took questions from reporters, beaming as he declared, “I want him to be a great mayor, and he’s certainly got potential, got great potential.”
+
+Mamdani’s agenda, as befits a mayor, was mostly municipal. He visited a wastewater treatment facility with his counterparts from Helsinki, Rome and Barcelona; welcomed families moving into public housing with the mayors of Paris, Amsterdam and Greater Manchester; and handed out fliers to delivery workers explaining their rights with Mexico City’s mayor.
+
+When he wasn’t hanging out with his fellow mayors, he celebrated the city’s victory in court against the delivery service DoorDash, wresting over $131 million from the company in a settlement for underpaying or not paying its workers. He also announced a new initiative to give out 70,000 free tickets to the Metropolitan Opera House, part of his push to make the city’s most exclusive cultural offerings accessible to everyday New Yorkers.
+
+Mamdani’s many critics have tried to portray him as fixated on distant hobbyhorses, like arresting Israel’s prime minister, Benjamin Netanyahu, for war crimes in Gaza. But if anything, it was Netanyahu who seemed obsessed with the mayor. In his thundering speech at the United Nations last week, he called Mamdani an antisemite with “Hamas buddies.” He darkly name-checked the leftist streamer Hasan Piker and even castigated Mamdani’s wife for her likes on social media.
+
+When I caught up with Mamdani by phone late last week, I asked him what he had hoped to get out of his first General Assembly. “We are a city that is home to hundreds of nationalities and even more languages,” Mamdani told me. “If any city is an illustration of what the United Nations principles hope to achieve, it is ours.”
+
+But no matter how admirable those principles, the weakness of institutions like the United Nations in the face of the world’s spiraling chaos is an invitation to ask deeper questions, Mamdani said: “In a moment of a rising far right and the questioning of institutions that have otherwise been durable over many decades, it is also an opportunity to rethink what has been at the heart of those institutions, and the question of who they can serve and who they seek to serve.”
+
+I heard an echo of Mamdani’s words in a speech the next day by a young world leader from South Asia, Prime Minister Balendra Shah of Nepal. “The United Nations was born from humanity’s experience of horrific world wars,” he said. “Its promise was that sovereignty would matter. International law would matter. The dignity of every human being would matter. Today, that international system is under strain. Too often, military and economic power determines whose voice is heard.”
+
+In August, a glacier on Nepal’s border with Tibet collapsed, sending a deadly torrent of water and debris hurtling through a gorge. At least 1,300 people died and thousands more are missing in the villages and towns buried under the torrent. Scientists have concluded that rising temperatures caused by fossil fuel emissions played a critical role in destabilizing the Himalayan glacier. The disaster was merely the latest blow to Nepal: It faces soaring prices for fuel and fertilizer caused by the Iran war.
+
+Besides South Asian roots and a history as a rapper, Shah has another thing in common with Mamdani. Before he was elected prime minister earlier this year, Shah was the mayor of Kathmandu, Nepal’s biggest city and its capital. Like Mamdani’s, his victory was driven by young voters, fed up with the country’s self-serving ruling elite. Along with Britain’s Andy Burnham, another former mayor turned prime minister, he shows how successful stewardship of a city can translate into national power.
+
+Mamdani, of course, will never be president of the United States — the Constitution forbids the office to those not born in America. For Mamdani, this may be a blessing. The minute the midterms are over, the news media and the political world will shift their focus to the 2028 presidential race, as if the most important political question on earth is who will replace Trump.
+
+But Mamdani seems to be asking a different question: How can we renew faith in politics and close the gap between citizens and their representatives? The answer, he suggests, lies in the city itself. If cities gave birth to democracy, perhaps they are the best place to midwife its rebirth. After all, more than half the world’s population lives in urban areas, and if current trends hold, by 2050 that figure will rise to almost 70 percent.
+
+That’s a lot of trust to build — and a lot of potholes to fill.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
 
 ================================================================================
 polls-midterms-senate-times-siena.html
