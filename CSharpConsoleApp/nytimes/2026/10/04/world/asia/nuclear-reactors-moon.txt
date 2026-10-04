@@ -1,0 +1,124 @@
+================================================================================
+nuclear-reactors-moon.html
+Source: PreloadedData  Paragraphs: 51  Words: 2036/2036
+================================================================================
+
+SUMMARY
+
+In late August, NASA asked contractors to prepare to build a nuclear reactor that could survive a space voyage and run without maintenance near the moon’s south pole. Both superpowers believe a nuclear reactor is the centerpiece of this ambition. The United States has spent more than $20 billion on space nuclear programs since then but has never deployed another reactor.
+
+ARTICLE
+
+Superpowers Race to Put Nuclear Reactors on the Moon
+The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
+By Selam Gebrekidan
+Published 2026-10-04 09:00 UTC
+https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html
+
+In late August, NASA asked contractors to prepare to build a nuclear reactor that could survive a space voyage and run without maintenance near the moon’s south pole. That may sound like science fiction, but the agency wants it ready to be launched by December 2030.
+
+There is a reason for the rush. Russia aims to have a lunar reactor running by 2036 as part of a secretive partnership with China. NASA has already sped up its schedule to beat its rivals.
+
+The race is for the very future of space exploration. The United States and China want to be first to establish a moon base, to search for resources like frozen water and to launch missions deeper into the solar system. Controlling access to the moon’s assets is vital to this mission. Both superpowers believe a nuclear reactor is the centerpiece of this ambition.
+
+The countries plan to turn on their reactors only after they reach the moon. But some leading scientists caution that governments are moving too quickly in an era of space exploration that has seen some notable disasters. In the last six years, multiple Chinese, American and Russian rockets have failed and exploded, and a Russian lander has crashed into the moon. Space junk regularly tumbles to Earth.
+
+Failures could cause a chain reaction with dire consequences. Falling reactor debris could scatter radioactive material, as happened in Canada in the late 1970s. An explosion or a meltdown on the moon’s surface would risk turning entire regions into no-go zones.
+
+“There will always be a space race going on, and if you enter nuclear power into that mix, then it could take a potentially more dangerous turn,” said Edwin Lyman, the director of nuclear power safety at the Union of Concerned Scientists.
+
+A review of technical specifications, procurement documents and academic research, along with interviews with industry insiders, government officials and critics, offers the clearest picture to date of how China, Russia and the United States are pursuing this nuclear ambition.
+
+The records also help explain a key aspect of the Chinese-Russian space partnership, an alliance championed by Presidents Xi Jinping and Vladimir V. Putin.
+
+Nuclear power appears to be the only core task that China has delegated to its partner in the lunar project. No country has more experience than Russia in this area. It launched more than 30 reactors into orbit, mostly in the 1970s and 1980s, aboard Cold War-era satellites, and it is a leader in civilian nuclear power. Russia controls the largest supply of what is considered the safest nuclear fuel for space missions. That fuel, uranium that is not highly enriched, is in short supply in the United States.
+
+“Russia has practically no competitors in the field of space nuclear energy,” Mikhail Kovalchuk, the president of Kurchatov Institute, told the Russian news agency TASS. Kurchatov, a research agency, is helping design a lunar reactor.
+
+NASA is playing catch-up. The agency launched a reactor in 1965 but shut it down after an unrelated spacecraft failure. The United States has spent more than $20 billion on space nuclear programs since then but has never deployed another reactor.
+
+The race for a lunar reactor is as much a spectacle of power as it is a matter of exploration. President Trump has declared superiority in space to be part of his “America First” agenda. Mr. Xi and Mr. Putin have made similar declarations.
+
+Countries Say Lunar Nuclear Power Is a Must
+
+Any permanent base on the moon requires reliable power. Nuclear reactors do not need sunlight to work, and they can be compact. With the right design, they require little human intervention, according to NASA and the Kurchatov Institute.
+
+For the first few years, the United States and China would need only enough power to keep equipment warm and to charge rovers, vehicles that roam the surface. For that, they plan to use solar power and radioisotope power systems.
+
+These systems convert heat from the natural radioactive decay of isotopes into electricity. The United States, Russia and China have used the systems in space already.
+
+But an expanded lunar base would need a lot more power than those systems can generate. Solar panels would not work during cold lunar nights that stretch over two weeks of Earth time. Any power system near the moon’s south pole would have to survive temperature swings between 130 and -334 degrees Fahrenheit.
+
+Moscow has tasked its state-owned agencies with delivering a lunar reactor, called Selena, by 2036 to power the lunar stations led by China. Selena would generate up to 10 kilowatts of electricity and be able to operate autonomously for a decade. It would share features with an earlier reactor that was designed to operate in the Arctic.
+
+NASA has accelerated its timeline, fearing that a Russian-Chinese reactor could establish a de facto exclusion zone on the moon. NASA’s Lunar Reactor 1 is expected to produce 20 kilowatts of electricity (roughly the power use of 16 American homes) and work for five years with no intervention.
+
+As a first step, NASA plans to use nuclear power to propel a spacecraft to Mars in December 2028. This has never been done.
+
+In parallel, the Pentagon intends to develop its own space reactors for deployment in orbit and on the moon, according to the White House.
+
+Target dates have repeatedly slipped, and few experts expect the countries to meet their deadlines. Nobody has a proven lander that can lower heavy, potentially radioactive material onto bumpy lunar terrain. Nobody has ever installed a reactor in low gravity.
+
+The moon bases have not been built, and how much electricity they would need is open to speculation. That is why experts say that all or parts of the reactor designs could change.
+
+“Nothing is for certain right now,” said Julien de Troullioud de Lanversin, a nuclear scientist and professor at the Hong Kong University of Science and Technology.
+
+There Is Plenty of Risk
+
+The United States and Russia say their reactors would be inoperative — what scientists call unirradiated — until they arrived on the moon. This would reduce risk. Nuclear engineers say that “cold” uranium fuel poses little radioactive threat even if it tumbles to Earth.
+
+Still, things can go wrong, especially during the controlled explosion of a rocket launch.
+
+“This is the moment when there is a lot of risk,” said Leopold Summerer, who leads a United Nations working group on nuclear power in outer space. “We had many launch failures, so we have a lot of data on what can go wrong.”
+
+Take, for example, a reactor splashing into an ocean. Water slows down neutrons, making them more likely to split atoms. This could cause havoc by making a reactor go critical, meaning it would enter a chain reaction of splitting atoms that releases radiation. The risk is real because most launchpads are near a body of water.
+
+Nuclear experts say this probably happened in Russia in 2019, when a reactor-powered cruise missile failed and plunged into the White Sea. When researchers tried to recover it, a nuclear reaction occurred, according to the U.S. Department of State. At least five workers died. (Russia denied these claims and said the missile was not powered by a reactor.)
+
+NASA’s specifications call for a design that can prevent this outcome. Rosatom, Russia’s state-owned nuclear energy company, declined to comment, saying its space program was classified. The Kurchatov Institute, which is in charge of the science, and Roscosmos, in charge of the Russian space program, did not respond to questions. The Chinese Ministry of Foreign Affairs and the China Manned Space Agency did not respond to questions, either.
+
+The other risk is a malfunction that could bring the reactor back to Earth after operation. In 1978, the uncontrolled re-entry of a Russian nuclear-powered satellite, Kosmos 954, scattered radioactive matter across nearly 48,000 square miles of Canada’s north. After about a year of cleanup, only 0.1 percent of the satellite’s power source was recovered.
+
+In the United States, any space reactor is supposed to be reviewed by experts from seven agencies. But it is impossible to rule out accidents.
+
+“The definition of an accident is things don’t go according to plan,” R. Scott Kemp, an associate professor of nuclear science and engineering at the Massachusetts Institute of Technology, said.
+
+Dr. Kemp said accidents were more probable on the moon.
+
+On Earth, reactors are cocooned inside containment structures, which would be extremely expensive and technically challenging to build on the moon. NASA has said its reactor would be shielded, though it is unclear how. The lunar reactors would likely be ringed by no-go zones to reduce radiation risk for astronauts and machines, experts said.
+
+With little containment, even smaller accidents would produce much more radioactive fallout, Dr. Kemp said. There is no wind on the moon but, with less gravity, debris can travel far after an explosion.
+
+On Earth, when a reactor reaches the end of its life, decommissioning is a complicated, careful process that takes years. On the moon, both NASA and the Russian agencies say they would simply leave the radioactive material behind.
+
+“On a race, they don’t want to be bothered with a difficult problem that nobody has a solution for,” Dr. de Troullioud, the nuclear scientist in Hong Kong, said.
+
+A Fuel Challenge
+
+In all its technical and procurement documents, NASA says it would use a nuclear fuel that is not highly enriched and is regarded as safest for advanced reactors.
+
+But some experts say geopolitics and a tight deadline could complicate matters.
+
+The last space reactor NASA tested, in 2018, used highly enriched uranium, which is lighter and cheaper to launch than other fuels. But the first Trump administration discouraged using this fuel because it could end up as a nuclear weapon.
+
+Now, NASA wants to use a fuel known as high-assay low-enriched uranium, or HALEU, which is in short supply in the United States. Russia is the biggest producer, but the United States has banned Russian uranium imports since 2024 because of the war in Ukraine.
+
+NASA documents show that it expects the Department of Energy to allocate low-enriched fuel for space reactors. But the government itself has struggled to produce enough fuel.
+
+The Russian-Chinese alliance has not disclosed what type of fuel would be used. Russia’s older space reactors used highly enriched fuel.
+
+“It doesn’t take anything more than a machine shop and a little bit of high explosive to turn this into a very credible weapon,” said Representative Bill Foster, Democrat of Illinois, a physicist who successfully discouraged the use of highly enriched uranium in space reactors.
+
+At least one potential bidder for NASA’s lunar reactor contract, Space Nuclear Power Corporation, is developing a reactor using highly enriched uranium. A company founder declined to comment, “given the competitive nature” of the upcoming projects.
+
+The U.S. space program could be a boon for companies that make microreactors, which can generate up to 10 megawatts of electricity. These expensive reactors are too small to meet the energy demands of data centers, but they have found a niche business in space and military applications.
+
+Last month the Pentagon selected a company, Antares, to develop and demonstrate a microreactor for space. Antares was among five companies that successfully tested reactors this summer under a program run by the Department of Energy. The company said it would bid for NASA and Pentagon contracts for lunar reactors.
+
+Microreactors may eventually end up on the moon, but none are proven and ready. Fundamental safety questions — how to get rid of heat, how to shield the reactor, how to maintain the structural integrity — have not been fully resolved for space reactors, which must be compact and light.
+
+“It is entirely feasible to put a reactor on the moon,” said Katy Huff, who leads the department of nuclear engineering and engineering physics at the University of Wisconsin-Madison. But the more power needed, she said, the more challenging reactors are to build.
+
+For all the elbowing to get there first, Dr. Huff said governments had accomplished more by working together than by competing.
+
+“I want to see more collaboration internationally in space,” she said. “That is where collaborative team science has ascended beyond our grumpy international politics.”
