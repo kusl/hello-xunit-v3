@@ -1,0 +1,70 @@
+================================================================================
+nobel-prize-medicine-physiology.html
+Source: PreloadedData  Paragraphs: 18  Words: 1032/1035
+================================================================================
+
+SUMMARY
+
+Karl Deisseroth, Peter Hegemann and Georg Nagel were awarded the Nobel Prize in Physiology or Medicine on Monday for their discoveries in neuroscience. The three scientists researched light-gated ion channels, a type of proteins, to establish the field of optogenetics, a pioneering technique that uses pulses of light to activate or turn off discrete groups of neurons in the brain, said Abdel El Manira, a member of the Nobel Committee that awarded the prize. The prize for physiology or medicine is the first of six Nobel Prizes that will be awarded this year.
+
+ARTICLE
+
+Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience
+Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses tiny lights to activate neurons in the brain.
+By Carolyn Y. Johnson and Leo Sands
+Published 2026-10-05 09:55 UTC
+https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html
+
+Karl Deisseroth, Peter Hegemann and Georg Nagel were awarded the Nobel Prize in Physiology or Medicine on Monday for their discoveries in neuroscience.
+
+The three scientists researched light-gated ion channels, a type of proteins, to establish the field of optogenetics, a pioneering technique that uses pulses of light to activate or turn off discrete groups of neurons in the brain, said Abdel El Manira, a member of the Nobel Committee that awarded the prize.
+
+Optogenetics is a powerful basic research tool in neuroscience. Researchers genetically manipulate brain cells and then use pulses of light to flip a switch in the brain and activate specific neurons. The technique provides clues for the treatment of conditions such as blindness, depression, addiction and dementia.
+
+Who are the winners?
+
+Dr. Karl Deisseroth is a professor of bioengineering and psychiatry and behavioral sciences at Stanford University and an investigator at the Howard Hughes Medical Institute. Dr. Deisseroth is a psychiatrist whose work with patients led to frustration about a lack of precise explanations for what caused their suffering and symptoms. That helped motivate the development of a powerful tool to study the brain. He and a team inserted a light-sensitive gene into the brain cells of living mice and developed tiny optical fibers that activated those neurons and elicited specific behaviors for the first time, Professor El Manira said.
+
+Dr. Peter Hegemann is a professor of experimental biophysics at Humboldt University in Berlin. He discovered a protein that converts light into an electrical signal, Professor El Manira said.
+
+Dr. Georg Nagel is a professor of plant physiology at the University of Wurzburg in Germany. Alongside Dr. Hegemann, he discovered that the proteins contained a light-gated ion channel, which generates an electrical signal when exposed to light. Professor El Manira described it as “the switch” that allows neuroscientists to activate the protein.
+
+Why did the committee say they received the prize?
+
+Professor Thomas Perlmann, the secretary-general of the Nobel Committee, described the field of optogenetics as a tool for research that would prove “immensely important” for the future understanding of many diseases. “It’s really a new era in neuroscience,” he said.
+
+The discovery has enabled neuroscientists to link nerve cells in the brain to specific behaviors, said Anna Wedell a professor of clinical genetics at the Karolinska Institutet in Stockholm and an adjunct member of the Nobel awarding committee.
+
+“Before, we had an anatomical map of the brain,” Professor Wedell said. “Now we can generate functional maps, and we can also understand how different cells speak to each other across the brain.” She described the discovery as heralding “a completely new dimension of understanding of the function of the brain.”
+
+How do their colleagues describe their work?
+
+Patrick A. Forcelli, a professor of pharmacology and physiology at Georgetown University, said the discovery of optogenetics ushered in a “golden era” for neuroscience, becoming the mainstay technique of almost every lab that studies brain circuits. “You can’t do systems neuroscience today without relying on these tools,” he said.
+
+The technique has already been used to explore the neural circuits involved in memory, parenting behavior and psychiatric diseases such as obsessive-compulsive disorder and schizophrenia.
+
+It has also been used to partly restore vision in blind patients with an inherited condition called retinitis pigmentosa, said Professor Per Svenningsson, the chairman of the Nobel Committee for Physiology or Medicine.
+
+What did the laureates say about winning the prize?
+
+“It was very surprising,” said Dr. Deisseroth, who was up past midnight in California, working on a paper and sending emails to students. He had just turned in and was starting to drift off when his phone started buzzing. Hours later he was still awake, with just a few moments of quiet to reflect on winning the prize.
+
+In an interview just before 4 a.m. Pacific time, Dr. Deisseroth said his children were still asleep, and he was planning to make their sandwiches for their school lunch in a few hours, as he did every morning. Other celebrations had yet to be planned.
+
+Dr. Perlmann said he reached the newest Nobel laureates before the announcement. “All three were very surprised,” he said. They also all said the same thing in response: “They thought it was absolutely wonderful to receive the prize with the other two.”
+
+Who received the prize in 2025?
+
+Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were recognized for their discoveries of peripheral immune tolerance, the mechanism that explains how our immune system prevents rogue cells from attacking the body’s own tissues and organs.
+
+When will the other Nobel Prizes be announced?
+
+The prize for physiology or medicine is the first of six Nobel Prizes that will be awarded this year. Each award recognizes groundbreaking contributions by an individual or organization in a specific field.
+
+- The Nobel Prize in Physics will be awarded on Tuesday by the Royal Swedish Academy of Sciences in Stockholm. Last year, John Clarke, Michel H. Devoret and John M. Martinis shared the prize for work that made the behaviors of the subatomic world observable in a system large enough to see with the naked eye.
+- The Nobel Prize in Chemistry will be awarded on Wednesday by the Royal Swedish Academy of Sciences in Stockholm. Last year, the prize went to Susumu Kitagawa, Richard Robson and Omar Yaghi for the development of molecular building blocks with spaces large enough for gases and other chemicals to flow through them.
+- The Nobel Prize in Literature will be awarded on Thursday by the Swedish Academy in Stockholm. Last year, Laszlo Krasznahorkai, a Hungarian novelist known for his dystopian themes and relentless prose, received the award.
+- The Nobel Peace Prize will be awarded on Friday by the Norwegian Nobel Institute in Oslo. Last year, María Corina Machado, who built a powerful social movement in Venezuela challenging the nation’s authoritarian president, won the award.
+- Next week, the Nobel Memorial Prize in Economic Sciences will be awarded on Monday by the Royal Swedish Academy of Sciences in Stockholm. Last year, Joel Mokyr, Philippe Aghion and Peter Howitt were honored for research explaining the relationship between technological progress and sustained economic growth.
+
+All of the prize announcements are streamed live by the Nobel Prize organization.

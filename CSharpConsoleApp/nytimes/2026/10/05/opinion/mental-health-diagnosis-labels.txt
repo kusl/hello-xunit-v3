@@ -1,0 +1,52 @@
+================================================================================
+mental-health-diagnosis-labels.html
+Source: PreloadedData  Paragraphs: 15  Words: 1042/1115
+================================================================================
+
+SUMMARY
+
+Many people who have experienced significant mental illness collect diagnoses over time, like stamps on a passport. More than half of people who qualify for one diagnosis also qualify for another during their lifetime. Moreover, research shows that genetic risks associated with brain disorders aren’t confined to specific types: If your biological parents have, say, depression, you not only have an increased risk of developing depression, but you may also be more likely to receive a diagnosis of an anxiety disorder, autism or schizophrenia.
+
+ARTICLE
+
+I Was Labeled Bipolar, Depressed, O.C.D. Here’s Why.
+More than half of people who qualify for one diagnosis also qualify for another during their lifetime.
+By Maia Szalavitz
+Published 2026-10-05 09:00 UTC
+https://www.nytimes.com/2026/10/05/opinion/mental-health-diagnosis-labels.html
+
+Many people who have experienced significant mental illness collect diagnoses over time, like stamps on a passport. I have had at least six. As a toddler, I was diagnosed with attention deficit hyperactivity disorder, or A.D.H.D., because even though I was reading at 3, I was overwhelmed by noises, lights and preschool. In my 20s, the diagnosis was cocaine and heroin use disorder, which landed me in rehab. There, in a five-minute psychiatrist visit, I was labeled bipolar. Later, I picked up labels of depression and obsessive-compulsive disorder.
+
+After reading a 2004 article in The Times about autism, I realized that this diagnosis seemed to fit better than any of the others. Sensory overload? Check. Intense intellectual obsessions, social difficulties, desire for sameness, self-soothing behaviors? Check, check, check, check. My other diagnoses seemed to result, in large part, from attempts to cope with these aspects of my neurology.
+
+I am far from alone in having a long, strange diagnostic journey. More than half of people who qualify for one diagnosis also qualify for another during their lifetime. The earlier in life someone develops a disorder, the more likely he or she is to experience multiple conditions. Moreover, research shows that genetic risks associated with brain disorders aren’t confined to specific types: If your biological parents have, say, depression, you not only have an increased risk of developing depression, but you may also be more likely to receive a diagnosis of an anxiety disorder, autism or schizophrenia. And sometimes, a diagnosis is just wrong.
+
+This high prevalence of overlapping diagnoses — known as comorbidity — in mental health care suggests that the labels psychiatrists assign using the Diagnostic and Statistical Manual of Mental Disorders aren’t like those in most of medicine. That is to say: Mental health diagnoses often do not define distinct, specific pathologies. The former director of the National Institute of Mental Health, Thomas Insel, analogized psychiatric diagnosis to diagnosing someone with “chest pain disorder,” whether that pain is caused by a heart attack or heartburn. We need a better system than that.
+
+As leaders in psychiatry embark on a revision of the D.S.M. that they aim to publish in the next few years, improving diagnosis is taking center stage.
+
+One way to address this problem is to focus on commonalities between disorders, rather than distinctions. Some researchers have gone so far as to claim that there is an underlying, shared factor (or, more likely, factors) that causes a majority of mental illness. Avshalom Caspi, a professor of psychology at Duke University, has called it the “p factor,” for psychopathology.
+
+So what is “p”? One candidate is childhood trauma, which strongly raises the risk for nearly all psychiatric conditions, ranging from anxiety and depression to schizophrenia and personality disorders.
+
+Another possible “p” is found in the genes that affect brain development. For example, a 2023 study in the journal Nature Medicine found that people who had genes associated with excess connections in the frontal regions of the brain — which regulate emotional responses and behavior — also had a higher risk for many types of mental disorders. This is especially striking because during adolescence and early adulthood (when 75 percent of mental illnesses start to show), the brain undergoes a process of pruning redundant or little-used connections.
+
+In some cases, “p” may be less about a shared cause of mental illness and more about the way symptoms of one illness can lead to additional mental distress. Indeed, my diagnoses often reinforced one another. My oversensitivity and difficulty making friends led to me being bullied, which contributed to depression. Depression, isolation and a feeling of being overwhelmed by experiences led me to become addicted to drugs. Perhaps all of that was a response to having a hyperconnected brain, which some evidence links to both autistic abilities, like systematic thinking, and autistic disabilities, like extreme social struggles.
+
+While some researchers are debating how to rewrite the D.S.M., others are developing alternatives to it that better take into account how symptoms overlap. One, known as the Hierarchical Taxonomy of Psychopathology, or HiTOP, classifies disorders based on shared symptom clusters and common underlying features, known as spectra. For instance, the “internalizing” spectrum encompasses symptoms related to emotional distress, anxiety, depression and mood difficulties. The “externalizing” one is related to impulsivity and risk-taking behavior.
+
+HiTOP also recognizes that a mental illness is not an on-off switch but that symptoms exist on a continuum: A person might be a bit compulsive, but not to a disabling degree, or she may have severe obsessions and compulsions, perhaps in the context of anorexia or autism. Under HiTOP, that wouldn’t require multiple diagnoses. This makes the system more flexible, because it assumes that people and their symptoms will vary over time and that underlying issues can take different forms as people mature.
+
+Efforts like HiTOP will not replace the D.S.M. any time soon — but, ideally, they will improve understanding of the causes of symptoms and how these symptoms interact.
+
+In psychiatry, diagnoses aren’t just labels to help clinicians treat patients; they are also ways that people come to understand themselves. Even though “schizophrenia” and “depression” may not be as clearly defined as “Covid-19,” knowing that your problems tend to take a particular shape and can be managed with relevant treatment can be crucial for healing.
+
+For me, learning that I was on the autism spectrum was an enormous relief, and I wish it had happened earlier. Finally, my oddities made sense. For many people, being diagnosed allows them to stop blaming themselves for their temperaments and address traits that are dysfunctional, while embracing those that are harmless or positive. In a recent paper, the psychiatrist Awais Aftab and the religion scholar Alan Levinovitz termed this experience the “Rumpelstiltskin effect,” after the fairy tale in which naming the bad guy takes away his power.
+
+Others, however, see labels as life sentences that preclude recovery or high quality of life. Whether it’s the D.S.M., HiTOP or any other approach, improving diagnosis will require reckoning with the complex ways people respond to their temperaments and experiences — including the fact that the same psychiatric label and accompanying treatment can be a poison, a panacea or a placebo, depending on how wisely we apply them to ourselves or others.
+
+Maia Szalavitz is a contributing Opinion writer who covers addiction, mental health and public policy.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

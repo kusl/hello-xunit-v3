@@ -1,0 +1,74 @@
+================================================================================
+ada-lovelace-ai.html
+Source: PreloadedData  Paragraphs: 26  Words: 1604/1688
+================================================================================
+
+SUMMARY
+
+The Digital Revolution was born in 1843, when Ada Lovelace produced a 20,000-word set of notes about a calculating machine invented by her friend, Charles Babbage. Now, as we face a choice about the role of humans in an era of artificial intelligence, Lovelace’s approach to human-machine partnership remains the right one. Humans would “originate” the ideas and intentions, the machines would become the “executive right hand,” Lovelace wrote, and the iterative back and forth would deepen human understanding.
+
+ARTICLE
+
+Ada Lovelace Already Answered the Big Questions About A.I.
+What Ada Lovelace can teach us as we develop artificial intelligence.
+By Walter Isaacson
+Published 2026-10-05 09:03 UTC
+https://www.nytimes.com/2026/10/05/opinion/ada-lovelace-ai.html
+
+The Digital Revolution was born in 1843, when Ada Lovelace produced a 20,000-word set of notes about a calculating machine invented by her friend, Charles Babbage. She showed how humans and digital technology could work together to produce beautiful results. Now, as we face a choice about the role of humans in an era of artificial intelligence, Lovelace’s approach to human-machine partnership remains the right one.
+
+The only legitimate child of the romantic poet Lord Byron, Lovelace had inherited her father’s rebellious artistic spirit, a trait that her mother, Anne Isabella Milbanke, tried to temper by having her tutored mainly in math. Lovelace came to realize that math was poetic: it’s a lovely language that describes the harmonies of the universe. Despite her mother’s efforts, she remained her father’s daughter, with a sensibility that allowed her to view an equation as a brushstroke that painted an aspect of nature’s splendor. The combination produced in Lovelace a passion for what she took to calling “poetical science,” which linked her artistic imagination to her enchantment with numbers.
+
+Her father was a Luddite, literally. In his maiden speech in the House of Lords, Byron defended the followers of the folkloric Ned Ludd who were rampaging against the mechanical weaving machines that were being deployed in England at the time. The Luddites believed automation would reduce the number of human jobs. They were wrong — just as modern Luddites are wrong about other new technologies. By the end of the 19th century, there were roughly 10 times more workers in textile industries than before.
+
+Unlike her father, Lovelace saw the power and the potential of automated technology. When her mother took her on a trip through the British industrial Midlands, she was particularly impressed by the new looms, known as Jacquard looms, that used punch cards to direct the creation of the desired fabric patterns.
+
+In her notes about Babbage’s computational machine, which he called the “Analytical Engine,” Lovelace explained how the use of punch cards, with their rows of places that were either punched or unpunched, could store and convey information. “The Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves,” she wrote. Its operations, she realized, did not need to be limited to math and numbers. The punch cards could store, manipulate, process and act upon anything that could be expressed in symbols: words and logic and music and pictures and “the most complicated patterns in the fabrication of brocaded stuffs.” The calculating machine could become a general-purpose computer.
+
+Lovelace’s insight would become the core concept of the digital age: Any piece of content or information — music, text, pictures, numbers, symbols, sounds, video — could be expressed in digital form and manipulated by machines. She even wrote some step-by-step procedures a calculating machine could execute, which became the first published computer programs.
+
+There was another significant concept that she introduced in her notes: artificial intelligence. Can machines think?
+
+She believed not. A machine such as Babbage’s could perform operations as instructed, she asserted, but it could not come up with ideas or intentions of its own. “The Analytical Engine has no pretensions whatever to originate anything,” she wrote. “It can do whatever we know how to order it to perform. It can follow analysis, but it has no power of anticipating any analytical relations or truths.”
+
+Just over a century later, in his seminal 1950 paper “Computing Machinery and Intelligence,” the computer pioneer Alan Turing called this assertion “Lady Lovelace’s Objection” and argued that she was wrong.
+
+The Digital Revolution ended up featuring two schools of thought, which can be called the Turing camp and the Lovelace camp.
+
+On the Turing side are those who believe that artificial general intelligence will surpass all aspects of human intelligence, resulting in A.I. systems that can design themselves. That could lead to a “singularity” when the machines will turn themselves into a superintelligent successor species that no longer needs us.
+
+On the other side is the Lovelace camp, which holds that there will always be a role for human creativity, intention, agency and empathy. Human creativity involves values, aesthetic judgments, emotions, personal consciousness and a moral sense. We humans possess an imagination that, as Lovelace said, “brings together things, facts, ideas, conceptions in new, original, endless, ever-varying combinations.” We appreciate beauty. We weave information into narratives. We are storytelling and social animals. Those are what the arts and humanities teach us and are what humans are distinctively able to do.
+
+The greatest gains, according to this camp, will not come from machines working alone, but from a symbiosis that tightly connects machine processing power with human creativity in a mutually beneficial way. Humans would “originate” the ideas and intentions, the machines would become the “executive right hand,” Lovelace wrote, and the iterative back and forth would deepen human understanding.
+
+The modern pioneer of this approach was Joseph Carl Robnett Licklider, a psychologist and computer scientist. In 1960, he published one of the most influential yet least-known papers in the history of postwar technology, “Man-Computer Symbiosis.” While other researchers, such as Marvin Minsky and John McCarthy, were pursuing the Turing vision of artificial intelligence, Mr. Licklider believed that the goal should be augmented intelligence, a system in which humans and machines “cooperate in making decisions.” Mr. Licklider wrote: “The resulting partnership will think as no human brain has ever thought and process data in a way not approached by the information-handling machines we know today.”
+
+The personal computer revolution that began in the 1970s pursued this goal of augmenting rather than replacing human intelligence. Beginning with humanistic engineers such as Douglas Engelbart, who in 1962 wrote a book-length manifesto called “Augmenting Human Intellect,” personal-computer pioneers emphasized the importance of the human-computer interface: the ways that humans interact with their machines and communicate back and forth with them. Some of the most transformative advances came from breakthroughs that made it simpler and more intuitive for humans to interact with machines, such as the mouse and point-and-click graphical user interfaces.
+
+Mr. Engelbart’s disciples, such as Alan Kay and Steve Jobs, had an intuitive, humanistic feel for user-friendly interfaces. At his product introductions, Jobs would often conclude with a slide of street signs showing the intersection of the Liberal Arts and Technology. At his last such appearance, for the iPad 2 in 2011, he stood in front of that image and declared, “It’s in Apple’s D.N.A. that technology alone is not enough — that it’s technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing.”
+
+Humans now face a technology revolution that could be fundamentally different. Many artificial intelligence systems are being designed to accomplish objectives while minimizing — perhaps eliminating — the need for human involvement. We have only a very short period to decide whether we want our A.I. systems to remain tightly tethered to human oversight, human values and human agency.
+
+That will involve thousands of very specific decisions: How much power should we give to each of our software agents, drones, robots and other autonomous devices, virtual and physical, to act without humans in the loop?
+
+Making these decisions requires answering a more fundamental question: Why should we insist that we humans remain in the loop?
+
+One argument is that, as Lovelace and Mr. Licklider implied, symbiosis is a force multiplier: The combination of machine processing power and human creativity will accomplish things that are cooler than what machines alone can produce.
+
+Ah, yes! Wouldn’t it be pretty to think so? But in many realms, that is no longer the case. Self-driving cars are becoming safer than those operated by humans. A military drone that must partner with a human is probably less effective in war than a purely autonomous one. Our moral instincts may want to keep humans in the loop, but our competitive instincts won’t.
+
+Suppose we get to a level of A.I. where machines totally surpass us? Suppose that the novels and poetry and code and movies and military actions and policing decisions and legal judgments are better without our involvement, the way that self-driving cars are becoming?
+
+That leads to the most essential question: Why are we building these systems? The answer should be the obvious one: to make life better for humans.
+
+Human flourishing involves more than consumption. We derive meaning from creating and discovering things, exercising judgment and solving problems, caring for people and having some influence over the world around us. A society in which machines do everything for us would provide abundance while depriving us of agency and meaning.
+
+We should continue to hew closely to Lovelace’s vision of building systems that encourage a partnership between humans and machines. The responsibility rests with the engineers and tech companies that are building large language models and robots — and with all of us, in the decisions we make and the way we use our technologies every day. We should try to work in tight partnership, in a hands-on way, with the technologies we choose to use.
+
+That means taking the time to understand how they work and requiring them to accurately display their reasoning and sources, delegating less to autonomous agents and choosing tools that invite our participation. Following the path set by Ada Lovelace, we can help assure a flourishing human future by favoring services and devices that have human-computer interfaces in the tradition of J.C.R. Licklider, Douglas Engelbart, Alan Kay and Steve Jobs: ones that are user-friendly, intuitive and interactive and that seek to include humans in every step rather than to seduce their users into letting them handle things without us.
+
+Walter Isaacson is the author of “The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution” and the host of the video podcast “The Builders.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

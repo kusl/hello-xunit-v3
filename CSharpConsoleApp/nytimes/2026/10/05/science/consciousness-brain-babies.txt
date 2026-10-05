@@ -1,0 +1,88 @@
+================================================================================
+consciousness-brain-babies.html
+Source: PreloadedData  Paragraphs: 34  Words: 1792/1812
+================================================================================
+
+SUMMARY
+
+Even if we can’t say when babies gain consciousness, Dr. Austin said, “one thing we can be certain of is that they will become conscious.” Some experiments have failed to find certain other markers of consciousness in babies. But what if consciousness has more dimensions, more ways of being?
+
+ARTICLE
+
+Are Babies Conscious?
+By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.
+By Carl Zimmer
+Published 2026-10-05 09:00 UTC
+https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html
+
+Imagine that a scientist sits you in a device that can detect changes in the activity of your brain, and then plays a cycle of sounds. Over and over you hear three low tones, followed by a high one. Then your hear something different: four low tones in a row.
+
+The scientist doesn’t have to ask you if you were aware of the change. That’s because our brains typically respond to an oddball sound with a brief, distinctive blip.
+
+That blip turns out to be a surprisingly reliable marker of consciousness — that complex, mysterious state of being aware of one’s own thoughts and one’s existence in the world, which may also be present to some degree in other animals. People in a coma don’t produce this blip when they hear oddball sounds. Nor do people who are asleep.
+
+Now imagine that the parents of a newborn bring their baby into the same lab for the same test. The tones play. Will there be a blip? Is that squirming, gurgling infant conscious? As humans, they are potentially conscious; we know that much. But in the moment, with their semi-developed brains and cognitive limitations — they can’t yet speak, focus their eyes, respond to instructions — they don’t seem to be conscious, at least not in the way adults are. Indeed, there’s an active scientific debate over whether newborns possess consciousness. Resolving it could help solve one of science’s most stubborn mysteries: what consciousness is, how it emerges and how we can know if another being possesses it.
+
+Ask any researcher who studies consciousness, and they probably have a rough but useful definition. “Consciousness is a process of being receptive to the outside world and mixing that with our own internal world, to create the feeling of who we are and where we are,” said Dr. Topun Austin, a neonatologist at the University of Cambridge.
+
+But Dr. Austin is well aware that this definition doesn’t speak to how that process plays out: where in the brain consciousness arises from the activity of neurons, or how their symphony of signals creates that feeling of being ourselves in the world.
+
+Scientists have developed many detailed theories to address those questions. But there’s little accord on which is right, with no resolution in sight. “There’s not a consensus that we all agree on,” said Joel Frohlich, a cognitive neuroscientist at the University of Tübingen in Germany.
+
+The stakes have only grown in recent years. Researchers have implanted millions of functional human brain cells in mice, for instance, prompting speculation that the work might someday endow mice with consciousness. Philosophers and theologians are musing about whether A.I. will become conscious, and how we can know for sure.
+
+Amid all the uncertainty, there’s one fact that everyone can agree on. In each of our lives, there was a time when our brains were still too rudimentary to support consciousness, and there was a time when that changed. Even if we can’t say when babies gain consciousness, Dr. Austin said, “one thing we can be certain of is that they will become conscious.”
+
+In recent years, Dr. Austin and other researchers have zeroed in on that transition. They are using new kinds of brain-scanning technology to study the brains of babies as never before, giving infants not only the blip tests, but even investigating what babies experience before birth. By determining when consciousness fully blooms, perhaps they can advance our understanding of how it works, and what it does, in all of us.
+
+“I really see it as a frontier area in consciousness science,” Dr. Frohlich said.
+
+Darwin’s babies
+
+When Charles Darwin became a father in 1839, he opened a notebook. Observing his children, he believed, could help him understand a question that fascinated him: “How does consciousness commence?”
+
+By the time his first son, William, was born, Darwin had come to embrace the idea of evolution: The human mind, endowed with consciousness, had evolved over many generations from simpler instincts. Darwin also believed that all children followed a similar path in their early lives, as their brains developed from simple structures into complex vessels of thought. And so, starting with William and continuing with his subsequent children, he kept careful notes about how young humans changed over the first months of life.
+
+At first Darwin recorded “instinctive actions” such as “sneezing, hickuping, yawning, stretching, and of course sucking and screaming.” Only when his children grew older did any mention of sophisticated behavior start to appear in his notebook: His children learned to recognize themselves in mirrors, spoke simple words, reached for objects. Before then, he declared, “There is no trace of consciousness in very young children.”.
+
+Darwin was hardly an outlier in this belief. Doctors of the time also assumed babies were not conscious, and that assumption shaped their care of babies for generations. During surgery on newborns, for example, it was common not to use anesthesia; the drugs might damage a young brain — if babies weren’t conscious, what was the value of making them unconscious? As recently as the 1980s, doctors routinely withheld anesthesia from newborns, seeing no benefits that might offset the risks.
+
+Doctors have since reversed this practice, as the study of babies has matured. More recent research has found, for instance, that newborns process pain signals in many regions of the brain, suggesting that their experience is similar to that of older children and adults.
+
+Other studies have found signs that babies are capable of surprisingly complex forms of thought long before they can speak. They can recognize that a face is more than the sum of its parts; they can carry out simple forms of math in their heads. Findings like these made scientists rethink Darwin’s conclusion; perhaps consciousness emerges earlier than previously believed.
+
+To explore that possibility, researchers have borrowed some of the methods used to gauge consciousness in adults, like playing those oddball sounds. In an experiment in Germany, scientists placed newborns in a special crib lined with sensors that could detect tiny magnetic fluctuations, then outfitted the babies with earphones. When the researchers played combinations of low and high tones, the brains of the babies produced distinct blips in response.
+
+“It shows that the newborn brain is already performing very close to what we find in an adult brain,” said Claudia Passos-Ferreira, a philosopher at New York University.
+
+But Dr. Passos-Ferreira and other researchers don’t consider that one finding conclusive. Some experiments have failed to find certain other markers of consciousness in babies. So researchers are running many different tests, to perhaps identify a cluster of markers of consciousness.
+
+“If we see a lot of markers appearing at the same time, that’s highly suggestive that this is when consciousness begins,” Dr. Frohlich said.
+
+Some of the most promising recent results have come from a major effort in London called the Developing Connectome Project. To carry it out, scientists had to modify a functional magnetic resonance imaging device. Normally, adult subjects lie on a table that slides into a large cylinder. Instead, engineers built a small cradle with a plastic head-cap at one end, to detect activity in a baby’s brain.
+
+The project team ran brain scans on hundreds of babies, including newborns. They drew maps of the infant brains and recorded electrical activity that arose spontaneously during the 15-minute-long scans.
+
+Lorina Naci, a neuroscientist at Trinity College Dublin, and her colleagues have been busy analyzing those recordings. One hallmark of consciousness in adults is the way different parts of the brain become active in a coordinated fashion. Those connections can evaporate when adults are asleep, or are under anesthesia. In recent studies, Dr. Naci’s team has discovered that regions of baby brains become active together in networks that are similar to those of waking adults, offering another early marker of consciousness.
+
+In the meantime, new technology is speeding up data collection: Instead of putting babies in scanners, researchers can fit caps on their heads that monitor the brain with ultrasound or light.
+
+Mapping the birth of consciousness
+
+As more markers of consciousness turn up in newborns, scientists have begun wondering what’s happening in the fetal brain, before birth.
+
+Dr. Naci and her colleagues have found that some babies born prematurely also display networks of active brain regions that hint at conscious experiences. Dr. Frohlich and his colleague are studying fetuses that are still in utero, by having pregnant volunteers lean their bellies on a device that can detect the faint magnetic fields produced by fetal brains.
+
+For now, consciousness before birth is an even bigger mystery than consciousness in newborns. Scientists generally agree that consciousness cannot emerge before the fetal brain has matured enough to receive signals from the senses, and then integrate them into a unified experience. Before about 26 weeks of gestation, those neural connections don’t exist.
+
+How soon afterward these connections develop, scientists can only guess at. In a survey of experts by Dr. Passos-Ferreira, most estimated that infants have some consciousness by the time they are born.
+
+“There are still some skeptics about infant consciousness who think that it emerges later,” Dr. Passos-Ferreira said. “It’s a minority, but they’re still there.”
+
+As scientists map the birth of consciousness, they hope to gain a better understanding of how it evolved in humans in the first place. For children and adults, consciousness is vital for communicating through language, and for carrying out complex forms of thought. But if babies turn out to be conscious at birth, and long before they can talk or make plans for the future, then it must serve some additional purposes.
+
+Perhaps, Dr. Naci said, consciousness allows babies to start making sense of the world as soon as they enter it, “to help them really hit the ground running in terms learning and development as soon they are born.”
+
+But, she added, understanding consciousness in babies may demand a change in how we typically think of consciousness in general. By counting all the ways that the regions of a baby’s brain interact with each other from second to second, Dr. Naci and her colleagues have found that the baby brain actually exhibits more complexity than a waking adult’s. We tend to think of consciousness along a single line, on a gradient from unconscious to fully conscious. It’s the road we travel each day as we wake, and sleep. But what if consciousness has more dimensions, more ways of being?
+
+Dr. Naci speculates that babies may be conscious at birth, but in a way that is perhaps more open to the world. “The idea is that they have this capacity to perceive more of the environment in much richer and more diverse ways,” she said. “They could have a very different experience than we have as grown adults.”
