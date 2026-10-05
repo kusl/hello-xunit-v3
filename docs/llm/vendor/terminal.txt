@@ -1,39 +1,39 @@
-kushal@fedora:~/src/dotnet/zen-velixir-run$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 
-real	0m6.572s
-user	0m11.058s
-sys	0m0.929s
+real	0m6.514s
+user	0m11.098s
+sys	0m0.905s
 
 Build succeeded in 0.5s
 
-real	0m0.661s
-user	0m0.656s
-sys	0m0.143s
+real	0m0.625s
+user	0m0.643s
+sys	0m0.144s
 Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (3.2s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (3.1s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.7s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.6s
+Build succeeded in 4.4s
 
-real	0m4.757s
-user	0m1.993s
-sys	0m0.358s
+real	0m4.596s
+user	0m1.568s
+sys	0m0.319s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (791ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (1s 317ms)
 
 Test run summary: Passed!
   total: 217
   failed: 0
   succeeded: 217
   skipped: 0
-  duration: 1s 000ms
+  duration: 1s 520ms
 
-real	0m2.214s
-user	0m2.604s
-sys	0m0.427s
+real	0m2.751s
+user	0m2.598s
+sys	0m0.468s
 On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -63,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.425s
-user	0m0.234s
-sys	0m0.198s
+real	0m0.396s
+user	0m0.214s
+sys	0m0.203s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,12 +81,12 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.621s
-user	0m1.445s
-sys	0m0.337s
-Restore complete (0.5s)
+real	0m1.464s
+user	0m1.449s
+sys	0m0.290s
+Restore complete (0.4s)
 
-Build succeeded in 0.6s
+Build succeeded in 0.5s
 
 The following sources were used:
    https://api.nuget.org/v3/index.json
@@ -95,11 +95,11 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.977s
-user	0m1.632s
-sys	0m0.379s
+real	0m1.504s
+user	0m1.448s
+sys	0m0.315s
 
-real	0m1.974s
-user	0m3.308s
-sys	0m0.604s
+real	0m1.966s
+user	0m3.251s
+sys	0m0.606s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
