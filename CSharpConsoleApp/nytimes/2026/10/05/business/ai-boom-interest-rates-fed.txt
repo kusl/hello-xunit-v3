@@ -1,0 +1,74 @@
+================================================================================
+ai-boom-interest-rates-fed.html
+Source: PreloadedData  Paragraphs: 29  Words: 1568/1568
+================================================================================
+
+SUMMARY
+
+One of the primary drivers of today’s growth, and the price pressures that have followed in its wake, appears nearly immune to the higher interest rates that the central bank has begun to impose on the economy. “The problem for the Fed is that there is usually a built-in correction mechanism in the U.S. economy in which interest rates rise and at some point, the rate-sensitive parts of the economy, led by housing, slow down hard, and that then propagates to the rest of the economy,” said Ajay Rajadhyaksha, global chairman of research at Barclays. A.I. investments have so far been impervious to higher rates and soaring costs, Mr. Van Nieuwerburgh said, because other bottlenecks, such as delays in regulatory approvals, are making it hard to build enough data centers to meet exploding demand.
+
+ARTICLE
+
+High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.
+Rising borrowing costs are taking a toll on households and businesses. But they are doing little to dampen enthusiasm for investments in A.I. infrastructure, which are contributing to inflation.
+By Colby Smith and Ben Casselman
+Published 2026-10-05 15:27 UTC
+https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html
+
+The Federal Reserve has a conundrum on its hands as it tries to tame elevated inflation. One of the primary drivers of today’s growth, and the price pressures that have followed in its wake, appears nearly immune to the higher interest rates that the central bank has begun to impose on the economy.
+
+Companies’ seeking to expand their artificial intelligence abilities have been undeterred by not only U.S. borrowing costs that have recently reached multidecade highs, but also soaring costs for electricity, high bandwidth memory and other inputs that are crucial to continued growth.
+
+The implications for the Fed are vast, if price pressures do not ease as many policymakers expect in the coming months. To return inflation to the Fed’s 2 percent target, the central bank might need to tighten the screws on the economy more than otherwise would be the case to sufficiently slow down activity. The brunt of that adjustment will fall predominantly on industries more sensitive to higher rates, such as housing and the automotive sector, and in turn the people employed by the companies in those fields. Depending on how much the Fed ends up needing to choke off demand, the labor market, which is already starting to cool, could start to crack.
+
+“The problem for the Fed is that there is usually a built-in correction mechanism in the U.S. economy in which interest rates rise and at some point, the rate-sensitive parts of the economy, led by housing, slow down hard, and that then propagates to the rest of the economy,” said Ajay Rajadhyaksha, global chairman of research at Barclays.
+
+“But if a large part of the economy is just less rate sensitive and that is what is pushing the economy to grow faster, then the Fed, unfortunately, has to hurt the part of the economy that is more rate sensitive.”
+
+The scale of the A.I. buildout is so immense that it is measured in numbers usually associated with government spending on national defense or health care, not private-sector investments. In a recent paper, Stijn Van Nieuwerburgh, an economist at Columbia University, estimated that spending on A.I. chips, data centers and the electrical systems to power them would exceed $10 trillion from 2025 to 2032. That is more than 3.6 percent of total U.S. economic output each year.
+
+A growing share of that investment is being paid for with borrowed money, which in theory should make it responsive to rising interest rates. So far, however, there is little sign that higher borrowing costs are doing much, if anything, to slow the boom.
+
+“If it’s a real transformational technology that potentially is going to define the tech space for years to come; if you have the balance sheet capacity to borrow to make these investments; and if you think the investments are going to be profitable and generate double-digit returns on invested capital, then it doesn’t actually make a huge difference if you’re borrowing at 5.5 or 6 percent,” said Andrew Sheets, global head of fixed income research at Morgan Stanley. “That 50 basis points is not the limiting factor in whether or not the math works.”
+
+Businesses invested more than $100 billion in computers and related equipment in the second quarter of the year, up 60 percent from a year earlier and more than 1.5 times the rate in early 2024. Construction of data centers, not counting the chips inside them, has more than quintupled since the beginning of 2022.
+
+The surge in spending reflects in part rapidly rising prices for chips and related equipment. But even adjusting for inflation, investment is growing at a breakneck pace, and shows no sign of slowing.
+
+A.I. investments have so far been impervious to higher rates and soaring costs, Mr. Van Nieuwerburgh said, because other bottlenecks, such as delays in regulatory approvals, are making it hard to build enough data centers to meet exploding demand.
+
+“Currently, we’re in a building crunch where the key problem is we cannot build these data centers fast enough,” he said. If a project gets the necessary approvals, secures the required power and clears other hurdles, he said, “at that point, you’re going to build this data center pretty much no matter what it costs.”
+
+Higher borrowing costs might lower the return an investor can make on a project, he added, “but not that much, and it’s still going to be fantastic.”
+
+A.I. investments might not remain immune to higher rates forever. If the supply of data centers catches up with demand, or if the technology fails to live up to its promise and demand cools, then costs will begin to matter again. Even now, there are hints that investors are reconsidering some more speculative projects that do not have firm buyers lined up.
+
+Many economists are also optimistic that, over the long term, A.I. could improve productivity, allowing the economy to grow more quickly without causing inflation. Kevin M. Warsh, the Fed chairman, is one of several officials who have said they believe that the technology could ultimately help keep inflation in check.
+
+For now, though, the A.I. boom seems to be contributing to inflation, not taming it. And it is doing so at a time when forces even more outside the Fed’s control — most notably, the war with Iran — are also pushing up prices for energy and other goods.
+
+Prices for business computing equipment, including chips, were up 11.4 percent in the second quarter from a year earlier, according to the Bureau of Economic Analysis. Those higher prices are spilling over far beyond the A.I. industry, affecting other businesses and also consumers. Consumer prices for computing equipment were up 8.4 percent in August. And this year, Apple said it would raise prices on Macs and iPads because of the soaring cost of memory chips.
+
+The data center building boom is also contributing to the increase in prices for aluminum, copper and other materials, which were already being pushed up by President Trump’s tariffs. And demand for electricians and other workers involved in data-center construction is driving up labor costs. Average hourly earnings of electrical contractors were up 7.1 percent in August from a year earlier. That is adding to the cost of building factories, office buildings and apartments.
+
+The problem for the Fed is that it has only a blunt instrument at its disposal. It can’t raise interest rates on certain industries and not others. And if the A.I. boom is impervious to the effects of higher rates, then other sectors will inevitably bear the bulk of the pain.
+
+Adding to the Fed’s challenge, the sector that is usually hardest hit by rising rates, the housing market, was languishing long before last week, when mortgage rates surged to their highest level in three years. The residential construction sector is smaller today, adjusted for inflation, than it was before the pandemic, even as the economy as a whole has grown significantly.
+
+As a result, it is not clear that additional rate increases will do much to slow housing further.
+
+“The additional restraint you’re going to get from the housing market is limited,” said Nathan Sheets, a former official at the Treasury Department who is now global chief economist at Citigroup. The sizable portion of Americans who locked in ultralow mortgages when rates plummeted to zero roughly six years ago are unlikely to be swayed to move, unless by necessity, ensuring that home sales remain lackluster. New construction has also yet to pick up, but instead of job losses as a result, builders are shifting their focus to data centers.
+
+Construction spending solely for data centers reached an annual rate of $85 billion in August, more than double the rate two years ago, according to data from the Census Bureau.
+
+There are other channels the Fed can use, but they are less potent than housing typically has been. Monthly payments on automobile loans have become more costly as rates have risen. So have credit card debt payments. This is likely to keep pressure on lower-income consumers, who already have depleted financial cushions.
+
+Consumer spending has remained robust largely because Americans, especially those in high income brackets, have benefited from a seemingly relentless rally in the U.S. stock market that has been driven primarily by A.I. companies. The question is how hard the Fed wants to lean against that.
+
+Mr. Warsh last month described the Fed’s approach to raising rates as removing a “dose of accommodation,” leaving economists guessing not only how much more tightening might be expected, but also how the chairman would gauge when enough restraint had been imposed on the economy.
+
+“In order to cool the broader economy down — not just the investment outside of A.I. that’s interest rate sensitive — you probably need the equity markets to also cool off,” said Tiffany Wilding, an economist at PIMCO.
+
+Most of the run-up in equity prices can be attributed to A.I.-related companies. Any sell-off is likely to disproportionately hit companies outside that sphere, many of which have seen far more muted gains, or outright losses, this year. Depending on the magnitude, that could eventually pose a risk for the labor market, Ms. Wilding said.
+
+“C.E.O. confidence is certainly related to their own equity market prices,” Ms. Wilding said. “If you have stock prices going down, C.E.O.s see that, and then there’s more of an incentive for them to right-size their businesses. That’s when you get a potential labor market adjustment.”
