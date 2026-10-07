@@ -39,6 +39,12 @@ internal static class Fixtures
 
     public static string SamplePath(string relative) =>
         Path.Combine([AppContext.BaseDirectory, "nytimes", .. relative.Split('/')]);
+
+    public static string ScriptPage(string json) =>
+        "<html><body><script>window.__preloadedData = " + json + ";</script></body></html>";
+
+    public static string RootedArticle(string blocks, string root = "loaderData") =>
+        "{\"" + root + "\":{\"data\":{\"article\":{\"sprinkledBody\":{\"content\":[" + blocks + "]}}}}}";
 }
 
 public class TextToolsTests
@@ -163,6 +169,9 @@ public class ScriptDataTests
     [InlineData("window.__data = 5;")]
     [InlineData("window.__data = {\"a\":1")]
     [InlineData("window.__data")]
+    [InlineData("window.__data =")]
+    [InlineData("window.__data = foo({\"a\":1});")]
+    [InlineData("window.__data = [undefined")]
     public void TryExtract_WhenNoCompleteLiteral_ReturnsFalse(string source)
     {
         Assert.False(ScriptData.TryExtractAssignedObject(source, Name, out string? json));
@@ -174,6 +183,31 @@ public class ScriptDataTests
     {
         Assert.Throws<ArgumentNullException>(() => ScriptData.TryExtractAssignedObject(null!, Name, out _));
         Assert.Throws<ArgumentException>(() => ScriptData.TryExtractAssignedObject("x", "", out _));
+    }
+
+    [Fact]
+    public void TryExtract_SkipsUsesThatAreNotAssignments()
+    {
+        const string Source = """window.__data({"wrong":1}); window.__data = {"right":1};""";
+        Assert.True(ScriptData.TryExtractAssignedObject(Source, Name, out string? json));
+        Assert.Equal("""{"right":1}""", json);
+    }
+
+    [Fact]
+    public void TryExtract_ReadsEmptyStrings()
+    {
+        Assert.True(ScriptData.TryExtractAssignedObject("""window.__data = {"":1};""", Name, out string? json));
+        Assert.Equal("""{"":1}""", json);
+    }
+
+    [Theory]
+    [InlineData("window.__data = [u];", "[u]")]
+    [InlineData("window.__data = [undefinedX];", "[undefinedX]")]
+    [InlineData("window.__data = [xundefined];", "[xundefined]")]
+    public void TryExtract_ReplacesOnlyStandaloneUndefined(string source, string expected)
+    {
+        Assert.True(ScriptData.TryExtractAssignedObject(source, Name, out string? json));
+        Assert.Equal(expected, json);
     }
 }
 
@@ -214,7 +248,80 @@ public class SentenceSplitterTests
     [Fact]
     public void Split_WhenNull_Throws()
     {
-        Assert.Throws<ArgumentNullException>(() => SentenceSplitter.Split(null!));
+        Assert.Throws<ArgumentNullException>("text", () => SentenceSplitter.Split(null!));
+    }
+
+    [Theory]
+    [InlineData("\u201CGo now.\u201D Then leave.", "\u201CGo now.\u201D|Then leave.")]
+    [InlineData("She wrote \u201CMr.\u201D Then left.", "She wrote \u201CMr.\u201D|Then left.")]
+    [InlineData("Use the.NET runtime.", "Use the.NET runtime.")]
+    [InlineData("Version 1.5. Next one.", "Version 1.5.|Next one.")]
+    [InlineData("Hello Dr! Next.", "Hello Dr!|Next.")]
+    [InlineData("Wait... Then go.", "Wait...|Then go.")]
+    [InlineData("Really?! Yes.", "Really?!|Yes.")]
+    public void Split_HandlesClosersRunsAndInnerPeriods(string text, string expected)
+    {
+        Assert.Equal(expected.Split('|'), SentenceSplitter.Split(text));
+    }
+
+    [Theory]
+    [InlineData("mr")]
+    [InlineData("mrs")]
+    [InlineData("ms")]
+    [InlineData("dr")]
+    [InlineData("prof")]
+    [InlineData("sen")]
+    [InlineData("rep")]
+    [InlineData("gov")]
+    [InlineData("gen")]
+    [InlineData("lt")]
+    [InlineData("col")]
+    [InlineData("sgt")]
+    [InlineData("capt")]
+    [InlineData("adm")]
+    [InlineData("maj")]
+    [InlineData("st")]
+    [InlineData("jr")]
+    [InlineData("sr")]
+    [InlineData("inc")]
+    [InlineData("co")]
+    [InlineData("corp")]
+    [InlineData("ltd")]
+    [InlineData("vs")]
+    [InlineData("etc")]
+    [InlineData("no")]
+    [InlineData("mt")]
+    [InlineData("ft")]
+    [InlineData("ave")]
+    [InlineData("blvd")]
+    [InlineData("jan")]
+    [InlineData("feb")]
+    [InlineData("mar")]
+    [InlineData("apr")]
+    [InlineData("aug")]
+    [InlineData("sept")]
+    [InlineData("sep")]
+    [InlineData("oct")]
+    [InlineData("nov")]
+    [InlineData("dec")]
+    [InlineData("u.s")]
+    [InlineData("u.n")]
+    [InlineData("u.k")]
+    [InlineData("e.u")]
+    [InlineData("d.c")]
+    [InlineData("a.m")]
+    [InlineData("p.m")]
+    [InlineData("i.e")]
+    [InlineData("e.g")]
+    public void Split_DoesNotBreakAfterKnownAbbreviations(string abbreviation)
+    {
+        Assert.Single(SentenceSplitter.Split($"See {abbreviation}. Next"));
+    }
+
+    [Fact]
+    public void Split_BreaksAfterUnknownWords()
+    {
+        Assert.Equal(2, SentenceSplitter.Split("See xyz. Next").Count);
     }
 }
 
@@ -249,6 +356,44 @@ public class HtmlElementsTests
     public void Remove_DoesNotMatchLongerTagNames()
     {
         Assert.Equal("<pre>x</pre>", HtmlElements.Remove("<pre>x</pre>", "p"));
+    }
+
+    [Fact]
+    public void Content_StartsAfterTheFirstClosingAngleBracket()
+    {
+        Assert.Equal("abc", HtmlElements.Content(">abc</x>", 0, "x"));
+    }
+
+    [Fact]
+    public void Content_WhenStartTagIsUnterminated_ReturnsEmpty()
+    {
+        Assert.Equal("", HtmlElements.Content("<div", 0, "div"));
+    }
+
+    [Fact]
+    public void Content_DoesNotCountSelfClosingTagsAsNesting()
+    {
+        Assert.Equal("<div/>inner", HtmlElements.Content("<div><div/>inner</div>tail", 0, "div"));
+    }
+
+    [Fact]
+    public void Remove_WhenUnclosed_DropsTheRest()
+    {
+        Assert.Equal("a", HtmlElements.Remove("a<figure>x", "figure"));
+    }
+
+    [Fact]
+    public void Content_ValidatesArguments()
+    {
+        Assert.Throws<ArgumentNullException>("html", () => HtmlElements.Content(null!, 0, "p"));
+        Assert.Throws<ArgumentException>("tag", () => HtmlElements.Content("<p>", 0, ""));
+    }
+
+    [Fact]
+    public void Remove_ValidatesArguments()
+    {
+        Assert.Throws<ArgumentNullException>("html", () => HtmlElements.Remove(null!, "p"));
+        Assert.Throws<ArgumentException>("tag", () => HtmlElements.Remove("<p>", ""));
     }
 }
 
@@ -345,7 +490,117 @@ public class HtmlPageTests
     [Fact]
     public void Parse_WhenNull_Throws()
     {
-        Assert.Throws<ArgumentNullException>(() => HtmlPage.Parse(null!));
+        Assert.Throws<ArgumentNullException>("html", () => HtmlPage.Parse(null!));
+    }
+
+    [Fact]
+    public void Parse_ReadsSecondaryMetaTags()
+    {
+        const string Html = """
+            <meta name="twitter:title" content="Twitter Title">
+            <meta property="og:description" content="OG description">
+            <meta name="author" content="Ann Lee and Bo Kim">
+            <meta property="article:modified_time" content="2026-09-29T10:00:00Z">
+            <meta name="url" content="http://example.com/plain">
+            """;
+        PageMetadata metadata = HtmlPage.Parse(Html).Metadata;
+
+        Assert.Equal("Twitter Title", metadata.Headline);
+        Assert.Equal("OG description", metadata.Summary);
+        Assert.Equal(new[] { "Ann Lee", "Bo Kim" }, metadata.Authors);
+        Assert.Equal(new DateTimeOffset(2026, 9, 29, 10, 0, 0, TimeSpan.Zero), metadata.Modified);
+        Assert.Equal(new Uri("http://example.com/plain"), metadata.Url);
+    }
+
+    [Fact]
+    public void Parse_PrefersPrimaryMetaTags()
+    {
+        const string Html = """
+            <meta name="byl" content="By Primary Person">
+            <meta name="author" content="Secondary Person">
+            <meta property="og:url" content="https://example.com/og">
+            <meta name="url" content="https://example.com/plain">
+            <meta name="description" content="First" content="Second">
+            """;
+        PageMetadata metadata = HtmlPage.Parse(Html).Metadata;
+
+        Assert.Equal(new[] { "Primary Person" }, metadata.Authors);
+        Assert.Equal(new Uri("https://example.com/og"), metadata.Url);
+        Assert.Equal("First", metadata.Summary);
+    }
+
+    [Fact]
+    public void Parse_PrefersJsonLdOverMetaTags()
+    {
+        const string Html = """
+            <meta property="article:published_time" content="2020-01-01T00:00:00Z">
+            <meta property="article:modified_time" content="2020-01-02T00:00:00Z">
+            <meta property="og:url" content="https://example.com/meta">
+            <script type="application/ld+json">{"@type":"NewsArticle","datePublished":"2026-03-04T05:06:07Z","dateModified":"2026-03-05T00:00:00Z","url":"https://example.com/ld","@id":"https://example.com/id"}</script>
+            """;
+        PageMetadata metadata = HtmlPage.Parse(Html).Metadata;
+
+        Assert.Equal(new DateTimeOffset(2026, 3, 4, 5, 6, 7, TimeSpan.Zero), metadata.Published);
+        Assert.Equal(new DateTimeOffset(2026, 3, 5, 0, 0, 0, TimeSpan.Zero), metadata.Modified);
+        Assert.Equal(new Uri("https://example.com/ld"), metadata.Url);
+    }
+
+    [Fact]
+    public void Parse_ReadsJsonLdFallbackFields()
+    {
+        const string Html = """
+            <meta name="byl" content="By Meta Author">
+            <meta property="article:section" content="Business">
+            <script type="application/ld+json">{"@type":"Article","name":"Named","@id":"https://example.com/id"}</script>
+            """;
+        PageMetadata metadata = HtmlPage.Parse(Html).Metadata;
+
+        Assert.Equal("Named", metadata.Headline);
+        Assert.Equal(new[] { "Meta Author" }, metadata.Authors);
+        Assert.Equal(new[] { "Business" }, metadata.Sections);
+        Assert.Equal(new Uri("https://example.com/id"), metadata.Url);
+    }
+
+    [Fact]
+    public void Parse_ReadsStringAuthorsAndSectionArrays()
+    {
+        const string Html = """<script type="application/ld+json">{"@type":"Article","author":"Solo Writer","articleSection":[" World ",5,"Europe"]}</script>""";
+        PageMetadata metadata = HtmlPage.Parse(Html).Metadata;
+
+        Assert.Equal(new[] { "Solo Writer" }, metadata.Authors);
+        Assert.Equal(new[] { "World", "Europe" }, metadata.Sections);
+    }
+
+    [Theory]
+    [InlineData("NewsArticle")]
+    [InlineData("ReportageNewsArticle")]
+    [InlineData("BlogPosting")]
+    [InlineData("Report")]
+    public void Parse_RecognizesArticleTypes(string type)
+    {
+        string html = $$"""<script type="application/ld+json">{"@type":"{{type}}","headline":"Typed"}</script>""";
+        Assert.Equal("Typed", HtmlPage.Parse(html).Metadata.Headline);
+    }
+
+    [Fact]
+    public void Parse_IgnoresOtherJsonLdTypes()
+    {
+        Assert.Null(HtmlPage.Parse("""<script type="application/ld+json">{"@type":"WebPage","headline":"Page"}</script>""").Metadata.Headline);
+    }
+
+    [Fact]
+    public void Parse_ToleratesCommentsAndTrailingCommasInJsonLd()
+    {
+        const string Html = """<script type="application/ld+json">/* note */ {"@type":"Article","headline":"Lenient",}</script>""";
+        Assert.Equal("Lenient", HtmlPage.Parse(Html).Metadata.Headline);
+    }
+
+    [Theory]
+    [InlineData("By Ann,, Bo", "Ann|Bo")]
+    [InlineData("Ann Lee and Bo Kim", "Ann Lee|Bo Kim")]
+    public void Parse_SplitsBylines(string byline, string expected)
+    {
+        Assert.Equal(expected.Split('|'), HtmlPage.Parse($"<meta name=\"byl\" content=\"{byline}\">").Metadata.Authors);
     }
 }
 
@@ -513,6 +768,225 @@ public class PreloadedDataExtractorTests
     {
         Assert.Throws<ArgumentNullException>(() => new PreloadedDataExtractor().Extract(null!));
     }
+
+    private static Article? TryExtract(string html) => new PreloadedDataExtractor().Extract(HtmlPage.Parse(html));
+
+    [Theory]
+    [InlineData("loaderData")]
+    [InlineData("initialData")]
+    [InlineData("initialState")]
+    public void Extract_FindsHeadlinelessArticlesAtKnownRoots(string root)
+    {
+        Article? article = TryExtract(Fixtures.ScriptPage(Fixtures.RootedArticle(Fixtures.ParagraphJson("Rooted."), root)));
+
+        Assert.NotNull(article);
+        Assert.Equal("Rooted.", Assert.Single(article.Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_IgnoresHeadlinelessArticlesElsewhere()
+    {
+        string json = "{\"x\":{\"sprinkledBody\":{\"content\":[" + Fixtures.ParagraphJson("Orphan.") + "]}}}";
+        Assert.Null(TryExtract(Fixtures.ScriptPage(json)));
+    }
+
+    [Fact]
+    public void Extract_SkipsKnownRootsWithoutBody()
+    {
+        string json = "{\"loaderData\":{\"data\":{\"article\":{\"headline\":{\"default\":\"Empty\"}}}},\"initialData\":{\"data\":{\"article\":{\"sprinkledBody\":{\"content\":[" + Fixtures.ParagraphJson("Second root.") + "]}}}}}";
+        Article? article = TryExtract(Fixtures.ScriptPage(json));
+
+        Assert.NotNull(article);
+        Assert.Equal("Second root.", Assert.Single(article.Paragraphs).Text);
+    }
+
+    private static string Nested(int depth)
+    {
+        string json = "{\"headline\":{\"default\":\"Deep\"},\"sprinkledBody\":{\"content\":[" + Fixtures.ParagraphJson("Deep.") + "]}}";
+        for (int level = 0; level < depth; level++)
+        {
+            json = "{\"x\":" + json + "}";
+        }
+
+        return Fixtures.ScriptPage(json);
+    }
+
+    [Fact]
+    public void Extract_SearchesTwelveLevelsDeep()
+    {
+        Assert.NotNull(TryExtract(Nested(12)));
+    }
+
+    [Fact]
+    public void Extract_StopsSearchingBelowTwelveLevels()
+    {
+        Assert.Null(TryExtract(Nested(13)));
+    }
+
+    [Fact]
+    public void Extract_TreatsNullSprinkledBodyAsMissing()
+    {
+        string json = Fixtures.ArticleJson("").Replace("\"sprinkledBody\": {\"content\": []}", "\"sprinkledBody\": null, \"body\": {\"content\": [" + Fixtures.ParagraphJson("From body.") + "]}", StringComparison.Ordinal);
+        Article? article = TryExtract(Fixtures.PreloadedPage(json));
+
+        Assert.NotNull(article);
+        Assert.Equal("From body.", Assert.Single(article.Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_PrefersSprinkledBodyOverBody()
+    {
+        Article article = Extract(Fixtures.ParagraphJson("Sprinkled."), ", \"body\": {\"content\": [" + Fixtures.ParagraphJson("Plain body.") + "]}");
+        Assert.Equal("Sprinkled.", Assert.Single(article.Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_ToleratesTrailingCommas()
+    {
+        Assert.Equal("Lenient.", Assert.Single(Extract(Fixtures.ParagraphJson("Lenient."), ",").Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_ResolvesRelativeLinksAgainstNytimesWhenNoUrlIsKnown()
+    {
+        const string Block = """{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Link","formats":[{"__typename":"LinkFormat","url":"/2026/a.html"}]}]}""";
+        Article? article = TryExtract(Fixtures.ScriptPage(Fixtures.RootedArticle(Block)));
+
+        Assert.NotNull(article);
+        Assert.Equal(new Uri("https://www.nytimes.com/2026/a.html"), Assert.Single(Assert.Single(article.Paragraphs).Links).Link);
+    }
+
+    private const string MetaTags = """<meta name="byl" content="By Pat Lee"><meta property="article:published_time" content="2026-02-03T04:05:06Z"><meta property="article:modified_time" content="2026-02-04T00:00:00Z"><meta property="article:section" content="Science"><meta property="og:url" content="https://example.com/meta">""";
+
+    [Fact]
+    public void Extract_FallsBackToPageMetadataForEveryField()
+    {
+        Article? article = TryExtract(MetaTags + Fixtures.ScriptPage(Fixtures.RootedArticle(Fixtures.ParagraphJson("Body."))));
+
+        Assert.NotNull(article);
+        Assert.Equal("", article.Headline);
+        Assert.Equal(new[] { "Pat Lee" }, article.Authors);
+        Assert.Equal(new DateTimeOffset(2026, 2, 3, 4, 5, 6, TimeSpan.Zero), article.Published);
+        Assert.Equal(new DateTimeOffset(2026, 2, 4, 0, 0, 0, TimeSpan.Zero), article.Modified);
+        Assert.Equal(new[] { "Science" }, article.Sections);
+        Assert.Equal(new Uri("https://example.com/meta"), article.Url);
+    }
+
+    [Fact]
+    public void Extract_PrefersArticleFieldsOverPageMetadata()
+    {
+        Article? article = TryExtract(MetaTags + Fixtures.PreloadedPage(Fixtures.ArticleJson(Fixtures.ParagraphJson("Body."))));
+
+        Assert.NotNull(article);
+        Assert.Equal(new[] { "Ada Lovelace", "Alan Turing" }, article.Authors);
+        Assert.Equal(new DateTimeOffset(2026, 1, 1, 12, 30, 0, TimeSpan.Zero), article.Published);
+        Assert.Equal(new DateTimeOffset(2026, 1, 2, 8, 0, 0, TimeSpan.Zero), article.Modified);
+        Assert.Equal(new[] { "U.S.", "Politics" }, article.Sections);
+        Assert.Equal(new Uri("https://www.example.com/2026/01/01/story.html"), article.Url);
+    }
+
+    [Fact]
+    public void Extract_PrefersCreatorsOverTheRenderedByline()
+    {
+        string json = Fixtures.ArticleJson(Fixtures.ParagraphJson("x")).Replace("By Ada Lovelace and Alan Turing", "By Someone Else", StringComparison.Ordinal);
+        Article? article = TryExtract(Fixtures.PreloadedPage(json));
+
+        Assert.NotNull(article);
+        Assert.Equal(new[] { "Ada Lovelace", "Alan Turing" }, article.Authors);
+    }
+
+    [Fact]
+    public void Extract_UsesSeoHeadlineAndSectionNamesAsFallbacks()
+    {
+        string json = Fixtures.ArticleJson(Fixtures.ParagraphJson("x"))
+            .Replace("\"default\": \"Display Headline\", ", "", StringComparison.Ordinal)
+            .Replace("\"displayName\": \"Politics\", ", "", StringComparison.Ordinal);
+        Article? article = TryExtract(Fixtures.PreloadedPage(json));
+
+        Assert.NotNull(article);
+        Assert.Equal("SEO Headline", article.Headline);
+        Assert.Equal(new[] { "U.S.", "politics" }, article.Sections);
+    }
+
+    [Fact]
+    public void Extract_SkipsEmptyQuotesListsNotesAndHeadings()
+    {
+        const string Blocks = """
+            {"__typename":"BlockquoteBlock","content":[{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":" "}]}]},
+            {"__typename":"ListBlock","content":[{"__typename":"ListItemBlock","content":[]}]},
+            {"__typename":"ListBlock","content":[{"__typename":"ListItemBlock","content":[]},{"__typename":"ListItemBlock","content":[{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Item"}]}]}]},
+            {"__typename":"DetailBlock","content":[]},
+            {"__typename":"Heading2Block","content":[]},
+            {"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Real."}]}
+            """;
+
+        Assert.Collection(
+            Extract(Blocks).Body,
+            block => Assert.Equal(new[] { "Item" }, Assert.IsType<ItemList>(block).Items),
+            block => Assert.Equal("Real.", Assert.IsType<Paragraph>(block).Text));
+    }
+
+    [Fact]
+    public void Extract_IgnoresUnknownAndUntypedBlocksEvenWithLedeMedia()
+    {
+        const string Blocks = """
+            {"__typename":"MysteryBlock","ledeMedia":{"__typename":"ImageBlock","media":{"credit":"Hidden"}}},
+            {"content":[{"text":"Untyped"}]},
+            {"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Kept."}]}
+            """;
+        Assert.IsType<Paragraph>(Assert.Single(Extract(Blocks).Body));
+    }
+
+    [Theory]
+    [InlineData("Heading1Block", 1)]
+    [InlineData("Heading6Block", 6)]
+    [InlineData("Heading0Block", 0)]
+    [InlineData("Heading7Block", 0)]
+    [InlineData("Heading2Blocks", 0)]
+    [InlineData("Xeading2Block", 0)]
+    [InlineData("Heading2Xlock", 0)]
+    public void Extract_RecognizesHeadingOneThroughSix(string type, int level)
+    {
+        string blocks = $$"""{"__typename":"{{type}}","content":[{"__typename":"TextInline","text":"Title"}]},""" + Fixtures.ParagraphJson("Body.");
+        Heading[] expected = level == 0 ? [] : [new Heading(level, "Title")];
+
+        Assert.Equal(expected, Extract(blocks).Body.OfType<Heading>());
+    }
+
+    [Fact]
+    public void Extract_FlattensNestedInlineContainers()
+    {
+        const string Block = """{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Out "},{"__typename":"StyledInline","content":[{"__typename":"TextInline","text":"in"}]}]}""";
+        Assert.Equal("Out in", Assert.Single(Extract(Block).Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_JoinsInlineTextAndSeparatesBlocks()
+    {
+        const string Blocks = """
+            {"__typename":"Heading2Block","content":[{"text":"O"},{"text":"ne"},{"__typename":"StyledInline","content":[{"text":"-two"}]},{"__typename":"LineBreakInline"},{"text":"three"}]},
+            {"__typename":"ListBlock","content":[{"__typename":"ListItemBlock","content":[{"__typename":"ParagraphBlock","content":[{"text":"First"}]},{"__typename":"ParagraphBlock","content":[{"text":"Second"}]}]}]},
+            {"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Body."}]}
+            """;
+
+        Assert.Collection(
+            Extract(Blocks).Body,
+            block => Assert.Equal(new Heading(2, "One-two three"), block),
+            block => Assert.Equal(new[] { "First Second" }, Assert.IsType<ItemList>(block).Items),
+            block => Assert.IsType<Paragraph>(block));
+    }
+
+    [Fact]
+    public void Extract_KeepsFiguresWithOnlyACaptionOrOnlyACredit()
+    {
+        const string Blocks = """
+            {"__typename":"ImageBlock","media":{"credit":"Only credit"}},
+            {"__typename":"ImageBlock","media":{"caption":{"text":"Only caption"}}},
+            {"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Body."}]}
+            """;
+
+        Assert.Equal(new[] { new Figure(null, "Only credit"), new Figure("Only caption", null) }, Extract(Blocks).Body.OfType<Figure>());
+    }
 }
 
 public class JsonLdExtractorTests
@@ -536,6 +1010,22 @@ public class JsonLdExtractorTests
     public void Extract_WhenNoArticleBody_ReturnsNull(string html)
     {
         Assert.Null(new JsonLdExtractor().Extract(HtmlPage.Parse(html)));
+    }
+
+    [Fact]
+    public void Extract_SkipsBlankLines()
+    {
+        const string Html = """<script type="application/ld+json">{"@type":"NewsArticle","headline":"H","articleBody":"\nFirst."}</script>""";
+        Article? article = new JsonLdExtractor().Extract(HtmlPage.Parse(Html));
+
+        Assert.NotNull(article);
+        Assert.Equal("First.", Assert.Single(article.Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_WhenPageIsNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("page", () => new JsonLdExtractor().Extract(null!));
     }
 }
 
@@ -628,6 +1118,68 @@ public class RenderedHtmlExtractorTests
     {
         Assert.Null(new RenderedHtmlExtractor().Extract(HtmlPage.Parse(html)));
     }
+
+    [Theory]
+    [InlineData("script")]
+    [InlineData("style")]
+    [InlineData("noscript")]
+    [InlineData("template")]
+    [InlineData("svg")]
+    [InlineData("figure")]
+    [InlineData("aside")]
+    [InlineData("nav")]
+    [InlineData("form")]
+    [InlineData("button")]
+    [InlineData("header")]
+    [InlineData("footer")]
+    public void Extract_DropsParagraphsInsideNonContentElements(string element)
+    {
+        Assert.Equal("Kept.", Assert.Single(Extract($"<article><p>Kept.</p><{element}><p>Dropped.</p></{element}></article>").Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_DropsNestedRegionElements()
+    {
+        Assert.Equal("Kept.", Assert.Single(Extract("<article><p>Kept.</p><article><p>Nested.</p></article></article>").Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_RemovesCommentsInsideParagraphs()
+    {
+        Assert.Equal("Real text.", Assert.Single(Extract("<article><p>Real <!-- note --> text.</p></article>").Paragraphs).Text);
+    }
+
+    [Fact]
+    public void Extract_PicksTheParagraphStyleWithTheMostText()
+    {
+        const string Html = """<article><p class="a">Ten chars.</p><p class="a">Ten chars.</p><p class="b">Fifteen chars!!</p></article>""";
+        Assert.Equal(new[] { "Ten chars.", "Ten chars." }, Extract(Html).Paragraphs.Select(paragraph => paragraph.Text));
+    }
+
+    [Fact]
+    public void Extract_UsesAnEmptyHeadlineWhenThePageHasNone()
+    {
+        Assert.Equal("", Extract("<p>x</p>").Headline);
+    }
+
+    [Fact]
+    public void Extract_SkipsEmptyHeadings()
+    {
+        Assert.IsType<Paragraph>(Assert.Single(Extract("<body><p>x</p><h2> </h2></body>").Body));
+    }
+
+    [Fact]
+    public void Extract_DoesNotAddEmptyInlines()
+    {
+        Inline inline = Assert.Single(Assert.Single(Extract("""<p><a href="https://example.com/x">link</a></p>""").Paragraphs).Inlines);
+        Assert.Equal(new Inline("link", new Uri("https://example.com/x")), inline);
+    }
+
+    [Fact]
+    public void Extract_WhenPageIsNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("page", () => new RenderedHtmlExtractor().Extract(null!));
+    }
 }
 
 public class CompositeArticleExtractorTests
@@ -686,6 +1238,12 @@ public class CompositeArticleExtractorTests
 
         Assert.NotNull(article);
         Assert.Equal(ExtractionSource.RenderedHtml, article.Source);
+    }
+
+    [Fact]
+    public void Extract_WhenPageIsNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("page", () => new CompositeArticleExtractor([]).Extract(null!));
     }
 }
 
@@ -781,6 +1339,13 @@ public class PlainTextFormatterTests
     {
         Assert.Throws<ArgumentNullException>(() => new PlainTextFormatter().Format(null!));
     }
+
+    [Fact]
+    public void Format_RendersFiguresWithoutCaptionOrCredit()
+    {
+        Article article = Fixtures.Article(new Figure(null, null));
+        Assert.Equal("[Image] ", new PlainTextFormatter(new FormatOptions(IncludeMetadata: false, IncludeFigures: true)).Format(article));
+    }
 }
 
 public class MarkdownFormatterTests
@@ -827,6 +1392,42 @@ public class MarkdownFormatterTests
 
         Assert.Equal("## Sub\n\n#### Deep\n\n> Said \\*this\\*.\n\n- x\n- y\n\n_Credit._\n\n> _Cap_\n\n> **Graphic:** Chart.", markdown);
     }
+
+    [Fact]
+    public void Format_SkipsMissingMetadata()
+    {
+        var article = new Article("", null, [], null, null, null, [], null, [new Paragraph("Only.")], ExtractionSource.RenderedHtml);
+        Assert.Equal("Only.", new MarkdownFormatter().Format(article));
+    }
+
+    [Fact]
+    public void Format_JoinsInlinesWithoutAddingSpaces()
+    {
+        var link = new Uri("https://example.com/f");
+        var paragraph = new Paragraph([new Inline("pre"), new Inline(""), new Inline("fix", link), new Inline(" ", link), new Inline("end")]);
+        string markdown = new MarkdownFormatter(new FormatOptions(IncludeMetadata: false)).Format(Fixtures.Article(paragraph));
+
+        Assert.Equal("pre[fix](https://example.com/f) end", markdown);
+    }
+
+    [Fact]
+    public void Format_NumbersOrderedLists()
+    {
+        Article article = Fixtures.Article(new ItemList(["a", "b"], Ordered: true));
+        Assert.Equal("1. a\n2. b", new MarkdownFormatter(new FormatOptions(IncludeMetadata: false)).Format(article));
+    }
+
+    [Fact]
+    public void Escape_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("text", () => MarkdownFormatter.Escape(null!));
+    }
+
+    [Fact]
+    public void Format_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("article", () => new MarkdownFormatter().Format(null!));
+    }
 }
 
 public class LeadSummarizerTests
@@ -857,6 +1458,19 @@ public class LeadSummarizerTests
     public void Constructor_RejectsNonPositiveBudgets(int maxWords)
     {
         Assert.Throws<ArgumentOutOfRangeException>(() => new LeadSummarizer(maxWords));
+    }
+
+    [Fact]
+    public void Summarize_IncludesASentenceThatExactlyFillsTheBudget()
+    {
+        Article article = Fixtures.ArticleOf("One two three. Four five six.", "Seven eight nine.");
+        Assert.Equal("One two three. Four five six.", new LeadSummarizer(maxWords: 6).Summarize(article));
+    }
+
+    [Fact]
+    public void Summarize_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("article", () => new LeadSummarizer().Summarize(null!));
     }
 }
 
@@ -935,6 +1549,89 @@ public class ExtractiveSummarizerTests
     {
         Assert.Throws<ArgumentOutOfRangeException>(() => new ExtractiveSummarizer(maxSentences));
     }
+
+    public static TheoryData<string> StopWords =>
+    [
+        "about", "above", "after", "again", "against", "all", "also", "and", "any", "are",
+        "because", "been", "before", "being", "below", "between", "both", "but", "can", "could",
+        "did", "does", "doing", "down", "during", "each", "even", "few", "for", "from",
+        "further", "had", "has", "have", "having", "her", "here", "hers", "herself", "him",
+        "himself", "his", "how", "into", "its", "itself", "just", "last", "like", "made",
+        "make", "many", "may", "more", "most", "mrs", "much", "myself", "new", "nor",
+        "not", "now", "off", "once", "one", "only", "other", "our", "ours", "ourselves",
+        "out", "over", "own", "said", "same", "say", "says", "she", "should", "since",
+        "some", "still", "such", "than", "that", "the", "their", "theirs", "them", "themselves",
+        "then", "there", "these", "they", "this", "those", "through", "too", "two", "under",
+        "until", "very", "was", "were", "what", "when", "where", "which", "while", "who",
+        "whom", "why", "will", "with", "would", "year", "years", "yet", "you", "your",
+        "yours", "yourself", "yourselves", "it's", "don't", "didn't", "that's", "he's", "she's", "they're",
+    ];
+
+    [Theory]
+    [MemberData(nameof(StopWords))]
+    public void ContentWords_DropsEveryStopWord(string word)
+    {
+        Assert.Empty(ExtractiveSummarizer.ContentWords(word));
+    }
+
+    [Fact]
+    public void ContentWords_DropsTwoLetterWords()
+    {
+        Assert.Empty(ExtractiveSummarizer.ContentWords("ox is up"));
+    }
+
+    [Fact]
+    public void Summarize_BoostsWordsFromTheHeadlineAndSummary()
+    {
+        Article article = Fixtures.ArticleOf(
+            "Dockworkers began a harbor strike on Monday.",
+            "The city budget vote was delayed by the council.",
+            "The council said the city budget vote would be held next week.") with { Headline = "Harbor strike", Summary = "Dockworkers walk out" };
+
+        Assert.Equal("Dockworkers began a harbor strike on Monday.", new ExtractiveSummarizer(maxSentences: 1).Summarize(article));
+    }
+
+    [Fact]
+    public void Summarize_SumsWordWeights()
+    {
+        Article article = Fixtures.ArticleOf(
+            "Farmers planted corn, wheat, barley and oats in the valley.",
+            "Heavy rain soaked the valley again, and more rain is coming.",
+            "Rain also delayed the harvest of corn, wheat and oats.");
+
+        Assert.Equal("Farmers planted corn, wheat, barley and oats in the valley.", new ExtractiveSummarizer(maxSentences: 1).Summarize(article));
+    }
+
+    [Fact]
+    public void Summarize_AcceptsSentencesOfExactlySixWords()
+    {
+        Article article = Fixtures.ArticleOf("Port cranes stood idle all day.", "A bakery on the corner reopened yesterday.");
+        Assert.Equal("Port cranes stood idle all day.", new ExtractiveSummarizer(maxSentences: 1).Summarize(article));
+    }
+
+    [Fact]
+    public void Summarize_RejectsSentencesThatAreHalfDuplicates()
+    {
+        Article article = Fixtures.ArticleOf(
+            "Port cranes sat idle during the strike.",
+            "Port cranes sat idle during the strike as wage talks stalled near the docks.",
+            "A bakery on the corner reopened yesterday.");
+
+        Assert.Equal("Port cranes sat idle during the strike. A bakery on the corner reopened yesterday.", new ExtractiveSummarizer(maxSentences: 2).Summarize(article));
+    }
+
+    [Fact]
+    public void Summarize_IgnoresSentencesWithoutContentWords()
+    {
+        Article article = Fixtures.ArticleOf("Oil exports rose sharply in March.", "They were there with them about this.");
+        Assert.Equal("Oil exports rose sharply in March.", new ExtractiveSummarizer().Summarize(article));
+    }
+
+    [Fact]
+    public void Summarize_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("article", () => new ExtractiveSummarizer().Summarize(null!));
+    }
 }
 
 public class ArticleProcessorTests
@@ -971,7 +1668,7 @@ public class ArticleProcessorTests
     [Fact]
     public void Process_WhenNull_Throws()
     {
-        Assert.Throws<ArgumentNullException>(() => ArticleProcessor.Default.Process(null!));
+        Assert.Throws<ArgumentNullException>("html", () => ArticleProcessor.Default.Process(null!));
     }
 
     [Fact]
@@ -1042,6 +1739,131 @@ public class ArticleProcessorTests
     {
         await Assert.ThrowsAsync<ArgumentException>(() => ArticleProcessor.Default.ProcessFileAsync(path, TestContext.Current.CancellationToken));
     }
+
+    private sealed class RecordingContext : SynchronizationContext
+    {
+        private int _posts;
+
+        public int Posts => Volatile.Read(ref _posts);
+
+        public override void Post(SendOrPostCallback d, object? state)
+        {
+            Interlocked.Increment(ref _posts);
+            ThreadPool.QueueUserWorkItem(_ => d(state));
+        }
+    }
+
+    private sealed class GatedReader(Task<string> content) : TextReader
+    {
+        public override Task<string> ReadToEndAsync(CancellationToken cancellationToken) => content.WaitAsync(cancellationToken);
+    }
+
+    private sealed class GatedStream(byte[] bytes, Task gate) : MemoryStream(bytes)
+    {
+        public override async ValueTask<int> ReadAsync(Memory<byte> buffer, CancellationToken cancellationToken = default)
+        {
+            await gate.WaitAsync(cancellationToken).ConfigureAwait(false);
+            return Read(buffer.Span);
+        }
+
+        public override Task<int> ReadAsync(byte[] buffer, int offset, int count, CancellationToken cancellationToken) =>
+            ReadAsync(buffer.AsMemory(offset, count), cancellationToken).AsTask();
+    }
+
+    private static Task<T> StartUnder<T>(SynchronizationContext context, Func<Task<T>> start)
+    {
+        SynchronizationContext? previous = SynchronizationContext.Current;
+        SynchronizationContext.SetSynchronizationContext(context);
+        try
+        {
+            return start();
+        }
+        finally
+        {
+            SynchronizationContext.SetSynchronizationContext(previous);
+        }
+    }
+
+    [Fact]
+    public async Task ProcessAsync_FromReader_DoesNotResumeOnTheCallersContext()
+    {
+        var context = new RecordingContext();
+        var content = new TaskCompletionSource<string>(TaskCreationOptions.RunContinuationsAsynchronously);
+        using var reader = new GatedReader(content.Task);
+        CancellationToken cancellationToken = TestContext.Current.CancellationToken;
+
+        Task<ArticleDigest> pending = StartUnder(context, () => ArticleProcessor.Default.ProcessAsync(reader, cancellationToken));
+        content.SetResult(Html);
+        ArticleDigest digest = await pending;
+
+        Assert.Equal("Display Headline", digest.Article.Headline);
+        Assert.Equal(0, context.Posts);
+    }
+
+    [Fact]
+    public async Task ProcessAsync_FromStream_DoesNotResumeOnTheCallersContext()
+    {
+        var context = new RecordingContext();
+        var gate = new TaskCompletionSource(TaskCreationOptions.RunContinuationsAsynchronously);
+        using var stream = new GatedStream(Encoding.UTF8.GetBytes(Html), gate.Task);
+        CancellationToken cancellationToken = TestContext.Current.CancellationToken;
+
+        Task<ArticleDigest> pending = StartUnder(context, () => ArticleProcessor.Default.ProcessAsync(stream, cancellationToken));
+        gate.SetResult();
+        ArticleDigest digest = await pending;
+
+        Assert.Equal("Display Headline", digest.Article.Headline);
+        Assert.Equal(0, context.Posts);
+    }
+
+    [Fact]
+    public async Task ProcessFilesAsync_DoesNotResumeOnTheCallersContext()
+    {
+        string path = Path.Combine(Path.GetTempPath(), $"{Guid.NewGuid():N}.html");
+        CancellationToken cancellationToken = TestContext.Current.CancellationToken;
+        await File.WriteAllTextAsync(path, Html, cancellationToken);
+
+        try
+        {
+            var context = new RecordingContext();
+            Task<IReadOnlyList<ArticleDigest>> many = StartUnder(context, () => ArticleProcessor.Default.ProcessFilesAsync([path, path], cancellationToken));
+            Task<ArticleDigest> one = StartUnder(context, () => ArticleProcessor.Default.ProcessFileAsync(path, cancellationToken));
+
+            Assert.Equal(2, (await many).Count);
+            Assert.Equal("Display Headline", (await one).Article.Headline);
+            Assert.Equal(0, context.Posts);
+        }
+        finally
+        {
+            File.Delete(path);
+        }
+    }
+
+    [Fact]
+    public async Task ProcessAsync_DetectsUtf16ByteOrderMarks()
+    {
+        byte[] bytes = [.. Encoding.Unicode.GetPreamble(), .. Encoding.Unicode.GetBytes(Html)];
+        using var stream = new MemoryStream(bytes);
+        ArticleDigest digest = await ArticleProcessor.Default.ProcessAsync(stream, TestContext.Current.CancellationToken);
+
+        Assert.Equal("Display Headline", digest.Article.Headline);
+    }
+
+    [Fact]
+    public void Process_WhenNothingIsFound_ExplainsWhy()
+    {
+        ArticleExtractionException exception = Assert.Throws<ArticleExtractionException>(() => ArticleProcessor.Default.Process("<div>empty</div>"));
+        Assert.Equal("No article content was found in the HTML.", exception.Message);
+    }
+
+    [Fact]
+    public async Task ProcessAsync_ValidatesArguments()
+    {
+        CancellationToken cancellationToken = TestContext.Current.CancellationToken;
+        await Assert.ThrowsAsync<ArgumentNullException>("reader", () => ArticleProcessor.Default.ProcessAsync((TextReader)null!, cancellationToken));
+        await Assert.ThrowsAsync<ArgumentNullException>("stream", () => ArticleProcessor.Default.ProcessAsync((Stream)null!, cancellationToken));
+        await Assert.ThrowsAsync<ArgumentNullException>("paths", () => ArticleProcessor.Default.ProcessFilesAsync(null!, cancellationToken));
+    }
 }
 
 public sealed class ArticleFilesTests : IDisposable
@@ -1088,7 +1910,15 @@ public sealed class ArticleFilesTests : IDisposable
     [Fact]
     public void Resolve_WhenNull_Throws()
     {
-        Assert.Throws<ArgumentNullException>(() => ArticleFiles.Resolve(null!));
+        Assert.Throws<ArgumentNullException>("inputs", () => ArticleFiles.Resolve(null!));
+    }
+
+    [Fact]
+    public void Resolve_WhenInputIsMissing_ExplainsWhy()
+    {
+        string missing = Path.Combine(_root, "missing.html");
+        FileNotFoundException exception = Assert.Throws<FileNotFoundException>(() => ArticleFiles.Resolve([missing]));
+        Assert.Equal($"No file or directory exists at '{missing}'.", exception.Message);
     }
 }
 
@@ -1116,6 +1946,24 @@ public class DigestReportTests
         Assert.Equal(new FilenameString(name).Truncate(DigestReport.NameWidth), lines[1]);
         Assert.EndsWith("v2.html", lines[1], StringComparison.Ordinal);
         Assert.Equal("Source: PreloadedData  Paragraphs: 1  Words: 1", lines[2]);
+    }
+
+    [Fact]
+    public void Render_ProducesTheExactLayout()
+    {
+        Article article = Fixtures.ArticleOf("one two three") with { ReportedWordCount = 4 };
+        string report = DigestReport.Render("/some/dir/story.html", new ArticleDigest(article, "PROSE", "SUMMARY TEXT"));
+        string rule = new('=', 80);
+
+        Assert.Equal(string.Join('\n', rule, "story.html", "Source: PreloadedData  Paragraphs: 1  Words: 3/4", rule, "", "SUMMARY", "", "SUMMARY TEXT", "", "ARTICLE", "", "PROSE", ""), report);
+    }
+
+    [Fact]
+    public void Render_ValidatesArguments()
+    {
+        var digest = new ArticleDigest(Fixtures.ArticleOf("x"), "", "");
+        Assert.Throws<ArgumentNullException>("path", () => DigestReport.Render(null!, digest));
+        Assert.Throws<ArgumentNullException>("digest", () => DigestReport.Render("story.html", null!));
     }
 }
 

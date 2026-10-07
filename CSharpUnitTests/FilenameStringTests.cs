@@ -34,6 +34,9 @@ public class FilenameStringTests
     [InlineData("report.pdf", ".pdf")]
     [InlineData("archive.tar.gz", ".tar.gz")]
     [InlineData("ARCHIVE.TAR.GZ", ".TAR.GZ")]
+    [InlineData("archive.tar.bz2", ".tar.bz2")]
+    [InlineData("archive.tar.xz", ".tar.xz")]
+    [InlineData("archive.tar.zst", ".tar.zst")]
     [InlineData(".tar.gz", ".gz")]
     [InlineData(".hidden.txt", ".txt")]
     [InlineData(".gitignore", "")]
@@ -204,5 +207,38 @@ public class FilenameStringTests
     {
         var sut = new FilenameString("report.pdf");
         Assert.Throws<ArgumentNullException>(() => sut.Truncate(10.0, null!));
+    }
+
+    [Fact]
+    public void TruncateByWidth_AcceptsZeroWidth()
+    {
+        Assert.Equal(FilenameString.Ellipsis, new FilenameString("report.pdf").Truncate(0.0, s => s.Length));
+    }
+
+    [Fact]
+    public void TruncateByWidth_WhenNameFitsExactly_ReturnsItUnchanged()
+    {
+        Assert.Equal("report.pdf", new FilenameString("report.pdf").Truncate(10.0, s => s.Length));
+    }
+
+    [Fact]
+    public void TruncateByWidth_WhenWidthIsNegative_ExplainsWhy()
+    {
+        ArgumentOutOfRangeException exception = Assert.Throws<ArgumentOutOfRangeException>("maxWidth", () => new FilenameString("report.pdf").Truncate(-1.0, s => s.Length));
+        Assert.StartsWith("Width must be a non-negative number.", exception.Message, StringComparison.Ordinal);
+    }
+
+    [Fact]
+    public void TruncateByWidth_MeasuresFromTheLongestCandidateDown()
+    {
+        var measured = new List<string>();
+        string result = new FilenameString("abcde").Truncate(0.5, s =>
+        {
+            measured.Add(s);
+            return s.Length;
+        });
+
+        Assert.Equal(FilenameString.Ellipsis, result);
+        Assert.Equal(new[] { "abcde", "ab…de", "ab…e", "a…e", "a…" }, measured);
     }
 }

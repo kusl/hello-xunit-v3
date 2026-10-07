@@ -220,7 +220,7 @@ public static class ScriptData
             }
 
             int position = SkipWhitespace(source, searchFrom);
-            if (position >= source.Length || source[position] != '=' || (position + 1 < source.Length && source[position + 1] == '='))
+            if (position >= source.Length || source[position] != '=')
             {
                 continue;
             }
@@ -315,20 +315,10 @@ public static class ScriptData
 
 public static class SentenceSplitter
 {
-    private static readonly HashSet<string> Abbreviations = new(StringComparer.OrdinalIgnoreCase)
-    {
-        "mr", "mrs", "ms", "dr", "prof", "sen", "rep", "gov", "gen", "lt", "col", "sgt", "capt", "adm", "maj",
-        "st", "jr", "sr", "inc", "co", "corp", "ltd", "vs", "etc", "no", "mt", "ft", "ave", "blvd",
-        "jan", "feb", "mar", "apr", "aug", "sept", "sep", "oct", "nov", "dec",
-        "u.s", "u.n", "u.k", "e.u", "d.c", "a.m", "p.m", "i.e", "e.g",
-    };
-
     private const string Closers = "\"'\u201D\u2019)]";
 
     public static IReadOnlyList<string> Split(string text)
     {
-        ArgumentNullException.ThrowIfNull(text);
-
         string normalized = TextTools.Normalize(text);
         var sentences = new List<string>();
         int start = 0;
@@ -342,31 +332,23 @@ public static class SentenceSplitter
             }
 
             int end = i + 1;
-            while (end < normalized.Length && normalized[end] is '.' or '!' or '?' or '\u2026')
-            {
-                end++;
-            }
-
             while (end < normalized.Length && Closers.Contains(normalized[end], StringComparison.Ordinal))
             {
                 end++;
             }
 
-            if (end < normalized.Length && (normalized[end] != ' ' || end + 1 >= normalized.Length || !StartsSentence(normalized[end + 1])))
+            if (end < normalized.Length && (normalized[end] != ' ' || !StartsSentence(normalized[end + 1])))
             {
-                i = end - 1;
                 continue;
             }
 
             if (c == '.' && end == i + 1 && IsAbbreviation(normalized, i))
             {
-                i = end - 1;
                 continue;
             }
 
             Add(sentences, normalized[start..end]);
             start = end;
-            i = end - 1;
         }
 
         Add(sentences, normalized[start..]);
@@ -385,8 +367,15 @@ public static class SentenceSplitter
         }
 
         string word = text[wordStart..periodIndex];
-        return (word.Length == 1 && char.IsUpper(word[0])) || Abbreviations.Contains(word);
+        return (word.Length == 1 && char.IsUpper(word[0])) || IsAbbreviationWord(word.ToLowerInvariant());
     }
+
+    private static bool IsAbbreviationWord(string word) => word is
+        "mr" or "mrs" or "ms" or "dr" or "prof" or "sen" or "rep" or "gov" or "gen" or "lt"
+        or "col" or "sgt" or "capt" or "adm" or "maj" or "st" or "jr" or "sr" or "inc" or "co"
+        or "corp" or "ltd" or "vs" or "etc" or "no" or "mt" or "ft" or "ave" or "blvd" or "jan"
+        or "feb" or "mar" or "apr" or "aug" or "sept" or "sep" or "oct" or "nov" or "dec" or "u.s"
+        or "u.n" or "u.k" or "e.u" or "d.c" or "a.m" or "p.m" or "i.e" or "e.g";
 
     private static void Add(List<string> sentences, string candidate)
     {
@@ -400,7 +389,7 @@ public static class SentenceSplitter
 
 public sealed partial class HtmlPage
 {
-    private static readonly JsonDocumentOptions JsonOptions = new() { AllowTrailingCommas = true, CommentHandling = JsonCommentHandling.Skip, MaxDepth = 256 };
+    private static JsonDocumentOptions JsonOptions => new() { AllowTrailingCommas = true, CommentHandling = JsonCommentHandling.Skip, MaxDepth = 256 };
 
     private HtmlPage(string html, PageMetadata metadata)
     {
@@ -494,9 +483,11 @@ public sealed partial class HtmlPage
 
         foreach (Match tag in MetaTagPattern().Matches(html))
         {
-            var attributes = AttributePattern().Matches(tag.Value)
-                .GroupBy(attribute => attribute.Groups["name"].Value, StringComparer.OrdinalIgnoreCase)
-                .ToDictionary(group => group.Key, group => WebUtility.HtmlDecode(group.First().Groups["value"].Value), StringComparer.OrdinalIgnoreCase);
+            var attributes = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+            foreach (Match attribute in AttributePattern().Matches(tag.Value))
+            {
+                attributes.TryAdd(attribute.Groups["name"].Value, WebUtility.HtmlDecode(attribute.Groups["value"].Value));
+            }
 
             if (attributes.TryGetValue("content", out string? content)
                 && (attributes.TryGetValue("property", out string? key) || attributes.TryGetValue("name", out key))
@@ -557,8 +548,8 @@ public sealed partial class HtmlPage
 
     private static IEnumerable<string> JsonTypes(JsonElement element) => element.Child("@type") switch
     {
-        { ValueKind: JsonValueKind.String } single => [single.GetString() ?? ""],
-        { ValueKind: JsonValueKind.Array } many => many.EnumerateArray().Where(item => item.ValueKind == JsonValueKind.String).Select(item => item.GetString() ?? ""),
+        { ValueKind: JsonValueKind.String } single => [single.GetString()!],
+        { ValueKind: JsonValueKind.Array } many => many.EnumerateArray().Where(item => item.ValueKind == JsonValueKind.String).Select(item => item.GetString()!),
         _ => [],
     };
 
@@ -638,9 +629,9 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
 {
     public const string VariableName = "window.__preloadedData";
 
-    private static readonly Uri DefaultBase = new("https://www.nytimes.com/");
-    private static readonly JsonDocumentOptions JsonOptions = new() { AllowTrailingCommas = true, MaxDepth = 512 };
-    private static readonly string[][] ArticlePaths = [["loaderData", "data", "article"], ["initialData", "data", "article"], ["initialState", "data", "article"]];
+    private static Uri DefaultBase => new("https://www.nytimes.com/");
+
+    private static JsonDocumentOptions JsonOptions => new() { AllowTrailingCommas = true, MaxDepth = 512 };
 
     public Article? Extract(HtmlPage page)
     {
@@ -669,15 +660,10 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
 
     private static JsonElement? FindArticle(JsonElement root)
     {
-        foreach (string[] path in ArticlePaths)
+        ReadOnlySpan<string> containers = ["loaderData", "initialData", "initialState"];
+        foreach (string container in containers)
         {
-            JsonElement? current = root;
-            foreach (string segment in path)
-            {
-                current = current?.Child(segment);
-            }
-
-            if (current is { ValueKind: JsonValueKind.Object } found && BodyContent(found).Any())
+            if (root.Child(container)?.Child("data")?.Child("article") is { ValueKind: JsonValueKind.Object } found && BodyContent(found).Any())
             {
                 return found;
             }
@@ -702,7 +688,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
         {
             JsonValueKind.Object => element.EnumerateObject().Select(property => property.Value),
             JsonValueKind.Array => element.EnumerateArray(),
-            _ => [],
+            _ => Enumerable.Empty<JsonElement>(),
         };
 
         foreach (JsonElement child in children)
@@ -762,9 +748,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
 
     private static IEnumerable<ArticleBlock> ReadBlock(JsonElement block, Uri linkBase)
     {
-        string type = block.StringAt("__typename") ?? "";
-
-        switch (type)
+        switch (block.StringAt("__typename"))
         {
             case "ParagraphBlock":
                 if (ReadParagraph(block, linkBase) is { } paragraph)
@@ -811,7 +795,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
                 }
 
                 break;
-            case not null when HeadingLevel(type) is int level:
+            case { } type when HeadingLevel(type) is int level:
                 string heading = TextTools.Normalize(PlainText(block));
                 if (heading.Length > 0)
                 {
@@ -819,7 +803,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
                 }
 
                 break;
-            case not null when type.StartsWith("Header", StringComparison.Ordinal):
+            case { } type when type.StartsWith("Header", StringComparison.Ordinal):
                 if (block.Child("ledeMedia") is { } lede && lede.StringAt("__typename") == "ImageBlock" && ReadFigure(lede) is { } ledeFigure)
                 {
                     yield return ledeFigure;
@@ -901,7 +885,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
             bool isInline = child.StringAt("text") is not null
                 || (child.StringAt("__typename") is { } type && type.EndsWith("Inline", StringComparison.Ordinal));
 
-            if (!isInline && builder.Length > 0)
+            if (!isInline)
             {
                 builder.Append(' ');
             }
@@ -969,15 +953,14 @@ public sealed partial class JsonLdExtractor : IArticleExtractor
 
 public sealed partial class RenderedHtmlExtractor : IArticleExtractor
 {
-    private static readonly string[] RemovedElements = ["script", "style", "noscript", "template", "svg", "figure", "aside", "nav", "form", "button", "header", "footer"];
-
     public Article? Extract(HtmlPage page)
     {
         ArgumentNullException.ThrowIfNull(page);
 
         (string region, string regionTag) = FindRegion(page.Html);
         region = CommentPattern().Replace(region, "");
-        foreach (string element in RemovedElements.Append(regionTag))
+        string[] removed = ["script", "style", "noscript", "template", "svg", "figure", "aside", "nav", "form", "button", "header", "footer", regionTag];
+        foreach (string element in removed)
         {
             region = HtmlElements.Remove(region, element);
         }
@@ -988,7 +971,7 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
 
         string? dominantClass = candidates
             .Where(candidate => candidate.Tag == "p")
-            .GroupBy(candidate => candidate.Class, StringComparer.Ordinal)
+            .GroupBy(candidate => candidate.Class)
             .OrderByDescending(group => group.Sum(candidate => TextTools.StripTags(candidate.Html).Length))
             .Select(group => group.Key)
             .FirstOrDefault();
@@ -1022,8 +1005,8 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
         return (html, "body");
     }
 
-    private static string ClassOf(string attributes) =>
-        ClassPattern().Match(attributes) is { Success: true } match ? match.Groups["value"].Value : "";
+    private static string? ClassOf(string attributes) =>
+        ClassPattern().Match(attributes) is { Success: true } match ? match.Groups["value"].Value : null;
 
     private static ArticleBlock? ToBlock(string tag, string html, Uri? baseUri)
     {
@@ -1094,7 +1077,7 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
 
 public static class HtmlElements
 {
-    private static readonly ConcurrentDictionary<string, (Regex Open, Regex OpenOrClose)> Patterns = new(StringComparer.OrdinalIgnoreCase);
+    private static readonly ConcurrentDictionary<(string Pattern, RegexOptions Options), Regex> Cache = new();
 
     public static string Content(string html, int startTagIndex, string tag)
     {
@@ -1107,8 +1090,8 @@ public static class HtmlElements
             return "";
         }
 
-        int close = FindClose(html, openEnd + 1, tag);
-        return close < 0 ? html[(openEnd + 1)..] : html[(openEnd + 1)..close];
+        int contentStart = openEnd + 1;
+        return FindClose(html, contentStart, tag) is int close ? html[contentStart..close] : html[contentStart..];
     }
 
     public static string Remove(string html, string tag)
@@ -1118,7 +1101,7 @@ public static class HtmlElements
 
         var builder = new StringBuilder(html.Length);
         int position = 0;
-        Regex open = PatternsFor(tag).Open;
+        Regex open = Compile($@"<{Regex.Escape(tag)}\b[^>]*>");
 
         while (open.Match(html, position) is { Success: true } match)
         {
@@ -1130,8 +1113,7 @@ public static class HtmlElements
                 continue;
             }
 
-            int close = FindClose(html, match.Index + match.Length, tag);
-            if (close < 0)
+            if (FindClose(html, match.Index + match.Length, tag) is not int close)
             {
                 return builder.ToString();
             }
@@ -1143,9 +1125,9 @@ public static class HtmlElements
         return builder.ToString();
     }
 
-    private static int FindClose(string html, int from, string tag)
+    private static int? FindClose(string html, int from, string tag)
     {
-        Regex pattern = PatternsFor(tag).OpenOrClose;
+        Regex pattern = Compile($@"<(?<close>/)?{Regex.Escape(tag)}\b[^>]*>");
         int depth = 1;
 
         foreach (Match match in pattern.Matches(html, from))
@@ -1164,25 +1146,18 @@ public static class HtmlElements
             }
         }
 
-        return -1;
+        return null;
     }
 
-    private static (Regex Open, Regex OpenOrClose) PatternsFor(string tag) =>
-        Patterns.GetOrAdd(tag, static name =>
-        {
-            string escaped = Regex.Escape(name);
-            return (Compile($@"<{escaped}\b[^>]*>"), Compile($@"<(?<close>/)?{escaped}\b[^>]*>"));
-        });
-
     private static Regex Compile(string pattern) =>
-        new Regex(pattern, RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
+        Cache.GetOrAdd((pattern, RegexOptions.IgnoreCase | RegexOptions.CultureInvariant), static key => new Regex(key.Pattern, key.Options));
 }
 
 public sealed class CompositeArticleExtractor(IEnumerable<IArticleExtractor> extractors) : IArticleExtractor
 {
     private readonly IReadOnlyList<IArticleExtractor> _extractors = [.. extractors ?? throw new ArgumentNullException(nameof(extractors))];
 
-    public static CompositeArticleExtractor Default { get; } = new([new PreloadedDataExtractor(), new JsonLdExtractor(), new RenderedHtmlExtractor()]);
+    public static CompositeArticleExtractor Default => new([new PreloadedDataExtractor(), new JsonLdExtractor(), new RenderedHtmlExtractor()]);
 
     public Article? Extract(HtmlPage page)
     {
@@ -1387,21 +1362,6 @@ public sealed class ExtractiveSummarizer : ISummarizer
     private const int MinimumSentenceWords = 6;
     private const double DuplicateThreshold = 0.5;
 
-    private static readonly HashSet<string> StopWords = new(StringComparer.Ordinal)
-    {
-        "a", "about", "above", "after", "again", "against", "all", "also", "am", "an", "and", "any", "are", "as", "at",
-        "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can", "could", "did", "do",
-        "does", "doing", "down", "during", "each", "even", "few", "for", "from", "further", "had", "has", "have", "having",
-        "he", "her", "here", "hers", "herself", "him", "himself", "his", "how", "i", "if", "in", "into", "is", "it", "its",
-        "itself", "just", "last", "like", "made", "make", "many", "may", "me", "more", "most", "mr", "mrs", "ms", "much",
-        "my", "myself", "new", "no", "nor", "not", "now", "of", "off", "on", "once", "one", "only", "or", "other", "our",
-        "ours", "ourselves", "out", "over", "own", "said", "same", "say", "says", "she", "should", "since", "so", "some",
-        "still", "such", "than", "that", "the", "their", "theirs", "them", "themselves", "then", "there", "these", "they",
-        "this", "those", "through", "to", "too", "two", "under", "until", "up", "us", "very", "was", "we", "were", "what",
-        "when", "where", "which", "while", "who", "whom", "why", "will", "with", "would", "year", "years", "yet", "you",
-        "your", "yours", "yourself", "yourselves", "it's", "don't", "didn't", "that's", "he's", "she's", "they're",
-    };
-
     public ExtractiveSummarizer(int maxSentences = 3)
     {
         ArgumentOutOfRangeException.ThrowIfLessThan(maxSentences, 1);
@@ -1411,7 +1371,7 @@ public sealed class ExtractiveSummarizer : ISummarizer
     public int MaxSentences { get; }
 
     public static IReadOnlyList<string> ContentWords(string text) =>
-        [.. TextTools.Words(text).Where(word => word.Length > 2 && !StopWords.Contains(word))];
+        [.. TextTools.Words(text).Where(word => word.Length > 2 && !IsStopWord(word))];
 
     public string Summarize(Article article)
     {
@@ -1435,10 +1395,9 @@ public sealed class ExtractiveSummarizer : ISummarizer
         HashSet<string> topicWords = [.. ContentWords(article.Headline + " " + article.Summary)];
 
         var ranked = sentences
-            .Where(sentence => TextTools.CountWords(sentence.Text) >= MinimumSentenceWords || sentences.Count == 1)
+            .Where(sentence => sentence.Words.Count > 0 && (TextTools.CountWords(sentence.Text) >= MinimumSentenceWords || sentences.Count == 1))
             .Select(sentence => (sentence.Text, sentence.Index, Terms: sentence.Words.ToHashSet(StringComparer.Ordinal), Score: Score(sentence.Words, sentence.Index, frequency, topicWords)))
-            .OrderByDescending(sentence => sentence.Score)
-            .ThenBy(sentence => sentence.Index);
+            .OrderByDescending(sentence => sentence.Score);
 
         var chosen = new List<(string Text, int Index, HashSet<string> Terms)>();
         foreach (var candidate in ranked)
@@ -1464,11 +1423,6 @@ public sealed class ExtractiveSummarizer : ISummarizer
 
     private static double Score(IReadOnlyList<string> words, int index, Dictionary<string, int> frequency, HashSet<string> topicWords)
     {
-        if (words.Count == 0)
-        {
-            return 0;
-        }
-
         double weight = words.Distinct(StringComparer.Ordinal).Sum(word => frequency[word] * (topicWords.Contains(word) ? 2.0 : 1.0));
         double position = 1.0 + 1.0 / (1 + index);
         return weight / Math.Sqrt(words.Count) * position;
@@ -1476,14 +1430,24 @@ public sealed class ExtractiveSummarizer : ISummarizer
 
     private static double Similarity(HashSet<string> left, HashSet<string> right)
     {
-        if (left.Count == 0 || right.Count == 0)
-        {
-            return 0;
-        }
-
         int shared = left.Count(right.Contains);
         return (double)shared / (left.Count + right.Count - shared);
     }
+
+    private static bool IsStopWord(string word) => word is
+        "about" or "above" or "after" or "again" or "against" or "all" or "also" or "and" or "any" or "are"
+        or "because" or "been" or "before" or "being" or "below" or "between" or "both" or "but" or "can" or "could"
+        or "did" or "does" or "doing" or "down" or "during" or "each" or "even" or "few" or "for" or "from"
+        or "further" or "had" or "has" or "have" or "having" or "her" or "here" or "hers" or "herself" or "him"
+        or "himself" or "his" or "how" or "into" or "its" or "itself" or "just" or "last" or "like" or "made"
+        or "make" or "many" or "may" or "more" or "most" or "mrs" or "much" or "myself" or "new" or "nor"
+        or "not" or "now" or "off" or "once" or "one" or "only" or "other" or "our" or "ours" or "ourselves"
+        or "out" or "over" or "own" or "said" or "same" or "say" or "says" or "she" or "should" or "since"
+        or "some" or "still" or "such" or "than" or "that" or "the" or "their" or "theirs" or "them" or "themselves"
+        or "then" or "there" or "these" or "they" or "this" or "those" or "through" or "too" or "two" or "under"
+        or "until" or "very" or "was" or "were" or "what" or "when" or "where" or "which" or "while" or "who"
+        or "whom" or "why" or "will" or "with" or "would" or "year" or "years" or "yet" or "you" or "your"
+        or "yours" or "yourself" or "yourselves" or "it's" or "don't" or "didn't" or "that's" or "he's" or "she's" or "they're";
 }
 
 public sealed class ArticleProcessor(IArticleExtractor extractor, IArticleFormatter formatter, ISummarizer summarizer)
@@ -1492,12 +1456,10 @@ public sealed class ArticleProcessor(IArticleExtractor extractor, IArticleFormat
     private readonly IArticleFormatter _formatter = formatter ?? throw new ArgumentNullException(nameof(formatter));
     private readonly ISummarizer _summarizer = summarizer ?? throw new ArgumentNullException(nameof(summarizer));
 
-    public static ArticleProcessor Default { get; } = new(CompositeArticleExtractor.Default, new PlainTextFormatter(), new ExtractiveSummarizer());
+    public static ArticleProcessor Default => new(CompositeArticleExtractor.Default, new PlainTextFormatter(), new ExtractiveSummarizer());
 
     public ArticleDigest Process(string html)
     {
-        ArgumentNullException.ThrowIfNull(html);
-
         Article article = _extractor.Extract(HtmlPage.Parse(html))
             ?? throw new ArticleExtractionException("No article content was found in the HTML.");
 
@@ -1513,7 +1475,6 @@ public sealed class ArticleProcessor(IArticleExtractor extractor, IArticleFormat
 
     public async Task<ArticleDigest> ProcessAsync(Stream stream, CancellationToken cancellationToken = default)
     {
-        ArgumentNullException.ThrowIfNull(stream);
         using var reader = new StreamReader(stream, Encoding.UTF8, detectEncodingFromByteOrderMarks: true, leaveOpen: true);
         return await ProcessAsync(reader, cancellationToken).ConfigureAwait(false);
     }

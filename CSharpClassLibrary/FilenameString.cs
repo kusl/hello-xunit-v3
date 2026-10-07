@@ -6,8 +6,6 @@ public sealed class FilenameString
 {
     public const string Ellipsis = "\u2026";
 
-    private static readonly string[] CompoundExtensions = [".tar.gz", ".tar.bz2", ".tar.xz", ".tar.zst"];
-
     private readonly int[] _boundaries;
     private readonly int _extensionLength;
 
@@ -63,14 +61,13 @@ public sealed class FilenameString
 
     private string BuildTruncated(int keep)
     {
-        int head = (keep + 1) / 2;
-        int tail = keep - head;
-
-        if (_extensionLength > tail && _extensionLength < keep)
+        int tail = keep / 2;
+        if (_extensionLength < keep)
         {
-            tail = _extensionLength;
-            head = keep - tail;
+            tail = Math.Max(tail, _extensionLength);
         }
+
+        int head = keep - tail;
 
         string front = FullName[.._boundaries[head]];
         string back = FullName[_boundaries[Length - tail]..];
@@ -79,7 +76,8 @@ public sealed class FilenameString
 
     private static string GetExtension(string name)
     {
-        foreach (string compound in CompoundExtensions)
+        ReadOnlySpan<string> compounds = [".tar.gz", ".tar.bz2", ".tar.xz", ".tar.zst"];
+        foreach (string compound in compounds)
         {
             if (name.Length > compound.Length && name.EndsWith(compound, StringComparison.OrdinalIgnoreCase))
             {

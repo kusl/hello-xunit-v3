@@ -54,7 +54,14 @@ Settings in `CSharpUnitTests/stryker-config.json`:
 | `concurrency` | `1` | Stryker 5.0.0 under-reports kills under `mtp` with concurrency above 1 ([#3832](https://github.com/stryker-mutator/stryker-net/issues/3832)) |
 | `thresholds.break` | `0` | raise once a baseline score exists |
 
-`HtmlElements` passes its dynamic regex patterns through `Compile(pattern)` because Stryker 5.0.0 crashes on `new Regex($"...")` ([#3872](https://github.com/stryker-mutator/stryker-net/issues/3872)).
+Code rules that keep mutants killable:
+
+- No data in static initializers. `mtp` reuses one test process, so a mutated static field is never re-initialized. Lookup lists are `is` patterns, method locals, or expression-bodied properties.
+- Caches key on everything that can be mutated. `HtmlElements` caches regexes by pattern and options.
+- No `new Regex($"...")`. Stryker 5.0.0 crashes on it ([#3872](https://github.com/stryker-mutator/stryker-net/issues/3872)); build the pattern first and pass it through `Compile(pattern)`.
+- No redundant guards or branches. Code that cannot change behavior only produces equivalent mutants.
+
+Known equivalent mutants: the topic-word weight in `ExtractiveSummarizer.Score` set to always 2.0 (uniform scaling), and the `"*"` search pattern in `ArticleFiles`.
 
 Only `CSharpClassLibrary` is mutated. Reports land in `CSharpUnitTests/StrykerOutput/<timestamp>/reports/`.
 
