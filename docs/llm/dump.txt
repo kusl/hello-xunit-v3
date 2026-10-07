@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-07 22:30:20
+Generated (UTC): 2026-10-07 22:57:09
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      3fc9aee1c2ed241a417e929e906f1d3565904596
+Git Commit:      b64e0884d626f538df07fdc2b755df28ad83aad4
 Git Branch:      master
 Git Dirty:       no
 .NET SDK:        10.0.112
@@ -46,7 +46,7 @@ FILE:     .config/dotnet-tools.json
 SIZE:     0.19 KB (192 bytes)
 LINES:    13
 SHA256:   ea39b540d4fda4fc69b3d2fd24e2aad837e5d005c0b0360a5346d624db74d1d0
-MODIFIED: 2026-10-07 20:45:45 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 {
@@ -69,7 +69,7 @@ FILE:     .editorconfig
 SIZE:     0.23 KB (238 bytes)
 LINES:    15
 SHA256:   0ba4ac274160a5da05b0fb1c13048df406582954f36aaed5b2f18f9bbab75b5a
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 root = true
@@ -94,7 +94,7 @@ FILE:     .gitignore
 SIZE:     3.18 KB (3261 bytes)
 LINES:    341
 SHA256:   ef16c8e8b4f3fc4787795194f934f456a6fe63e4fe833a319b32ca1006ac6e33
-MODIFIED: 2026-10-07 20:45:52 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 .env
@@ -442,10 +442,10 @@ $RECYCLE.BIN/
 
 ================================================================================
 FILE:     CSharpClassLibrary/ArticleExtraction.cs
-SIZE:     54.84 KB (56160 bytes)
-LINES:    1591
-SHA256:   9775566699e324ddefbe6871f4ce3ffe76ad0e1a241cfdea803c6e6d2e43da27
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+SIZE:     54.89 KB (56205 bytes)
+LINES:    1594
+SHA256:   8e57d127782d4102218627028fbb814a1bfa1f552974fd44dad68853281ec4ec
+MODIFIED: 2026-10-07 22:34:57 (UTC)
 ================================================================================
 
 using System.Collections.Concurrent;
@@ -1619,10 +1619,13 @@ public static class HtmlElements
 
     private static (Regex Open, Regex OpenOrClose) PatternsFor(string tag) =>
         Patterns.GetOrAdd(tag, static name =>
-        (
-            new Regex($@"<{Regex.Escape(name)}\b[^>]*>", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant),
-            new Regex($@"<(?<close>/)?{Regex.Escape(name)}\b[^>]*>", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant)
-        ));
+        {
+            string escaped = Regex.Escape(name);
+            return (Compile($@"<{escaped}\b[^>]*>"), Compile($@"<(?<close>/)?{escaped}\b[^>]*>"));
+        });
+
+    private static Regex Compile(string pattern) =>
+        new Regex(pattern, RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
 }
 
 public sealed class CompositeArticleExtractor(IEnumerable<IArticleExtractor> extractors) : IArticleExtractor
@@ -2046,7 +2049,7 @@ FILE:     CSharpClassLibrary/CSharpClassLibrary.csproj
 SIZE:     0.04 KB (46 bytes)
 LINES:    3
 SHA256:   0e18f178a380a51c6f1f0dddfa2d993c1188e1512824e27001e60f3bb33f2581
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 <Project Sdk="Microsoft.NET.Sdk">
@@ -2059,7 +2062,7 @@ FILE:     CSharpClassLibrary/FilenameString.cs
 SIZE:     3.41 KB (3490 bytes)
 LINES:    135
 SHA256:   bf98cd39e074b830ce0e4da85abc7525e477f25373f432bdeba73dec9e877ad3
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 using System.Globalization;
@@ -2204,7 +2207,7 @@ FILE:     CSharpConsoleApp/CSharpConsoleApp.csproj
 SIZE:     0.62 KB (630 bytes)
 LINES:    22
 SHA256:   677337c14ad8c0fb9f4851154a1c0d1815dcf91379e8e1bbc3d87336d7a0f0e0
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 <Project Sdk="Microsoft.NET.Sdk">
@@ -2236,7 +2239,7 @@ FILE:     CSharpConsoleApp/Program.cs
 SIZE:     1.37 KB (1402 bytes)
 LINES:    41
 SHA256:   51f556ce1e87632d69cecf5f9d20b7c8e1a21f5c4d1893c58244c7f4cc6f0a28
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 using System.Reflection;
@@ -2287,7 +2290,7 @@ FILE:     CSharpUnitTests/ArticleExtractionTests.cs
 SIZE:     50.51 KB (51725 bytes)
 LINES:    1244
 SHA256:   08a39cfff120dd22783090cfab514c3a8ae5a39ed4bf683863f662976e98153f
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 using System.Text;
@@ -3541,7 +3544,7 @@ FILE:     CSharpUnitTests/CSharpUnitTests.csproj
 SIZE:     0.81 KB (828 bytes)
 LINES:    24
 SHA256:   82a460de003c93a0a4da4a65c54f3d3e417f9fd28830d16c819d08f519db5991
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 <Project Sdk="Microsoft.NET.Sdk">
@@ -3575,7 +3578,7 @@ FILE:     CSharpUnitTests/FilenameStringTests.cs
 SIZE:     6.65 KB (6813 bytes)
 LINES:    208
 SHA256:   2c2bc15997b38aad04e8596130ec83a476d7d39bafedc4fb2d737867d7c7aaf5
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 using CSharpClassLibrary;
@@ -3793,7 +3796,7 @@ FILE:     CSharpUnitTests/stryker-config.json
 SIZE:     0.45 KB (458 bytes)
 LINES:    23
 SHA256:   917fd3354f410e16b7e64e53232f49c382c3ed3e2d7df495bf70c9736fb1459a
-MODIFIED: 2026-10-07 20:45:45 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 {
@@ -3826,7 +3829,7 @@ FILE:     Directory.Build.props
 SIZE:     0.41 KB (418 bytes)
 LINES:    12
 SHA256:   35e5c2bc5924891a29f0ef98f95a4fa3a7c6c07fcebb6e22db0ad5c4ffa2ca93
-MODIFIED: 2026-10-07 20:45:45 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 <Project>
@@ -3848,7 +3851,7 @@ FILE:     Directory.Packages.props
 SIZE:     0.48 KB (487 bytes)
 LINES:    12
 SHA256:   efc927bb55d69a6ff5509d69f61daec20e5f26e19197a8087eb06ae08b5a25a9
-MODIFIED: 2026-10-07 20:45:45 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 <Project>
@@ -3870,7 +3873,7 @@ FILE:     HelloXUnit.slnx
 SIZE:     0.21 KB (211 bytes)
 LINES:    5
 SHA256:   a2a1b98fb021ff5e816bd6bc62019ea4ad23dc9495de48cea6e79f76d867e4f0
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 <Solution>
@@ -3882,10 +3885,10 @@ MODIFIED: 2026-10-07 20:45:34 (UTC)
 
 ================================================================================
 FILE:     README.md
-SIZE:     2.50 KB (2561 bytes)
-LINES:    65
-SHA256:   1a549c1d6d1b6060f4355db15bafdac7cc3f748865929e05c682ceca7b110b73
-MODIFIED: 2026-10-07 20:46:09 (UTC)
+SIZE:     2.70 KB (2762 bytes)
+LINES:    67
+SHA256:   79523bb5b9ecd86ca06e952c9c7458b3dbbfa20447c4c27da9a7951d23aef993
+MODIFIED: 2026-10-07 22:35:03 (UTC)
 ================================================================================
 
 # HelloXUnit
@@ -3944,6 +3947,8 @@ Settings in `CSharpUnitTests/stryker-config.json`:
 | `concurrency` | `1` | Stryker 5.0.0 under-reports kills under `mtp` with concurrency above 1 ([#3832](https://github.com/stryker-mutator/stryker-net/issues/3832)) |
 | `thresholds.break` | `0` | raise once a baseline score exists |
 
+`HtmlElements` passes its dynamic regex patterns through `Compile(pattern)` because Stryker 5.0.0 crashes on `new Regex($"...")` ([#3872](https://github.com/stryker-mutator/stryker-net/issues/3872)).
+
 Only `CSharpClassLibrary` is mutated. Reports land in `CSharpUnitTests/StrykerOutput/<timestamp>/reports/`.
 
 ## Export
@@ -3960,7 +3965,7 @@ FILE:     export.sh
 SIZE:     7.35 KB (7528 bytes)
 LINES:    246
 SHA256:   47e75325186e977c25e2520d9532c2451ad8d588b536161b677456abc4244053
-MODIFIED: 2026-10-07 20:45:45 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 #!/usr/bin/env bash
@@ -4216,7 +4221,7 @@ FILE:     global.json
 SIZE:     0.14 KB (141 bytes)
 LINES:    9
 SHA256:   925ac158eb7dd10cf82702ed4fbf092b83aeb79c17b66fa577ea7a5316d7b2c6
-MODIFIED: 2026-10-07 20:45:34 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 {
@@ -4235,7 +4240,7 @@ FILE:     mutate.sh
 SIZE:     0.17 KB (171 bytes)
 LINES:    9
 SHA256:   a837f7714c33c04b400bc0c981bca5aab57006e422a5b8987a104c5c4513dcf9
-MODIFIED: 2026-10-07 20:45:45 (UTC)
+MODIFIED: 2026-10-07 22:34:50 (UTC)
 ================================================================================
 
 #!/usr/bin/env bash
@@ -4250,9 +4255,9 @@ dotnet stryker "$@"
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-07 22:30:20
+EXPORT COMPLETED (UTC): 2026-10-07 22:57:09
 Total Files Exported:   19
-Total Source Size:      0.13 MB (136760 bytes)
+Total Source Size:      0.13 MB (137006 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): ebd54b90847065176a60e98648666a0fd6f19d08a8b97b69526815d6c288b5f1
+DUMP SHA256 (of all lines above this one): bc0fe17e6602554fc49f2e306b2012a25ef6184e03ef7dbd0d67399b99ab3f13
