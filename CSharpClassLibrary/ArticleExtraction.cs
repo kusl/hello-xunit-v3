@@ -1169,10 +1169,13 @@ public static class HtmlElements
 
     private static (Regex Open, Regex OpenOrClose) PatternsFor(string tag) =>
         Patterns.GetOrAdd(tag, static name =>
-        (
-            new Regex($@"<{Regex.Escape(name)}\b[^>]*>", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant),
-            new Regex($@"<(?<close>/)?{Regex.Escape(name)}\b[^>]*>", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant)
-        ));
+        {
+            string escaped = Regex.Escape(name);
+            return (Compile($@"<{escaped}\b[^>]*>"), Compile($@"<(?<close>/)?{escaped}\b[^>]*>"));
+        });
+
+    private static Regex Compile(string pattern) =>
+        new Regex(pattern, RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
 }
 
 public sealed class CompositeArticleExtractor(IEnumerable<IArticleExtractor> extractors) : IArticleExtractor

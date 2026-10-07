@@ -54,6 +54,8 @@ Settings in `CSharpUnitTests/stryker-config.json`:
 | `concurrency` | `1` | Stryker 5.0.0 under-reports kills under `mtp` with concurrency above 1 ([#3832](https://github.com/stryker-mutator/stryker-net/issues/3832)) |
 | `thresholds.break` | `0` | raise once a baseline score exists |
 
+`HtmlElements` passes its dynamic regex patterns through `Compile(pattern)` because Stryker 5.0.0 crashes on `new Regex($"...")` ([#3872](https://github.com/stryker-mutator/stryker-net/issues/3872)).
+
 Only `CSharpClassLibrary` is mutated. Reports land in `CSharpUnitTests/StrykerOutput/<timestamp>/reports/`.
 
 ## Export
