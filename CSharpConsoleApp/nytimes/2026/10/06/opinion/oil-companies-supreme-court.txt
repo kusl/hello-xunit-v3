@@ -1,0 +1,64 @@
+================================================================================
+oil-companies-supreme-court.html
+Source: PreloadedData  Paragraphs: 21  Words: 1586/1675
+================================================================================
+
+SUMMARY
+
+County Commissioners of Boulder County, a case that could give fossil fuel companies a get-out-of-jail-free card for the harms caused by climate change. He said that dozens of active lawsuits that use state tort law to sue fossil fuel companies for damages because of their role in causing climate change are superseded by federal law. And as climate models improve, attribution science will only get stronger.
+
+ARTICLE
+
+The Science That Has Oil Companies Running Scared
+However the U.S. Supreme Court rules, the work of holding oil companies accountable for climate change has a bright future.
+By Jeff Goodell
+Published 2026-10-06 09:01 UTC
+https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html
+
+On Monday, the U.S. Supreme Court heard oral arguments in Suncor Energy, Inc. v. County Commissioners of Boulder County, a case that could give fossil fuel companies a get-out-of-jail-free card for the harms caused by climate change.
+
+That is not exactly how Kannon Shanmugam — who represents Suncor and Exxon Mobil, another petitioner in the case — framed the argument. He said that dozens of active lawsuits that use state tort law to sue fossil fuel companies for damages because of their role in causing climate change are superseded by federal law. “This case and others like it reflect an all-too-regrettable trend of trying to resolve political issues in court, rather than leaving them to the political branches where they belong,” Mr. Shanmugam argued.
+
+If the justices agree, the lawsuits filed in state courts will likely be dismissed. If that were to happen, it would not be a big surprise. The court has made any kind of regulatory structure or legal action on climate very difficult. Indeed, the Roberts court is the place where climate action goes to die.
+
+Right now, more than 20 civil lawsuits have been filed in state courts by municipalities that attempt to hold the industry responsible for climate damages. Two tribes have filed similar lawsuits. Eleven state attorneys general are pursuing consumer fraud and related claims against the industry. All in all, several cases are now in the discovery phase and moving toward trial. In addition, Vermont recently passed a climate superfund law that, if it survives court challenges, could force fossil fuel companies to pay an assessment for climate damages. In Washington State, the first wrongful death lawsuit against fossil fuel companies is moving forward. The plaintiff is asking the courts to hold the companies liable for the death of a 65-year-old woman, Juliana Leon, who died in her car during a 108-degree heat wave.
+
+Most of these lawsuits were not filed by tattooed, vegan anticapitalists, but by sober-minded public officials desperate for money to repair sea walls, fight more intense wildfires and prepare their cities for a hotter world. Many are motivated by a lesson that many of us learned when we were children: You break it, you fix it. Why shouldn’t that apply to fossil fuel companies whose products have ruptured the climate?
+
+The Supreme Court’s decision in Suncor v. Boulder, depending on how broadly it is written, could kill many, if not all, of these cases. If it does, it could save fossil fuel companies hundreds of billions of dollars in damages and punitive awards and help them avoid high-profile courtroom showdowns in which they are cast as greedy, deceptive planet wreckers.
+
+If that happens, it will not signal the end of accountability. In fact, the age of accountability for the fossil fuel industry has just begun and has a bright future. The reason for that is the emergence of a powerful field of climate science known as attribution science.
+
+Once upon a time, extreme weather events were seen as the expression of angry gods. In the mid-19th century, scientists figured out that carbon dioxide traps heat and that rising levels would warm the climate. In the 1990s, scientists detected a human “fingerprint” in the earth’s atmosphere, a distinctive pattern that differs from warming caused by changes in the earth’s orbit or the sun’s output. But whose fingerprint is it? Are all of us responsible, or are some of us more responsible than others?
+
+The British climate scientist Myles Allen asked himself those questions as he watched the Thames River rise outside his house after an epic rainstorm in 2003. In an article he later wrote for the journal Nature, Mr. Allen asked: “Will it ever be possible to sue anyone for damaging the climate?” His answer: Given the rapid advances of science, maybe soon.
+
+Mr. Allen’s reasoning was straightforward. Fossil fuel companies sell oil, gas and coal that, when burned, heat up the atmosphere, which increases the likelihood and severity of events like the flood that had threatened to swallow his house. Mr. Allen knew that climate scientists could do the math. Basically, they plug all the data for an extreme weather event such as a flood or a heat wave into a climate model and run it. Then they lower the carbon dioxide level in the model, creating a counterfactual world without human influence in the earth’s atmosphere and estimate the probability of the event. This allows them to calculate the role climate change likely played in amplifying or increasing the likelihood of the flood or heat wave. The art of the science is in determining exactly how much and in what ways higher carbon dioxide levels shaped the event.
+
+In the more than two decades since Mr. Allen’s paper, scientists have made remarkable advances in these explorations of climatological cause and effect. One recent study found that heat waves between 2010 and 2019 were about 200 times as likely with global warming. And using data compiled on fossil fuel industry emissions, scientists have been able to connect climate harms to individual companies. Last year, a study by scientists at Dartmouth College found that carbon dioxide emissions from the top 111 fossil fuel companies from the burning of coal, oil and gas between 1991 and 2020 accounted for up to $28 trillion in global economic damages from heat waves alone. For comparison, $28 trillion is about equal to all goods and services produced in the United States in 2025. The same study found that Chevron, ExxonMobil and BP caused $1.98 trillion, $1.91 trillion and $1.45 trillion in losses, respectively.
+
+In the highly politicized world of climate science, these kinds of studies attract a lot of pushback from allies of the fossil fuel industry. “Attribution science is not science,” Energy Secretary Chris Wright has said, arguing that you can’t link individual extreme events to long-term trends. (Attribution science comes in many forms, and much of it does not depend on connecting individual events with long-term trends.)
+
+Critics also point to the fact that climate models are imperfect, though these imperfections are well understood by scientists. Like those of any evolving science, the methodologies are new. And how a future jury might evaluate this kind of evidence is unknown.
+
+But attribution science is not a fringe theory. A 2021 report by the Intergovernmental Panel on Climate Change, the gold standard of climate science, devotes many pages to it. The National Academies of Sciences, Engineering and Medicine has issued two reports specifically about the attribution of extreme weather events. And as climate models improve, attribution science will only get stronger. Will it ever be able to say that a heat wave amplified by the carbon dioxide emissions of X company was responsible for Y person’s death? Maybe not. There are too many confounding local factors. But what attribution science does, writes Prof. Aisha Saad of Georgetown University’s law school, is “bring about an epistemic shift, rendering climate change not only legible but litigable.”
+
+Exactly how that will work is still unclear. Tobacco companies fought off litigation for decades before attorneys hit upon the idea of the states suing for Medicaid costs. Lawsuits that held asbestos manufacturers responsible for causing mesothelioma in workers succeeded only after years of failed attempts.
+
+With those precedents, it’s no wonder the fossil fuel industry appears desperate to avoid wrestling with attribution science in the courtroom. A long, well-documented history of deception about how much they knew about the harms that the burning of their products causes to people and the planet only adds to their vulnerability. Several fossil fuel-friendly states have already passed legislation to protect the industry from liability. Senator Ted Cruz of Texas and Representative Harriet Hageman of Wyoming — two of the best friends the industry has ever had in Congress — have introduced bills to give fossil fuel companies sweeping immunity from virtually any kind of climate accountability.
+
+More broadly, climate accountability extends far beyond the reach of Congress or the Supreme Court. Recent opinions in Germany and the International Court of Justice have endorsed the basic legal principle that entities that contribute to climate change owe something to the people who suffer from its impacts. As attribution science becomes more sophisticated, it will articulate that debt with ever more precision.
+
+The simple truth is, the climate accountability genie is out of the bottle, and the Supreme Court is unlikely to jam it back in. Even if the court sides with Suncor, attribution science will continue to move forward, filling in the gaps between cause and effect in our understanding of how climate works
+
+“New science drives social and political change,” Abigail Dillen, the president of Earthjustice, a nonprofit environmental law organization, told me. Learning about the risks of the ozone hole brought a quick crackdown on ozone-destroying chemicals. The iconic 1968 photo of the earth from space helped trigger the modern environmental movement.
+
+In the end, the promise of attribution science is that it helps us see a storm or a heat wave or a flood not as an act of a god or the whim of Mother Nature, but as a disaster that has been knowingly shaped or intensified by particular human actions. And by identifying perpetrators and victims, it transforms the question of who should pay for climate damages into a moral question as much as a legal one.
+
+This is a science that not only articulates new ideas about accountability but practically demands that we explore them. It is only a matter of time before the courts catch up.
+
+Jeff Goodell is the author, most recently, of “The Heat Will Kill You First: Life and Death on a Scorched Planet.” He is working on a book about climate attribution science and its impact.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

@@ -1,37 +1,47 @@
-kushal@fedora:~/src/bash$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 
-real	0m6.193s
-user	0m10.348s
-sys	0m0.890s
+real	0m6.277s
+user	0m10.854s
+sys	0m0.834s
 
-Build succeeded in 0.4s
+Build succeeded in 0.5s
 
-real	0m0.587s
-user	0m0.628s
-sys	0m0.112s
+real	0m0.599s
+user	0m0.619s
+sys	0m0.135s
 Restore complete (0.4s)
-  CSharpClassLibrary net10.0 succeeded (2.9s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
   CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
-  CSharpUnitTests net10.0 succeeded (0.6s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
+  CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.2s
+Build succeeded in 1.4s
 
-real	0m4.359s
-user	0m1.488s
-sys	0m0.275s
+real	0m1.573s
+user	0m1.173s
+sys	0m0.251s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (710ms)
+failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (3ms)
+  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
+  Assert.Equal() Failure: Values differ
+  Expected: 223
+  Actual:   222
+    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
+    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (712ms)
+Exit code: 2
 
-Test run summary: Passed!
+Test run summary: Failed!
   total: 217
-  failed: 0
-  succeeded: 217
+  failed: 1
+  succeeded: 216
   skipped: 0
-  duration: 899ms
+  duration: 897ms
+Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
 
-real	0m2.003s
-user	0m2.370s
-sys	0m0.414s
+real	0m2.028s
+user	0m2.374s
+sys	0m0.408s
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -63,9 +73,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.362s
-user	0m0.208s
-sys	0m0.165s
+real	0m0.377s
+user	0m0.190s
+sys	0m0.199s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -81,9 +91,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.473s
-user	0m1.346s
-sys	0m0.328s
+real	0m1.447s
+user	0m1.401s
+sys	0m0.297s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -95,11 +105,11 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.750s
-user	0m1.535s
-sys	0m0.312s
+real	0m1.486s
+user	0m1.434s
+sys	0m0.308s
 
-real	0m1.877s
-user	0m3.371s
-sys	0m0.600s
+real	0m1.969s
+user	0m3.591s
+sys	0m0.537s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 

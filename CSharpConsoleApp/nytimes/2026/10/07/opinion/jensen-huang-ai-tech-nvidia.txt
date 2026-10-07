@@ -1,0 +1,56 @@
+================================================================================
+jensen-huang-ai-tech-nvidia.html
+Source: PreloadedData  Paragraphs: 17  Words: 1370/1444
+================================================================================
+
+SUMMARY
+
+At the recent White House tech summit, Jensen Huang, the chief executive of Nvidia, sat in the chair next to President Trump — his literal right-hand man. Later that day, Mr. Huang used the term “super intelligence,” just as the president prefers. Before Mr. Trump, Mr. Huang didn’t show much interest in politics.
+
+ARTICLE
+
+He’s the Most Powerful Engineer on Earth. Here’s Why He Thinks A.I. Is Going Great.
+Our fate may be very well be in the hands of Jensen Huang.
+By Stephen Witt
+Published 2026-10-07 15:00 UTC
+https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html
+
+At the recent White House tech summit, Jensen Huang, the chief executive of Nvidia, sat in the chair next to President Trump — his literal right-hand man. Later that day, Mr. Huang used the term “super intelligence,” just as the president prefers. In the aftermath of this summer’s rogue A.I. attacks, Mr. Huang has emerged as a leading skeptic of the danger this technology poses. As his biographer, I understand why he dismisses the risk. I also worry that he’s not seeing the whole picture.
+
+When I first interviewed him, Mr. Huang told me that every problem — business, personal, whatever — is actually an engineering problem: You study the inputs, you study the constraints and then you get the outputs that you want. While writing his biography, I watched Mr. Huang put this approach into action. He engineers his business to ensure that Nvidia will be the default platform in industries like robotics and health care. He engineers his products to be better than the competition’s. And in 2025, he began to engineer the president of the United States.
+
+Before Mr. Trump, Mr. Huang didn’t show much interest in politics. Now Mr. Trump and Mr. Huang talk on the phone often and seem to have a genuine personal rapport — Mr. Trump even picked him up in Alaska to go to China on Air Force One. Mr. Trump wants to be close to Mr. Huang because the president likes winners — and Jensen Huang is the biggest winner of all. Since its inception in a Denny’s restaurant in 1993, Nvidia has grown to become the most valuable company in American history, even taking inflation into account.
+
+Driving the growth is the unprecedented data center boom behind A.I., which Mr. Huang has termed a “new industrial revolution.” Data centers can hold thousands of tall metal cabinets called “racks” that wire together dozens of Nvidia microchips into a modular computing unit. A new rack, about the size of a refrigerator, can cost around $8 million and, by some estimates, can draw more power than 70 single-family homes. In 2026, Nvidia will net around a quarter of a trillion dollars selling this and similar equipment.
+
+The data center boom has made Mr. Huang the emperor of A.I. — the other big tech companies are borrowing money to access his products. It is a testament to Mr. Huang’s engineering prowess that no competitors have yet managed to gain significant market share in Nvidia’s core business of A.I. chips. Engineers simply prefer Nvidia. These are the self-described “systems guys” responsible for implementing A.I. at the circuit-board level.
+
+Mr. Huang is himself a systems guy and that informs his view of A.I. I’ve interviewed at least a hundred GPU engineers by this point, and I have yet to meet one who was seriously concerned about runaway A.I. On the other hand, most of the software engineers I talk to are extremely concerned. Bill Gates recently warned that A.I. could kill one billion humans.
+
+The situation is baffling: here are two groups of rational, high-IQ technical experts looking at the same data and reaching totally opposite conclusions. It reminds of the viral image “The Dress,” where some people saw blue and black, and some people saw white and gold.
+
+Here is what I think is going on: the basis of modern A.I. is the neural net, which draws direct inspiration from biology. In fact, a modern A.I. consists of many billions of artificial neurons, simulated in computer code. Thus, to the software experts, a modern A.I. looks something like a mass of undifferentiated brain tissue, mysterious and fundamentally difficult to control.
+
+But that’s not how the hardware guys see it. They draw a clear distinction between actual neurons — which are biological cells that can be unpredictable — and synthetic neurons, which are simple mathematical models whose behavior can be forecast with perfect accuracy. When you work from the microchip up, maintaining control of A.I. is an engineering problem, and governed by the same input/output constraints as any other. To the A.I. doomer skeptics, safe A.I. is a math equation — or, in Mr. Huang’s words, just “software.”
+
+When Mr. Huang began studying electrical engineering in the early 1980s, microchips had tens of thousands of components on them, and were typically designed by hand on paper. Today they can have more than a hundred billion components, and are designed using specialized software with assistance from A.I. Mr. Huang, at 63, has personally managed this exponential growth in capability. His generation of engineers built the tools to ensure that the hyper-complex microchip remains something that humans can interpret and control.
+
+As a hardware guy, Mr. Huang spends more time in Asia than most Western tech C.E.O.s. He was born in Taiwan; his native language is Taiwanese, and Nvidia is building a satellite headquarters in Taipei. Mr. Huang is also supportive of mainland Chinese A.I. developers. I believe this also influences his thinking, as East Asia is much more optimistic about A.I. than is the United States. When I do speaking events in Asia, I never get questions about A.I. risk. In the United States, it’s the most common thing people bring up.
+
+So perhaps it is unsurprising that Mr. Huang believes he can make the artificial neuron safe. From his point of view, if you can see every calculation the machine does, right in front of you, then the machine should remain entirely within your control. If the machine is misbehaving — well, that’s your fault. All you need is better engineering. He knows it can be done.
+
+Thus Mr. Huang has dismissed all calls for any slowdown in A.I., or any regulations that would impede development of the technology. “There is 0 percent chance that’s going to be the end of the world,” he said in an interview with CBS News. At a Goldman Sachs conference last month, he suggested that cyber-security concerns were a marketing tactic. “What better way to create demand than to create a problem?” he asked. He also has suggested that the profit motive alone will be sufficient to incentivize companies to make A.I. safe.
+
+Mr. Huang has succeeded in getting Mr. Trump to parrot his talking points. In September, Mr. Trump called Mr. Huang while he was onstage at the All-In Summit in Los Angeles. He put the president on speaker, then held a microphone up to his phone, broadcasting to the audience Mr. Trump’s claims that any talk of risks to human life from A.I. was a “hoax.” “The robots are not going to be taking over the world,” the president said, following a round of applause.
+
+The phone call, which had the feel of an orchestrated publicity stunt, was a public declaration of Mr. Trump’s resistance to A.I. regulation. But where others saw the president taking a forceful stand, I saw Mr. Huang engineering the president. The input was shameless public flattery: in the phone call, Mr. Huang called Mr. Trump “sir,” praised Mr. Trump’s intellect (“You know so much about A.I.,”) and stoked Mr. Trump’s bottomless need for validation. (“Did you hear that? Thousands of people are clapping for you.”) And the output? Little regulation on A.I. and freedom to export some of Nvidia’s hardware to China, and whatever else Mr. Huang wants.
+
+This situation worries me. Mr. Huang is the most capable individual I have ever met — but, I fear, A.I. is more capable still. I suspect that the capabilities exist, today, for A.I. to enhance dangerous pathogens and to shut down electrical grids. At the same time, the science of interpreting and controlling A.I. is years behind the science of making it smarter. At a granular level, we can control the behavior of synthetic neurons, but technologists can’t currently explain how these neurons coordinate to produce intelligence. That gap in understanding is widening, and I don’t know if Mr. Huang can see it.
+
+The future, even in the best-case scenario, will be extremely disorienting. But maybe it will be awesome. Maybe I will live to be 205. Whatever happens, it will happen because of the decisions and guidance of a singular, extraordinary man who directs the future of A.I. and much else besides. Engineering is powerful — and today, Mr. Huang is the most powerful engineer alive.
+
+Stephen Witt is the author of “The Thinking Machine,” a history of the A.I. giant Nvidia.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
