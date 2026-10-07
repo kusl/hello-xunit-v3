@@ -1,49 +1,39 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 
-real	0m6.277s
-user	0m10.854s
-sys	0m0.834s
+real	0m6.050s
+user	0m10.422s
+sys	0m0.808s
 
-Build succeeded in 0.5s
+Build succeeded in 0.4s
 
-real	0m0.599s
-user	0m0.619s
-sys	0m0.135s
+real	0m0.588s
+user	0m0.601s
+sys	0m0.144s
 Restore complete (0.4s)
   CSharpClassLibrary net10.0 succeeded (0.4s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+  CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.4s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
 Build succeeded in 1.4s
 
-real	0m1.573s
-user	0m1.173s
-sys	0m0.251s
+real	0m1.581s
+user	0m1.165s
+sys	0m0.259s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-failed CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory (3ms)
-  from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-  Assert.Equal() Failure: Values differ
-  Expected: 223
-  Actual:   222
-    at CSharpUnitTests.SampleArticleTests.Sample_FilesAreDiscoveredFromTheOutputDirectory() in CSharpUnitTests/ArticleExtractionTests.cs:1242
-    at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
-    at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) failed with 1 error(s) (712ms)
-Exit code: 2
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (687ms)
 
-Test run summary: Failed!
+Test run summary: Passed!
   total: 217
-  failed: 1
-  succeeded: 216
+  failed: 0
+  succeeded: 217
   skipped: 0
-  duration: 897ms
-Test run completed with non-success exit code: 2 (see: https://aka.ms/testingplatform/exitcodes)
+  duration: 888ms
 
-real	0m2.028s
-user	0m2.374s
-sys	0m0.408s
+real	0m2.050s
+user	0m2.394s
+sys	0m0.385s
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -73,9 +63,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.13 MB across 16 files
 
-real	0m0.377s
-user	0m0.190s
-sys	0m0.199s
+real	0m0.346s
+user	0m0.206s
+sys	0m0.178s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -91,9 +81,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.447s
-user	0m1.401s
-sys	0m0.297s
+real	0m1.474s
+user	0m1.474s
+sys	0m0.272s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -105,11 +95,11 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.486s
-user	0m1.434s
-sys	0m0.308s
+real	0m1.454s
+user	0m1.417s
+sys	0m0.288s
 
-real	0m1.969s
-user	0m3.591s
-sys	0m0.537s
+real	0m1.846s
+user	0m3.260s
+sys	0m0.522s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
