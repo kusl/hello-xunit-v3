@@ -6,7 +6,7 @@
     "coverage-analysis": "off",
     "disable-bail": true,
     "disable-mix-mutants": true,
-    "concurrency": 1,
+    "concurrency": 8,
     "break-on-initial-test-failure": true,
     "reporters": [
       "progress",
