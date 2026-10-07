@@ -1586,7 +1586,8 @@ public class ExtractiveSummarizerTests
         Article article = Fixtures.ArticleOf(
             "Dockworkers began a harbor strike on Monday.",
             "The city budget vote was delayed by the council.",
-            "The council said the city budget vote would be held next week.") with { Headline = "Harbor strike", Summary = "Dockworkers walk out" };
+            "The council said the city budget vote would be held next week.") with
+        { Headline = "Harbor strike", Summary = "Dockworkers walk out" };
 
         Assert.Equal("Dockworkers began a harbor strike on Monday.", new ExtractiveSummarizer(maxSentences: 1).Summarize(article));
     }
