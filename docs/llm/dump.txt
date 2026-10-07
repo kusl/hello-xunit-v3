@@ -1,10 +1,10 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-07 23:43:17
+Generated (UTC): 2026-10-07 23:54:27
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      bec4fe5ddb25e9636a577abd419c8e24f5675c7b
+Git Commit:      e5a5740112abcf890e0b41127dbd8c1c31288023
 Git Branch:      master
-Git Dirty:       yes (uncommitted changes are included below)
+Git Dirty:       no
 .NET SDK:        10.0.112
 Files Exported:  19
 ===============================================================================
@@ -4639,8 +4639,8 @@ public class FilenameStringTests
 FILE:     CSharpUnitTests/stryker-config.json
 SIZE:     0.45 KB (458 bytes)
 LINES:    23
-SHA256:   917fd3354f410e16b7e64e53232f49c382c3ed3e2d7df495bf70c9736fb1459a
-MODIFIED: 2026-10-07 23:12:42 (UTC)
+SHA256:   c15822a2fddc63178a6fd6d66c6b1dc588ce5d4280feb802b1de00da88b82a86
+MODIFIED: 2026-10-07 23:49:57 (UTC)
 ================================================================================
 
 {
@@ -4651,7 +4651,7 @@ MODIFIED: 2026-10-07 23:12:42 (UTC)
     "coverage-analysis": "off",
     "disable-bail": true,
     "disable-mix-mutants": true,
-    "concurrency": 1,
+    "concurrency": 8,
     "break-on-initial-test-failure": true,
     "reporters": [
       "progress",
@@ -5106,9 +5106,9 @@ dotnet stryker "$@"
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-07 23:43:18
+EXPORT COMPLETED (UTC): 2026-10-07 23:54:27
 Total Files Exported:   19
 Total Source Size:      0.16 MB (172995 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): c287f102902d81c65dbea2b6011fbbb04f47b15a2341c3ef91d1f4de3c7f4ac2
+DUMP SHA256 (of all lines above this one): 1bc1cae3b2eeba6fe605a2b9f8a07a69d763448d5be9887f99d402b073a3d830

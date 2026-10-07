@@ -1,37 +1,37 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; time dotnet format; time dotnet clean; time dotnet build; time dotnet test; time bash mutate.sh; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 
-real	0m6.621s
-user	0m12.367s
-sys	0m0.869s
+real	0m6.267s
+user	0m12.124s
+sys	0m0.812s
 
 Build succeeded in 0.5s
 
-real	0m0.639s
-user	0m0.652s
-sys	0m0.147s
-Restore complete (0.5s)
-  CSharpClassLibrary net10.0 succeeded (3.0s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
-  CSharpConsoleApp net10.0 succeeded (0.3s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
+real	0m0.613s
+user	0m0.636s
+sys	0m0.139s
+Restore complete (0.4s)
+  CSharpClassLibrary net10.0 succeeded (0.7s) → CSharpClassLibrary/bin/Debug/net10.0/CSharpClassLibrary.dll
+  CSharpConsoleApp net10.0 succeeded (0.4s) → CSharpConsoleApp/bin/Debug/net10.0/CSharpConsoleApp.dll
   CSharpUnitTests net10.0 succeeded (0.7s) → CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll
 
-Build succeeded in 4.3s
+Build succeeded in 2.0s
 
-real	0m4.465s
-user	0m1.552s
-sys	0m0.282s
+real	0m2.178s
+user	0m1.373s
+sys	0m0.294s
 Running tests from CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64)
-CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (767ms)
+CSharpUnitTests/bin/Debug/net10.0/CSharpUnitTests.dll (net10.0|x64) passed (737ms)
 
 Test run summary: Passed!
   total: 510
   failed: 0
   succeeded: 510
   skipped: 0
-  duration: 966ms
+  duration: 925ms
 
-real	0m2.158s
-user	0m2.631s
-sys	0m0.470s
+real	0m2.081s
+user	0m2.549s
+sys	0m0.462s
 Tool 'dotnet-stryker' (version '5.0.0') was restored. Available commands: dotnet-stryker
 
 Restore was successful.
@@ -48,34 +48,27 @@ Restore was successful.
 
 Version: 5.0.0
 
-[19:24:56 INF] Stryker will use a max of 1 parallel testsessions.
-[19:24:56 WRN] Stryker is running in single threaded mode due to concurrency being set to 1.
-[19:24:56 INF] Analysis starting.
-[19:24:56 INF] Analyzing 1 test project(s).
-[19:24:57 WRN] Failed to identify target frameworks for project /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/CSharpUnitTests.csproj. Using analysis results: net10.0
-[19:24:58 WRN] Failed to identify target frameworks for project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj. Using analysis results: net10.0
-[19:24:58 INF] Picking net10.0 for project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj. 
-[19:24:58 INF] Found project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj to mutate.
-[19:24:58 INF] Analysis complete.
-[19:24:58 INF] Building test project /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/CSharpUnitTests.csproj (1/1)
-[19:24:58 INF] Building project CSharpUnitTests.csproj using dotnet build CSharpUnitTests.csproj -c Debug --property:Platform=AnyCPU (directory /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests.)
-[19:25:00 WRN] The Microsoft Test Platform testrunner is currently in preview. Results should be verified since this feature is still being tested.
-[19:25:00 INF] Number of tests found: 510 for project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj. Initial test run started.
-[19:25:35 INF] 1532 mutants created
+[19:50:46 INF] Stryker will use a max of 8 parallel testsessions.
+[19:50:46 INF] Analysis starting.
+[19:50:46 INF] Analyzing 1 test project(s).
+[19:50:47 WRN] Failed to identify target frameworks for project /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/CSharpUnitTests.csproj. Using analysis results: net10.0
+[19:50:47 WRN] Failed to identify target frameworks for project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj. Using analysis results: net10.0
+[19:50:47 INF] Picking net10.0 for project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj. 
+[19:50:48 INF] Found project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj to mutate.
+[19:50:48 INF] Analysis complete.
+[19:50:48 INF] Building test project /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/CSharpUnitTests.csproj (1/1)
+[19:50:48 INF] Building project CSharpUnitTests.csproj using dotnet build CSharpUnitTests.csproj -c Debug --property:Platform=AnyCPU (directory /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests.)
+[19:50:49 WRN] The Microsoft Test Platform testrunner is currently in preview. Results should be verified since this feature is still being tested.
+[19:50:50 INF] Number of tests found: 510 for project /home/kushal/src/dotnet/HelloXUnit/CSharpClassLibrary/CSharpClassLibrary.csproj. Initial test run started.
+[19:51:25 INF] 1532 mutants created
 Hint: by passing "--open-report or -o" the report will open automatically and update the report in real-time.
-[19:25:35 INF] 214   mutants got status CompileError. Reason: Mutant caused compile errors
-[19:25:35 INF] 131   mutants got status Ignored.      Reason: Removed by block already covered filter
-[19:25:35 INF] 345   total mutants are skipped for the above mentioned reasons
-[19:25:35 INF] 1187  total mutants will be tested
+[19:51:25 INF] 214   mutants got status CompileError. Reason: Mutant caused compile errors
+[19:51:25 INF] 131   mutants got status Ignored.      Reason: Removed by block already covered filter
+[19:51:25 INF] 345   total mutants are skipped for the above mentioned reasons
+[19:51:25 INF] 1187  total mutants will be tested
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-100.00% │ Testing mutant 1187 / 1187 │ K 1178 │ S 1 │ T 8 │ E 0 │ ~0m 00s │                                                                                                                                 00:17:42                                                                                                                                                                                                                    Killed:   1178                                                                                                                                                                                                      Survived:    1                                                                                                                                                                                                      Timeout:     8                                                                                                                                                                                                      Errors:     0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               All mutants have been tested, and your mutation score has been calculated                                                                                                                                           ╭────────────────────────────────────┬─────────┬──────────┬───────────┬────────────┬──────────┬─────────╮                                                                                                           │ File                               │ % score │ # killed │ # timeout │ # survived │ # no cov │ # error │                                                                                                           ├────────────────────────────────────┼─────────┼──────────┼───────────┼────────────┼──────────┼─────────┤                                                                                                           │ /home/kushal/src/dotnet/HelloXUnit │   99.92 │     1178 │         8 │        346 │        0 │     214 │                                                                                                           │ ArticleExtraction.cs               │   99.91 │     1114 │         4 │        328 │        0 │     212 │                                                                                                           │ FilenameString.cs                  │  100.00 │       64 │         4 │         18 │        0 │       2 │                                                                                                           ╰────────────────────────────────────┴─────────┴──────────┴───────────┴────────────┴──────────┴─────────╯                                                                                                                                                                                                                                                                                                                               Your json report has been generated at:                                                                                                                                                                             /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.19-24-56/reports/mutation-report.json                                                                                                                                                                                                                                                                                                                       Your html report has been generated at:                                                                                                                                                                             /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.19-24-56/reports/mutation-report.html                                                                                                   You can open it in your browser of choice.                                                                                                                                                                          [19:43:17 INF] Time Elapsed 00:18:20.8586511                                                                                                                                                                        [19:43:17 INF] The final mutation score is 99.92 %                                                                                                                                                                                                                                                                                                                                                                                      real    18m21.489s                                                                                                                                                                                                  user    41m20.616s                                                                                                                                                                                                  sys     0m44.438s                                                                                                                                                                                                   On branch master                                                                                                                                                                                                    Your branch is ahead of 'origin/master' by 3 commits.                                                                                                                                                                 (use "git push" to publish your local commits)                                                                                                                                                                    
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   CSharpUnitTests/ArticleExtractionTests.cs
-
-no changes added to commit (use "git add" and/or "git commit -a")
+100.00% │ Testing mutant 1187 / 1187 │ K 1174 │ S 5 │ T 8 │ E 0 │ ~0m 00s │                                                                                                                                 00:03:01                                                                                                                                                                                                                    Killed:   1174                                                                                                                                                                                                      Survived:    5                                                                                                                                                                                                      Timeout:     8                                                                                                                                                                                                      Errors:     0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               All mutants have been tested, and your mutation score has been calculated                                                                                                                                           ╭────────────────────────────────────┬─────────┬──────────┬───────────┬────────────┬──────────┬─────────╮                                                                                                           │ File                               │ % score │ # killed │ # timeout │ # survived │ # no cov │ # error │                                                                                                           ├────────────────────────────────────┼─────────┼──────────┼───────────┼────────────┼──────────┼─────────┤                                                                                                           │ /home/kushal/src/dotnet/HelloXUnit │   99.58 │     1174 │         8 │        350 │        0 │     214 │                                                                                                           │ ArticleExtraction.cs               │   99.55 │     1109 │         5 │        332 │        0 │     212 │                                                                                                           │ FilenameString.cs                  │  100.00 │       65 │         3 │         18 │        0 │       2 │                                                                                                           ╰────────────────────────────────────┴─────────┴──────────┴───────────┴────────────┴──────────┴─────────╯                                                                                                                                                                                                                                                                                                                               Your json report has been generated at:                                                                                                                                                                             /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.19-50-46/reports/mutation-report.json                                                                                                                                                                                                                                                                                                                       Your html report has been generated at:                                                                                                                                                                             /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.19-50-46/reports/mutation-report.html                                                                                                   You can open it in your browser of choice.                                                                                                                                                                          [19:54:26 INF] Time Elapsed 00:03:40.7325041                                                                                                                                                                        [19:54:26 INF] The final mutation score is 99.58 %                                                                                                                                                                                                                                                                                                                                                                                      real    3m41.369s                                                                                                                                                                                                   user    39m35.862s                                                                                                                                                                                                  sys     0m47.382s                                                                                                                                                                                                   On branch master                                                                                                                                                                                                    Your branch is ahead of 'origin/master' by 1 commit.                                                                                                                                                                  (use "git push" to publish your local commits)                                                                                                                                                                                                                                                                                                                                                                                        
+nothing to commit, working tree clean
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -105,12 +98,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.16 MB across 19 files
 
-real	0m0.402s
-user	0m0.219s
-sys	0m0.214s
-Restore complete (0.7s)
+real	0m0.389s
+user	0m0.228s
+sys	0m0.216s
+Restore complete (0.4s)
 
-Build succeeded in 0.8s
+Build succeeded in 0.5s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -123,9 +116,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.651s
-user	0m1.403s
-sys	0m0.313s
+real	0m1.445s
+user	0m1.415s
+sys	0m0.287s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -137,11 +130,11 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.850s
-user	0m1.613s
-sys	0m0.361s
+real	0m1.523s
+user	0m1.509s
+sys	0m0.279s
 
-real	0m4.420s
-user	0m4.322s
-sys	0m0.605s
+real	0m2.037s
+user	0m3.545s
+sys	0m0.549s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
