@@ -199,3 +199,22 @@ Claude finished the response
 
 
 I don't know what I am doing wrong but I don't see any files in the output... 
+/home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.18-30-13 is empty from what I can tell 
+kushal@fedora:~/src/dotnet/HelloXUnit$ ls -lahter /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.18-30-13
+ls: invalid option -- 'e'
+Try 'ls --help' for more information.
+kushal@fedora:~/src/dotnet/HelloXUnit$ ls -lahtr /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.18-30-13
+total 0
+drwxr-xr-x. 1 kushal kushal  0 Oct  7 18:30 .
+drwxr-xr-x. 1 kushal kushal 58 Oct  7 18:30 ..
+kushal@fedora:~/src/dotnet/HelloXUnit$ ls -lah /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput/2026-10-07.18-30-13
+total 0
+drwxr-xr-x. 1 kushal kushal  0 Oct  7 18:30 .
+drwxr-xr-x. 1 kushal kushal 58 Oct  7 18:30 ..
+kushal@fedora:~/src/dotnet/HelloXUnit$ ls -lah /home/kushal/src/dotnet/HelloXUnit/CSharpUnitTests/StrykerOutput
+total 4.0K
+drwxr-xr-x. 1 kushal kushal  58 Oct  7 18:30 .
+drwxr-xr-x. 1 kushal kushal 214 Oct  7 18:30 ..
+drwxr-xr-x. 1 kushal kushal   0 Oct  7 18:30 2026-10-07.18-30-13
+-rw-r--r--. 1 kushal kushal   1 Oct  7 18:30 .gitignore
+kushal@fedora:~/src/dotnet/HelloXUnit$ 
