@@ -399,3 +399,202 @@ Claude finished the response
 
 
 I have attached the json with this prompt 
+
+
+/
+Ran 7 commands, shared files
+Diagnosing a crash involving a mutation tool's regex handling.
+Investigating a mutation testing bug involving interpolated string handling.
+Untangling why a mutation test script kept running after a crash.
+Checking how dotnet format handles default analyzer severities.
+Presented file
+You didn't do anything wrong. Stryker crashed about 6 seconds in, before it had tested a single mutant. It had already created the timestamped folder, which is why you got an empty directory.
+
+Cause: Stryker's regex mutator assumes the pattern passed to new Regex(...) is a plain string literal. HtmlElements.PatternsFor passes interpolated strings ($@"<{Regex.Escape(name)}..."), so Stryker throws InvalidCastException. This is a known open Stryker bug (#3872) and it isn't fixed on their master branch yet.
+
+Fix: PatternsFor now builds the pattern strings first and passes them to a small Compile(string pattern) helper. Because the regex constructor now receives a variable rather than a string expression, Stryker skips it instead of crashing. The behaviour is identical. You lose nothing on mutation coverage either, since Stryker can't mutate interpolated patterns anyway.
+
+Changed files
+
+CSharpClassLibrary/ArticleExtraction.cs: only the PatternsFor method changed.
+README.md: one line explaining the workaround.
+There are no files to delete. Extract the same way as before:
+
+bash
+tar -xzf HelloXUnit.tar.gz -C ~/src/dotnet
+You can delete the empty CSharpUnitTests/StrykerOutput/2026-10-07.18-30-13 folder, or leave it; it's gitignored either way. I still can't build here, so dotnet build and dotnet test on your side are the first real check.
+
+Once Stryker gets past mutation it will start running the mutants. With concurrency 1 and every test run against every mutant, expect it to take a while. When it finishes, the reports will be in StrykerOutput/<timestamp>/reports/. Send me mutation-report.json and I'll write tests for the mutants that survive.
+
+
+Helloxunit.tar
+GZ 
+dump.txt
+dump.txt
+TXT
+mutation-report.json
+mutation-report.json
+JSON
+terminal.txt
+terminal.txt
+143 lines
+TXT
+I have attached the json with this prompt
+
+Ran 45 commands, shared files
+Investigating why a surviving mutant left a test unaffected.
+Testing file extension parsing on tricky filenames.
+Porting code from C to Python and verifying equivalence.
+Designing hand-crafted test articles to verify readability concerns.
+Scoring candidate sentences to find the strongest topic line.
+Checking candidate sentences against the word-count rule.
+Testing mutant selection logic against sample sentences.
+Working out set sizes that fit a similarity ratio.
+Refactoring the type-detection switch logic.
+Checking edge cases around null class matching logic.
+Reviewing null checks and guard clauses in the processor code.
+Scoring example sentences against stopword and similarity rules.
+Verifying test cases for parsing priority and assertion syntax.
+Verifying equality checks for inline link record tests.
+Fixing stray blank line and comma formatting in the code.
+Fixing a missing blank line in the inserted text.
+Presented file
+The updated project is in the tarball below. More than half of the 442 survivors (240) were never really testable, because of how Stryker's mtp runner works.
+
+Why 240 survived no matter what the tests did: the mtp runner starts one test process and reuses it for every mutant. Static fields such as StopWords, Abbreviations, ArticlePaths, RemovedElements, CompoundExtensions, the JsonOptions fields and the Default instances are set up once when that process starts, so a mutated value never takes effect. For example, mutating ".tar.gz" to "" should fail an existing test, but it survived. The HtmlElements regex cache had the same problem, because it was keyed only by tag name.
+
+Library changes (behaviour unchanged unless noted)
+
+Static data moved out of static initializers.
+Lookup lists are now is patterns.
+Arrays are now method locals.
+The options, the default base URL and the Default instances are now expression-bodied properties.
+Regex cache is keyed by pattern and options, so a mutated pattern gets a fresh regex.
+Redundant code that could only produce equivalent mutants is gone.
+The == check in ScriptData.
+The punctuation-run loop and the i = end - 1 lines in SentenceSplitter. I checked this against the original logic on 400,000 random inputs and got identical output.
+Null guards where the next call already throws the same exception with the same parameter name.
+The ThenBy after the score sort, since LINQ's sort is stable.
+Two-letter stop words, because words that short are filtered out anyway.
+The empty-set check in Similarity.
+FindClose returns int? instead of -1, which removes a comparison that tests could never distinguish.
+One deliberate behaviour change: ExtractiveSummarizer now skips sentences that have no content words. Before, a sentence made entirely of stop words could fill an empty summary slot.
+New tests: 217 → about 450. There is one test case per stop word and per abbreviation. The rest are targeted tests for each surviving mutant: meta-tag and JSON-LD precedence, the three preloaded-data roots and the search depth limit, heading levels, empty blocks, markdown inline spacing, and exact report layout. Three more areas are covered:
+
+Summarizer scoring. I ported the summarizer to Python and checked that each new article kills the intended mutant.
+Checks that the async methods don't resume on the caller's context (the ConfigureAwait(false) calls).
+UTF-16 byte-order-mark detection.
+Changed files
+
+CSharpClassLibrary/ArticleExtraction.cs
+CSharpClassLibrary/FilenameString.cs
+CSharpUnitTests/ArticleExtractionTests.cs
+CSharpUnitTests/FilenameStringTests.cs
+README.md: added the rules that keep mutants killable and the known equivalent mutants.
+There are no files to delete.
+
+I still can't compile here; I only syntax-checked the C# with a parser. Run dotnet build and dotnet test first. If an analyzer or a test complains, send me the output.
+
+Two kinds of survivors will remain:
+
+Known equivalent mutants. One is the topic-word weight forced to always 2.0: that doubles every topic word's weight uniformly, so the ranking doesn't change. The other is the "*" file search pattern, since .NET treats an empty pattern the same way.
+New mutants from the restructured code. Send me the next mutation-report.json and I'll go after those.
+
+Helloxunit.tar
+GZ 
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+
+
+
+
+
+
+
+
+
+
+Claude finished the response
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
