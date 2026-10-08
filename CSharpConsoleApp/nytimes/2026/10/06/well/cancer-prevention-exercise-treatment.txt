@@ -1,0 +1,58 @@
+================================================================================
+cancer-prevention-exercise-treatment.html
+Source: PreloadedData  Paragraphs: 21  Words: 857/857
+================================================================================
+
+SUMMARY
+
+Lee Colker powered on an iPad in the basement of his Pittsburgh home and logged into a virtual exercise session with Olivia Masten, a trainer who specializes in working with cancer patients. The program is part of a growing effort around the country to help cancer patients exercise, as the benefits of doing so become increasingly clear. Observational research has long suggested that exercise improves cancer survival, particularly for breast cancer patients.
+
+ARTICLE
+
+It Can Keep Cancer in Remission. Why Is No One Talking About It?
+Despite mounting evidence that exercise programs can improve cancer outcomes, access to them remains limited.
+By Nina Agrawal
+Published 2026-10-06 09:00 UTC
+https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html
+
+Lee Colker powered on an iPad in the basement of his Pittsburgh home and logged into a virtual exercise session with Olivia Masten, a trainer who specializes in working with cancer patients.
+
+Mr. Colker, 66, had been dealing with unpredictable fatigue and brain fog since beginning a clinical trial for metastatic kidney cancer this year. When staff at the University of Pittsburgh Medical Center told him an exercise program could improve his energy, he jumped at the opportunity. “That was a clincher for me,” he said.
+
+The program is part of a growing effort around the country to help cancer patients exercise, as the benefits of doing so become increasingly clear.
+
+Observational research has long suggested that exercise improves cancer survival, particularly for breast cancer patients. Last year, a landmark randomized controlled trial showed that colon cancer patients who participated in a structured exercise program with a trainer-coach over three years were less likely to see their cancers come back and had a better quality of life. Among those in the program, 90 percent were alive after eight years, compared with 83 percent in the control group.
+
+A later study showed the program, which altogether cost $3,000 per person, also saved the health system money — “a home run,” said Dr. Scott Ramsey, a cancer researcher and health economist at the Fred Hutch Cancer Center in Washington State.
+
+That combination of benefits is rare among cancer therapies: The new pancreatic cancer drug daraxonrasib, for example, costs $480,000 annually, has unpleasant side effects and, while it prolongs life by several months, does not increase overall long-term survival.
+
+“If we had a drug with this magnitude of benefit, it would immediately become standard of care and funded” by insurance companies, said Dr. Christopher Booth, an oncologist and professor at Queen’s University in Kingston, Ontario, and the leader of the exercise trial.
+
+While guidelines now recommend that oncologists help colon cancer patients achieve at least 150 minutes of moderate to rigorous exercise per week, many patients need support in the form of a structured program, with a trainer and supervised sessions, to get to that level and stick with it. But there’s not yet an insurance pathway to pay for such programs — a major barrier to rolling them out more widely.
+
+“You can tell patients that if you do this, you may survive longer,” Dr. Ramsey said. But unfortunately, he added, “we just don’t have the infrastructure.”
+
+Current programs are largely limited to major cancer centers and dependent on philanthropy or individual out-of-pocket payments to cover costs, leaving poorer patients and those who live far from these centers without access.
+
+Dr. Jeff Meyerhardt, a gastrointestinal oncologist at Dana-Farber Cancer Institute in Boston, refers his patients to the hospital’s center for alternative therapies, where they can consult with a trainer and access in-person and online exercise classes. But the trainer can’t continue supporting patients over time.
+
+At the University of California, San Francisco, doctors refer eligible patients for physical therapy and rehabilitation, which can be reimbursed by insurance, while many Y.M.C.A. branches offer a free or low-cost 12-week program for cancer survivors.
+
+Improving outcomes among cancer patients isn’t as simple as telling them to exercise more, said Kathryn Schmitz, an exercise oncology researcher at U.P.M.C. Hillman Cancer Center. “Exercise is not just biology,” she said. “It is also behavior.”
+
+Dr. Schmitz is the founding director of Moving Through Cancer, the program in which Mr. Colker is participating. It is tailored to each patient: Some need more support, while others “are well enough to go out and play some pickleball,” she said.
+
+Kimberly Barker, 68, suffered from low back and hip pain and fatigue after treatment for bladder and uterine cancer. A quilter who used to bicycle with her husband on trails near their home in Butler County, Pa., Ms. Barker lost the motivation to do the things she loved.
+
+“I was just so tired, no energy, no stamina,” she said.
+
+She met with Ms. Masten, the trainer, once a week for 12 weeks, and also did the suggested exercises between meetings. She continued doing them after the program ended, and now feels back to her normal self. She and her husband have resumed their bike rides.
+
+Because of the success in people like Ms. Barker, U.P.M.C. has decided to offer the program through its employee health plan for breast cancer patients beginning next year.
+
+The health system will be the first in the country to offer insurance coverage for exercise oncology, Dr. Schmitz said. She and her colleagues argued for it based on randomized trials that showed it saved costs by reducing hospitalizations, emergency room trips and unplanned office visits.
+
+“This U.P.M.C. rollout is a giant experiment,” Dr. Schmitz said. If it’s successful, the hospital plans to expand it to all cancers in 2028. Dr. Schmitz also pushed to incorporate exercise into standards that cancer hospitals must follow to receive certain accreditation, which will happen later this year.
+
+“This is no longer just something that would be nice to have,” Dr. Schmitz said. “This is a therapeutic intervention, it needs to be done — and it needs to be done for all patients.”

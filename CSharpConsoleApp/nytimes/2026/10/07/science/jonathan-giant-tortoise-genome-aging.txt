@@ -1,0 +1,50 @@
+================================================================================
+jonathan-giant-tortoise-genome-aging.html
+Source: PreloadedData  Paragraphs: 17  Words: 909/909
+================================================================================
+
+SUMMARY
+
+At about 194 years old, Jonathan is the world’s oldest known land animal. Jonathan gave scientists the rare opportunity to study what happens to an animal’s genome over the course of nearly 200 years. “If we had 1,000 animals like Jonathan, it would be easier to understand his longevity,” said Dr. Stephen Clark, lead author of the study and the founder of Kallel, a nonprofit dedicated to studying the genetics of aging.
+
+ARTICLE
+
+At 194, Jonathan the Giant Tortoise Knows About Aging
+Scientists have sequenced his genome for the first time, hoping the world’s oldest land animal can offer clues into the genetics of longevity.
+By Monique Brouillette
+Published 2026-10-07 18:00 UTC
+https://www.nytimes.com/2026/10/07/science/jonathan-giant-tortoise-genome-aging.html
+
+Dr. Joe Hollins slides a thick welding glove onto his left hand and grips a cotton swab tightly in his right. He squats down to eye level with a 400-pound giant tortoise, cradles its head with his gloved hand and carefully wedges a finger into its mouth to prop open its razor-sharp beak. With his other hand, he tries to swab its cheek.
+
+Dr. Hollins, a veterinarian, has only about five seconds to get the DNA he’s after before he risks getting punched with a thick, scaly leg.
+
+The first swab comes back covered in half-chewed carrot — a favorite snack. He tosses it aside and tries again. The tortoise, named Jonathan, looks mildly annoyed.
+
+At about 194 years old, Jonathan is the world’s oldest known land animal. He’s an Aldabra giant tortoise living 1,200 miles off Africa’s west coast on the remote island of St. Helena, spending his days on the sun-dappled grounds of the official home of the governor. (At the time of his arrival on St. Helena, he was at least 50 years old, a determination his keepers made based on size.)
+
+Although he shows some signs of aging, like cataracts that have left him mostly blind, he still has excellent hearing and a strong libido. He enjoys greeting visitors, having his neck petted and delivering loud belches for the crowd that gathers around his paddock during mealtimes.
+
+In June, after Jonathan was erroneously declared dead by some media organizations, the Guinness World Records added him to its list of global icons, honoring his superlative status. And on Wednesday, he reached another milestone when a study announced that his genome had been sequenced for the first time.
+
+“We almost never get to study an animal this old while it is still alive,” said Steve Horvath, a biologist who studies aging at the University of California, Los Angeles, and an author of the study, which was published in the journal Science Advances.
+
+Jonathan gave scientists the rare opportunity to study what happens to an animal’s genome over the course of nearly 200 years. But obtaining the DNA wasn’t easy: The researchers were not permitted to take a blood sample, the gold standard in DNA sequencing, because of the risk of infection. And because the island is served by only one often delayed commercial flight per week, the swabbed saliva had to travel by boat.
+
+The researchers were committed to the idea, though, because they were curious if Jonathan’s DNA held secrets about aging or longevity. Just think: When this tortoise was presumably born in 1832, Charles Darwin was only 22 years old and hadn’t yet visited the Galápagos Islands, where he would dream up his theory of natural selection.
+
+After sequencing the sample, the scientists compared Jonathan’s genome with those of tortoises 100 years his junior and found some molecular differences, especially in genes involved with DNA repair and the maintenance of the protective caps on chromosomes, called telomeres. As organisms age, DNA accumulates damage and the telomeres shorten, a process thought to drive aging. The results hint that this species may have evolved to be more resilient to age-related decline, but further testing is needed.
+
+The team also discovered that Jonathan shared some genes with other long-living species like naked mole rats, which can live to 40 and rarely get cancer.
+
+Perhaps most interesting is what they found when they looked at the tortoise’s epigenome, which is a map of the chemical tags that regulate the genome. These tags change with age and can lead to erratic gene activity. As expected, Jonathan had age-related changes in his epigenome similar to older humans, but there was an exception. Notably, the control switches linked to mitochondria were well preserved, similar to those of a young tortoise. Mitochondria, the molecular power plants inside cells, have long been linked to healthy aging.
+
+The potential for learning from the biology of animals that live extraordinarily long lives is exciting for scientists who study aging. “Each of these long-lived species has some kind of special trick,” said Steve Austad, a biologist at the University of Alabama at Birmingham. “And some of those may turn out to be relevant to human aging.”
+
+“The results integrate very well in the wider puzzle of what longevity is,” said Björn Schumacher, who studies aging at the University of Cologne in Germany. He urged caution, though, in concluding that Jonathan would help us understand why humans age and what we can do about it.
+
+Jeanne Calment, for example, was the world’s oldest person at the age of 122. She attributed her long life to a diet rich in olive oil and port wine. She also smoked cigarettes. Does that mean we should all smoke and drink red wine? Probably not, Dr. Schumacher said, and we should use similar caution when drawing conclusions from Jonathan.
+
+Jonathan’s advanced age could be an outlier because of his round-the-clock veterinary care, diet of fresh vegetables and protected lawn at the governor’s house.
+
+The molecular results offer tantalizing clues, however — ones that scientists are keen to explore further. “If we had 1,000 animals like Jonathan, it would be easier to understand his longevity,” said Dr. Stephen Clark, lead author of the study and the founder of Kallel, a nonprofit dedicated to studying the genetics of aging. In the future, Dr. Clark hopes to analyze more Aldabra tortoises and other long-lived species by gathering data that offers some hints for us spry chickens, too.

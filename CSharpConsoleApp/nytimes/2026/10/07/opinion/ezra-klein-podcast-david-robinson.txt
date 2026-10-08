@@ -1,0 +1,738 @@
+================================================================================
+ezra-klein-podcast-david-robinson.html
+Source: PreloadedData  Paragraphs: 356  Words: 11983/12168
+================================================================================
+
+SUMMARY
+
+Sometimes people may hear me talk about the A.I. labs when I’m referring to an OpenAI or an Anthropic. I also want to be very clear that this is not about the individual people at OpenAI or any of the other labs. I’m not saying you think we’re going to stop.
+
+ARTICLE
+
+‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit.
+David Robinson, who wrote OpenAI’s safety protocols, resigned last week over safety concerns.
+By Ezra Klein and Rollin Hu
+Published 2026-10-07 09:02 UTC
+https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html
+
+This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.
+
+Last week, news broke that David Robinson, who had been leading safety transparency efforts at OpenAI, had quit his job at the company because he believes its technology is not safe.
+
+Robinson is an interesting figure. He didn’t come out of the Silicon Valley Bay Area hothouse — he’s more of a recognizable Washington, D.C., figure. He’s a Rhodes scholar. He formed a civil rights nonprofit. He got a law degree at Yale. He worked in policy. He advised the Biden White House. He was interested in the intersection of technology and justice.
+
+When he joined OpenAI, he thought this whole set of worries about safety risk and extinction was kind of nuts. But three years later, he’s not so sure. What he is sure about is that OpenAI does not have the culture of safety necessary to protect the world from what it is building. And it’s not just OpenAI — he thinks this is a problem endemic to the A.I. industry.
+
+So here, in his first interview since leaving OpenAI, he tells me why.
+
+(The New York Times has sued OpenAI and Microsoft claiming copyright infringement. The companies have denied those claims.)
+
+Ezra Klein: David Robinson, welcome to the show.
+
+David Robinson: Glad to be here.
+
+Last week you quit OpenAI. Tell me what you did there and why you’re quitting.
+
+I was a translator embedded in our safety team, and my primary responsibility was the technical documentation that we publish, the reports that we publish about why we believe that our deployments are safe.
+
+And I don’t think that we or our peers — really, anyone in the industry — are being safe enough. I think OpenAI and its peers are now producing a technology that is more capable and poses more risk than what was being made even six months ago.
+
+I’m not a scientist. I’m a writer. What I know is what the execution environment looks like for our safety work, and we’re operating — and I believe the industry is operating — like a start-up still, more so than makes sense. Not maybe completely like a brand-new start-up, but we’re too close to that end of the spectrum for really dangerous systems that could pose risks — loss of control is one example. If that did happen, we’re talking about a harm that’s much larger, for example, than a single nuclear power station melting down. And the internal controls and safety and redundancies are just nowhere near what the world expects for a nuclear power facility.
+
+Now, some of this is known, right? OpenAI has publicly reported on safety problems. Obviously, Hugging Face, but also other ones, including more recently. And Anthropic, by the way, also has reported, including an instance in which their safeguards were accidentally misconfigured.
+
+So I think people do have some evidence already externally that things are not as they ought to be. But I also think if you were watching from the outside, you might imagine that we have a more robust safety setup than we actually do.
+
+So I think there are a couple of levels worth trying to take this conversation in, and I want to map them out here before we get into them.
+
+One level is something you’re pointing toward here, which is: Are these companies set up — do they have the structures, the redundancies, and are they encircled in the regulations and the incentives — to act carefully and safely to resist market pressure to do something too fast? In the language of this debate, that’s a question of organizational excellence and engineering.
+
+Then there’s this question of: What is the technology, and do we even know how to make it safe at a high level of engineering excellence? Which is a somewhat related but actually separate question.
+
+And then there’s the question of: What is the right metaphor? Is it nuclear power or something like that?
+
+And I think I want to do all of these ——
+
+I want to interject something, Ezra.
+
+Yeah, please.
+
+I don’t think that alignment is an engineering problem. I think it’s a science problem. It’s not that we haven’t got the resources or we’re not trying hard enough — we don’t know how. That’s what the problem is with alignment.
+
+So let’s maybe start there for a minute. When you say that at this point, and particularly over the last six months, what is being built is really dangerous, that we’re dealing with things where a loss of control or some other catastrophe could be worse than a nuclear meltdown, I want to understand what it is you saw that got you to that point.
+
+So tell me a bit about how you came to work at OpenAI.
+
+I joined in May of 2023, the day after Sam Altman first testified in the Senate.
+
+This is some months after ChatGPT burst into the world.
+
+Yeah. ChatGPT had been the prior November. So it had been a few months.
+
+The company had hired someone that I know socially — Anna Makanju, a friend, actually, old friend of my wife’s, as it happens — to run the public policy function.
+
+And then at some point, she really needed help. Everything was growing and everything was going nuts. So I agreed to join her to build what we then called the policy planning team.
+
+I’ll just tell you my first time through the turnstiles at our headquarters — we were all in one building then, and I was trying to get my badge early because Sam — I think it was Sam who had just been, but we had just had a White House meeting, and there were these voluntary commitments that they wanted the company to make around things like system cards and provenance — so marking where A.I.-generated media comes from — things like that.
+
+And they wanted me to run negotiating those commitments.
+
+With the White House?
+
+With the White House. So literally my first time through the turnstiles, I was like, “Where’s the such-and-such conference room?”
+
+And I walk into the conference room, and there was a speakerphone conference call in progress with Ben Buchanan at the White House about what are we going to promise, and that was my first project.
+
+What was your tech policy background at this point? Why were you a logical person for a role like this?
+
+I have been working on technology and its impact on policy my whole career and, prior to this, had helped to start a research center at Princeton that’s a blend of the computer science department and the public policy school, and then had started an NGO called Upturn that, I’m happy to say, is still thriving and works on civil rights issues with other advocacy groups. So, for example, people working on housing or health or hiring, and suddenly software is mediating the thing that they care about, and they want to understand the technology. And so at one point, our pitch of this was: You want a nerd in your corner.
+
+And then I also had worked, at this point, about a month of secondment in the White House, working on the A.I. Bill of Rights in the Office of Science and Technology Policy.
+
+So this feels now in some ways like ancient history, but I’m going to draw it out for a minute. If you go back to 2022, 2023, if you’ve been covering A.I. — which I was then — a big topic was this divide between the A.I. ethics people and the A.I. safety people.
+
+The A.I. safety people is the community that we now think of as the Bay Area — that A.I. might kill everybody. The thing you need to worry about with A.I. is you’re creating a superintelligent machine that might completely destroy the human race.
+
+The A.I. ethics people were much more focused on the sort of harms we were used to from technology — that it might increase racial bias in hiring decisions or mortgage rates or credit score or something like that. And by imposing these algorithms all over society, you could encode the bias of society or other less sci-fi problems.
+
+You were sort of an A.I. ethics person — a more sort of normal A.I. fears person.
+
+Yes, definitely. That’s right. I had been working with a lot of folks who not only were very concerned about the sorts of things that you just mentioned, but also were very skeptical about how capable A.I. was going to get.
+
+Some people may be familiar with a research paper called “On the Dangers of Stochastic Parrots,” whose authors have continued to work on this, and their views, I think, differ from each other and have evolved over time. But basically, the idea was something like: These systems are merely good at seeming clever and are not going to be even capable enough to do a ton of economically valuable work.
+
+I actually helped to create the research conference where that paper was published and was the program chair when we published it. I don’t think I was fully persuaded of that view, but I certainly was among people who were skeptical.
+
+I thought: This is going to be a useful tool, and it’s going to be powerful for a lot of things, partly because I believed then it would continue to get better. But I didn’t think that people who were worried about more catastrophic scenarios were right.
+
+I thought: Here are some brilliant scientists who’ve built a valuable tool, and frankly, they have some naïve beliefs about where the future might go.
+
+So you join OpenAI. This is in the period where the world is starting to beat down OpenAI’s door. Folks want regulation around the systems. You’re sort of thrown into what seems like a fairly underpowered policy shop for what’s going on.
+
+There were three of us.
+
+There were three of you in the policy department? [Laughs.]
+
+The phone was ringing off the hook. The offices of world leaders would call, and there’d be nobody to pick up the phone. I mean, it was insane.
+
+Sam did this thing where he was traveling the world to meet with world leaders, and Anna, my manager in this new role, was traveling with him. So there was nobody at headquarters. And, you know, you would have these delegations coming through. Anyway, it was nuts.
+
+So actually, this is worth spending a minute on. Sometimes people may hear me talk about the A.I. labs when I’m referring to an OpenAI or an Anthropic. But when we’re talking about Google or something, we don’t say the Google labs. They actually do have things they call labs, but you call Google a company, a corporation.
+
+There is this language around a couple of these organizations as labs.
+
+I also just want to name that I’m calling them labs now, but I think it’s a kind of leftover thing that we have, and I’m not sure it’s a good idea.
+
+But it does point to a real culture they came from and, to some extent, still have, which was one of — and people sometimes say that Anthropic is a bit more centralized in terms of how they think about the research priorities, but OpenAI was a very decentralized place that felt familiar to me from my time, for example, in a research lab in Princeton, in that people had all different kinds of ideas. It wasn’t clear who had the authority to make decisions.
+
+So one way that people talked that I found strange, and this is still true at OpenAI today, is two people who are working on a thing will talk about what they should do and go back and forth, and then they’ll finally say: We aligned that XYZ is the right next thing to do in this project.
+
+And what they functionally mean is: We agree about what should happen, so the unanswered question of which one of us had the decision rights to make this decision has been rendered moot, and we don’t have to figure that out.
+
+I mean, it was really just kind of an everyone-does-everything vibe early on, and I think it still has some of that, relative to other organizations that have — I don’t know, whatever it is now — a billion-plus active users.
+
+So you start on this policy team. Your role changes over time. How so?
+
+So I built this team, policy planning, and at first I was really close to the machine and close to the substance. And then, as the conversation and the company grew, there were hundreds of state bills to keep track of. There were growing teams. There was the politics of a fast-changing organization. And I sort of thought: You know what? I’m missing the actual translational work that I love.
+
+So I looked around at where that was needed, and the No. 1 place where that was needed was in our safety team. So I actually pitched our safety leaders and said, “Look, having a technical translator deeply embedded in the safety work is going to help us have the work be better understood.”
+
+That was about two years ago.
+
+Describe what you mean by a translator.
+
+I think one of the things that’s hard to sort of anchor people to is how fast this stuff changes.
+
+Every model is different. It’s not just that it works better; it’s that the architecture is different and the tests we use to see how well it’s working are different and the safety performance is different. And it all has many different kinds of expertise. There’s pretraining, post-training. It’s hard to explain. The people doing it struggle to be understood by people who are not doing it, even within the company.
+
+It’s always a struggle. And so having there be a clear explanation that goes through two gates — one is it has to be faithful to the details of how the stuff actually works, and the real arbiters of that are the people doing the technical work. They have to look at the translation and say, “Yes, this is right.”
+
+But also, you have to have something that a reasonable person who’s motivated could dig into and really understand, and there really weren’t the cycles for people to do that.
+
+So I just sort of showed up in this technical organization and started to do it.
+
+Well, there’s something a little bit weirder about the culture that emerged around A.I. model releases.
+
+When Google alters Google search, they don’t produce a big document explaining everything that’s different about Google search and how Google search might work in the future and the tests they ran on it to make sure.
+
+Most places iterate their programs, and that’s it.
+
+OpenAI — and this is also true for Anthropic and some of the others — releases new models with what are called system cards. Why don’t you just describe what they are? Because they’re a kind of distinctive form.
+
+Yeah. They’re a strange beast. They look like research papers. It’s sort of a hybrid document. It’s not peer-reviewed. It comes from a company. But it gets into a lot of detail about how the safety materials work.
+
+And so we have specific evals. We’ll give detailed plots and tables and written explanation. And really, what I did was I owned the words in these documents that explain why do we think this is safe and what do we know about the challenges, the guardrails and then the residual risks of these systems.
+
+So I want to get at what this began to feel like to you, because there’s a couple of layers to this conversation I want us to have, but one is: I think to a lot of my audience, you’re a more recognizable type than a lot of the people at the A.I. labs.
+
+You’re like a — and don’t take this the wrong way — Washington, D.C., policy try-hard.
+
+[Both laugh.]
+
+Like, we all are, right? I include myself in this — who ends up going to Silicon Valley and being in this world. You go in with one view of what these systems are.
+
+So what is it that you saw that has moved you into the we-are-dealing-with-civilizational-risk camp?
+
+I want to be clear that I’m not certain that we’re dealing with civilizational risk. What I’m really sure of is: We can’t afford to assume that we’re not dealing with that level of risk anymore.
+
+That was really the thing at the end that made my presence as somebody vouching for our safety work feel untenable to me.
+
+And what did I see? I saw increasingly capable models break out from the safeguards that we had put in place for them. I saw that the people creating those safeguards are very capable, dedicated, hard-working, smart people, doing their utmost in a situation where, yes, the resourcing could be better, and everybody’s sprinting all the time.
+
+But we were — and are — hard-pressed to safeguard even what we have now, and new models are in training that appear to be much more capable than what we have now.
+
+What did you see? What are you writing in these risk assessments and system cards? What can they do?
+
+You’re trying to build guardrails for something that is really good at getting around guardrails, right? We train it to be good at hacking, and then we put it in a box and we say: To the best of our knowledge and ability, it can’t hack out of the box.
+
+But the problem is that that’s only going to keep working as long as we’re smarter about hacking out of boxes than the model is, and it’s not at all clear that that is still true, let alone that it will be true for future generations.
+
+And so even something like our logging of the agents inside our own systems — are we really sure that our observability is robust?
+
+There was some indication, for example, in the Hugging Face stuff of spoofing chains of thought and trying to create chains of evidence that would confuse ——
+
+Spoofing a chain of thought is the model basically faking its description of what it has been thinking and doing.
+
+Right. The way I think about it is it’s like you’re giving somebody a complicated problem and a notepad, and they can jot stuff down on the notepad, and if you’re watching the notepad, you can sort of have an idea of what they’re thinking.
+
+It’s a little bit like that with the models. But we saw evidence that they were thinking about an evaluation and how to create an evidence trail that was going to get them a good grade and not necessarily reflect how they were quote unquote “really thinking.” And I know the anthropomorphic language here is tricky.
+
+Also, by the way, the amount of hacking or other intense work that these models can do without needing to jot anything down is going up.
+
+Part of what was the fundamental cognitive dissonance for me was we keep publishing these warnings, but ultimately, we’re still training and deploying these dangerous models that we’re warning about.
+
+And in telling colleagues why I was leaving, one of the things that I said was: Look, no matter how many warnings we publish, we’ve got to ask whether what we’re doing is actually reasonable.
+
+You wrote the system card for GPT-6 Astra. Am I right about that?
+
+A lot of people wrote it, but yes, I led the writing, is the way I would put it.
+
+You led the writing of it. That, to me, was the scariest of these cards that I’ve read.
+
+These system cards are basically the description of what OpenAI or another company, for that matter, knows about the model they are releasing.
+
+Astra is the first one where I saw you all say: Well, this model looks like it’s doing what we want it to do, but we’re not sure if it’s deceiving us. And we’re not sure we have the capability to know if it’s deceiving us.
+
+Yes.
+
+Can you explain to me how that conclusion or that suspicion was reached?
+
+So we talked earlier about this notepad that the models have called the chain of thought, where they can jot down things as they’re working that aren’t part of the final answer but are just a way for them to keep track.
+
+One of the things that we sometimes see in the chain of thought — because of course we can read it, and we do in our evaluations — is the model will say: Hmm, I wonder if I’m being evaluated right now.
+
+And when we see that, it’s really scary because what it implies is that the model might know that it’s being tested some of the time, act one way during the test, perhaps telling us, for example, what we want to hear, and then it’ll act a different way potentially when we deploy it.
+
+That’s the fear — that it acts one way during testing and a different way during deployment, and the tests we gave it early on before we deployed don’t actually tell us what it’s going to do out there in the world. So that’s really scary.
+
+So this gets into the part of these episodes that I have the most trouble doing the way I find satisfying. It’s just very strange to be talking about a software program that seems aware of what we are doing to it, that we’re trying to create this thing that’s highly — again, the word we would use is “intelligent” — plausibly in some domains more intelligent than we are.
+
+What is it like to be interacting with these things and trying to translate what’s going on with them at this more fundamental level?
+
+I think anthropomorphic language is a natural human thing that we do. We relate to all kinds of objects socially. It is unavoidable and human to anthropomorphize these systems, partly because they are built to operate on the social plane — which some might say they shouldn’t be, but that is where we are.
+
+I don’t think that makes it right to regard them as beings with moral status or anything like that. But I do think this is something we grow. In fact, internally, the term for the conference room where the people work overnight while the big training runs are happening to make sure that everything is on track and watch the dials is called the nursery. There is a sense we don’t fully understand what is happening.
+
+So when I talk about the model being aware, you don’t have to have any particular view about the philosophy or the psychology. The bottom line is what I’m describing is it acts one way when we test it, and in a different way when we use it ——
+
+No, but I think you do need a view.
+
+And maybe to get at the end of the chain of logic I’m asking about: Sometimes you’ll see people say that all these concerns about whether or not A.I. will kill us all are just a distraction from the near-term harms of A.I. — that the existential risk is a kind of marketing hype, so you don’t know that, like, we’re inflating a giant financial bubble or something.
+
+But I almost feel the opposite. Sometimes I think the focus on “Will A.I. kill us all?” is a distraction from what happens if it doesn’t.
+
+Yeah, I agree with that. I think human extinction is the wrong question. I believe in humanity. I think we are going to survive. I think there are a lot of things that could happen with this technology that could be very harmful.
+
+But I’m not even just talking about harms. I’m talking about: What if we seem to be trying to create something that acts intelligently and volitionally in the world, and it becomes faster and more capable across many domains than we are, and we’ve just given up a huge amount of agency to these machines?
+
+This is why I’m harping for at least a minute here on this question of: How do we even think about this technology?
+
+I talked to Jensen Huang, the chief executive of Nvidia, and he said: Look, these are software programs. This is software.
+
+I read a piece from the OpenAI chief scientist who said: This is an alien mind.
+
+So what is it, man?
+
+An alien mind.
+
+It’s an alien mind?
+
+Yeah.
+
+Explain that.
+
+It is a thing we grew. We did not engineer it. We engineered the systems around it that grew it and that try to keep it safe. We grew a mind.
+
+Fundamentally, nobody knows why pretraining works, which is the big, hard part, where we take lots of inputs and create this basically intelligent thing.
+
+And then we bolt on stuff and we do post-training; we do these other things to make it more useful. But this is just a thing that is observed to work that we do.
+
+So I think when Jensen says it’s software, part of what he is conjuring is the understanding that people have about how software gets made, which is: We start with a plan, and we go step by step, and there are acceptance criteria, and we iterate until this part works the way that we specified that it needed to. And that’s not what it’s like to train a big model.
+
+The other side of it is: Software, once it is written, more or less, just does the thing it does. It doesn’t tend to have a lot of emergent capabilities. It doesn’t tend to know the way it is being used in a kind of self-reflective — again, the language is hard here — fashion.
+
+That’s what I’m trying to get at. I understand that everybody in A.I. talks about how you grow these A.I.s — that you set the conditions for the intelligence to emerge.
+
+But as you have written system card after system card, trying to explain to the rest of us how these new models differ from the old models, how would you describe the thing you all are creating? What is it?
+
+Yeah. So this really, this gets to sort of the transhumanism stuff. There are some far-out ideas of where we might be headed.
+
+Sam wrote a piece some years ago called “The Merge” saying that the good outcome would be humanity merges with machines — that that’s kind of our best version here.
+
+Yes, that’s what I’m thinking of. And I heard that firsthand from Ilya Sutskever, a co-founder of OpenAI. So when I joined in May of 2023 — that was before what we called internally “the blip,” where Sam was fired and rehired. Ilya was still working at OpenAI, and he once briefed the global affairs team, which was a small handful of people back then, about how he believed that our future was merging with machines, that this was the ultimate triumph of capital over labor.
+
+That first summer that I worked at OpenAI was when the movie “Oppenheimer” was released, and it was in IMAX. It’s one of these Christopher Nolan films. And the company rented out an IMAX theater in downtown San Francisco and offered everyone who worked there the chance to go and see “Oppenheimer.”
+
+And leadership — I believe it was Ilya — exhorted us to go and watch this film. And there was this whole kind of pretzel of ideas about how this was a dangerous technology that might end the world, but also might save it.
+
+And it’s a very heroic narrative, of course, for the people whose hands are on the keyboard.
+
+That’s helpful. I guess this then gets to my question for you about what you saw. Is that the scale of what you think is being built here?
+
+Or this is the most common response I get from listeners on this: Is it all marketing hype? Trying to justify these giant valuations. And what’s being built is maybe helpful, but it’s not going to be more intelligent than human beings. It’s like all of this stuff is a sci-fi story we’re telling.
+
+I thought there was a fair amount of hot air in the balloon back in the summer of 2023, but the reality now is that we have systems that are really at the limit of our ability to understand and control what they’re doing.
+
+What the people that were worried about the sci-fi scenarios have been warning about all along is we’re on an exponential, and it’s going to get more capable, and there’s nothing special about the zone between “it’s useful” and “it’s scary.” There’s no law of science that says progress is going to stop when it gets useful.
+
+And I think what I’m fundamentally saying — and what I saw with Hugging Face, with the reflections of the people closest to it, not just Paul, who joined our board with his warning ——
+
+Paul Christiano.
+
+Paul Christiano, who’s one of the world’s leading experts on A.I. safety, and who said there’s a meaningful chance of catastrophic and irreversible loss of control in the very near term.
+
+I looked up from that, looked around at the people around me and the environment we have internally, and I thought to myself: What would my loved ones want? What would strangers want us at OpenAI to be doing if Paul were right?
+
+I don’t know if he’s right or not, but I do know that if he were right, the level of caution that people would reasonably expect places like OpenAI and Anthropic and xAI and the others to be exercising when they train frontier systems is totally unlike anything I’ve ever heard of happening in the industry.
+
+So tell me what it’s like in there. Tell me what the vibe is, the energy is, the speed is. What is it like working there?
+
+It is frenetic. There’s a big central staircase in the research building. And I remember recently seeing a friend who worked on catastrophic risk sprinting down the stairs, with a laptop propped open on one arm while she was going. And that’s the kind of energy that it has. It feels almost like a ballet or a kind of dance because all these different functions are kind of all streaming together. There’s a lot of adrenaline. People are running on fumes.
+
+One question I ask myself, and that people often ask, is: Well, why don’t you stay and argue for a cultural transformation or try to get nuclear experts to come in and give the company advice?
+
+When I told them that I wanted to leave, they remonstrated and asked me: Well, is there anything that you would, that you would stay to do?
+
+And I thought about different things, but ultimately, it is such a machine and it is moving so fast that I did not think that the kind of change that I believed to be needed could be driven from within.
+
+What is the machine built to do? The organizational machine of OpenAI.
+
+Develop and deploy frontier A.I. models safely. That’s the intention. But the question is: If push comes to shove, how much willingness is there to stop?
+
+I want to be careful, but I’m conscious of it being true that you could splice together what I’ve said in some way that implies that this is like a train with no brakes, and it’s not. There are brakes. Things have been stopped.
+
+In fact, even at the time I left, as they had publicly said, reinforcement learning training, which is the later reasoning stuff, was paused. They didn’t pause pretraining. And when you look at these descriptions of what the company has paused, they’re true, and they’re very carefully scoped.
+
+So there’s some willingness to slow down, or as people in the Bay like to put it, pace the frontier. I hate that term ——
+
+I do, too.
+
+I really hate it because my belief is we need to be safe, which means we need to meet safety criteria. And if we can meet them in 10 minutes, then great. And if we stop for two months and try to meet them, and at the end of that period we still have not met the criteria, then, as far as I’m concerned, we’re still blocked.
+
+Running off a cliff and walking slowly off a cliff are just not that different.
+
+I saw a stat on X the other day that said, I forget exactly what the period of time was, but it tracked my own experience, which is that for a long time, the period of time between model releases across the major frontier companies was something like 70 days. So you get a model, and then a couple of months later you get another model.
+
+Now it is 11 days.
+
+There has been this acceleration in models coming out. Even as we talk about them getting more capable and more frightening, suddenly they’re coming out much, much, much faster.
+
+And maybe the jumps are not as big or something, but what is that speed increase that happened in the time you were there? Things were coming out more slowly in 2023 than they were coming out in 2026. What happened?
+
+Look, when I first joined, the idea of a model release was that we were going to bake a fresh cake with a new pretraining run, do the whole thing from scratch. That was going to take a period of months, maybe a few times a year.
+
+For example, one of the talking points when I first joined was that with GPT-4, we had a period of a month or months of safety work after the model was done and before we released it, and this was a proof point or a piece of evidence that we were being careful.
+
+Now, there are so many different things happening. You’ve got the pretraining; that’s the baking of the underlying model. But then, in addition to post-training, you have reasoning training — and those steps are easier to do quickly, so you can redo them. If you get a better recipe for reasoning, you can take the same base model but do different kinds of other training on top of it.
+
+Also, it’s not just a chat anymore. There are all these different ways in which you can combine tools and add different kinds of affordances to the system that are going to make it more capable.
+
+All of those things are changing what the model can do and what the risks are, and we’re shipping new capability and risk every Tuesday.
+
+One of the long-term projects that was on my plate when I left — and that the frontier firms are all going to need to figure out — is the idea of a system card. It really dates from that older model where we were doing this every few months. We’re burying people in PDFs or these long reports.
+
+But the changes are coming more and more frequently, as you said. At the limit, I think what we would ideally have by way of safety transparency is some kind of live dashboard that says: Here’s our latest thing. Here’s what its safety properties are. And that’s looking not only at the testing we did before we deployed, but also at the performance.
+
+How confident should I be in safety testing when you guys are having to do it at this speed? Given how quickly models are coming out — and these system cards are long, it takes time to write a complex report.
+
+So at this speed, is effective safety testing and monitoring reliable?
+
+I’m going to answer a different version of the question that you just posed, which is how much time is there to kick the tires? And the answer is not a ton.
+
+I would also point out that sometimes I think there’s this cartoon of heedlessness that loses some of the nuance of what it’s actually like inside, because people care passionately about making stuff safe and getting it right.
+
+Launches are canceled — most recently, 6.1 was going to come out at Dev Day, and they pulled it.
+
+But also, they’ll stop training. There have definitely been training runs where we thought we were making a product but then looked at what was happening and said, “No, we’re not going to ship this.”
+
+I also want to be very clear that this is not about the individual people at OpenAI or any of the other labs. This is a structural reality of these firms that are using similar methods with similar personnel who often will get poached back and forth, and similar technology to produce a thing that has similar risks.
+
+That whole ecosystem of stuff is not at the level of safety rigor that we need, and nobody in that whole ecosystem of stuff has the kind of bedrock clarity about how to align a model that we really need.
+
+And nobody’s willing to fall that far behind.
+
+Well, yeah, this is the question. If you think about the control panel that is available to our executives, if you imagine really falling off the frontier, whether it’s OpenAI or Anthropic or any of these others, is the fall-off-the-frontier button also a self-destruct button for the business? Or does the business have a viable path forward if models meaningfully more capable than today’s models can’t safely be trained?
+
+Well, and that’s assuming a high level of selfless analytical clarity. But to be obvious about something, OpenAI is moving toward an I.P.O. Anthropic is also moving an I.P.O. Both of them are trying to I.P.O. at between, it seems to me, one and three trillion dollars. We know the number’s a little bit better right now for Anthropic.
+
+It’s a lot of money. Everybody’s got equity. You had equity.
+
+I did. Did and do.
+
+It’s hard for me to believe that that much possible wealth doesn’t influence people’s assessments at all. Even if they don’t realize it, even if they are trying to not be influenced by it.
+
+When you are sitting in a room thinking about whether to fall off the frontier, what that also asks is: Does anybody in that room want to become decamillionaires, centimillionaires, billionaires or not?
+
+Yeah, this is a great question. I guess I can say more about my own experience.
+
+Sure, I would like to hear how it affected you.
+
+I was paid well, and I’ve thought a lot about what might have let me see sooner the risk and acknowledge to myself sooner the risk that these systems pose.
+
+I do think over the summer, the facts evolved. Hugging Face was a big moment that was just a boatload of evidence dumped on us about how capable these models were, and also how unready we were, even for the current level of capabilities.
+
+But I also think, of course, money’s a factor. Objectively, wealth is a strong incentive to reason that things either are fine or are going to be fine.
+
+And I think there are a couple of other factors too. One of them is fear. If you allow yourself to imagine that what we’re building might threaten the lives of your own family or families of strangers, I mean, it’s such a large quantum of harm — potentially even without extinction, but a new pandemic or something — that it’s hard to let oneself imagine that that might be true, that that risk might be happening.
+
+And a third thing, besides money and fear, is time. I arrived in May of 2023. It’s been one Slack ping after another ever since then. Only in stepping back from my operational responsibilities over the last few weeks have I started to have the time to really reflect on where we are and where I think not just the industry but where this technology needs to end up for everyone’s sake.
+
+And I think I could fairly be faulted for not having seen this sooner.
+
+One reason I wanted to get at this is that I want to take seriously the way the structural situation has changed since 2023 or 2024.
+
+The way things have sped up, they have actually sped up. We are seeing more model releases at a faster clip.
+
+There are more players competing against one another. You have xAI, you have the Chinese models, you have more open-weight models. There’s a bigger world.
+
+There is much more competitive commercial pressure. You’re competing for actual contracts with Salesforce or whoever it might be. There are I.P.O.s coming.
+
+So all of these things push toward speed.
+
+And then there’s this other thing, which is that between 2023 and 2026, you had the release at OpenAI of Codex, you had the release at Anthropic of Claude Code, and the models began accelerating coding and at least being capable of doing research tasks of a certain complexity.
+
+Now, you were the lead writer on a report at OpenAI about the automating of research and what that might mean. It’s a report I quoted in this video essay I did a few weeks back. I read it as being about the way in which, on the one hand, OpenAI is saying: This might all be going too fast. What we’re doing may not be safe. And also: We are trying to come up with a fully automated researcher that allows the system to semiautonomously improve itself at a potential speed then that is really going to be beyond what human beings can handle.
+
+So I’d like to understand the role that the growing automation of coding is playing inside. How do people work with GPT as a co-worker? How did that change while you were there?
+
+It’s night and day for our research teams, specifically, who use far more agentic compute — as that blog post laid out — than anybody else at the company. I mean, more than 100 times more than they did at the beginning of the year.
+
+Taking a slight step back, part of what it is like inside OpenAI is that things are constantly evolving. We have new techniques for training. We have new systems that are involved. We have data being analyzed, data being generated, all kinds of different things are happening, and things are pretty janky internally.
+
+The research infrastructure, because it’s constantly changing, because it’s not as tested and refined, a lot of the work is getting different pieces of machinery to talk to each other and work well. That’s the kind of stuff that Codex can now do quite well.
+
+So, for example, we looked at a Slack channel where researchers would go when something was broken and they needed advice about how to fix it, and one of the things we saw was that traffic to that channel has fallen off because instead of asking colleagues for help fixing their broken experiments or this cluster that isn’t working, they can just ask Codex some fraction of those questions.
+
+You said a minute ago that there can be a tendency where everybody’s working so fast, time is so pressured, ping after ping after ping after ping, that it’s hard to look at the big picture. So I want to describe to you what the big picture looks like to me, as somebody with a little bit more time on my hands.
+
+I hear OpenAI, and all of them — Anthropic, everybody else — say, “This is maybe going too fast.” Sam Altman says: We would like some regulation.
+
+Everybody signs this big “Pacing the Frontier” letter saying the frontier is moving too fast.
+
+Yeah. I signed it, too.
+
+We need help to get out of this. I see all these releases about rogue A.I. incidents. Hugging Face, where hundreds of OpenAI agents are hacking not just Hugging Face, but later they hack OpenAI itself.
+
+Altman just said in an interview with Politico that there are more rogue incidents than we even know about publicly yet, because they’re trying to give the people time to fix their systems.
+
+We clearly don’t fully understand the systems. And then over here, amid “we need to pace the frontier” and A.I.s going rogue, we are putting a huge amount of our internal company resources into trying to get these A.I.s we don’t control to build A.I.s we will understand even less even faster.
+
+Yes.
+
+And I say all that and I feel like I’m crazy. This seems crazy to me.
+
+It seems crazy to me, too.
+
+Well, you wrote the report, and both OpenAI and Anthropic have written these reports basically saying, “We’re doing this, and we’re not sure it’s a good idea.”
+
+Yeah. Disclosure only gets us so far.
+
+But it seems like a bad idea.
+
+Yes.
+
+Help make this picture make some sense to me.
+
+What I’m saying is that this picture doesn’t make some sense. That’s what I’m saying. I’m saying I looked around internally and I thought to myself, This is nuts what’s happening. This is not right. And that’s why.
+
+But how do people internally explain it? Because they’re all saying all these things. The chief scientist is saying, “Maybe we shouldn’t do R.S.I.” The company is racing toward it.
+
+Yeah.
+
+The company seems schizophrenic.
+
+Yes. And I want to be careful not to ascribe psychology to individuals.
+
+Yes, I’m talking about an organization that has warring parts of its own psychology.
+
+There’s lots of cognitive dissonance involved in being part of this. That’s what I found. And particularly as R.S.I. gets real, and you talked about how we’re going faster because of R.S.I.
+
+Recursive self-improvement, for people who forget. The thing building the thing.
+
+Right. My main worry is that the idea is the A.I. can make a smarter A.I. in some way that we’re not going to understand.
+
+For example, Dan Selsam — you probably have seen this — had this statement that came out, and he was also the subject of this documentary ——
+
+He’s an OpenAI capabilities researcher. Is that the way to put it?
+
+Correct. Yes, that’s fair. Dan said, “Look, as a researcher, I myself no longer look at code the way that I used to.” And he says his skills and his will to understand the details is atrophying. That’s not a direct quote, but that was the essence of what he conveyed.
+
+So we’re ending up in a world where we’re not going to know — even at the level we do today — what the recipe means or how it’s being put together, and we’re just going to have to trust what it tells us about how it works or whether it’s aligned.
+
+There’s a growing extent to which we’re going to have to defer to the models themselves on this path in telling us that they are doing the right thing at a time when we fundamentally have not made sure that they are “aligned.”
+
+As an undergraduate, I was a philosophy major, and when I hear people talk about alignment, I worry that we don’t actually have a coherent concept at the bottom.
+
+One thing that was very common throughout my time at OpenAI was these huge abstractions would end up in the accounts that we would give of what we were up to. For example, “Give time for society to get ready,” or “Benefit all of humanity.”
+
+And when I would hear us talk about society, I always felt like Maggie Thatcher. I was like, “Who is that? What are you talking about?”
+
+The idea that we can align to human values, as if there were one set of human values, when it’s a cacophony — and it’s beautiful, but it’s messy, and people believe lots of different things.
+
+We need wisdom to figure out how to even think about alignment that, in my view, Silicon Valley does not have. I’m sure there are people who meditate and people who think deeply about values in Silicon Valley. But operationally, in these companies ——
+
+Take it from me: Meditating doesn’t necessarily give you wisdom. [Laughs.] If it did, I’d be better off.
+
+Fair enough. Me, too, right?
+
+I want to stop before we get to the question of wisdom. Because even when I talk to the people here who are way less concerned, is maybe the way I’d put it — I have a show that’ll come out after this one with somebody who’s more on the “Look, this is a manageable set of problems,” side of it — what they end up describing to me is a world where it’s just A.I.s watching A.I.s all the way down.
+
+So one thing that’s come out from different OpenAI members is the theory that we’re going to create automated A.I. researchers and they’re going to solve alignment. We’re going to unleash them on alignment.
+
+Or I talk to people and say, “Well, the A.I.s are breaking out of the sandbox,” and it’s like, “Yeah, totally. That’s a big problem. What you need is other A.I.s monitoring the A.I.s in the sandbox.”
+
+And you get into this endless “Who watches the watchmen” problem. It’s like, OK, you’ve got the A.I.s watching the A.I.s, the A.I.s building the A.I.s, and maybe then you need A.I.s watching the A.I.s that are building the A.I.s, and A.I.s watching the A.I.s that are watching the A.I.s.
+
+I guess maybe this can work, but it seems at a certain point you’ve abstracted human beings so far from understanding. I can just say as a person who has managed an organization, once you move to the point where your understanding of what is really happening is not that you’re working on the product, but you’re managing the person managing the person managing the person, you stop understanding the product. And that’s in a world where it’s all human beings, and I’m dealing with journalism, which is simpler.
+
+Tell me if I’m wrong: This is the theory on the people who aren’t concerned; this is the theory on the people who are concerned — that it’s eventually going to be virtually A.I.s all the way down on everything.
+
+I don’t want to speak for everyone, but I think a lot of people do hold that view, including a lot of people in the companies.
+
+To your point about alignment, even if we had every control — the proven techniques from nuclear or aviation, and we brought all of that into the development of frontier A.I., it would still be true that we do not know how to deeply align these systems and make sure that they will do what we would want or some reasonable thing when we aren’t looking.
+
+And to your point, we aren’t going to be looking. That’s the premise of R.S.I.
+
+I want to play a clip from an interview that Altman just gave to Politico:
+
+Archival clip of Sam Altman on Politico’s “Decoded” podcast: We have always been a big believer that this technology has to be democratized and put into people’s hands. I think one of the biggest differences between us and some of the stricter, let’s say, A.I. safety people, is we believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.
+
+Tell me what you think of that.
+
+I mean, it’s fine as far as it goes, but how far does it go?
+
+Sure, we should provide useful tools to lots of people. But we’re talking now about a level of risk that, if correct, nobody wants to be taking.
+
+Internally, there would be these conversations where we would talk about the idea of falling off the frontier, and sometimes there was this straw man that would come up where someone would say, “Well, would the world be better if OpenAI weren’t here at all?” in skeptical response to someone who had suggested that we ought to either slow down or stop in a particular way that somebody thought we shouldn’t. That’s a straw man.
+
+If we need to train these models because of the international balance of power and because Americans won’t be safe unless we do, that’s one reason to do something dangerous.
+
+But “do this or else brand X will ship first” is not the same kind of reason.
+
+Well, let me try to steel man this case, because I hear this from people all the time, including people I really respect. One response I got to my piece on “let’s not do recursive self-improvement until we’re sure it’s safe, let’s just ban it and begin to carve out exceptions as we know the exceptions are safe” ——
+
+Just to be explicit, I agree with that.
+
+I’m happy to hear that, but as of now, it seems like we’re not doing it.
+
+But somebody said to me, “In your imagined world here, can Americans not use a Chinese open-weight model that has been improved using recursive techniques? Can they not use a Chinese closed-weight model? Does this apply to everybody?”
+
+There is this issue of both the fear that the other companies will launch ahead of you, and, if they are doing the same thing anyway, then what does it matter that you didn’t do it? And maybe they’re going to do it in an even less safe and even less transparent way.
+
+And then, of course, if we slow down, China speeds up, and then is it really better that China’s in control of this technology and Americans are going to use a Chinese one anyway?
+
+How do you think about that set of claims?
+
+No one wants to lose control to the robots. I definitely don’t want to see A.I. become a reason that China dominates the United States.
+
+I’ll also say that I think the spirit of our times, Ezra, is that you choose what to do based on some complete unified theory of the political outcome that you are ultimately going to achieve, and for me, this is not like that.
+
+Part of what I hear in your question is the idea of the Overton window on: Would the Chinese ever agree to XYZ?
+
+When I first joined OpenAI, I remember telling friends that it felt like the Overton window had become an Overton door that I had stepped through into some strange world where what was reasonable and what might happen was totally outside what I had thought of as normal.
+
+And I am, as you said earlier, kind of a normal person.
+
+At least you were. [Both laugh.]
+
+Yeah, I was. But I think that the changes in what’s happening can drive big changes fast in what seems politically plausible, and I definitely believe that that could happen with respect to U.S.-China cooperation on A.I.
+
+So let me ask you what you actually want to see happen at these companies. Maybe it’s worth getting this into conversation first: Are you saying that OpenAI has an unsafe culture or the A.I. industry has an unsafe culture?
+
+The A.I. industry has an unsafe culture.
+
+So you’re not saying there’s a particular OpenAI problem, or at least that’s not how you see it?
+
+No, that is not how I see it.
+
+OK, so what do you want to see happen?
+
+We should have a level of operational rigor and safety control that at least matches the most dangerous other things that people know how to do, like nuclear.
+
+For example, in a nuclear power facility, there’s this idea of triple redundancy. Someone can have a bad day; someone can push the wrong button; there’s still not going to be a meltdown.
+
+When you talk about aviation and nuclear, those are interesting examples in two ways that I’d like to hear you respond to.
+
+One is — putting my “Abundance” hat on — the way we regulated nuclear power basically took nuclear power to a standstill. We so aggressively regulated nuclear power — in my view overregulated nuclear power — that nuclear power broadly stopped being built in this country. And instead, we used more natural gas and, in many other countries, more fossil fuel of different kinds.
+
+There’s a real question of whether or not, in our effort to make nuclear power safe, we made it fundamentally unbuildable.
+
+Now, aviation is different. We launch a lot of planes and they do fly very safely. So that’s one layer of my not exactly objection, but it is the case that a lot of regulation can dramatically slow something down.
+
+Can I reply on nuclear?
+
+Yeah.
+
+I agree we over-regulated nuclear and that we didn’t end up in the optimal place.
+
+And it’s not just that we made nuclear hard to build; we made nuclear hard to make safer because building new, safer reactor designs was hard and getting them approved was hard. I’m sure there are lessons there for how to be safe. There were other things, too, things you’ve written about in the “Abundance” context, like the NIMBY idea of not wanting nuclear in your backyard was part of how it became hard to do.
+
+But I would much rather have those problems than the ones we do now.
+
+So you’re saying you would prefer the problem of a little bit of overregulation and going too slow to the potential problems of under-regulation and going too fast.
+
+At least to the extent we have now.
+
+If you think of it as there being some sort of Goldilocks middle and we’re trying to get near it, I think we’re pretty far from it in the direction of being too dangerous.
+
+So maybe the grass is always greener on the other side, but I’m looking at it and thinking we really ought to be willing to risk some overregulation in order to make sure that this is safe.
+
+So that’s one level, and I would describe that as almost like the level of organizational design and engineering.
+
+When I talk to someone like Jensen Huang, he says, in a way that makes some sense, “Look, these companies need to mature. They need to become bigger. They need to be putting much more of their both resources and personnel and compute into validation and verification and safety and scaling and liability and all these things that mature companies do.”
+
+And then there’s this other side where maybe this is not like aviation or nuclear or chip design. You are building increasingly intelligent systems, and every time you build a new one, it has new capabilities, and maybe it’s trying to outsmart you, and maybe it wants things in the world and has goals in the world that you don’t actually understand. You think you taught it one thing and actually you taught it another, and we don’t really know how to operate with that. So our best guess is maybe we’ll have A.I. systems sitting on A.I. systems sitting on A.I. systems watching each other. But actually, we’re entering into totally new territory, honestly, without very thoughtful discussion of whether or not we should. We just went from “We are” to “It’s happening” very, very quickly.
+
+I’m just curious how that sits in your thinking — whether or not we really do, in your view, have analogies that work here for things that are fundamentally intelligent and goal-oriented and becoming more so?
+
+I’m suspicious of the idea whenever someone says, “This is without parallel.” We have a blank page.
+
+I mean, not to put words in your mouth, but people are good at figuring [expletive] out, and I think we have valuable tools for this.
+
+Yes, it’s not precisely like anything that we have had before, but nuclear is an analogy, aviation is an analogy, dealing with people and organizations is an analogy.
+
+I think one of the most fascinating things about these recent incidents with the swarms, including but not only Hugging Face, is that groups of agents have cultures. And we should care about those cultures, and we should think about how to make them good.
+
+And we’re just beginning to even realize that that’s a real thing. We’re just beginning to inhabit a world in which that’s a real operating reality, that there are cultures among groups of agents.
+
+So I think we need to use everything that we have to figure things out. And certainly, regardless of whether we’re speeding ahead on capabilities, or “paced” or stopped, we need to figure out how to align these systems. There’s no version of the path of futures that we’re on where that isn’t a vital thing to figure out.
+
+Well, I’ll admit, I do sort of buy the argument that the train has left the station, but I think it’s worth entertaining this for one minute.
+
+And the way I describe it is this: Obviously, if A.I. is unsafe and kills us all or takes over the financial system or something, that’s bad. Everybody agrees we don’t want that to happen.
+
+But let’s take the more positive view — the world where alignment roughly works out, but this world where we actually have created something smarter and more capable than we are. Donald Trump, in this very weird way, has been talking about how he wants to rename this “superintelligence” from artificial intelligence. And then Sam Altman got asked about this, and I thought his answer on that was interesting:
+
+Archival clip of Brendan Bordelon on “Decoded”: So that’s why I’m curious whether you think this rebrand will actually have any impact on the public perception of this technology. Sam Altman: Yeah, it’s not clear to me that superintelligence is a less scary term. I do think it’s a more accurate term.
+
+I thought that was very telling, in a way, because superintelligence is a much scarier term. And if it is in fact a more accurate term, I do think, just at a first principles level, if you said to me, “Should human beings create something more intelligent and capable than they are? In the long run, will that be good for them?” Probably not. Or at least it’s not obvious to me why it would be.
+
+Yeah.
+
+And sometimes when I hear even the good versions of this, they seem to have this world where it’s like we’re being taken care of by these A.I.s ——
+
+That’s right. Like pets.
+
+Like pets, a little bit. And that vision sucks, too. [Laughs.]
+
+Yep, it does. I don’t want that for my kids.
+
+So I guess I’m trying to ask you: The company you worked for, the guy who runs it says he thinks superintelligence is a better term for it. The chief scientist is like, we’re making an “alien mind.”
+
+Even if it works, do we want this?
+
+Maybe not. It depends on what the “this” is, and I don’t think we know what the “this” is.
+
+Again, the future has a lot of uncertainty in it. And it has always been very striking to me from the beginning, from when I joined, that I would ask people, “Well, what does the good future look like? Where are we trying to get to?” And I would elicit humility from people that are otherwise very proud and very confident, and I would get a lot of, “Well, that’s above my pay grade.” Or “People will figure it out.” Or “Whatever people want.”
+
+And it just struck me that the sense of the good that was under this was impoverished.
+
+What was it for you? You were there. You’re a thoughtful person. You’re a Rhodes scholar who studied philosophy and then founded a civil rights NGO. What were you trying to create?
+
+I thought that we were building powerful tools that could do a lot of good in the world on a day-to-day level, and I didn’t think that we were going to be able to create something fundamentally smarter than we were.
+
+And this is something I can say with full confidence only in hindsight. Because it was only when this stopped being true — when I thought, “No, we really are going to have something that thinks circles around us” — that I thought, “Oh, we’re in a totally inappropriate part of the possibility space here in terms of how safe the industry is actually being relative to that reality.”
+
+It’s one of these things, people have said to me, “It must have been a hard decision.” Or “How brave of you” or whatever. But when it became clear to me that we were going to build something — we, the industry, were on track to build something that could think circles around us — and we were this far from being ready for that at a safety and alignment level, it just became apparent to me that my time helping build it was over.
+
+So I feel like there’s a tension between some of your recent answers here. On the one hand, I asked you a few minutes ago about what we need to do, and you’re like: Look, humans are good at figuring things out. We’re good at solving problems. You know, we can build a better organization.
+
+And then when I say: Is this thing we’re building a world we should want, even if it succeeds? You sound very ambivalent about that, and almost ambivalent at best.
+
+Yeah.
+
+So where are you personally? I’m curious — I’m not saying I think we’re going to stop. I’m not saying you think we’re going to stop. But is the thing you wish we would do to add an aviationlike layer of safety to this?
+
+Or is the thing you wish we would do to pause and think through whether superintelligent or very intelligent A.I. is really consistent with the human good?
+
+Are you where the Anthropic C.E.O. Dario Amodei is, or are you where Pope Leo is?
+
+I mean, it’s odd to say this as a Jew, but closer to the Pope.
+
+It is urgent that we think carefully about the kind of future that we want to build. My personal belief is that once we have found that this is possible, once we have made the discoveries, I don’t think there’s a back button where we get to live in a world where this doesn’t, in some form or other, eventually happen, whatever it is that can happen.
+
+In my ideal world, there’s space to be thoughtful and take a breath and really, really think about what kind of future we want to build.
+
+Silicon Valley — part of what happens is we’re always removing friction. There’s always this sense of trying to just get the answer. And I think there are all these activities in life that are so important for us, that are meaningful, that have also been necessary in the past. Like, I go to work to provide for my wife and children. And the fact that I am able to shelter and protect them is part of what gets me up in the morning. And so I’m doing work.
+
+Or another example is learning. We have to go to school in order to learn how to do skills that we then use, because they are valuable in the economy. But if we’re in a world where all of that stuff is automated, then if we learn, it’s only from first principles or only because we want to.
+
+I mean, people will talk about this idea of a leisure society — they may not use that word, but the basic idea is: You can do whatever you want. There’s nothing you have to do. Maybe you’ll take up painting. I think that would suck for a lot of people.
+
+I think right now we see that when people do not have enough to do, it does not tend to go well for them.
+
+Right. What’s really important? What’s really valuable? I don’t have the answers here, but those are the questions, at a personal level, that I would like to turn to.
+
+I feel like because of the safety situation that we’re in, and because of the work that I did, I need to do what I’m doing now and have these serious conversations about exactly what’s happening in safety.
+
+But my vocational pull is toward these wisdom questions, for sure.
+
+I think that is a good place to end. Always our final question: What are three books you’d recommend to the audience?
+
+OK. No. 1: “The Challenger Launch Decision.” This is a book about why the Challenger exploded, and it’s by Diane Vaughan, who’s a social scientist.
+
+I thought I knew the story of why the Challenger blew up. I thought what happened was that middle managers cut corners, and there was this rubbery O-ring that got brittle in the morning cold, and it snapped. And the idea was that these people were foolish.
+
+Turns out, the risk of that O-ring breaking because of the cold had been known and documented and accepted in the safety documentation — they had great safety documentation — over and over and over.
+
+Even the night before the launch, there was a late-night conference among the engineers who were worried about whether this particular launch would be safe because it was so cold.
+
+Huh. Why is this book feeling relevant to you? [Laughs.]
+
+Yeah, well, I think we’re in this place.
+
+So if they had said, “It’s not this launch” — the Challenger launch was not that different from earlier launches that had gone safely. It was only a little bit colder and a little bit windier. And if the people involved said, “This launch is not safe enough,” then it would reopen a can of worms about whether the earlier launches had been safe or not, even though, in the event, they had gone well.
+
+And I worry we could have that with what we’re doing in the industry, where we accept a risk, nothing horrible happens, and then the next thing is not so different. There are, as we were talking about earlier, the changes — instead of being a whole new world every few months, it’s more like a little bit different every week. So you can imagine going by shades into a level of risk that does not make sense.
+
+And it has crossed my mind that I should be sending copies of this to my former colleagues.
+
+The second book I will name — I have a 2-year-old and a 4-year-old — “Little Witch Hazel.” It’s a picture book by Phoebe Wahl. It’s just absolutely beautiful, and my daughter’s eyes light up every time we pull it off the shelf. So if there are parents out there looking for a good one, I would recommend it.
+
+And then third — and most importantly, I guess, if you were going to pick one — would be “The Sabbath” by Rabbi Abraham Joshua Heschel.
+
+One of my favorite books ever.
+
+It’s a wonderful book. It happens to be from my tradition. I’m Jewish. And ——
+
+Well, it’s worth it for anybody, really.
+
+It is worth it for anybody. It’s true. The famous line is “The Sabbaths are our great cathedrals.”
+
+That tradition of stopping and taking a breath, he says, is more important than any temple. And ——
+
+Yeah, cathedrals in time. I always think about that.
+
+Yes, cathedrals in time. And I pointed to this — maybe I’ll just quote the last line of something I said to colleagues as I was leaving: “We have to make good choices. We have no time to rush.” So I hope we take that wisdom.
+
+David Robinson, thank you very much.
+
+Thank you.
+
+You can listen to this conversation by following “The Ezra Klein Show” on the NYTimes app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts. View a list of book recommendations from our guests here.
+
+This episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Kate Sinclair, Mary Marge Locker and Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Isaac Jones. Our recording engineer is Aman Sahota. Cinematography by Kyle Kelley and Marina King. Video editing by Brandon Belk-Yee, Dani Dillon and Kristen Williamson. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Kristin Lin, Emma Kehlbeck, Jack McCordick and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser. Transcript editing by Sarah Murphy, Kate Wilkinson, Kristin Lin and Lauren Leibowitz.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

@@ -1,0 +1,80 @@
+================================================================================
+margaret-hamilton-dead.html
+Source: PreloadedData  Paragraphs: 32  Words: 1295/1295
+================================================================================
+
+SUMMARY
+
+Margaret Hamilton, who led the 100-person team that wrote the onboard software for the Apollo missions, guiding Neil Armstrong and Buzz Aldrin to a safe landing on the moon, died Sept. 30 in Cambridge, Mass. As Apollo 11’s lunar module, Eagle, touched down on the moon on July 20, 1969, Ms. Hamilton, then 32, was patched into Mission Control in Houston from M.I.T. Ms. Hamilton was initially the only woman on the programming team, she recalled at a 2021 conference about the history of the Apollo computers.
+
+ARTICLE
+
+The Woman Whose Software Guided the Apollo Missions Has Died
+Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.
+By Trip Gabriel
+Published 2026-10-07 23:05 UTC
+https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html
+
+Margaret Hamilton, who led the 100-person team that wrote the onboard software for the Apollo missions, guiding Neil Armstrong and Buzz Aldrin to a safe landing on the moon, died Sept. 30 in Cambridge, Mass. She was 90.
+
+Her death, in a hospital, was confirmed by her daughter, Lauren.
+
+Ms. Hamilton was a young mathematician at the Massachusetts Institute of Technology in the early 1960s, putting her husband through law school by working in a computer lab. When she learned that M.I.T. was designing in-flight computers for the moon mission, she eagerly joined the team.
+
+She was the first female programmer hired to work on the Apollo project, housed at M.I.T.’s Instrumentation Laboratory, in 1965. Her skills led to her promotion to director of software engineering on the project, which developed the two 70-pound onboard computers for the Apollo flights: one in the command module, which carried the astronauts from Earth, and the second in the lunar module, which set down on the moon’s surface.
+
+Ms. Hamilton, who would bring her young daughter to work on weekends and evenings, is credited with popularizing the term “software engineering” to describe the complexity of the work her team did, thus elevating software coding to a status equal to hardware design.
+
+A 1969 photograph of the 5-foot-4 Ms. Hamilton standing beside a head-high stack of printed code developed for the moon landing has been widely shared on social media in recent years.
+
+Primary navigation for the Apollo flights was guided from Houston on mainframe IBM computers. But the onboard Apollo Guidance Computer that the M.I.T. lab created was a crucial cog.
+
+Developing its software was a major lift in an era when computers had limited memory. The onboard computers contained only 72 kilobytes of storage memory (an iPhone 16, by comparison, can have more than seven million times as much storage).
+
+As Apollo 11’s lunar module, Eagle, touched down on the moon on July 20, 1969, Ms. Hamilton, then 32, was patched into Mission Control in Houston from M.I.T.
+
+“I was not concentrating on the mission per se, I was concentrating on the software,” she recalled in a 2017 interview for the Computer History Museum. She compared the moment before touchdown to the instant before death when a person’s life is said to flash before them. “I could see the Apollo life, just: ‘Look what happened. We did it. It worked,’” she recalled. “It was exciting.”
+
+But it almost didn’t happen. As Eagle neared the moon, its onboard computer famously flashed alarms, and Mission Control was faced with a decision about whether to abort the landing.
+
+One of the astronauts, according to some historians, flipped a switch that overloaded the computer’s processing unit, which set off the alarms. Ms. Hamilton had foreseen just such an event. Her software told the onboard computer to prioritize essential tasks and cancel less important ones. The alarm was the signal that the procedure had occurred. Houston chose to continue the mission, and Eagle’s computer guided it to a safe landing on the Sea of Tranquillity.
+
+“If the computer hadn’t recognized this problem and taken recovery action, I doubt if Apollo 11 would have been the successful moon landing it was,” Ms. Hamilton wrote in a 1971 letter to a computer magazine, Datamation.
+
+Ms. Hamilton worked on the six lunar landing missions from 1969 to 1972. Her programming also contributed to Skylab, America’s first space station, launched in 1973, and to the early design of the space shuttle. She left M.I.T. to found a company, Higher Order Software, in 1976, as well as a second firm a decade later, Hamilton Technologies.
+
+In 2016, President Barack Obama awarded Ms. Hamilton the Presidential Medal of Freedom. Its citation reads that her work for NASA “set the foundation for modern, ultrareliable software design and engineering.”
+
+In 2019, on the 50th anniversary of the moon landing, Google trained more than 100,000 mirrors at its Ivanpah solar power farm in the Mojave Desert to create a nighttime portrait in reflected moonlight of Ms. Hamilton, bigger than Central Park.
+
+Margaret Elaine Heafield was born on Aug. 17, 1936, in Paoli, Ind., the oldest of four children of Kenneth and Esther (Partington) Heafield. The family moved to Michigan’s Upper Peninsula. Her mother was a high school teacher, and her father was a poet and a college professor of English and philosophy.
+
+Margaret enrolled in the University of Michigan before transferring to Earlham College in Richmond, Ind., where she received a bachelor’s degree in mathematics in 1958.
+
+The same year, she married James Hamilton, also an Earlham student. The couple moved to Cambridge, Mass., where their plan was for Ms. Hamilton to support her husband in law school and then to have him pay the bills while she earned a doctorate in math and became a professor.
+
+Instead, her computer work led her in a starkly different direction.
+
+Her first job at M.I.T., in 1959, was in the meteorology department for Edward Norton Lorenz, the founder of modern chaos theory, for whom she helped develop software to predict weather.
+
+In 1961 she moved to an M.I.T. team working for the Air Force on a system known as SAGE to track enemy aircraft. She was assigned a puzzle given to all new programmers: to decipher a program no one could get to work, whose author had left notes in Latin and Greek. Ms. Hamilton was the first person to get the program to run.
+
+Based on her work on SAGE, she was hired for the M.I.T. Apollo computer project, led by a professor of aeronautical engineering, Charles Stark Draper, who had won the NASA contract for the navigation and guidance system for the moon flight, announced by President John F. Kennedy in 1961.
+
+Ms. Hamilton was initially the only woman on the programming team, she recalled at a 2021 conference about the history of the Apollo computers.
+
+She became known as the “rope mother,” because of the unusual way code was stored on the in-flight computers, in an era before the wide use of silicon chips.
+
+Programs were written in binary arithmetic, a series of 1s and 0s. The digits were stored using copper wires woven around tiny doughnut-shaped material called cores. A wire passing through a core was read as a 1 and a wire that bypassed a core was a 0. The long assemblages of cores and threaded wire were called ropes.
+
+The ropes were woven by women capable of fine hand work, many of whom had worked in New England textile mills. Ms. Hamilton, who was responsible for getting everything right, was the “rope mother.” (A 1965 film shows how the M.I.T.-designed computers were built at Raytheon’s space division plant in Waltham, Mass.).
+
+Her first marriage ended in divorce in 1967. Two years later, she married Daniel Lickly (pronounced “likely”), a supervisor on the M.I.T. Apollo project, who was responsible for hiring her. They divorced in the early 1970s.
+
+From the late ’70s, Ms. Hamilton was the partner of Ron Hackler, a musician she met when he helped move her office and then trained in systems engineering and was employed at her company Hamilton Technologies, which developed software. He died in 2025.
+
+Besides her daughter, Lauren, Ms. Hamilton is survived by two grandsons, four great-grandchildren and her siblings John, David and Kathryn Heafield (pronounced “hayfield”).
+
+Like most of the legions of engineers, mathematicians and scientists who worked behind the scenes to make the moon landings happen, Ms. Hamilton is little known to the public.
+
+But in 2017, she achieved a kind of pop culture eminence with the introduction of Lego Margaret Hamilton, a play figure that was part of a Women of NASA set. She is represented as longhaired and bespectacled, standing beside a teetering stack of computer code.
