@@ -1,0 +1,66 @@
+================================================================================
+food-expiration-dates-effective.html
+Source: PreloadedData  Paragraphs: 22  Words: 916/916
+================================================================================
+
+SUMMARY
+
+When you open your fridge, how often do you check the dates on your food? Dates on food packaging usually indicate when food tastes best, not when it’s unsafe to eat. Today, individual food companies still determine what date goes on their products.
+
+ARTICLE
+
+Do Food Expiration Dates Really Matter?
+Labels on food are confusing for all kinds of reasons. Here’s what they mean.
+By Christina Couch
+Published 2025-08-19 09:01 UTC
+https://www.nytimes.com/2025/08/19/well/eat/food-expiration-dates-effective.html
+
+When you open your fridge, how often do you check the dates on your food? The yogurt container says it’s still good for a few more days, but the label on the half-used barbecue sauce says it was best before last Sunday. Should you still eat it?
+
+The answer is complicated. Dates on food packaging usually indicate when food tastes best, not when it’s unsafe to eat. In the United States, there are roughly 50 variations of date labels, including “use by,” “sell by” and “packaged on,” nearly all of which indicate when quality or freshness begins declining.
+
+While it’s important to mind the printed dates for some foods, an estimated three billion pounds of food get thrown away each year because of confusion over the date label, according to the food waste nonprofit ReFED. Infant formula is the only product that has standardized, federally regulated date labels, leaving lots of questions about when to toss other aging perishables.
+
+Here’s what you should know.
+
+A confusing array of tests
+
+In the early to mid-1900s, American households began transitioning from locally grown food toward processed and packaged goods, and some producers began putting dates on their products to ease concerns about freshness. But these labels didn’t become widespread until the 1960s and ’70s, alongside broader efforts to improve nutrition labeling and transparency.
+
+Today, individual food companies still determine what date goes on their products. But each uses its own methodology, said Londa Nwadike, a food science professor at South Dakota State University.
+
+For instance, she said, some companies might use mathematical models to forecast when freshness declines, while others might conduct special tests wherein food is stored in hotter temperatures, high humidity or increased oxygen levels. Still others might expose a product to mold, yeast or pathogens like E. coli or salmonella. Some companies can’t afford to run extensive tests and may simply base their dates on those of competitors.
+
+The result is a lot of inconsistency: Two nearly identical products, packaged on the same day, can have substantially different sell-by dates.
+
+A tangled web of terms and laws
+
+This confusion is compounded by how labels are worded, much of which is shaped by state policies. Each has its own requirements that vary across food products, so labels may be different or simply not exist in certain states.
+
+Take dairy products. Montana requires milk (but not others) to include a sell-by date no more than 12 days after pasteurization, while Pennsylvania allows up to 17 days and exempts ultrapasteurized milk. Virginia requires sell-by dates on all dairy products, whereas New York doesn’t require any date labels at all on dairy. (ReFED offers a policy finder where you can look up your state’s regulations.)
+
+There are similar variations in state regulations for eggs, shellfish, goods sold at farmers’ markets and other surprising products. Texas, for instance, requires produce pickled in home kitchens to be labeled with the date it was prepared.
+
+The effect of these varying policies is “confusion and chaos,” said Yvette Cabrera, food waste director at the Natural Resources Defense Council. “It creates these really complex distribution systems, packaging systems, manufacturing systems that make it really hard for food producers to comply.”
+
+It also creates waste. Many states ban sales or donations of past-date products, and many consumers — 43 percent, according to a 2025 survey — usually toss food that’s close to or past its date.
+
+“More people than ever are confused about words like ‘used by’,” said Emily Broad Leib, director of the Food Law and Policy Clinic at Harvard Law School and a coauthor on the survey. “Is it safety or is it quality?”
+
+Less a scam, more a mess
+
+Experts said sell-by dates are not a trick to make you buy more, but the product of a chaotic system. And for most food, eating it after the date isn’t a health issue.
+
+Some said that you should pay attention to the labels “use by” and “expires on,” especially on perishables. “Best if used by” generally refers to quality and “sell by” is generally for retailers to know when to rotate inventory.
+
+Frozen foods usually stay good up to a year, even if they’ve been thawed and refrozen; unopened condiments, oils and canned goods often last several years; refrigerated eggs are good for three to five weeks; and refrigerated dairy products usually last one to three weeks after opening. Kansas State University offers handy cupboard and freezer storage guides for a range of foods, as does the Department of Agriculture’s FoodKeeper app.
+
+The most important date labels are on meat and seafood, unpasteurized cheese and milk, baby food and foods prepared in-store, experts said.
+
+The date on raw meat “isn’t a guarantee” that it will last that long at home, said Meredith Carothers, a food safety specialist at the U.S.D.A.’s Food Safety and Inspection Service, because household refrigerators often aren’t as cold as those in grocery stores.
+
+“Once you get it home, better to use it within about one to two days for poultry, or four to five days for raw red meats” like beef, pork, veal and lamb, she said. Home refrigerators should be kept below 40 degrees Fahrenheit, she added.
+
+Starting next July, California will simplify date labels down to two standardized choices: “best if used by” for quality and “use by” for safety. Congress is considering similar federal legislation.
+
+Until then, date labels will stay messy and complicated, so consumers should use common sense and relax a little when surveying the fridge.

@@ -1,0 +1,80 @@
+================================================================================
+human-robot-cage-fights-california-rek.html
+Source: PreloadedData  Paragraphs: 32  Words: 913/915
+================================================================================
+
+SUMMARY
+
+The 6-foot-tall, steel-framed humanoid robot, which looked like James Cameron’s original “Terminator,” entered the cage, followed by a 5-foot-5 male human in a helmet and other protective gear. The fight, promoted as “Human vs. Robot,” was staged on Sept. 18 in San Francisco by a tech start-up called REK, which stands for Robot Entertainment Kombat. REK, which bills itself as “the humanoid robot fighting league” (“Real robots, real combat”) — celebrated the letter.
+
+ARTICLE
+
+Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.
+A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations.
+By Adeel Hassan
+Published 2026-10-08 09:03 UTC
+https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html
+
+The 6-foot-tall, steel-framed humanoid robot, which looked like James Cameron’s original “Terminator,” entered the cage, followed by a 5-foot-5 male human in a helmet and other protective gear.
+
+You can probably guess what happened next.
+
+The robot, which was operated by a human pilot using a remote virtual-reality system, pummeled its fleshy opponent, Frankie LaPenna, repeatedly knocking him to the canvas and driving him into the walls of the octagonal enclosure.
+
+Mr. LaPenna, a social media influencer, injured his hand while punching one of the metal robot frames during one of the three bouts he had with different robots. He landed a few punches, but each time he knocked a robot down, it bounced back almost instantly. The crowd of about 100 (humans, not humanoids) was thrilled.
+
+The fight, promoted as “Human vs. Robot,” was staged on Sept. 18 in San Francisco by a tech start-up called REK, which stands for Robot Entertainment Kombat.
+
+It caught the attention of the California State Athletic Commission, which sent the company a cease-and-desist letter. The commission, which regulates professional and amateur boxing, kickboxing and mixed martial arts, had not sanctioned the event.
+
+REK, which bills itself as “the humanoid robot fighting league” (“Real robots, real combat”) — celebrated the letter.
+
+“We made it boys,” its chief executive, Cix Liv, said in an online post.
+
+The letter said that the commission must grant approval to any boxing or mixed martial arts contest, match or exhibition that involves any human in the state of California.
+
+It is a misdemeanor, it added, to promote or participate in an unlicensed boxing or martial arts contest, match or exhibition involving any human.
+
+Mr. Liv dismissed the regulator’s claims.
+
+“The law clearly states that a ‘match’ is between two persons,” he said in an interview, adding that state regulators were welcome to try to argue in court that a humanoid is somehow human.
+
+He said that his company, whose goal is to create a sport in which humanoids engage in MMA-style fighting, did not need permission from the authorities.
+
+However, Mr. LaPenna repeatedly sought permission from REK to fight its robots, which a human operator controls similarly to how one operates a drone. Mr. LaPenna, who did not respond to a request for comment, is known for posting videos of himself getting hurt.
+
+The event produced the most-viewed content that REK has so far shared online, but Mr. Liv said there wasn’t a plan to repeat it. Instead, the company plans to host the first fight between humanoids armed with blades on Friday night in San Francisco.
+
+“We’re going to democratize MMA so we can essentially experience the blood sport without anyone getting hurt,” he said.
+
+Mr. LaPenna had to sign a legal waiver that said if were killed during the fight, it would not be REK’s fault.
+
+“Our hope was to basically get some good shots without actually hurting Frankie,” Mr. Liv said.
+
+The athletic commission said in a statement that it was “committed to protecting the safety of the public and integrity of combat sports.”
+
+“Unsanctioned activity puts the physical and financial well-being of all those involved at risk and such activity will not be tolerated,” it said, adding that it would consider new guidance as robot technology evolves.
+
+Combat sports are regulated by states and tribal commissions in the United States, said Erik Magraken, the managing partner of MacIsaac & Company, a law firm specializing in combat sports regulatory issues and the publisher of the blog Combat Sports Law.
+
+“These laws were written with no contemplation of people fighting machines, so many commissions will be ill equipped to address this novel form of fighting,” he said.
+
+“Many athletic commissions will simply have no ability to shut down such events without amendment of their legislation or regulations,” he added.
+
+Humanoids have been developing faster than lawmakers can keep up. In April, a humanoid robot named Lightning ran a half-marathon in Beijing in 50 minutes and 26 seconds, faster than the human world record of 56:51, which Yomif Kejelcha of Ethiopia set in August.
+
+The Humanoid Robot Games, first held in Beijing last year, and again this summer, featured running, kickboxing and soccer. While there was plenty of running, kicking and punching, the robots also flailed around, crashed and fell over many times.
+
+Those who know humanoid robots best highly recommend against fighting them.
+
+“It’s very unfair to put a human in with a heavily motorized system that’s only going to dominate,” said Ken Goldberg, a professor who oversees the automation lab at the University of California, Berkeley. “There’s not nothing surprising about that.”
+
+Dr. Goldberg boxed a smaller robot last year, for educational purposes and not in a cage. “I gave it one of my old kung fu side kicks from high school and it stumbled back and it tripped and fell,” he said. But they bounce back quickly, he added.
+
+He said he understood the appeal of the fights that REK was staging, noting that it tapped “into some of the fear and frustration with robots that people feel.”
+
+“I mean, they love to see the human kick the robot’s gearbox,” he said.
+
+But the odds of that human fighter getting his gearbox kicked are much greater, Dr. Goldberg said, given that REK’s humanoid robots can weigh several hundred pounds and are made of steel.
+
+“If you program that thing to just come swinging and punching at you, I don’t think you’ll get away from it,” he said. “It’s pretty scary.”

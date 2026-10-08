@@ -1,0 +1,140 @@
+================================================================================
+alito-supreme-court-deportation-colorado.html
+Source: PreloadedData  Paragraphs: 60  Words: 3663/3720
+================================================================================
+
+SUMMARY
+
+Emily Bazelon: Hi David, it’s great to be back here with you for the beginning of the Supreme Court’s new term. But there has been so much action from the court over the last few months on the emergency docket that I don’t feel like we had a break. Many district court judges feel like the Supreme Court does not have their backs when they rule against the Trump administration.
+
+ARTICLE
+
+Third-Country Deportations Are Only the Half of It
+The real-world consequences of the Roberts court are coming into view.
+By Emily Bazelon and David French
+Published 2026-10-08 09:03 UTC
+https://www.nytimes.com/2026/10/08/opinion/alito-supreme-court-deportation-colorado.html
+
+Emily Bazelon: Hi David, it’s great to be back here with you for the beginning of the Supreme Court’s new term. Usually, this is like the first day of school for me — a fresh start. But there has been so much action from the court over the last few months on the emergency docket that I don’t feel like we had a break. I hope this is a fleeting feature of Trump’s second term rather than the new normal.
+
+David French: It’s the new normal, I’m afraid. At least for the foreseeable future — for as long as presidents try to rule through executive actions rather than actually govern by executing laws passed by Congress.
+
+Emily: I think it’s bad for two reasons: I am not a fan of the emergency docket except in actual emergencies and I liked having a break to think about other things. (I bet the justices did, too — remember the teaching gigs in Italy and Austria?) Oh well. Let’s pretend it’s time to get all dressed up and start with the first big case of the term. On Monday, the justices heard arguments in Suncor Energy Inc. v. County Commissioners of Boulder County. Boulder, Colo., wants Exxon Mobil, the biggest energy company in the country, and Suncor, a company based in Canada that operates two oil refineries in the state, to pay the state back for some of the costs of dealing with climate change.
+
+Boulder says this is like the public health damage unleashed by tobacco or opioids, which states have sued companies for causing in the past, settling for large sums. A lawyer for Exxon and Suncor says this is an “unprecedented effort to use state law to regulate global conduct,” clearly pre-empted by federal law. Their best argument, I think, is that federal laws have historically governed interstate pollution. The open question, however, is whether that rule applies to carbon-dioxide emissions.
+
+A few weeks ago, I thought that this pro-corporate court, as I see it, would be a sure bet for ruling in favor of big oil. But last week Justice Samuel Alito recused himself (he did not say why), taking out one likely vote for the companies and creating the possibility of a 4-4 split. Then at oral argument, Chief Justice John Roberts asked some intriguing questions suggesting that he has doubts about whether Boulder’s suit is in fact pre-empted by broad principles of law. Justice Elena Kagan did a good job of pressing the point by asking for the source of this pre-emption — “Where is the text for that? Where’s the support for that?” Seems like the answer was weak.
+
+What do you think about where the justices will land and also the underlying question — should a state or county or city be able to sue a company for this kind of harm, or is it a problem Congress is supposed to pass laws to address?
+
+David: This is one of the rare cases where I must confess that I’m a bit stumped, even after reading the oral argument more than once. I don’t know how it will turn out and — quite frankly — I’m a little bit stumped on how it should turn out.
+
+I’m clear on what I think the ideal legal regime should look like, and that’s a comprehensive, sensible federal system that provides rational legal uniformity across the country. After all, as Kannon Shanmugam, who argued the case for Exxon and Suncor, pointed out (and here I should note that Kannon is a friend of mine), a patchwork of state and local cases would almost certainly create a chaotic legal environment. Shouldn’t industries that create interstate effects be subject to interstate regulations? And that can only really come from the federal government.
+
+But we don’t decide cases on the basis of what the law should be, but on the basis of what the law is. And it’s far from clear that the Constitution or any currently enacted federal statutes mean that state law can’t be used to impose liability on energy producers.
+
+Chief Justice Roberts came out swinging, confronting Kannon with a number of scenarios in which states can impose liability for harms that occur inside a state, even if the initial action occurs outside the state. (He used the simple example of someone throwing a rock from State B and hitting someone inside State A).
+
+Justice Kavanaugh argued that the court’s precedents “make crystal-clear that interstate air and water pollution are matters for federal law.” But after reading the argument, I’m not sure that a majority of the justices see the same clarity.
+
+Add Chief Justice Roberts’s aggressive questioning to Justice Alito’s recusal, and you’ve got the possibility of a very unsatisfying 4-4 decision that would leave in place the Colorado decision allowing the lawsuit against Suncor and Exxon to go forward without really resolving the underlying issue.
+
+Also, we should mention that there’s at least some chance that this case might also get tossed out of SCOTUS on jurisdictional grounds. So there is a good possibility that arguably the most important case of the term could go out with a fizzle and not a bang. I honestly don’t know how it’s going to go.
+
+Emily: Last week, the court put two huge cases about deportation on the upcoming docket. One of them, Department of Homeland Security v. D.V.D., is a challenge to the Trump administration’s practice of deporting people to “third countries,” meaning countries with which they have no ties (often when their countries of origin refuse to take them back). This case is a big deal for several reasons. The administration has deported at least 25,000 people through this avenue, according to human rights groups. The evidence suggests that the government is in fact doing this with little or no regard for human rights. Some people wind up indefinitely detained or in awful and dangerous conditions. Trump officials appear to view this as a feature, to deter immigration, not a bug. They’ve spent or pledged more than $400 million to persuade 31 countries to take people.
+
+David: This is yet another example of how the Trump administration sometimes treats undocumented immigrants worse than we treat many of the most hardened criminals in the United States. Under the relevant federal statute, third-country removals are to take place when conventional deportation is “impracticable, inadvisable or impossible.”
+
+That’s a last-resort provision, not a loophole. It’s not a catchall provision that gives the Trump administration carte blanche to punish immigrants by sending them to nations where neither human rights nor the rule of law are paramount. American deportees should not be imprisoned in conditions that would violate both the United States Constitution and international treaties prohibiting torture.
+
+Emily: Another big issue in D.V.D.: The Trump administration violated Judge Brian Murphy’s order in April 2025 to halt third-country deportations to places like Libya and South Sudan — not safe — if the deportees had no meaningful chance to object. Yet in an emergency docket ruling last week, a majority of the justices gave the Trump administration a pass for now, saying that the third-country deportations can continue until the court issues a permanent ruling. The case is fast-tracked for arguments in December. But it’s remarkable and dismaying that in the meantime and maybe forever, a majority of justices is willing to look the other way on disobeying a court order. Justice Sonia Sotomayor wrote a powerful dissent to an earlier stay, but only her two fellow liberal colleagues joined it. She describes people narrowly escaping arrivals amid violence in Libya and writes, “Only the District Court’s careful attention to this case prevented worse outcomes. Yet today the Court obstructs those proceedings, exposing thousands to the risk of torture or death.”
+
+Many district court judges feel like the Supreme Court does not have their backs when they rule against the Trump administration. This case illustrates why and the attending harms.
+
+David: You raise an important point — litigants are required to follow court orders until those orders are reversed. In my law practice, for example, I didn’t ever tell my clients, “Sure, the judge ruled against us, but keep doing what you’re doing; I’m confident we’ll win on appeal.” Nope, that would be a great way to be hit with a contempt order.
+
+Even if the Supreme Court ultimately reverses the lower courts, I do think it needs to make it very clear that defying orders on the expectation of reversal is completely unacceptable and that contempt orders are an appropriate response.
+
+Emily: One more note about these third-country deportations: Many of these people are deportable because they committed crimes, often serious ones. The question of where they should live after they complete their prison sentences is also serious. But effectively disappearing people to places where they are mistreated and have no recourse is the equivalent of the United States abusing them.
+
+David: You raise an important point — many, but certainly not all, of the people who’ve faced third-country deportation are violent criminals. There are no easy solutions in those cases where they’re deportable and their home countries don’t want them back. But one thing I do know is that deportation to countries that impose indefinite detention and engage in systematic human rights violations is morally grotesque.
+
+To actually celebrate Trump’s policy is more grotesque still. At a minimum, there should be no deportation to countries that violate the Convention Against Torture, an international treaty that President Ronald Reagan signed and the Senate ratified.
+
+When President Reagan transmitted the treaty to the Senate, he sent a message to the Senate declaring that ratification “will demonstrate unequivocally our desire to bring an end to the abhorrent practice of torture.” The Trump administration has no such desire.
+
+Emily: The second big immigration case, Rhoney v. Barbosa da Cunha, is perhaps even more chilling.
+
+David: I feel the same way.
+
+Emily: It’s about whether ICE can detain anyone who crossed the border illegally, no matter how long ago and how law-abiding they have been since then, without a bond hearing before an immigration judge — in other words, no court review unless and until you can bring a habeas petition. When ICE adopted this position in July 2025, some government lawyers said they couldn’t believe it. “Mandatory detention is the dream of every hard-line anti-immigration activist,” one ICE lawyer told me. “This is as big a deal as ending birthright citizenship. If the Trump administration does that, then they have changed immigration law forever. If the Supreme Court signs off on this, it’s effectively saying we don’t do asylum here anymore.”
+
+The appeals courts have split on whether the Trump administration’s expansion of mandatory detention is allowed by the 1996 immigration law that it is relying on. This statute is a notorious mess, but still, I think the answer is no. When this litigation started, I thought this was pretty much a slam-dunk. District Court judges largely rejected the Trumpian interpretation. But now I see two appellate courts twisting the text in the government’s anti-immigrant favor and while nine have ruled the other way, I’m not at all sure what the Supreme Court will do.
+
+I have to point out that Congress could fix this problem. It’s supposed to write laws, not cede its power to the president and the justices. But I realize that is a futile point to make at the moment, though I keep trying.
+
+David, do you think this case is chilling because mandatory detention with no bond hearing is bad, because it locks up so many people, including those with deep roots in our country, or bad and also illegal?
+
+David: I think it’s terrible and illegal, but I’m not completely confident the court will agree, in large part because, as you say, the statutes are an absolute mess.
+
+Emily: Is this 1996 law — an update of the Immigration and Nationality Act — one of the worst-written statutes ever? It’s a product of Newt Gingrich’s House leadership, but passed with Democratic support. (It was part of the budget bill that year, so voting no meant risking a shutdown.) The thing about this law is that it had draconian provisions that were not enforced because Congress did not authorize the spending for huge numbers of detention beds. Until, that is, last year, when Congress sharply increased the budget for ICE. We don’t have a new immigration law. We have new immigration policy because we made ICE the law enforcement agency with the highest funding in the country.
+
+David: There’s serious competition for the title of worst-written statute, but it’s definitely a contender. I wrote about this issue at length in February, but here’s the short version. One statute, 8 U.S.C. Section 1225, says that “an alien who is an applicant for admission” shall be detained unless he or she is “clearly and beyond a doubt entitled to be admitted.”
+
+Another statute, 8 U.S.C. Section 1226, says that an alien may be “arrested and detained pending a decision on whether the alien is to be removed from the United States,” but in that circumstance they may be released on bond.
+
+For roughly 30 years, presidents of both parties harmonized those statutes by applying the detention requirement to people stopped at the border and applying the bond provision to people arrested in the interior of the country (often after they’ve been living in the United States productively for years). No president read those statutes as requiring mandatory detention, much less permitting indefinite detention.
+
+And there’s a good statutory reason presidents from both parties adopted the same reading. As Judge Dale Ho, a federal judge in the Southern District of New York, put it in a 2025 ruling, “Someone who enters a movie theater without purchasing a ticket and then proceeds to sit through the first few minutes of a film would not ordinarily then be described as ‘seeking admission’ to the theater.”
+
+I believe the Supreme Court will agree with Judge Ho, but I’m far from certain. Let’s check in again after oral argument.
+
+Emily: Gulp, yes, let’s.
+
+Speaking of close textual readings, which you are carefully doing, what do you think of Justice Alito’s recent op-ed in The Wall Street Journal laying out his “Text? What text?” theory of originalism?
+
+Here is the part that made me grind my teeth the morning I read it (not a metaphor). Alito goes after what he calls “insecure originalism” (subtext: any analysis he doesn’t like by a colleague, especially if her name is Amy Coney Barrett). Alito writes: “Insecure originalists remain in what Prof. Adrian Vermeule has called a ‘defensive crouch.’ Wary of being charged with ‘results-oriented’ decision-making, they are allergic to any evaluation of results. That is a mistake.”
+
+Alito continues, “Insecure originalists may worry that they are subconsciously engaging in ‘judicial activism’ in the service of their own policy preferences. As a result, they may welcome occasions when their originalist analysis leads to results they dislike.”
+
+Well, yes. Isn’t this the whole justification for originalism? The method’s claim to superiority is that it binds judges to the text of the Constitution as it was understood in 1788. They can’t take into account results because that would mean making a judgment call based on the outcome they would prefer, which could reflect their values. They are proud of reaching decisions they don’t personally like because this proves they are dutifully following the instructions of the framers.
+
+Justice Antonin Scalia, originalism’s most brilliant salesman, often cited his vote in favor of ruling that the First Amendment protects flag burning. In 1989, Scalia published an essay in which he admitted to a bit of Alito-like wobble: “I hasten to confess that in a crunch I may prove a fainthearted originalist,” he said. “I cannot imagine myself, any more than any other federal judge, upholding a statute that imposes the punishment of flogging.”
+
+But many years later, Scalia said, “I repudiate that,” in an interview in New York Magazine with the journalist Jennifer Senior. I think Scalia had no choice. If you can make an exception to the rule whenever you feel like it, then it’s not a rule. “I will take the bitter with the sweet!” Scalia said. “What I would say now is, yes, if a state enacted a law permitting flogging, it is immensely stupid, but it is not unconstitutional.”
+
+I don’t think the court has ever consistently applied originalism (or the conservative justices’ latest expandable “history and tradition” test). Of course judges take into account real-life consequences and reach different results in difficult cases informed by who they are. But isn’t Alito giving away the game here? David, you are a committed originalist. If Alito gets to have no bitter with the sweet, can I have a world in which the Constitution reflects today’s reality? I look forward, for example, to the Supreme Court upholding the ban in Cook County, Ill., on many semiautomatic rifles, the big Second Amendment case on the docket this term. Now originalism will not bar the justices from letting the people of Chicago do their best to address the modern — that is to say, decidedly not pre-1800 — crisis of gun violence, right?
+
+David: I had three thoughts about Justice Alito’s op-ed, two positive, one negative. First, I’m glad he wrote it. I want justices to be more transparent about their legal philosophies. I think he did a great public service in explaining how he approaches cases and explaining his own ideas about originalism.
+
+Second, it’s important that people understand that originalists can and do disagree all the time. Originalism isn’t a plug-and-play form of legal philosophy that creates precisely predictable results in every context. It’s a way of thinking about the law. It’s not an outcome-generation machine. That’s why the conservative majority isn’t a monolith. They disagree all the time.
+
+But on to my beef. I strongly disagree with his framing of “insecure originalism,” beginning with the word “insecure.” It echoes a particular New Right style of argument that claims that conservatives failed in the past because they lacked courage or craved the affirmation of elites. Think of it as the “if only Mike Pence had the courage” argument.
+
+I don’t think Alito is going as far as all that, but I wasn’t the only person to read Alito’s piece and see echoes of the New Right.
+
+As Jack Goldsmith, a Harvard Law School professor who served as assistant attorney general for the Office of Legal Counsel under President George W. Bush, wrote in The Atlantic on Tuesday: “In their attacks on the Court and its moderate conservatives, the Trump administration and its allies are articulating a New Right idea of conservative judging. That view despises originalism’s value-neutrality, prizes conservative results, admires judges with the ‘courage’ and ‘loyalty’ to uphold Trump’s program, and views adverse decisions as evidence of timidity, establishment capture, or betrayal.
+
+“Alito claims no association with the New Right, but his essays and work on the Court make plain why its legal camp venerates him.”
+
+I’m very worried about the future of originalism. One of originalism’s appeals is that it was supposed to diminish judicial discretion (by privileging the text above all else) and make legal outcomes more predictable and durable.
+
+For example, to come full circle: My originalist approach to the Suncor case isn’t to ask which outcome I’d prefer (federal regulation), but rather which outcome the text of the Constitution and the relevant statutes requires, and that may well mean that Boulder, Colo., wins, at least until Congress says otherwise.
+
+But in the wrong hands, originalism can become exactly what it was supposed to combat — a malleable doctrine that answers the “living constitutionalism” of some more left-wing judicial philosophies with what Sherif Girgis, a conservative professor at Notre Dame Law School, calls “living traditionalism” that can rest too much on the accidents of history, much less the judge’s own interpretations of that history, or personal preferences.
+
+Emily: Indeed. At some point, let’s talk about Dobbs, Exhibit A of Alito opinions and Supreme Court jurisprudence based on misleading, cherry-picked history. I think you strongly disagree. But that’s for another day and the draft of the book I’m working on (more on that at some point, too. I hope).
+
+For now, I will note that three red states (Alabama, Arkansas and Louisiana) are suing three blue states (California, Massachusetts and New York) over the blue states’ telemedicine shield laws, which protect abortion providers in their states who prescribe abortion pills to women in states with abortion bans. This one is worth the whole conversation next time! But let’s see whether the Supreme Court accepts the invitation to exercise original jurisdiction, meaning it acts as the trial court, an option that exists when states sue each other. I doubt it. (During this administration, I keep having to pretend I remember bits of the Constitution I’ve forgotten from law school or maybe never learned. Thank you, President Trump, for your attention to this matter.)
+
+What movies or TV shows do you have for me? I offer you “Colin From Accounts,” a light but sometimes deep Australian comedy that features a dog on wheels. My dog likes it. I bet you will, too.
+
+David: As you suspected, Emily, we’ll have to agree to disagree on Dobbs for now, though I’d love to have a real discussion with you about that case. I thought it was one of Alito’s best opinions (though I have small quibbles at the edges).
+
+But let’s end with a point of agreement. I loved “Colin From Accounts.” My wife and I watched that some time ago, and if you like that show, I’ve got one I recommended on The Opinions last week. The Apple TV show “Last Seen” stars Patrick Brammall (the same actor who starred in “Colin”), and it’s about a missing child who … might have been found.
+
+I won’t say more, except that Episodes 4 and 6 are among the most gripping episodes of television I’ve ever seen. Enjoy!
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

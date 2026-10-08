@@ -1,0 +1,52 @@
+================================================================================
+duke-math-major-salaries.html
+Source: PreloadedData  Paragraphs: 18  Words: 769/769
+================================================================================
+
+SUMMARY
+
+But neither the math majors at Duke — the school and program that are responsible for that median figure — nor the faculty are doing a chest-beating victory dance. Duke math majors sit atop a relatively new set of federal earnings figures that became available thanks to legislative and regulatory changes in recent years. Duke math majors often study something else, too.
+
+ARTICLE
+
+At Nearly $300,000, Some Recent Duke Graduates Out-Earned All Their Peers
+Federal data show Duke math majors earning a bigger median income four years after graduation than any other majors from any school. It’s a small cohort.
+By Ron Lieber
+Published 2026-10-08 02:58 UTC
+https://www.nytimes.com/2026/10/07/your-money/duke-math-major-salaries.html
+
+If you earn $297,029 four years out of college, something probably went right during your four years as an undergraduate.
+
+But neither the math majors at Duke — the school and program that are responsible for that median figure — nor the faculty are doing a chest-beating victory dance.
+
+Duke math majors sit atop a relatively new set of federal earnings figures that became available thanks to legislative and regulatory changes in recent years. To provide both transparency and accountability, the federal College Scorecard website, among other places, now shows what people with different majors earn after graduating from particular institutions.
+
+The current data set has just 17 people from Duke’s math program, since the data measures only graduates from a two-year period starting in 2017 who received federal financial aid. “That definitely made my eyebrows go up,” said Katie McKeown, a Duke math major from the class of 2019 who went on to get a Ph.D. in math and now works for a nonprofit.
+
+A 2025 law designed to provide accountability for schools that produce low earners has also shined a light on schools that lead to affluence. My colleague Arfa Momin and I created a tool where you can search it all — and build a custom list of schools and majors that interest you.
+
+Right behind Duke, in the second and third slots, is Carnegie Mellon University. Its computer science graduates earned $268,121, and its electrical, electronics and communications engineering specialists clocked in at $250,168. Both groups have over 100 people in the data set.
+
+Carnegie Mellon appears three times in the top 30, more than any other school. The university is poised to expand the number of students who can aim that high, thanks to a $3 billion donation last month that will help pay for a new campus in Miami.
+
+The HEA Group, a higher-education research organization and consultancy, sorted and published the new data this year.
+
+In interviews, Duke math whizzes tried to express what the field meant to them and how interested students ought to evaluate the school.
+
+Irina Cristali is a native of Romania who graduated in 2019 and now works as a machine learning research scientist at an artificial intelligence start-up. In trying to figure out who the high earners were, she tried to recall classmates who might be, say, vice presidents of engineering now and could have cashed in for $300,000 or more.
+
+Her stronger memories of Duke were things that college shoppers should seize on beyond earnings. There were opportunities to get one’s name on published research as an undergraduate. Faculty members helped her get an internship offer and counseled her when she felt uneasy about her career direction.
+
+“It was the American mind-set that you don’t have to have your life figured out at 18 or 22,” she said.
+
+Indeed, Dr. McKeown barely had math figured out. She grew up in a single-wide trailer in rural Arkansas and spent two years at Duke in more remedial math classes. She got a 27 percent mark on her first quiz, but free tutoring and an instructor who believed in her helped her stick with the subject.
+
+Duke math majors often study something else, too. “I don’t know a single math major who was only doing math,” said Faisal Alsaadi, who graduated in 2019 and has worked at start-ups in Saudi Arabia. He double-majored in math and economics.
+
+“I like it when I’m able to train young people to think mathematically and then they take it into every part of the world,” said Ezra Miller, a Duke professor. He pointed to three current undergraduates — all double majors — who just won an international math competition by building models to maximize the performance of a soccer team.
+
+Professor Miller does not shy away from the fact that if you want to get a job, it’s good to major in math. “But it does also attract people who are interested in beauty and truth,” he said.
+
+According to math majors from the era in question, professors maintained a kind of studied neutrality about their students’ futures. And they remain wary of narrow methods of measurement.
+
+“I am hesitant to celebrate earnings as the sole marker of educational success,” said Greg Herschlag, a Duke math professor, via email, while emphasizing his enthusiasm for the field and any teenager who pursues it. “I would rather universities and departments be judged not simply by how well their graduates do for themselves, but by how much value they create for others: how much they contribute to society, who benefits from that labor and whether that work is improving people’s lives.”

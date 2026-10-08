@@ -1,6 +1,7 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
-Your branch is up to date with 'origin/master'.
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
 Starting project export...
@@ -32,12 +33,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.16 MB across 19 files
 
-real	0m0.390s
-user	0m0.231s
-sys	0m0.211s
-Restore complete (0.7s)
+real	0m0.430s
+user	0m0.224s
+sys	0m0.226s
+Restore complete (0.8s)
 
-Build succeeded in 0.8s
+Build succeeded in 0.9s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -50,12 +51,12 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.1       4.0.1   
 
 
-real	0m1.743s
-user	0m2.077s
-sys	0m0.322s
-Restore complete (0.4s)
+real	0m1.935s
+user	0m2.234s
+sys	0m0.368s
+Restore complete (0.5s)
 
-Build succeeded in 0.5s
+Build succeeded in 0.6s
 
 The following sources were used:
    https://api.nuget.org/v3/index.json
@@ -64,15 +65,14 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.551s
-user	0m1.512s
-sys	0m0.324s
+real	0m2.029s
+user	0m1.669s
+sys	0m0.349s
 
-real	0m2.346s
-user	0m3.818s
-sys	0m0.611s
+real	0m5.111s
+user	0m4.871s
+sys	0m0.769s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
-
 
 
 

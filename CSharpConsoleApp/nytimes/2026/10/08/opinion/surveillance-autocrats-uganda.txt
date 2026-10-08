@@ -1,0 +1,174 @@
+================================================================================
+surveillance-autocrats-uganda.html
+Source: PreloadedData  Paragraphs: 77  Words: 4036/4095
+================================================================================
+
+SUMMARY
+
+Surveillance technology has spread quickly through Uganda since 2019, when the government installed a $126 million closed-circuit television network from the Chinese telecommunications conglomerate Huawei to monitor public spaces. That’s not to say it was free: Uganda now owes China about $2.6 billion. Speaking to his Chinese counterparts “with an air of enthusiasm and shared objectives,” according to a party write-up, Mr. Todwong secured a funding pledge from China that would “apply these transformative lessons within Uganda.”
+
+ARTICLE
+
+The Authoritarian Future Is Already Here
+A crackdown in Uganda shows how new technologies, Chinese influence and America’s moral retreat are making the world safer for autocrats.
+By Megan K. Stack
+Published 2026-10-08 05:00 UTC
+https://www.nytimes.com/2026/10/08/opinion/surveillance-autocrats-uganda.html
+
+This essay is part of “The New World Disorder,” a series exploring the disintegration of the postwar international system and how countries are adjusting as America steps aside.
+
+Plainclothes thugs frog-marching a radio commentator from the microphone mid-broadcast. An opposition activist dying after reportedly being barricaded in his house, which was then set on fire. Security forces raiding a powerful independent media company, cutting electricity and imposing a monthlong closure.
+
+A reign of terror grips Uganda. Specifically, the reign of Gen. Muhoozi Kainerugaba, the country’s belligerent and erratic military chief, who also happens to be the only son of Yoweri Museveni, the octogenarian autocrat who’s ruled Uganda for four decades. Critics of General Kainerugaba, who recently announced his intention to become Uganda’s next president, risk finding themselves in the “basement,” his nickname for the torture chambers he brags about on social media.
+
+Ugandans have discovered that, increasingly, there is nowhere to hide. Civic life here is defined by thickening webs of state surveillance built with foreign help. Chinese cameras and facial-recognition software monitor the streets; Russian radio frequency chips implanted in license plates have been tracking cars in real time; Israeli software plunders the private contents of phones. Technology has created an intrusive eye that never blinks — a stealthy weapon for dictators keen to stifle speech and thought.
+
+Welcome to our menacing new world, a place where authoritarians — established and aspiring alike — enjoy tolerance from the international community; wield cheaper, quieter and far more powerful surveillance tools at home; and reach across borders to help one another hang on to power.
+
+Africa has become a testing ground for all of this. Authoritarianism is spreading on the continent, where Freedom House’s 2026 report found that only 10 percent of people now live in countries classified as “free,” a dismal statistic outdone only by the Middle East.
+
+China has quietly fueled this political hardening. With unparalleled trade reach, a voracious appetite for natural resources and a compelling authoritarian model, Beijing has deepened its economic and political presence across Africa. Along the way, it has exported many of the technologies that the Communist Party uses for political and social control at home. African governments have spent at least $2 billion on the Chinese artificial-intelligence-powered surveillance systems that hound dissidents from Mozambique to Zimbabwe to the Republic of Congo.
+
+China is not the only one. Israeli spyware such as the notorious Pegasus piracy software, which can use a phone to spy on its owner, has been snapped up by rulers around the world. And companies from the United States, Canada, Britain, France, Germany and other European states have all exported surveillance technologies to Africa and other regions. Such tools have sometimes been used to target opposition figures, journalists and activists.
+
+I visited Uganda recently to explore the aftermath of President Trump’s abrupt retreat from human rights, clean government and public diplomacy. I was told, over and over, that American silence during this clampdown has made it easier for other Western countries to remain similarly quiet and has radically emboldened an increasingly ruthless Ugandan regime.
+
+This is not to overstate past U.S. altruism. America has always chased its interests overseas — sometimes violently, often cynically, selectively calling out the abuses of disfavored regimes while ignoring repression carried out by strategic allies. But it’s also true that America stood up for dissidents and human rights defenders when it was not inconvenient, and sometimes when it was. It pressured despotic governments, criticized rigged elections and sanctioned officials.
+
+Now, suddenly, Beijing’s rules prevail: Make money, extract resources, turn economic ties into leverage. Whatever you do, respect local power — don’t criticize other governments for tyranny or abuse. Mr. Trump plays by those rules, too — “trade, not aid,” his administration pithily calls it.
+
+“I really believe, if we look at the next 20 years, our politics will be influenced by the Chinese very, very much,” said Job Kiija.
+
+I met Mr. Kiija in Kampala, the Ugandan capital, at a coffee shop wedged over a gas station on a ramshackle street fringed with palms and groaning with traffic. He runs Innovations for Democratic Engagement and Action, a civil society group that now works in the legal shadows since it was shuttered and defunded by government crackdowns.
+
+He showed me threatening texts he’d been receiving on his phone (“U said some not nice things … U mayb in trouble soon”). He fretted about whether his group should publicly release an extensive report about the much-criticized elections this year that — yet again — kept Mr. Museveni in power.
+
+To depend upon international law or support from friendly Western diplomats, Mr. Kiija said, is “no longer sustainable.”
+
+“You live knowing you’re in danger,” he said. “But if you don’t do something about it, nobody will.”
+
+It’s a mask-off moment in Uganda. For people caught in the cross hairs, these are days of dread.
+
+Kakwenza Rukirabashaija has read the classified documents that list, in black and white, the arms of state power and surveillance tech that attacked him.
+
+Mr. Rukirabashaija is a Ugandan lawyer and novelist. His first book, “The Greedy Barbarian,” is the sprawling, satirical story of a president who becomes a dictator, spiraling deep into greed and corruption until he is finally ousted by popular revolt.
+
+The regime was not amused.
+
+Over the next two years, Mr. Rukirabashaija was repeatedly detained and tortured. He was viciously flogged and beaten so badly that his ankle bones were fractured, his kidneys damaged and his back laced with scars from being whipped. Mr. Rukirabashaija said that General Kainerugaba, the president’s son, twice visited him in detention.
+
+During the first visit, he said, the general ordered the author — the taller of the two men — to bend over to make himself shorter and to remove his pants to reveal the size of his penis. Then, as the general recorded the exchange on his phone, he told Mr. Rukirabashaija to kneel on the floor and apologize, the author said.
+
+On the second visit, he said, General Kainerugaba offered him a bribe to keep quiet about the abuse he had suffered. Mr. Rukirabashaija was stunned.
+
+“I just looked at the floor. I couldn’t believe what he was telling me,” Mr. Rukirabashaija said. “He could see that I could not even stand.”
+
+Even upon release, awaiting what he considered to be a show trial, Mr. Rukirabashaija remained in the virtual prison of constant surveillance. Soldiers surrounded his house. He was certain his phone was compromised. In 2022, he managed to smuggle himself out of his house and sneak to the border, leaving his phone back at home to mislead the authorities tracking its location. He now lives in Germany.
+
+It wasn’t until Mr. Rukirabashaija read his classified police file — sent to him in Germany by his lawyer — that he was confronted with the full machinery of his suffering. The secret court order authorizing the search of his phone. The tables laying out how a person identified only as Investigator No. 9 began to extract data from his phone at 3:44 p.m. The software tools the government had bought from the Israeli firm Cellebrite to analyze his social media posts and the Canadian company Magnet Forensics to pull his data from the cloud.
+
+Mr. Rukirabashaija knew Uganda’s government was brutal, and he says he didn’t expect much from an Israeli company, either. But the cameo appearance of a Canadian company rankled him — the cold, corporate touch of a Western democracy. He wondered whether the people involved in these deals ever questioned their moral responsibility for the products they sold.
+
+“When they see what happened to me, when they see my pictures — all the mutilations, all that software extraction, all that information,” Mr. Rukirabashaija said. “What do they think about?”
+
+A Cellebrite spokeswoman told me the company has stopped selling technology in Uganda “based on our ethics and integrity standards and risk assessment framework.” Magnet Forensics did not reply to a request for comment.
+
+Surveillance technology has spread quickly through Uganda since 2019, when the government installed a $126 million closed-circuit television network from the Chinese telecommunications conglomerate Huawei to monitor public spaces. Uganda is among dozens of countries worldwide to buy such security packages, which are typically marketed as “smart city” systems — cutting-edge weapons against crime.
+
+Huawei engineers were embedded in the offices of Uganda’s security forces, according to reporting by The Wall Street Journal. At the same time, Uganda made a deal with a shadowy Russian firm called Joint Stock Company Global Security to buy a license plate monitoring system, which Human Rights Watch has called a threat to privacy. The Russian company was to help operate the system for the first 10 years.
+
+Huawei declined to speak on the record, but it has previously denied that it or its staff helped Uganda’s government spy on political opponents. My efforts to speak to the Ugandan government resulted — after many unanswered calls and ignored messages — in nothing. As for the Russian company hired to install trackers on cars, the Ugandan attorney general this week declared the contract null and void. The future of the license plate monitoring project is unclear.
+
+Ugandan dissidents have rarely been so vulnerable. State security apparatchiks who once relied on radio transmitters and word-of-mouth informants now wield technological superpowers, vastly expanding their ability to keep tabs on even ordinary citizens in far-flung corners of the country who criticize the regime online.
+
+“They can pinpoint exactly where you are, and there’s no due process,” the Ugandan writer Mable Amuron told me. “I feel like, right now, we are in a military state.”
+
+It is perhaps no accident that Uganda’s surveillance buildup came just as a credible, popular opposition was gaining ground against the 82-year-old Mr. Museveni. That challenge arrived, somewhat improbably, in the figure of Bobi Wine, a reggae and Afropop singer affectionately nicknamed the Ghetto President.
+
+Mr. Wine, who grew up in the Kampala slums, gained fame churning out dance hits and songs that addressed social problems like corruption, poverty and police violence. In 2017, he pivoted to electoral politics, galvanized young Ugandans with his charisma and talk of clean, democratic government and easily won a seat in Parliament. The crowds thronging his campaign rallies suggested that Mr. Wine, whose real name is Robert Kyagulanyi, had awakened a dormant political energy.
+
+Mr. Wine became a prime target for a paranoid and ossifying regime, which used Huawei technology to penetrate his encrypted messages, according to The Wall Street Journal. (Both Huawei and the government have denied that allegation.) In 2018, Mr. Wine was arrested, tortured and charged with treason. His outraged supporters filled the streets, where they clashed violently with security forces.
+
+Undeterred, Mr. Wine went on to run for president twice against Mr. Museveni, first in 2021 and again in January of this year. Both times, Mr. Wine lost in elections that were marred by violence and allegations of vote-rigging and intimidation. At least 16 people were “likely killed” by security forces during and shortly after this year’s election, according to Amnesty International, including a woman who was shot in the back of the head while walking home after casting her ballot. People were detained (or abducted, in at least one case) and interrogated about their support for Mr. Wine.
+
+While campaigning, Mr. Wine and his supporters say they were placed under tight surveillance and often arrived at events and rallies to find security forces waiting. The police have acknowledged using facial recognition and license plate readers to track Mr. Wine’s supporters.
+
+In Kampala, I visited the headquarters of Mr. Wine’s party, National Unity Platform, to meet its secretary general, David Lewis Rubongoya. Within the walls of the sprawling compound, we crossed a courtyard ringed with murals commemorating slain party activists interspersed with Nelson Mandela, Malcolm X and Bob Marley. No matter where we stood, we couldn’t seem to escape the view of cameras mounted on a tall mast just outside the walls, angled to peer down.
+
+“They’re aware that you’re here right now,” Mr. Rubongoya told me cheerfully. “They monitor everything that happens.”
+
+After the 2026 election, when the president’s son took to social media to say he was praying for Mr. Wine’s death and threatened to “handle him accordingly,” Mr. Wine went into hiding, and eventually fled Uganda to live — temporarily, he insists — in the United States. I asked several people close to him how he managed to evade security and leave the country. Mr. Wine, I was told, was helped by supporters inside the security forces.
+
+“Not everyone in the security establishment is pro-government,” Mr. Rubongoya said. “The country is silent, but there is a lot of anger.”
+
+Uganda’s other major opposition figure hasn’t fared any better. Kizza Besigye was Mr. Museveni’s comrade and personal doctor back when they were rebels fighting their way into power from the bush in the 1980s. Mr. Besigye eventually turned on his old friend, accusing the president of selling out their shared principles, and challenged him in elections starting in 2001.
+
+In recent years, Mr. Besigye had drawn closer to Mr. Wine, and formally endorsed his candidacy in the 2026 election. The regime appeared to be rattled by a burgeoning political alliance between the young, trendy singer from the slums and the 70-year-old, establishment-connected physician: Mr. Besigye, like Mr. Wine, was hunted down.
+
+Mr. Besigye was abducted while visiting Kenya in 2024 for a book launch and was transferred illegally back to Uganda, where he was charged with treason and illegal gun possession. The Kenyan government at first denied any involvement, but its foreign minister eventually admitted cooperating with the Ugandan regime in an extrajudicial operation that bypassed Kenya’s Extradition Act.
+
+Like-minded regimes, many of them in Africa, have increasingly colluded in this manner to silence or seize critics, according to the U.S.-based Action for Democracy, which has built a searchable online index tracking global collaboration among authoritarian governments. The group says “autocrats are treating repressive techniques as portable assets that can transcend borders.”
+
+Mr. Besigye’s ongoing trial is, to put it mildly, flawed. A former mayor of Kampala signed on as Mr. Besigye’s lead defense lawyer, but he was grabbed from his home and forced into General Kainerugaba’s torture chamber for two days before being charged with failing to report a treasonous plot. Other lawyers for Mr. Besigye have been arrested, jailed or barred from entering the country. Last month, a key prosecution witness shocked the courtroom by testifying that the guns allegedly in Mr. Besigye’s possession when he was arrested in 2024 were planted by the police. The case is continuing regardless.
+
+General Kainerugaba has repeatedly vowed to hang his father’s old friend, calling Mr. Besigye “a dead man walking.”
+
+Abuse and repression are not exactly new phenomena in this young, volatile country, which has never experienced a peaceful transition of power since gaining independence from Britain in 1962. But the current crackdown is moving so fast, so publicly and with such impunity that several Ugandans I met likened it to the violent excesses of the infamous dictator Idi Amin, who oversaw the killing of untold thousands of Ugandans in the 1970s.
+
+Some in Uganda see it as a project by General Kainerugaba to terrify critics into silence and weed out any officials perceived as insufficiently loyal to a man who would soon, if he has his way, be president. The general banters on his infamous X account about kidnapping and torturing people, posting pictures of battered captives, taunting enemies and threatening his next prey. Over the years, Ugandans have grown accustomed to disappearances and street clashes surging as elections approach, then receding once the results are announced. But this year, after the January election, the crackdown persisted.
+
+Perhaps there is a method to the madness of the president’s son, who trained both at the Royal Military Academy Sandhurst in England and the U.S. Army college at Fort Leavenworth, Kan. Maybe he, or the people around him, has cannily read the moment and wagered that the United States and other governments in a newly indifferent West will not complain over Uganda’s sharply repressive turn.
+
+The United States used to push back. The Biden administration called Uganda’s 2021 election “neither free nor fair,” restricted the visas of Ugandans blamed for “undermining the democratic process” and, as political repression continued, kicked Uganda out of a program offering crucial tax and customs waivers to African countries.
+
+Then Mr. Trump returned, and America stopped complaining. In July 2025, Secretary of State Marco Rubio effectively forbade his staff to utter so much as a euphemism that might hint at criticism of undemocratic values or flawed elections in other countries.
+
+In describing their government’s relationship to the United States, almost every Ugandan I met pointed to Mr. Trump’s abduction of President Nicolás Maduro of Venezuela and the U.S. seizure of that country’s oil. They saw Ugandan officials as anxious to do whatever the impetuous Mr. Trump asks because, if he gets angry, who knows what he may do?
+
+That may explain why Uganda accepted some of Mr. Trump’s third-country deportees, and offered to send troops to Gaza. The government has uncomplainingly moved ahead with a health funding deal allowing the United States access to Ugandans’ private health data, ostensibly to monitor disease outbreaks. The political opposition is concerned that the United States may use the agreement to press for preferential rights to minerals or oil. Similar deals have been frozen or rejected in Zambia and Zimbabwe.
+
+A Ugandan human rights lawyer, Agather Atuhaire, who says she was abducted in 2025 by security forces in Tanzania during a trip to the country and that she was tortured and dumped near the Ugandan border, can pinpoint when the change in the U.S. government’s attitude became clear. After security forces mercilessly beat voters and journalists during a 2025 by-election, Ms. Atuhaire, who now lives in Kenya, called a friend at the United States Embassy in Uganda to describe the violence she had documented. Just the previous year, she’d been flown to Washington and feted by Jill Biden and Antony Blinken as one of the State Department’s “International Women of Courage.”
+
+This time, Ms. Atuhaire recalled, the message was different. Washington had told the embassy it didn’t give a damn, her friend said, using a harsher expletive.
+
+The Trump administration’s moral retreat has effectively opened the field for China.
+
+Beijing has cultivated political ties across Africa since the Cold War, when it backed anticolonial liberation movements with arms, money and training, and courted newly independent governments with aid. As China’s economy boomed and its global influence grew, it expanded its presence on the continent with loans, investment, infrastructure projects and resource deals. Unlike the aid doled out by Western governments, Chinese cash generally came without any fretting over human rights or the environment. That’s not to say it was free: Uganda now owes China about $2.6 billion.
+
+“It’s like we’ve mortgaged our country,” said Joel Ssenyonyi, the leader of the opposition in Parliament. Speaking of China, he added, “The time will come when they will have all these countries on a very short leash.”
+
+China played a major part in building and financing projects, including two of Uganda’s major hydroelectric power plants; oil fields to extract recently discovered crude oil that Mr. Museveni has proudly branded “Pearl Sweet”; a massive pipeline that will move the oil to port in Tanzania; and an expressway from the capital to the Entebbe airport. The terms often favor China: A $200 million loan from the Export-Import Bank of China to upgrade the airport, for example, requires the Ugandan government to fork over airport revenues for 20 years to ensure the debt. Arrangements like this already have caused debt distress in some countries, and a backlash against doing business with China.
+
+Chinese construction sites, factories and industrial parks are scattered in and around Kampala. Thousands of teenagers are learning Chinese through the government curriculum, imports from Chinese factories dominate shops and markets, and Chinese investors have been buying up and leasing land. China is also deeply enmeshed with the Ugandan military, inviting officers to train in China, equipping soldiers with armored vehicles and air defense systems and teaming up with Uganda to manufacture explosives and drones.
+
+Perhaps it was only a matter of time before China began exporting not just consumer goods and surveillance systems, but its political and governance ideas as well. Autocracies, after all, make for stable trading partners. They don’t badger Beijing about human rights and can push deals through without messy debate. Fostering such systems is good business for China.
+
+That may explain why Chinese officials are working with local ruling parties to create leadership training schools that blend local nationalist and Pan-African traditions with Chinese Communist Party approaches to party discipline, political organization and governance. This suggests China is quietly working to undermine weak multiparty systems by nudging ruling parties in the direction of perpetual domination.
+
+China has an undeniably enticing model: a durable ruling party with a rigid grip on power. Decades of extraordinary economic growth. Clean, safe streets with low crime. Foreign dignitaries, including officials from Uganda and other states that buy Chinese surveillance systems, get whisked off on junkets to the northwestern Chinese region of Xinjiang, where Beijing is accused of crimes against humanity over its mass detention and severe repression of ethnic Uyghurs and other predominantly Muslim minorities. Visitors tour the sites and marvel at the harmonious streets gripped by an extraordinarily intrusive high-tech mass surveillance apparatus. Chinese officials deny committing crimes against humanity, saying the security crackdown combats Islamic extremism and terrorism.
+
+When Richard Todwong, the secretary general of Uganda’s ruling party, visited China in 2023, he announced plans to open an Ideological Orientation School in his country. Speaking to his Chinese counterparts “with an air of enthusiasm and shared objectives,” according to a party write-up, Mr. Todwong secured a funding pledge from China that would “apply these transformative lessons within Uganda.” The school is yet to open. Similar schools already exist in Tanzania and Zimbabwe, with another planned for Kenya.
+
+Still, I detected strains of buyers’ (or borrowers’) remorse.
+
+At Kampala’s Makerere University, I met Nansozi Muwanga, one of Uganda’s leading political scientists. Ms. Muwanga was born into the churn of Ugandan politics. Her father, Paulo Muwanga, was vice president, prime minister (briefly) and de facto president (even more briefly) in the tumult of the 1980s. Her office is set in a cottage on the edge of a rolling, sun-dappled lawn where clusters of students picnicked under the trees.
+
+When China first began to take a keener interest in Uganda, Ms. Muwanga said, it was regarded as a useful counterweight to the “sense of being constantly threatened” by the United States and Europe. “If you don’t have multiparty democracy, we’re going to take the money away,” she intoned. “Accept L.G.B.T.Q. rights or we’ll take it away.”
+
+Lately, though, “the honeymoon is over,” Ms. Muwanga said, referring to China.
+
+Unlike some Ugandans I met who are convinced their rulers would have found novel ways to spy on them with or without Beijing’s help, Ms. Muwanga believes China influenced the government to build up its surveillance state. When I asked her what Beijing’s motivation might be, she responded, to my surprise, by talking about land. China has a huge population, she pointed out, and Uganda has plenty of empty space.
+
+“The Chinese have proved they don’t have to bend to your rules or way of life,” she said. “They can come and create a little China in Uganda without being disrupted.”
+
+I was struck by this leap from explaining the tools used to control people to anticipating another round of colonization — the idea that the unspoken final prize was not the resources contained in the land, but the land itself.
+
+People feel keenly the retreat of the Americans, Ms. Muwanga said. She feels it herself, and not just because she had a U.S.A.I.D. grant for a research center she runs yanked back when Mr. Trump abruptly slashed its funding.
+
+As it turns out, you sometimes end up missing the very same meddling you once chafed against.
+
+“The knowledge that there was a gatekeeper somewhere and someone who’d slap your wrist if you really went rogue,” she mused. “It had a certain power.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow The New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
