@@ -1,0 +1,60 @@
+================================================================================
+san-francisco-housing-conversions.html
+Source: PreloadedData  Paragraphs: 22  Words: 1027/1028
+================================================================================
+
+SUMMARY
+
+In the years after the pandemic, many city officials and developers saw an opportunity to turn unused offices into apartments. San Francisco, with roughly a third of its 100 million square feet of office space vacant, had the potential to be a nucleus for office-to-residential activity. And since then, San Francisco has yet to see a single office conversion even as thousands of projects are underway and being completed in other cities.
+
+ARTICLE
+
+San Francisco Isn’t Giving Up on Turning More of Its Offices Into Homes
+The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.
+By Joe Gose
+Published 2026-10-11 09:00 UTC
+https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html
+
+In the years after the pandemic, many city officials and developers saw an opportunity to turn unused offices into apartments. San Francisco, with roughly a third of its 100 million square feet of office space vacant, had the potential to be a nucleus for office-to-residential activity.
+
+But as cities like New York, Washington and Chicago began offering tax incentives for conversions, San Francisco did not offer similar programs for builders. And since then, San Francisco has yet to see a single office conversion even as thousands of projects are underway and being completed in other cities.
+
+The city is now is trying to change that. This year, officials adopted a law that allows developers to get back a portion of their future property taxes, over 30 years, on commercial buildings converted to new housing.
+
+The financial reimbursement is available for projects downtown, which includes the Financial District, South of Market area and Civic Center neighborhood, and is meant to help alleviate the financial risk of conversions.
+
+So far, three developers have submitted projects for the program.
+
+“We’ve got about 30 million square feet of vacant space, so we knew we had a significant problem to tackle,” said Anne Taupier, executive director of the city’s Office of Economic and Workforce Development.
+
+City officials are hoping the new tax incentive will fuel conversions the way tax abatement programs have in New York and Washington. Those are the top two markets for office conversions, with nearly 25,000 units in development combined as of the start of this year, according to RentCafe, an apartment search platform and research firm.
+
+In 2023, a study by a group of public policy, planning and architecture firms determined that many office buildings in San Francisco were suitable for conversion because of factors like shape, size and layout. The city then relaxed several building codes, requirements and fees. Measures waived included mandates for bike parking and open space. And in March 2024, San Francisco voters eliminated a property transfer tax on buildings that were turned into housing, helping to ease some financial burden.
+
+Despite those initiatives, developers remained reluctant to convert properties. Meanwhile, the housing crisis in San Francisco worsened as the expansion of artificial intelligence companies pushed up rents in an already pricey market. In September, the median rent for a one-bedroom apartment in the city was over 25 percent more than it was the prior year and at an all-time high, according to Zumper, a rental platform.
+
+In all, San Francisco’s efforts to make it easier and more financially feasible to convert offices to housing are expected to cut 25 percent off total costs in projects, said Marc Babsin, president of Emerald Fund, a residential development firm in San Francisco. That is a sizable amount even if those reductions, he noted, would be realized only after developers increase property values that go on to generate higher property taxes.
+
+One of the developers trying to take advantage of the tax incentive is Mr. Babsin’s firm, which submitted an application and teamed up with another local developer to buy a midcentury office building. They plan to convert it into 106 apartments. Another developer, Hudson Pacific Properties, a real estate investment trust that owns some 12.5 million square feet of offices and production studios on the West Coast, wants to turn the upper floors of a landmark, 114-year-old building it owns into 136 apartments.
+
+The new tax break “gives developers a way to put together a financing package that can make conversions work,” said Chris Pearson, senior vice president of Hudson Pacific.
+
+The incentives are also playing an important role in the city’s Future of Downtown initiative, a rebuilding program the city’s planning department introduced in 2023.
+
+San Francisco’s office vacancy rate, though improved recently, is among the highest in the country at 30.1 percent, according to Cushman & Wakefield, a commercial real estate brokerage. City officials see more people living downtown as a way to keep the area lively well past 5 p.m. and on weekends. That requires a mix of housing, shops, restaurants and entertainment, said Jacob Bintliff, manager of economic recovery initiatives for the Office of Economic and Workforce Development.
+
+“Everybody feels the pain of where downtown has been since Covid, and there has been a lot of political will to go further with incentives for this category of projects,” he said. “If we were proposing them for some other type of development, maybe we wouldn’t have the same political coalition.”
+
+More of that type of development is needed to give developers confidence to build even bigger, said Steve Luthman, global head of real estate at Hines, a global real estate investor.
+
+The company wants to redevelop a block in the Financial District that could include converting a late-1940s-era office building into housing along with constructing the tallest office skyscraper in the city containing a mix of offices, housing and retail.
+
+But without a broad office conversion effort, the Hines project will remain an island in a district of underused office buildings, Mr. Luthman said.
+
+“The Financial District has always been a single-use district, and every one of our cities in America has one like it,” he said. “So we believe that creating more experiential urban districts is a winning formula, and the leadership shown by a historically anti-development city like San Francisco is giving developers a palate for those projects.”
+
+Even with the new incentives, the advent of A.I. is an unknown in the future of office conversions in San Francisco. Lately, leasing activity and office building values are rising, partly because of the increasing number of A.I. firms looking for space.
+
+More office leasing activity could slow momentum for conversions, as building owners and lenders have become reluctant to part with buildings at a price at which a conversion works financially, Mr. Babsin said. But he is confident that more conversion opportunities will become available.
+
+“There are a lot of A.I. start-ups generating a lot of headlines and a lot of buzz,” Mr. Babsin said. “Nonetheless, dozens of Class B and C office buildings continue to struggle, so we’re bullish on office-to-residential conversions and see an opportunity to bring new energy into downtown.”
