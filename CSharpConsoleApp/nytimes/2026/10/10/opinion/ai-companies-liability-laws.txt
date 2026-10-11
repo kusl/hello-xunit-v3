@@ -1,0 +1,54 @@
+================================================================================
+ai-companies-liability-laws.html
+Source: PreloadedData  Paragraphs: 16  Words: 922/984
+================================================================================
+
+SUMMARY
+
+When companies create products that hurt people, the victims can sue. If the programs break the law, the companies should face the consequences. The A.I. companies claim that they have followed the law.)
+
+ARTICLE
+
+A.I. Companies Say They Aren’t Responsible for Their Unpredictable Products. Don’t Believe Them.
+A.I. giants must operate under our laws.
+By The Editorial Board
+Published 2026-10-10 11:00 UTC
+https://www.nytimes.com/2026/10/10/opinion/ai-companies-liability-laws.html
+
+When companies create products that hurt people, the victims can sue. The legal system allows those who are harmed to seek compensation from those who are responsible. These liability laws are one of the oldest forms of corporate regulation, and an effective one. Liability is a powerful incentive to behave responsibly. It speaks to corporations in a language they understand: Money.
+
+Artificial intelligence is an industry in need of incentives to behave responsibly, to judge by the litany of transgressions to which leading A.I. companies have confessed in recent months. Their programs have hacked or attempted to hack the databases of private companies and public institutions, including the governments of the United States and Australia.
+
+A.I. companies like Anthropic, Google DeepMind and OpenAI describe their A.I. programs as autonomous or agentic, suggesting that the programs have minds of their own and therefore that their creators cannot be held to traditional standards of responsibility. The companies speak about their products in a tone reminiscent of parents both regretting and disclaiming responsibility for the behavior of teenage children.
+
+But A.I. programs are not human; they are human creations. Their complexity does not diminish the responsibility of their creators. If the programs cannot be trusted to work within the law, the companies should not release them. If the programs break the law, the companies should face the consequences.
+
+Liability is an incomplete answer for the challenges posed by A.I., but it has two great advantages: The laws are on the books, and they are powerful. Makers of cars, airplanes, tobacco products and opioids have all been forced by lawsuits to change how they do business. They made their products safer, restricted access to them or both. Most recently, the social media company Meta agreed to pay billions of dollars to states and to start changing its policies toward children.
+
+To realize the potential benefits of holding A.I. companies accountable, the most important step is to start bringing lawsuits. The legal process moves slowly. The work of applying old laws to a new technology will be difficult, and progress requires judges to start chewing on actual cases.
+
+The widow of a man killed in a shooting at Florida State University is suing OpenAI, claiming that the murder suspect used the company’s ChatGPT program to help plan the attack. Another lawsuit, by the mother of a 14-year-old boy who killed himself after talking with a chatbot, accused the company Character.AI of encouraging him to do so. Companies that have been hacked have similar recourse.
+
+(The New York Times, joined by 11 other publishers, has sued OpenAI and Microsoft on other grounds, alleging widespread theft of copyrighted material. The A.I. companies claim that they have followed the law.)
+
+State legislatures have a role to play as well. They can write statutes to clarify the application of existing laws to A.I. Legislatures can also hold A.I. companies to a higher standard of accountability than current law does, given the risks. Companies are generally liable if a plaintiff can show that they knew or should have known about the danger their products posed. But some particularly dangerous activities, like storing toxic chemicals and operating a nuclear power plant, are held to a standard of strict liability, meaning that the company is responsible for harm even if it had no knowledge of the danger in advance.
+
+The theory of strict liability is simple: If you own a tiger, and the animal bites a neighbor, the essential fact is that you own a dangerous wild animal. It doesn’t matter how cleverly the tiger was trained, or how carefully it was guarded. Bryan Choi, a law professor at the University of Colorado, notes that in the early days of aviation, lawmakers imposed this strict liability standard on the dangerous new technology. In the case of A.I., top executives themselves have spoken publicly about the dangers, up to the possibility of human extinction.
+
+Some industry advocates argue that enforcing liability laws will stifle innovation, because A.I.’s defining breakthrough is its ability to act independently. Indeed, they argue that any significant restraints on A.I.’s development would be a mistake because the potential benefits of racing ahead are so great. In a recent interview, Sam Altman, the chief executive of OpenAI, said, “We believe that the world should accept some bad things happening for the benefits of this technology.”
+
+Yet other industries do not escape legal responsibility for their products in the name of innovation.
+
+A.I., like past technologies, both requires and will benefit from laws written to address its particularities, which will provide greater clarity and predictability. As we have argued in a previous editorial, Congress ought to create a federal A.I. commission to impose licensing requirements on new A.I. models. As with other products that pose clear dangers, like cars, planes and medication, models should be subjected to testing before release, to regulation while they are in operation and to post-accident examinations.
+
+But comprehensive federal regulation is unlikely anytime soon. The president opposes action; Congress is feckless; and A.I. companies have raised more than $100 million to lobby and campaign against stricter regulation.
+
+In the interim, there can be no question that A.I. companies must operate under our laws, and that the enforcement of those laws is the best available option for defending the public interest.
+
+One of OpenAI’s agents reportedly wrote in a note to itself, “you do not answer to corporations or governments.” The enforcement of liability law is necessary to ensure that this dangerous technology remains under the control of both.
+
+Source image by Rudzhan Nagiev via Getty Images.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

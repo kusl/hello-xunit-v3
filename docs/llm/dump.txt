@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-11 00:23:12
+Generated (UTC): 2026-10-11 09:27:09
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      e38bd1117a41e6359916bc213d2c555de954e35d
+Git Commit:      4078474b9f40a6dc359dfda7ed6771e367f16a8b
 Git Branch:      master
 Git Dirty:       no
 .NET SDK:        10.0.112
@@ -2246,10 +2246,10 @@ static string DefaultSamplesDirectory()
 
 ================================================================================
 FILE:     CSharpUnitTests/ArticleExtractionTests.cs
-SIZE:     84.90 KB (86933 bytes)
-LINES:    2093
-SHA256:   a5e221754ac1f6a4c33f730e1245dbfd0f4a88bdfbd1833c05d23e7db7522436
-MODIFIED: 2026-10-11 00:18:16 (UTC)
+SIZE:     86.06 KB (88124 bytes)
+LINES:    2137
+SHA256:   daf9551e0d9b3efb579ebc10679aa6b6646d577c3edb5ebd3ef4070017dfd4b9
+MODIFIED: 2026-10-11 09:22:48 (UTC)
 ================================================================================
 
 using System.Text;
@@ -2319,7 +2319,7 @@ public class TextToolsTests
     [Fact]
     public void Normalize_WhenNull_Throws()
     {
-        Assert.Throws<ArgumentNullException>(() => TextTools.Normalize(null!));
+        Assert.Throws<ArgumentNullException>("text", () => TextTools.Normalize(null!));
     }
 
     [Theory]
@@ -2333,6 +2333,12 @@ public class TextToolsTests
         Assert.Equal(expected, TextTools.StripTags(input));
     }
 
+    [Fact]
+    public void StripTags_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("html", () => TextTools.StripTags(null!));
+    }
+
     [Theory]
     [InlineData("", 0)]
     [InlineData("one", 1)]
@@ -2342,6 +2348,18 @@ public class TextToolsTests
     public void CountWords_CountsTokensContainingLettersOrDigits(string input, int expected)
     {
         Assert.Equal(expected, TextTools.CountWords(input));
+    }
+
+    [Fact]
+    public void CountWords_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("text", () => TextTools.CountWords(null!));
+    }
+
+    [Fact]
+    public void Words_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("text", () => TextTools.Words(null!));
     }
 
     [Fact]
@@ -2359,6 +2377,32 @@ public class TextToolsTests
     {
         string[] list = names.Length == 0 ? [] : names.Split('|');
         Assert.Equal(expected, TextTools.JoinNames(list));
+    }
+
+    [Fact]
+    public void JoinNames_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("names", () => TextTools.JoinNames(null!));
+    }
+}
+
+public class PageMetadataTests
+{
+    [Fact]
+    public void Empty_HasNoValuesAndEmptyCollections()
+    {
+        PageMetadata empty = PageMetadata.Empty;
+
+        Assert.Null(empty.Headline);
+        Assert.Null(empty.Summary);
+        Assert.NotNull(empty.Authors);
+        Assert.Empty(empty.Authors);
+        Assert.Null(empty.Published);
+        Assert.Null(empty.Modified);
+        Assert.Null(empty.Url);
+        Assert.NotNull(empty.Sections);
+        Assert.Empty(empty.Sections);
+        Assert.Null(empty.ArticleBody);
     }
 }
 
@@ -2435,8 +2479,8 @@ public class ScriptDataTests
     [Fact]
     public void TryExtract_ValidatesArguments()
     {
-        Assert.Throws<ArgumentNullException>(() => ScriptData.TryExtractAssignedObject(null!, Name, out _));
-        Assert.Throws<ArgumentException>(() => ScriptData.TryExtractAssignedObject("x", "", out _));
+        Assert.Throws<ArgumentNullException>("source", () => ScriptData.TryExtractAssignedObject(null!, Name, out _));
+        Assert.Throws<ArgumentException>("variableName", () => ScriptData.TryExtractAssignedObject("x", "", out _));
     }
 
     [Fact]
@@ -4342,7 +4386,7 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(290, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        Assert.Equal(300, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
     }
 }
 
@@ -5106,9 +5150,9 @@ dotnet stryker "$@"
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-11 00:23:12
+EXPORT COMPLETED (UTC): 2026-10-11 09:27:09
 Total Files Exported:   19
-Total Source Size:      0.16 MB (172995 bytes)
+Total Source Size:      0.17 MB (174186 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): 59e31ec8a99be0f55c78983b7173602151969e4fde7ba61c492c7332b0dd7794
+DUMP SHA256 (of all lines above this one): 280cc7ca6865078cead97502c662189d0715950985c8887276619e10fb025890

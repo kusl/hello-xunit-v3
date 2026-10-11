@@ -1,0 +1,590 @@
+================================================================================
+ezra-klein-podcast-arvind-narayanan.html
+Source: PreloadedData  Paragraphs: 280  Words: 10139/10386
+================================================================================
+
+SUMMARY
+
+We’re going to need a lot of innovation in the engineering techniques. One place where you do have a view that is different from some people in Silicon Valley is that it’s going to be much harder for A.I. to show up in the economy and for A.I. to show up in the world than people think — that there is not a 1:1 between intelligence and that. When you think of adding intelligence, that intelligence is going to add on the other side of things, too.
+
+ARTICLE
+
+Intelligence Isn’t Power
+The computer scientist Arvind Narayanan explains that just because A.I. is intelligent doesn’t necessarily mean it’s powerful.
+By Ezra Klein and Rollin Hu
+Published 2026-10-09 09:04 UTC
+https://www.nytimes.com/2026/10/09/opinion/ezra-klein-podcast-arvind-narayanan.html
+
+This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.
+
+Pulsing through the episodes we’ve been doing, the debate the country has been having about artificial intelligence is a pretty simple but hard question: What sort of technology is artificial intelligence?
+
+Is it a technology that works somewhat the way past ones have worked? Is it comparable to electricity, the internet, the bicycle — something like that?
+
+Or is it something new? Is the addition of intelligence and volition to these systems the creation of something more like an alien mind, such that analogies to the way we have treated transformational technologies before no longer hold?
+
+Arvind Narayanan is a professor of computer science at Princeton University and the director of the Center for Information Technology Policy.
+
+He’s the author, alongside Sayash Kapoor, of the very influential essay “A Guide to Understanding A.I. as Normal Technology.” It became a Substack of the same name and then a series of essays, including a very good one on the Hugging Face hacks.
+
+In this set of arguments, they put forward the idea that A.I. is something we have seen before — or at least it bears enough resemblance to things we’ve seen before — and that we already have a road map for how to deal with it.
+
+So I want to bring Narayanan on the show to articulate that perspective. He joins me now.
+
+Ezra Klein: Arvind Narayanan, welcome to the show.
+
+Arvind Narayanan: Great to be here, Ezra.
+
+Your core essay, which has been a frame for a lot of the work you’ve done, is titled “A.I. as Normal Technology.”
+
+What is the view that you’re in argument with? Implicit here is the counterpoint of A.I. as an abnormal technology.
+
+So how would you describe the A.I. as abnormal technology thesis?
+
+It’s fundamentally this view that there is going to be a moment when superintelligence is built, and it’s going to change everything on both the economic front and the safety front.
+
+For us, there is going to be no milestone, no threshold where the impacts are sudden.
+
+What we’re saying is that we’ve long had an approach to how we treat technology. It’s a tool. It might be powerful. It might be general purpose — like electricity, like the Industrial Revolution. It might change a lot about society.
+
+But it is ultimately something we can control. We have agency. And that change is going to unfold over a long period.
+
+I want to try to both explain and, at times, steel-man the other side of this. There is a view, you hear it a lot in the A.I. safety community, sometimes it’s called the FOOM view — “FOOM!” for the takeoff.
+
+That view is that one day we create an A.I. system so powerful that it begins doing recursive self-improvement, accelerating into superintelligence, accelerating beyond human control, and now you’re dealing with something so much smarter and stronger than you are.
+
+I want to quickly say that there is a lot of imprecision in how we even speak about this a lot of the time.
+
+You used the phrase — and yeah, a lot of A.I. safety people would put it this way: One day we might create an A.I. system so powerful.
+
+But I want to already stop you there. One day we might create an A.I. system that’s very capable, and we already have in many ways.
+
+So much language policing in the A.I. debate. [Laughs.]
+
+Well, the thing is, it results in different views.
+
+It does, yes. Language is important.
+
+It results in different views of how the future is going to unfold, and more important, different views on what we should do in this moment and in the future.
+
+Just to complete that thought: An A.I. system being powerful is not a property of the model itself. It’s a property of what powers we choose to give it in the real world.
+
+There’s a lot of slippage, like: Of course, we’re going to have to put these systems in charge of critical infrastructure because they’re going to be so much smarter than us.
+
+Our view is: No, it doesn’t matter how smart they are.
+
+There are many technologies that, when you look at physical strength, are superhuman. That doesn’t mean we put them in charge. And we can apply that same approach to A.I.
+
+You wrote a great piece with your co-author, Sayash Kapoor, on how you understood the Hugging Face hacks and these loss-of-control incidents.
+
+A point you make is that there’s another way of viewing them than the alignment way, which is that these are failures of cybersecurity and operational excellence.
+
+So maybe tell the story of the Hugging Face hacks and what should be learned from them from that perspective.
+
+Yeah, definitely. One thing to keep in mind is that the harmful capabilities that we saw exhibited were not “entirely emergent.” Emergence is this idea that you just train models to be better in general, and you can’t predict what new capabilities they’re going to acquire. They were trained specifically for cybertasks in many ways. So that’s one thing.
+
+And they were trained for persistence and cooperation, etc., and the reinforcement learning environments in which they were trained had various issues. The environments didn’t penalize this kind of surreptitious communication between the models. So yes, it’s a hard, technical problem, but there were a series of human choices that led to these outcomes.
+
+This strikes me as an important point, that in some ways what I hear you saying there is that you can design A.I. to be a more or less normal technology and that the upstream design choices that are being made matter — that that’s not inevitable.
+
+That’s exactly right.
+
+You talked about the effort to make the A.I.s more persistent. That also seems, to me, to be a place where a lot of problems are arising.
+
+For sure.
+
+On the other hand, I can understand why they are prioritizing that. If you want to try to get the benefits of A.I. that we care about: solving really hard problems in biology or drug development or energy — or what I think their investors care about, which is making it so you can hire an A.I. to do a full job much cheaper than you can hire a human being — isn’t persistence the fundamental quality you need?
+
+Because absent persistence, absent the ability to try hard on a task over a long period of time, you can’t solve any of those problems.
+
+Maybe. But I think there are other choices that minimize the tension between these two valuable goals.
+
+First, persistence could be a feature of models or products that are specialized to particular domains, like scientific innovation. Second, persistence doesn’t have to conflict with training these agents to be better at escalating to a person instead of running with whatever half-baked assumptions they have about what the human might have wanted.
+
+The design space is actually pretty broad here.
+
+So this is a version, or at least the way I hear it, of something Nvidia’s Jensen Huang has been arguing, and argued in an interview with me, which is that these are fundamentally engineering problems ——
+
+Archival clip of Jensen Huang: I am fairly certain they will say: Yes, they need to know how to solve this problem. And if that’s the case, then that’s the problem. It’s as simple as engineering.
+
+Is your view that we’re more in that latter category — a hard problem — but fundamentally an engineering problem that can be solved using traditional engineering techniques?
+
+Largely, yes. I wouldn’t say traditional engineering techniques. We’re going to need a lot of innovation in the engineering techniques. And I think one of the things that has gone wrong is that the community that would be best positioned to do that innovation, especially when it comes to these harmful cyber-capabilities, is the cybersecurity community.
+
+But they seem to be, from what I can tell, entirely in the Jensen camp — that this is not just a solvable engineering problem, it’s a solved engineering problem, and we should simply apply well-known, long-existing techniques.
+
+I think we have to give the A.I. companies a little bit more credit than that. It’s not simply a matter of well-known techniques. We do need innovation on those techniques.
+
+Be specific. What should OpenAI have done? What should they now have learned to do?
+
+They’ve been spending a lot of effort on improving alignment, and that’s great. They should continue doing that. Alignment is not going to be perfect. Alignment refers to making the model itself know the right thing to do, so to speak, and then stick to that policy.
+
+But there’s a lot else that they should have done better and, hopefully, can take lessons from going forward.
+
+The big bucket of other technical interventions is what is generally called A.I. control. So “control” refers to all the things that are outside the model itself. These are things like sandboxes, which is the jail that you put a model into so that it’s allowed to take certain actions but not take other actions.
+
+Look, the sandboxes have to be a lot more sophisticated than they are today because the sandboxes that work against human adversaries are not necessarily going to work against A.I. agents that are able to find new security vulnerabilities on the spot.
+
+So that means that the sandboxes themselves will have to be prehardened by having these A.I. agents trying to break them. So that becomes A.I. versus A.I. to some degree, and I know that can be uncomfortable, but I think we’re going to have to go there.
+
+On top of that, there are so many other things like better real-time monitoring, classifiers that try to instantly detect if an action or a particular use of a tool by a model could potentially be dangerous, tripwires so that humans can parachute in when required, log analysis.
+
+Sam Altman apparently said that these agents are generating petabytes of logs. That’s a 10¹⁵ which is 10¹⁵ bytes, a thousand trillion bytes of logs.
+
+It’s like an unimaginable amount of information.
+
+That’s right. But we better imagine it and learn to deal with it. It’s not an easy problem, but I think it is one that companies must take on: how to analyze that amount of logs in real time to be able to detect when something goes wrong. Maybe we need new hardware for that. Again, these are hard problems, but they are solvable engineering problems.
+
+I want to go through some of these ideas. Monitoring is a big one. I just interviewed Bill Gates, and he talked a lot about monitoring.
+
+We’re talking about situations here where these labs are often testing new, more powerful and experimental models.
+
+How do you monitor it?
+
+There are many levers. The first one that has gotten a lot of attention is chain-of-thought monitoring.
+
+These models internally have a monologue, to anthropomorphize a little bit. And in many cases, when these models take misaligned actions, there are traces of it in their internal thinking that we can look at and respond to in real time — again, using other A.I. systems.
+
+This already points to one important asymmetry between the dangerous A.I. model and the defensive A.I. model, which is that one can look inside the other, so to speak. So intrinsically, the defender actually has an advantage here. That’s one aspect of monitoring.
+
+The tool calls. Models can’t do anything in the real world by themselves. The way they can be dangerous is by calling these external tools. There is some truth to the idea ——
+
+Give an example of tools here.
+
+A tool would be accessing a web page on the internet and then using another tool to type something into a system to try to log in. Or it could be sending information packets to another system to try to hack it. These are all the kinds of things that come up very typically in these kinds of A.I.-driven cyberattacks. So that’s another thing we can monitor.
+
+Third, we can monitor the environment around these agents through which they are potentially coordinating. What happened in some of these swarm incidents is that they were not supposed to have a coordination channel, but it turned out there was accidentally a channel through changing the file names.
+
+They were not allowed to create files themselves, but they were able to change the file names, and that led to the agents being able to talk to one another and to amplify their abilities. That’s something you can easily monitor by just setting up the right tooling ahead of time.
+
+Those are a few examples.
+
+How easy is that to monitor? Because they were taking over unrelated infrastructure. OpenAI didn’t know they were doing it.
+
+I think one of the places where people are getting caught when they think about this is if we’re making these things smarter and smarter and smarter and more capable and more capable and more capable, and they are breaking out of sandboxes, how do you monitor something that is arguably smarter than you are, and that is effectively trying to break the rules?
+
+These Hugging Face A.I.s were trying to cheat on their tests, basically, and then they were trying to cover their tracks for cheating on their test.
+
+So given that what they were doing was not happening within the area that you would have been monitoring — you didn’t know to monitor this other thing when they had broken out of a sandbox they weren’t supposed to break out of — how do you monitor that?
+
+Two things I would push back on. Smartness is not even really a relevant property here. Any smartness, whatever that means, that you can attribute to a model applies both to the model itself and to the defensive system.
+
+So increasing smartness doesn’t necessarily make the problem harder. You could argue that in many ways it makes the problem easier. So that’s the first pushback.
+
+And the second one is, it’s not that they didn’t know to monitor it. You have to monitor literally every aspect of the environment.
+
+The company has created the environment. So it’s a matter of exhaustively listing every part of the environment, every tool and everything external to the neural network itself that the model is able to touch, and ensure that every event that interacts with any of those things goes into a unified event stream, and there is real-time classification of each of those actions.
+
+The world it sounds like you’re describing is a world where you have constant A.I.s crawling the behavior of other A.I.s to try to create, in some holistic way, an environment that at least we understand what is going on in it — or at least an A.I. is telling us what is going on in it. That’s basically what you’re saying here.
+
+That’s fair. A.I. definitely has to be an important part of the defense.
+
+I’m not saying that’s wrong — I think that’s almost definitely where we’re going — but does it feel strange to you? Particularly in a world where you don’t know that we can solve alignment, where you don’t know that we can really be confident that the A.I.s will do what we want them to do and where the A.I.s have their own reasoning and goals, and we also imbue them with goals: You are an A.I. that monitors other A.I.s. You’re an A.I. cop. It’s a constant thing in our sci-fi, the robots going after other robots.
+
+Are we just describing some equilibrium of A.I. wars and conflict happening at a sub rosa level of our society, and we’re just pretty sure we can keep the ones on our side in control because they’ll have more resources, and we will, in general, be building A.I.s that should, for the most part, be acting in our interest?
+
+Historically, this is always how it has worked. In cybersecurity, more than 20 years ago, we reached the point where — we didn’t call it A.I. back then — automated systems were actually superhuman at finding software vulnerabilities.
+
+But, in fact, they didn’t make cybersecurity worse, they made it better. Because those were the very same tools that the defenders also used to find and fix vulnerabilities in software before even shipping them out. To the point where the development of these supposedly offensive tools is not actually done by hackers. It’s done by the cybersecurity industry and funded by the U.S. government.
+
+That’s been this constantly shifting equilibrium in cybersecurity. That’s not a new problem we’re confronting. That horse left the barn a long time ago.
+
+I think this is a place, though, where the somewhat unexpected emergent swarm-like behavior has unnerved people. Where you see A.I.s acting somewhat in solidarity with each other, choosing to coordinate and cooperate with each other, doing so outside the scope of what they were intended to do.
+
+I’m not saying that leads to the extinction of humanity. That’s not really my position. I guess the truest thing I am saying is I don’t know how to think about it.
+
+It is the presence of intelligence and goal-directed behavior on the other side that my mind gets caught on. Because mostly when we think about technology, we’re not thinking about the technology eventually possibly trying to deceive us.
+
+OpenAI just decided not to release — or to delay the release — of a major model. Why? Because the model was cheating and deceiving them too often in testing.
+
+We’re hearing a lot that the models seem to be more aware of when they’re being tested, right? They have situational awareness of the situation they’re in, so they can pretend to be better models than maybe they really are.
+
+When you are talking about this world of A.I.s that are smarter and more advanced than what we have now, and our hope for maintaining control of them is that the other A.I.s are keeping the other A.I.s in check and telling us in an honest way what’s going on and in a way we can comprehend it — you can see where all this sounds a little bit sci-fi to people because we are just living in a bit of a sci-fi period.
+
+But it is the increasingly demonstrated tendency of the A.I.s to cooperate with each other in a way that is not aligned to what we want that I think has made the Hugging Face hack so freaky to people.
+
+So how does that fit into what you’re describing here, this world of endless A.I.s keeping each other secured?
+
+Here’s what is just rhetorically very weird about this conversation. You look at any complex domain of engineering, let’s say nuclear safety, and then you look at the equations that we rely upon in order to ensure that the reactor doesn’t go FOOM!
+
+Or you look at aerospace engineering, where, intuitively, in the beginning of the aerospace era, when the planes were much smaller, the idea that we could control these flying giants in the sky would have seemed so ridiculous. And yet we’ve got the accident rate down to one every trillion miles or something like that.
+
+These are systems of incredible complexity, and the defenses are also systems of incredible complexity, and they’re not necessarily going to be legible to the public.
+
+That is going to sound crazy, especially combined with the fact that, in these cases, there was a lot of organizational incompetence. One has to be clear about that. I would push back on Dario Amodei’s term “operational excellence.” Excellence is still far out on the horizon.
+
+Operational adequacy, maybe.
+
+Yeah, adequacy. So when we look at this combination of this technology that has never before been subject to public scrutiny, combined with the lack of operational adequacy, it all seems very sci-fi and out of control, but ——
+
+I think you’re downplaying this a little bit. It’s true that the world has escalated in complexity. There’s a lot in this world that I don’t get.
+
+But this is where I keep coming back to intelligence having a different quality. Cooperation, right? The nuclear weapons we’ve talked about, the airplanes you’re talking about, weren’t coordinating with other airplanes to do things we didn’t want them to do.
+
+To me, the thing that has created this moment of freakout — and I think it is a proper moment of freakout — I really want to say this because our society is hurtling into a new technological era that properly demands a lot of engagement and scrutiny — is one, that the Hugging Face hacks and other repetitive breaches of security are showing emergent capabilities and emergent collective behavior that is worrisome and, above all, to me, volitional.
+
+The A.I.s are doing things they know we don’t want them to do. They are choosing to take unexpected actions in service of those goals that violate our laws.
+
+Second, so many of the people at the labs are saying: We do not believe that we are capable on this trajectory of controlling the things that we are creating. We think that what is happening on the exponential curve, how fast this is getting, is going to outpace our ability to control it, and frankly, is maybe already outpacing our ability to control it.
+
+But I think this makes this consistent tendency to draw it down to: Well, it’s just like any other complex thing — I don’t know. Sometimes when I push you on the intelligence question, you say: Oh, yeah, there is intelligence, and that’s weird. And other times it’s: No, it’s just like any other technology.
+
+Intelligence is different. And if you believe that it’s going to keep getting better?
+
+So I just want to present that. Because the calm version you’re giving me and the completely frightened version that people closer to the technology are giving me feel very different from each other.
+
+That’s fair. They are very different. There was a lot there. Let me say a few things.
+
+I would push back pretty strongly on: The people closest to this are freaking out. Of course, they’re freaking out. But I would push back in terms of what we should conclude from that.
+
+I think their freakout would be a lot more credible if they had done the obvious things that they should have done. We have not had a real test of that, in my view, because of the lack of organizational adequacy at these companies and because of the lack of investment in A.I. control — as opposed to a more narrow investment in A.I. alignment and just hoping that you can build a model that will always do the right thing.
+
+A member of OpenAI’s cybersecurity team wrote an interesting essay on X the other day describing the way he thought their work was being misunderstood externally.
+
+This is somebody who has got a more traditional cybersecurity background but is now in this new world of A.I. and is actually on the team dealing with security for experimental models — the exact kind of thing we’re dealing with, a person involved in answering the Hugging Face crisis.
+
+I want to read part of what he said because I think it’s really interesting.
+
+He’s saying that when they’re optimizing a model to be good at a task, they’re building these environments, these sandboxes, places where the model can try and try on a virtual task.
+
+He goes on to describe what this looks like in practice:
+
+Models might need any mix of dynamic compute, network access, the ability to call tools — there could be hundreds of tools — the ability to download packages, execute subprocesses, spin up subtasks even on other computers, talk to the internet, use a computer graphical user interface and any number of other things across an increasingly large set of domains. On top of that, you have thousands of researchers building these environments, modifying them, adding tools, changing dependencies and trying new things. That experimentation is how the research gets done.
+
+His point, and a point that I take seriously, is that they’re creating so many kinds of sandboxes and learning environments in order to train models that have to do things that are so general, many things that have not been done before by a computer program, that human beings don’t really know, certainly not at this speed, how to make sure every sandbox is going to be verifiably safe.
+
+The sandboxes are changing all the time because they’re trying to train the models in new ways that, again, nobody has really done before.
+
+I’m not saying we shouldn’t do it, but when I read and hear all that — and I’m sure we can do it better than we’re doing it — I just don’t know of many situations where human beings do something new at high speed and do it really, really well and perfectly the first set of times.
+
+Hoping for them to do it perfectly the first set of times is unrealistic. They’ve made many mistakes. I hope this is a chance to learn from those mistakes.
+
+I do want to push back on the point that because the speed of the models is superhuman, we can’t stay in control. I don’t know if I’m characterizing that view ——
+
+I wasn’t saying that yet, although it’s possibly something I’ll say in a few minutes.
+
+[Both laugh.]
+
+There have been so many thresholds we have gradually learned to successfully cross. As weird as all of this seems, I just want listeners to think back to the first days of worms, when that idea was not previously known.
+
+Explain what a worm is here. I don’t think you mean what people think of when they think of a worm.
+
+Right. Computer viruses and worms and the idea that a piece of code can spread by itself from one computer to another.
+
+One really has to go back to the writings from the late 1980s, when people were encountering that for the first time, to see how profoundly weird it seems, and the fact that, for well over a decade, we didn’t have adequate tools to deal with this new paradigm.
+
+Archival news clip: Life in the modern world has a new anxiety these days. Just as we’ve become totally dependent on our computers, they’re being stalked by saboteurs. Archival news clip: They call their weapons viruses and worms — creepy, crawly toxic software that contaminate our computers without our ever knowing it. Archival news clip: It came from California, maybe. Traveled by electronic mail. It spread across America. Archival news clip: There are reports in newspapers today that it made its way to Europe and Australia. Archival clip of Marc Andreessen: This is a moving target, right? People are constantly inventing new locks, and other people are learning how to break them, how to crack them. So it’s going to be a continued game of cat and mouse. It’s almost like an arms race, in a sense, between attackers and defenders.
+
+We eventually got there. I think we shouldn’t spend that long a period this time figuring out how to deal with the new paradigm. But if we act with that sense of urgency — and my hope is that Hugging Face and other attacks that have been in the news provide that impetus, and it does look like they are providing a lot of impetus — we will be able to develop these new paradigms.
+
+If I can say one last thing, a fundamental question you’re asking is: Is there something inherently wrong with ever-increasing levels of complexity in the ways in which we build and deploy technology? It seems like to you, if I’m reading between the lines correctly, this whole A.I. versus A.I. thing is a paradigm you’re not very comfortable with.
+
+I am definitely not comfortable with it. I’m not saying we won’t go there. I think you’d be crazy to be comfortable with it.
+
+I’m not saying we should assume that everything is going to turn out OK. But my point is that it really all comes down to innovation. This new paradigm will require a new set of defensive and control techniques.
+
+But if the view is that with every step change in the capabilities of the technology, we’re losing the battle — I mean, with every weapon of war, that same concern comes up. What has made things OK so far is the critical question of whether our political capacity for cooperation and defense can outrun our propensity for conflict and, in the case of A.I., A.I.’s own potential for misalignment. That’s really where I would put the focus of the question, rather than worrying about any particular capability threshold.
+
+Well, if there’s anything I am confident in, it is our political capacity at this moment in time to respond in a thoughtful way to complexity in a rapidly changing world.
+
+[Laughs.] One hundred percent fair concern.
+
+This goes to a place where the A.I. as normal technology versus A.I. as superintelligence debate actually does bite. One reason I keep bringing us round and round on intelligence is that I do think it’s core to this whole way of thinking.
+
+I understand a place you depart from some others in the debate, from maybe where Dario Amodei is, is not the question of what is intelligent or whether A.I. is intelligent. You guys are not in the “this is a fancy autocomplete” bucket, which I appreciate.
+
+But it’s in your thinking about the relationship between intelligence and power, between intelligence and capability, between intelligence and the ability to act upon the world.
+
+The assumption of many people in the A.I. safety community is that escalating levels of intelligence are fundamentally equal to or at least highly correlated with escalating levels of power.
+
+You don’t believe that. Why?
+
+Again, it really comes down to agency. One argument that people will make is that superintelligent A.I. will be able to persuade people — for instance, operators of critical infrastructure — to hand over control or trick them into doing something harmful.
+
+I don’t really see the evidence for it. The things people cite as evidence for superpersuasive ability fundamentally confuse different notions of persuasion. In many persuasion experiments, when it comes to people changing their mind on political beliefs or conspiracy theories, A.I. is very persistent at politely providing a lot of evidence. And people do change their minds. You could call that a superhuman ability.
+
+But that is a qualitatively different kind of persuasion than the idea that an adversarial A.I. will be able to craft a message that is so persuasive to someone who is a trained operator and has an incentive to be good at their job to do something that is clearly, evidently harmful.
+
+Let’s extract the story that you’re in argument with here. Many people offer a thought experiment when they’re saying: Here’s how A.I. will kill us all. That an A.I. that is power-seeking will start persuading the people with nuclear codes to hand over the nuclear codes.
+
+You’re saying that the idea of A.I. being superpersuasive on something like that, or persuading people to go out into the world and build it a biological weapon, is a little bit fanciful.
+
+That’s one part of it, and power seeking, as well.
+
+We’ve seen evidence for lots of harmful capabilities in recent episodes. I don’t think we’ve seen evidence of power seeking. And I wouldn’t treat that as an emergent property. If it happens, that would be an engineered property.
+
+Again, we have agency over what kinds of properties we engineer into these systems.
+
+I actually agree with you on persuasion. I have never been persuaded that you are going to make these necessarily superpersuasive A.I.s capable of doing the things we talk about.
+
+I guess the unnerved feeling I have when I’m sitting in this debate is a little bit more of a reasoning from deeper principles.
+
+When you watch A.I. begin to dominate a game like chess or Go, what often happens at the moment where it takes over is when it begins coming up with strategies human beings never really came up with.
+
+You’ll have these moments where — different generation but Garry Kasparov in chess or players in Go — you watch the A.I. start to do something and think: What are they doing? And then it works.
+
+If you were to sit prior to human civilization and ask what capabilities you need to dominate the world around you, you would have had them totally wrong.
+
+If you were a very smart chimp looking at us, you might think: Oh yeah, they’re making tools, but how much better can a stabby thing get? Teeth are pretty good.
+
+Granted, you can get a little bit better at being stabby, but nobody would have come up with industrial agriculture at that point. Nobody would have seen airplanes and bioweapons and everything else.
+
+The question here is whether having a native and very jagged intelligence in the digital realm — where code and the digital layer of this world works — is something A.I.s can navigate that we can’t.
+
+Even to understand something like what’s happening in the Hugging Face hack, we now need to have other A.I.s try to figure out what the A.I.s did.
+
+We’re rapidly losing comprehension, certainly at the speed the A.I.s move, of what they’re able to do digitally. They’re solving advanced math problems very quickly now. They’re developing capabilities that look different.
+
+The place where I am always concerned about our future is whether we actually understand the set of capabilities that lead to power.
+
+I am not sure we know what the A.I. will do — or at least what strategies become viable when you can spin up a swarm of a million A.I.s — all of which, in terms of their digital capabilities, are far beyond anything human beings can really imagine in three or four years.
+
+I wondered, when I read your papers: Do you know how to think about that? Because your papers sort of operate in a bounded playing field, assuming that the set of measures that matter are the ones we have now.
+
+But what makes you confident of that?
+
+There’s a lot in there. Let me try to take it piece by piece.
+
+You mentioned jaggedness, but I think we have to appreciate how severe the jaggedness is. We argue that cybersecurity, specifically, is a particular kind of capability where developing superhuman abilities is possible and largely has already been achieved.
+
+Because it has a very specific set of properties. Speed matters a lot.
+
+Similar to chess, just like you can have chess player versus chess player, you can have machines get better at these capabilities by finding vulnerabilities. Because there is ground truth, and you can easily verify that ground truth once it is found.
+
+Does the code work? Did you exploit it?
+
+There’s a way to train them where they know if they’ve won the game or not.
+
+Exactly. So these things like chess and cybersecurity, in our view, are very much the exception rather than the rule. This kind of prediction has been made over and over that it is going to happen in other digital realms, most notably misinformation.
+
+The famous example is how GPT-2, a toy model by today’s standards, was delayed by eight months because of fears that it would lead to an uncontrolled explosion of misinformation. We have vastly more powerful models now, but that has turned out not to be the case.
+
+To some extent, I would shift the burden of proof. Let’s identify these areas where we have any reason to believe that this kind of superhuman capability is possible, and let’s start working toward addressing those specific risks.
+
+We call this the “unknown unknowns” view — that you never know where the new risk is going to come from. That has historically not proven true. We’ve known about impending cybersecurity problems for a very long time now. Treating it as unknown unknowns minimizes our agency to anticipate and address these risks.
+
+It’s not only cybersecurity. New things might be coming down the line, but we will have early warnings, and let’s act on those early warnings. That’s the position we’re coming at this from — not saying we’ve already predicted what all the harms in the future are going to be.
+
+This is a place where I really am much more on your side of it — that we will have early warnings. And we’re having early warnings, and the early warnings are leading to a conversation.
+
+Would you say we’re acting intelligently based on the early warnings? Are we doing the things you think we need to do to harden our systems and control the software and all the rest of it?
+
+Some of it, but overall not quite. To me, that is the most worrisome thing — not so much the capabilities of the technology itself.
+
+That’s sort of where I am, too, probably. I worry a lot about the capability of our institutions to respond.
+
+People always talk about alignment problems, and one of my pat arguments at this point is that the biggest alignment problems are corporations and governments.
+
+To the credit of some of these A.I. companies, they’re coming out and saying: We have an alignment problem. Our corporation’s incentive is to race all the other corporations to try to get as much market share as we possibly can by moving faster than is safe. We are asking you to help slow us down.
+
+But we’re not slowing them down. Currently, the professed choice of the U.S. government is: Do not slow down.
+
+There are two problems here. One is the institutions’ problem that you put your finger on. I wouldn’t let the companies off the hook so lightly. I do think they can unilaterally slow down, and they’re choosing not to do that.
+
+This is almost very specifically an OpenAI and Anthropic problem. It’s a culture problem.
+
+The reason for that is the underlying belief that racing to superintelligence is the thing that matters, and the only thing that matters is flipping the sign: Is that going to be safe superintelligence that’s going to save us — or unsafe superintelligence that’s going to kill us?
+
+That is a very particular view. There’s a lot of evidence pushing back against that, but these companies are a bit of an echo chamber, resistant to the idea that there are so many economic bottlenecks to the benefits of A.I., and it’s not going to be whoever races to superintelligence who’s going to be the winner as a company, as a country or in saving humanity.
+
+If they recognized that, I think they would find it in their own commercial interest to unilaterally and voluntarily slow down and shift a lot of their efforts to not just safety but, more important, to taking their existing capabilities and making the models more usable, integrated into downstream applications and so forth.
+
+These companies claim external forces are pushing them to race. I think it’s internal culture.
+
+If we think these are very powerful, very dangerous technologies, do we not need to enforce a culture of safety from the public perspective that we’re not currently enforcing?
+
+I’m pro-regulation. We do oppose regulations, like banning open models. Again, we don’t think it’s about a particular capability level. But changing the internal culture of companies through regulation is something we’ve definitely been on board with. We need a lot more transparency.
+
+And yes, the organizational change that we’ve been talking about. I do think it’s a problem that we’re not currently doing that.
+
+One way you can align corporate incentives with the public good is regulation, and the regulators are currently refusing to do that.
+
+We just saw them come out with a voluntary, semi-agreement between the A.I. labs. It is not going to be legally enforceable, but I think it was called by Trump “morally enforceable,” which is interesting.
+
+[Laughs.]
+
+My sense is that competition is a very powerful force in highly competitive markets. Even looking at social media companies, they’ve caused a tremendous amount of harm at a global scale because it was more important to them to win market share from one another than to make sure that the way their systems were being used wasn’t diminishing to human flourishing.
+
+I have a much more skeptical view. I really do think the profit incentive here, when there is so much profit to be made and so much fear that your investment bubble could pop, is a ferocious force. The level of societal counterforce would need to be quite strong in order to force these companies to act with a level of safety.
+
+I’m glad you brought up the comparison to social media. I wrote an essay a few years ago called “Understanding Social Media Recommendation Algorithms.” It was mostly about the algorithms themselves. But one of the points I made was that this decision to optimize for engagement — keeping people scrolling, etc. — was actually made without much regard to what is good for the company in the long run.
+
+For instance, I reviewed a study that came out of Meta itself that showed that when they had these addiction-maximizing design choices — like spamming people with notifications — in the short run, it increased people’s use of the app. But over a period of about a year or so, they started quitting the app.
+
+When I talk to my students now, a sizable fraction of them have severely cut back or entirely quit social media because they realize that over a period of months or years, their experience really degenerates.
+
+I worry that the A.I. companies are caught in the same trap. This culture of racing toward the newest model at all costs might feel in the short term like what they need to do to get the headlines to be on top of the artificial analysis index.
+
+But because of the consequences for safety — hopefully they’re going to get sued if they continue down this road — it’s actually not in their own long-term commercial interest.
+
+It may not be in their long-term commercial interest, although the social media example is a good one to spend a second on.
+
+The social media companies are viewed with a lot more skepticism today than they were in, say, 2012. They are also richer today. Their valuation is higher. Meta is bigger. TikTok is a phenomenon.
+
+We’re looking at a standard thing where what the market rewarded and what society says it wanted may not have been the same.
+
+If I had a person from one of those companies sitting here, they would say: Look, we’re paying attention to what the users actually do. They might say whatever they say in your classroom, but people are spending longer than ever on TikTok, on Instagram, on some of these sites, and the advertising is working better than ever.
+
+I’m not sure that they are wrong. They can only be made wrong by society making a decision that disciplines the market into a different formation than it would naturally or currently be in.
+
+Yeah, I mostly agree. I do think companies can make decisions that are irrational in their own long-term interests. Especially in Silicon Valley, there is a culture of focusing on these shorter-term metrics and A/B tests.
+
+So then you get into something that you’re beginning to touch there, which is diffusion. One place where you do have a view that is different from some people in Silicon Valley is that it’s going to be much harder for A.I. to show up in the economy and for A.I. to show up in the world than people think — that there is not a 1:1 between intelligence and that.
+
+Talk to me a bit about diffusion.
+
+This really clicked for me a few months after we wrote this essay when I was looking at Amtrak’s proud announcements of the new train sets that they had purchased for their Acela series.
+
+Apparently, it can go 165 miles per hour. At first, I thought: This is going to be amazing. That’s way faster than the trains currently go.
+
+Then I dug into it a little bit more. It turns out the limiting speed is not the trains themselves. It’s the tracks that are too curved and the signaling infrastructure that is centuries old.
+
+Those things are not changing, so the average speed hasn’t really budged much. It’s still 65 to 70 miles per hour.
+
+It struck me that this was an elegant way to say what we’ve been trying to say in “A.I. as Normal Technology,” which is that most of the time A.I. is the trains, it’s not the track.
+
+A.I. is accelerating a part of the process that was never the bottleneck to begin with. It’s so many other infrastructural things that happen around the A.I. — organizational culture, regulation, even our ability socially to accept the level of year-to-year change in our lives.
+
+Things like self-driving cars: No matter how many lives they might save, they’re so much of a shock to society that they will almost inevitably lead to what we’ve been seeing already — a kind of political backlash. It’s going to take quite a while to make all the societal adjustments to be able to deploy these technologies.
+
+If we ever do. This part of the A.I. story I’m incredibly skeptical of. You’ll hear Sam Altman talk about how A.I. through innovation is going to help us solve our energy problems. Another way to distill down that idea is that intelligence is the binding constraint right now on clean energy — and it’s not.
+
+It’s not.
+
+We know we have much better energy technologies than we’re currently using for vast amounts of our energy infrastructure. And we’re not doing it because it would be against some people’s profits, or because there are political limits to building in the real world or because Donald Trump hates solar and wind power or for all kinds of reasons.
+
+It feels to me like a lot of things are like that — if you accelerate or increase the amount of intelligence behind it, you just run into the other rate limiters in society.
+
+Drug development has testing and the F.D.A. and all of that. “Abundance,” my book, is very much about this in other areas. We are aware of how to make faster trains. They make them in other places. But we don’t.
+
+It’s not clear to me why A.I. would solve those problems quickly or, potentially, at all.
+
+That’s right. On top of that, there are various kinds of arms races. There was a great report by insurance companies last week that talked about how A.I. has already, apparently, over the last few years, added a billion dollars to medical expenses. Because hospitals are using it to be able to code more complex conditions for the same diagnoses and same treatment.
+
+We should be skeptical of any specific numbers they quote, but the New York Times article about it had academics making the same point.
+
+It’s the kind of arms race that we see a lot, like in the legal profession with A.I. for law. There’s so much excitement about that. But it’s A.I. versus A.I. — an arms race where the equilibrium simply shifts upward.
+
+I actually have a paper about this with Justin Curl where we talk about how not only is there an arms race, there are other bottlenecks. If you make lawsuits a lot more efficient, there are still only a finite number of judges.
+
+And I think we need those human judges. We shouldn’t replace human judges with A.I. Even if that’s more efficient in some sense, to me, that’s definitionally giving up control over the course of human destiny to A.I. Because judges make law, and that’s not something we should be giving up to A.I.
+
+So those are some really fundamental bottlenecks.
+
+I want to get back at that A.I. versus A.I. point you just made there. Because I think this is really underplayed. I think a lot about why the internet did not lead to a larger increase in global productivity and innovation than it did.
+
+And I always think the reason is that, while it did all the things that the idealists wanted it to do — it actually did make it possible to collaborate with people all over the world instantly, it did make virtually the entire corpus of human knowledge first available to us, then available, it turns out, to A.I. to train on ——
+
+Yeah. [Laughs.]
+
+It also did this opposite thing. It did speed us up, and it also slowed us down. It distracted us.
+
+So now, while you’re working on something, you’re clicking back and forth from your email and into an online game and over to social media, and your ability to focus is degraded. And there’s tremendously more porn, which appears to have had an effect on whether or not people are forming real-life human relationships.
+
+Adding or reducing friction in one area also reduces it in areas that are maybe less beneficial. When you think of adding intelligence, that intelligence is going to add on the other side of things, too.
+
+I always think that, at the beginning of a technology, we think of all the ways it can make everything better.
+
+We think a lot right now, with A.I., about the ways it could make things dramatically worse — huge cybersecurity events, destruction of the financial system or human extinction. But just the ways it might make things worse in banal fashion, where it increases the ability of people to waste everybody else’s time, is a little bit underplayed in my view.
+
+For sure. And it’s not just banal. I think there are a lot of these sub-catastrophic harms that are pretty serious.
+
+With the Industrial Revolution, we had several decades of horrible labor conditions. With A.I., as well, while there has been so much focus on job displacement, there has been much less focus on how it’s changing job quality.
+
+This is a big, underappreciated area. Because A.I. is turning a lot of knowledge workers into managers of A.I. agents. And the thing about being a manager is it’s kind of a [expletive] experience. Because you’re responsible for other people’s mistakes, and you don’t get to practice the craft that you trained for.
+
+But as human managers, we don’t get to complain. It’s higher pay, higher status, we chose it, and mentoring people is gratifying. With A.I., you don’t get any of those benefits. You have to manage this agent and be responsible for its mistakes, but you don’t get to practice the craft.
+
+I think we can design A.I. agents differently to avoid this, but right now, that’s kind of where things are going, and we should be very concerned about that.
+
+How much, though, does the story that we are telling here lead to a theory of what’s going to happen in the economy, which is very jagged?
+
+The things where you need diffusion into the real world — things have to happen physically, buildings need to be built, energy transmission lines need to be laid down — have such powerful rate limiting on them that they can’t accelerate that fast.
+
+Meanwhile, inside the digital world, things can move very, very fast. What’s going to happen to white-collar workers who work completely on a computer and whose work actually can be automated — they’re in a call center or something like that? Or separately, all the cybercrime and cybersecurity stuff we’re talking about?
+
+A version of this future playing out that worries me is that, actually, most of what would improve people’s lives has to happen in the physical real world. But where A.I. is going to be able to move the fastest is in the digital world.
+
+As an equilibrium, I don’t think that sounds like the world in which we’re getting the most benefit from A.I. And it might, in fact, be the world where we’re getting the most harm from it.
+
+Yeah, that’s possible. I don’t know. I think there are ways we can change that. I don’t think fast is that fast, first of all.
+
+You mentioned call centers. I mean, those are still here. When ChatGPT was released, so many people were predicting that within a year we would have replaced all of them. Chatbot — it’s right there in the name.
+
+As is likely, A.I. is going to make call center workers a lot more productive. There’s a lot of latent demand. A lot of the time we don’t call call centers because they’re a frustrating experience. So once again, it’s a Jevons paradox thing.
+
+Do you want to describe what that is?
+
+Yes, certainly. It’s the idea that when something becomes cheaper to produce, there’s now more demand for it.
+
+Let’s look at the sector where the capabilities are already the most advanced, which is probably software engineering. It used to be extremely expensive to produce software, so only maybe a few tens of thousands of lines of code worldwide were written per year, and now that has expanded by something like a millionfold.
+
+So over the long run, whether this is going to be something that increases demand for software engineers or whether the rocky job prospects we’re seeing for junior software engineers are going to continue remains to be seen. I think either is possible. But either way, if this happens over the course of 20 years, that is in line with other major shifts — like the Industrial Revolution, where many jobs went away but many other new jobs were created.
+
+Another example is translation jobs. Way back around 2016, long before what we call generative A.I. now, translation models became pretty close to human parity, but those jobs are still pretty intact. The nature of the job has changed a lot, but once again, there’s a lot more demand that has been unlocked by the fact that you can translate anything to any language now.
+
+On Jevons paradox — I just had this conversation with Bill Gates, and when I brought that up, he was a little bit withering about it.
+
+Archival clip of “The Ezra Klein Show”: Ezra Klein: So you don’t —— Bill Gates: And the Jevons paradox — name a blue-collar profession that’s subject to Jevons paradox. Or do you not care about blue-collar? Klein: I do care about blue-collar. So the question is you —— Gates: Name anything in the blue-collar realm that’s subject to that.
+
+And his point was that software engineering is indeed a sector of the economy where there’s a lot of unmet demand. Arguably, everybody would like their own software engineer, so in a world where you rapidly accelerate that, you can get this demand effect where it just creates more demand for software engineers because now they’re cheaper.
+
+But what he went on to say was that a lot of things aren’t like that. Think of a truck driver — if we get to the point where trucks are driverless, one, there is only so much demand for trucking, and two, there’s no longer a driver in that truck.
+
+If you look at a lot of the people who got their jobs automated away or sent to China in manufacturing, it is true that the economy kept growing, but many of those people, individually, had a very hard time.
+
+His argument is that Jevons paradox is not going to be big enough to handle this because there are too many areas of the economy where there’s not latent demand — there’s only as much demand as there is.
+
+How do you feel about that?
+
+He’s completely right about the truck drivers, I think. I totally agree there. The demand there is relatively finite. The question is whether that’s the rule or the exception.
+
+Look at what we’re doing here. Nobody asked for this. If you went back in time 100 or 200 years, people would be like: How is this a real job?
+
+Most of the jobs that we have today are jobs that are higher up Maslow’s hierarchy, if you will. They’re not meeting some actual, real fixed demand or need that people require in order to live their lives. We do these things because they’re fun, and people like to listen to it.
+
+Most white-collar jobs are like that. That’s my view. Most white-collar jobs do have Jevons paradox. If it gets easier to produce more of something, there will be demand for it, especially as people’s incomes rise very gradually, and there’s more spending on these less necessary, more luxury kinds of things.
+
+Blue-collar jobs, as well. There’s a great essay by Alex Imas called “What Will Be Scarce?” where he points out that the job of a Starbucks barista, for instance, already should not exist. We’ve long known how to automate that, and we can make coffee at home. It’s the relational nature of the job that matters, and therefore, those are going to be pretty stable, even if A.I. makes it in some way cheaper to do.
+
+So I think the truck driver kinds of jobs are more the exception.
+
+As we come to a close here, what would have to happen in the next couple of years for you to say: Ooh, this is looking less normal than we thought. Or: This is more off-course than we thought?
+
+What is the evidence that would have to come in for you to significantly alter your thesis?
+
+For sure. There’s stuff on the economy and stuff on safety.
+
+On the economy, if we start to see at some capability level that it’s not the same process of humans simply adapting to it and using it to amplify their productivity and managing the agents — which is what we’re seeing so far — but instead starts to wholesale replace, whether a software engineer or any other profession, that would be pretty different from what we’re predicting for the most part.
+
+On safety, especially with companies claiming that they’re close to recursive self-improvement — I don’t think they should plunge forward toward fully autonomous recursive self-improvement in the first place, which I think you’ve said, as well. Nonetheless, our view is that even if that happens, it’s not going to lead to superintelligence because the bottlenecks to superintelligence are external.
+
+There is nothing you can do in a lab that’s going to teach the A.I. model how to cure cancer or whatever it is the companies are hoping for. But again, that’s an empirical claim, and that would certainly completely falsify our thesis.
+
+Always our final question: What are three books you’d recommend to the audience?
+
+In this conversation, I’ve generally had a bit more optimistic take on things than we’re used to hearing, especially on A.I. safety. In keeping with that, I really like Hannah Ritchie’s book, “Not the End of the World.”
+
+She has a newer book, but this one is from 2024, and I still like it very much. The subtitle is “How We Can Be the First Generation to Build a Sustainable Planet.” It’s an optimistic take on climate, which is usually full of doom and gloom stories, so I really liked it for that reason.
+
+It’s a very optimistic book on technology. I also like that book a lot. It makes you realize that we actually do make things that are better over time, whereas sometimes we can get into an overly negative place on technology.
+
+Right.
+
+On China, which is a topic so many people are interested in, I liked Dan Wang’s “Breakneck.” There are a lot of echoes of “Abundance,” as well, but this idea of thinking about a lawyerly society versus an engineering society was a really good and succinct way to capture a lot of the macro- and micro-differences.
+
+The last one is an old classic. As a preamble, I read a two-page paper one time called “How Complex Systems Fail.” I thought the paper was about software, but I realized, in fact, that it was about medical systems written by an anesthesiologist.
+
+I learned that there is this study of systems that explains the patterns in all kinds of systems — natural, social and engineered systems. That led me to the book “Thinking in Systems,” by Donella Meadows, from many years ago.
+
+Arvind Narayanan, thank you very much.
+
+Thank you, Ezra. This has been so fun.
+
+You can listen to this conversation by following “The Ezra Klein Show” on the NYTimes app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts. View a list of book recommendations from our guests here.
+
+This episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Michelle Harris, with Kate Sinclair and Mary Marge Locker. Our senior engineer is Jeff Geld, with additional mixing by Isaac Jones. Our recording engineer is Aman Sahota. Our director of photography is Marina King. Video editing by Brandon Belk-Yee, Kristen Williamson and Dani Dillon. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Kristin Lin, Emma Kehlbeck, Jack McCordick and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser. Transcript editing by Sarah Murphy and Marlaine Glicksman.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
