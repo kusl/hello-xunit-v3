@@ -65,7 +65,7 @@ public class TextToolsTests
     [Fact]
     public void Normalize_WhenNull_Throws()
     {
-        Assert.Throws<ArgumentNullException>(() => TextTools.Normalize(null!));
+        Assert.Throws<ArgumentNullException>("text", () => TextTools.Normalize(null!));
     }
 
     [Theory]
@@ -79,6 +79,12 @@ public class TextToolsTests
         Assert.Equal(expected, TextTools.StripTags(input));
     }
 
+    [Fact]
+    public void StripTags_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("html", () => TextTools.StripTags(null!));
+    }
+
     [Theory]
     [InlineData("", 0)]
     [InlineData("one", 1)]
@@ -88,6 +94,18 @@ public class TextToolsTests
     public void CountWords_CountsTokensContainingLettersOrDigits(string input, int expected)
     {
         Assert.Equal(expected, TextTools.CountWords(input));
+    }
+
+    [Fact]
+    public void CountWords_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("text", () => TextTools.CountWords(null!));
+    }
+
+    [Fact]
+    public void Words_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("text", () => TextTools.Words(null!));
     }
 
     [Fact]
@@ -105,6 +123,32 @@ public class TextToolsTests
     {
         string[] list = names.Length == 0 ? [] : names.Split('|');
         Assert.Equal(expected, TextTools.JoinNames(list));
+    }
+
+    [Fact]
+    public void JoinNames_WhenNull_Throws()
+    {
+        Assert.Throws<ArgumentNullException>("names", () => TextTools.JoinNames(null!));
+    }
+}
+
+public class PageMetadataTests
+{
+    [Fact]
+    public void Empty_HasNoValuesAndEmptyCollections()
+    {
+        PageMetadata empty = PageMetadata.Empty;
+
+        Assert.Null(empty.Headline);
+        Assert.Null(empty.Summary);
+        Assert.NotNull(empty.Authors);
+        Assert.Empty(empty.Authors);
+        Assert.Null(empty.Published);
+        Assert.Null(empty.Modified);
+        Assert.Null(empty.Url);
+        Assert.NotNull(empty.Sections);
+        Assert.Empty(empty.Sections);
+        Assert.Null(empty.ArticleBody);
     }
 }
 
@@ -181,8 +225,8 @@ public class ScriptDataTests
     [Fact]
     public void TryExtract_ValidatesArguments()
     {
-        Assert.Throws<ArgumentNullException>(() => ScriptData.TryExtractAssignedObject(null!, Name, out _));
-        Assert.Throws<ArgumentException>(() => ScriptData.TryExtractAssignedObject("x", "", out _));
+        Assert.Throws<ArgumentNullException>("source", () => ScriptData.TryExtractAssignedObject(null!, Name, out _));
+        Assert.Throws<ArgumentException>("variableName", () => ScriptData.TryExtractAssignedObject("x", "", out _));
     }
 
     [Fact]
