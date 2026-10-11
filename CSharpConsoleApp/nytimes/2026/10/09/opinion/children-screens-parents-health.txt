@@ -1,0 +1,56 @@
+================================================================================
+children-screens-parents-health.html
+Source: PreloadedData  Paragraphs: 17  Words: 1079/1149
+================================================================================
+
+SUMMARY
+
+Parents, politicians and best-selling psychologists are increasingly anxious about how much time children and teenagers spend on screens and how it may affect their mental health. It’s not how much time children spend on screens that raises their risk of the most severe mental health outcomes, including suicide, but whether their use becomes addictive. But the amount of time children spend on screens has only a small effect on their mental health.
+
+ARTICLE
+
+I’m a Child Psychiatrist. Screens Are Not the Problem.
+If we make screens the villain, then we let the people who control children’s health care — Congress, insurers and health systems — off the hook for their failures.
+By Jonathan Slater
+Published 2026-10-09 09:00 UTC
+https://www.nytimes.com/2026/10/09/opinion/children-screens-parents-health.html
+
+Parents, politicians and best-selling psychologists are increasingly anxious about how much time children and teenagers spend on screens and how it may affect their mental health. In May, the Office of the Surgeon General warned about the harms of screen use and called for a limit of two hours a day of screen time at home for children ages 6 to 18. Last month, the Department of Health and Human Services released a digital book called “The Magic Tablet” that encourages “children and adolescents to get off screens and live real life.”
+
+It’s easy to see why alarm bells have gone off. Children and teenagers today spend far more time in front of screens at home and at school than previous generations did. Rates of youth anxiety and depression have been climbing for years.
+
+But as a doctor who treats children with mental health problems, I see screen time as a tantalizing distraction from bigger problems: America doesn’t offer enough mental health care for children or sufficient health insurance to pay for it. If we make screens the villain, then we let the people who control children’s health care — Congress, insurers and health systems — off the hook for the fact that half of American children with a treatable mental illness get no treatment at all.
+
+In my office, I see children who use phones, iPads and other devices compulsively, but the compulsive use is usually a sign of something deeper — depression, anxiety, attention deficit hyperactivity disorder, autism or family history of addiction — which can both feed the screen use and, in turn, be fed by it. These are teenagers who game so compulsively that they fail out of high school or college. They are children whose moods collapse or turn violent when an adult takes the device away.
+
+It’s not how much time children spend on screens that raises their risk of the most severe mental health outcomes, including suicide, but whether their use becomes addictive. It’s specific activities, such as using social media in a compulsive way, that harm mental health. The harm from social media in particular appears to hit girls hardest.
+
+The case for screen time limits rests in part on an unproven assumption that fewer hours will mean fewer anxious and depressed kids. The best evidence doesn’t support it. Limiting screen time can promote children’s overall health. But the amount of time children spend on screens has only a small effect on their mental health. Genetics and certain experiences in childhood, as well as the lack of proper diagnosis and treatment, appear to be far more influential. Limiting screen time is not the first line of treatment for children with anxiety or depression.
+
+In 2025, JAMA published a study examining data on the screen use of more than 4,000 9- and 10-year-olds over the course of four years. Among other things, it measured how many hours children spent on screens and the degree to which their screen use had become addictive.
+
+Self-reported screen time that was measured at ages 9 and 10 — before most children had substantial social media exposure — showed no association with depression, suicidal ideation or suicidal behaviors four years later. But addictive use of those same screens was associated with all three. Adolescents who used their phones compulsively — who felt anxious when separated from them, who kept scrolling despite knowing the cost — had more than twice the risk of suicidal behavior. Nearly one in three children showed a rising pattern of addictive social media use beginning at age 11.
+
+The JAMA study did not account for A.D.H.D. or children who had adverse childhood experiences such as neglect, abuse, poverty, homelessness, parental violence or substance abuse. This matters because children exposed to four or more of these experiences had three times the odds of problematic video game use. Kids with attention issues are also more prone to addictive screen use, as are children who come from families with addictive behavior.
+
+If we truly wanted to see improvements in the rates of mental health issues among kids and teenagers, then we would focus on expanding access to the interventions that work — finding the children who need treatment and getting them the treatment — and the insurance reimbursement to pay for them.
+
+Right now, schools, which are the country’s largest mental health provider for kids, don’t have the funding to screen for underlying mental health issues. Student-to-counselor ratios run at 376 to 1, while the recommended ratio is 250 to 1. Regardless of the setting, in counties with mental health professional shortages, youth suicide rates are higher.
+
+We know that cognitive behavioral therapy reduces problematic screen use in adolescents. And treating the mental health disorders that drive these often compulsive behaviors is the heart of the work. Every major clinical guideline says the same thing: For kids with anxiety, depression or A.D.H.D., we have proven treatments that work.
+
+To its credit, the acting surgeon general’s advisory notes the warning signs of compulsive screen use: trying and failing to cut back, withdrawal when screens are unavailable, continued use despite consequences. The advisory acknowledges the limitations of the available research, and notes that “developmental effects depend on multiple factors.” Yet the advisory proceeds to recommend specific time limits. This stands in contrast to the recommendations of global researchers, who recently cautioned that screen duration “is not the main factor influencing mental health outcomes.”
+
+Instead of screen limits, the government should prioritize tracking and funding youth mental health. Lately, it’s gotten harder to know what’s happening with youth anxiety and depression because the federal surveys built to track the well-being of the country’s youth are losing the staff and funding they need to function.
+
+In 2022, Congress established a $1 billion bipartisan federal program to train and place mental health professionals in schools. Those school-based mental health programs both help kids and are cost-effective. Nevertheless, this administration has terminated the grant, despite a judge’s order, and 15 states are back in court to save it.
+
+Even when a child with a mental health problem is identified, insurance doesn’t always adequately pay for it. The fix isn’t mysterious: Make insurers cover mental health care the same way they cover everything else and raise Medicaid’s low payment rates.
+
+Blaming screens is a convenient way to avoid harder, deeper issues: inadequate mental health care and a system that chronically underfunds treatment. Policymakers and health system leaders instead must focus on providing the therapy, medication and support that troubled kids and families need.
+
+Jonathan Slater is a clinical professor of psychiatry at Columbia University Irving Medical Center.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

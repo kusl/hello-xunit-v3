@@ -1,0 +1,72 @@
+================================================================================
+college-degree-earnings-guide.html
+Source: RenderedHtml  Paragraphs: 28  Words: 1114
+================================================================================
+
+SUMMARY
+
+These are some of the surprises that emerged from an analysis by the HEA Group, a higher education research firm, of earnings data that the federal government has collected in recent years. If you’re interested in one school in particular, you can view all of the available majors and see the earnings of recent alumni who studied those topics. You may not find data for some smaller colleges or certain majors since programs with 15 or fewer graduates were excluded to protect individual privacy.
+
+ARTICLE
+
+A College-by-College Guide to Which Majors Pay Off — or Don’t
+College is one of the biggest investments you’ll ever make. We built a tool to compare the earnings of all available majors in a federal data set at nearly every school.
+By Arfa Momin and Ron Lieber
+Published 2026-10-08 01:56 UTC
+https://www.nytimes.com/interactive/2026/10/07/your-money/college-degree-earnings-guide.html
+
+History majors can out-earn English majors by more than $50,000 four years after graduation.
+
+A Juilliard graduate — trained at one of the country's most prestigious music schools — may not earn more than the median high school graduate.
+
+And the place to get the single most lucrative degree in America wasn’t in the Ivy League, and it wasn’t in a computer science program. It was in the mathematics department at Duke, where the median income among graduates was $297,029.
+
+These are some of the surprises that emerged from an analysis by the HEA Group, a higher education research firm, of earnings data that the federal government has collected in recent years. It tracked students who received federal financial aid and graduated during the 2017-18 and 2018-19 periods.
+
+The data is likely to draw protest from educators who believe that undergraduate education is not just about the earnings outcomes. Still, most institutions have done little to explain, with other data, how much people learn there or what they gain in friendship or career networks.
+
+This infuriates many parents, who see list prices for some of the most popular private institutions going over $100,000 per year. Average net prices — even for affluent families who get a lot of merit aid — are much lower, but plenty of families don’t understand that, given that most schools won’t guarantee a price before you apply.
+
+To help you find information in the new data, we’ve built a search tool that will help you look up specific colleges and universities.
+
+If you’re interested in one school in particular, you can view all of the available majors and see the earnings of recent alumni who studied those topics. You can also search by major — say, to see how economics majors do at different institutions.
+
+You may not find data for some smaller colleges or certain majors since programs with 15 or fewer graduates were excluded to protect individual privacy. Specific majors may also be grouped according to the National Center for Education Statistics' taxonomy.
+
+And if you’re in the middle of considering college applications, you can create a custom list of colleges and universities to examine side by side.
+
+The top of the earnings list is dominated by graduates of highly rejective schools — the Ivies and others, like M.I.T., Stanford and U.C.L.A . The majors that top the list are computer science, mathematics and electrical engineering.
+
+The income data come from whatever people reported on their federal tax returns. That means certain stock awards and other potential deferred compensation aren’t part of the totals.
+
+The data exist because of federal legislation and regulations that both Democrats and Republicans have supported. Politicians and policy experts have sought both transparency (so higher education shoppers can examine earnings outcomes) and accountability (so taxpayers aren’t subsidizing schools that fail their students).
+
+The newest law, which was passed last year, starts with graduates who received federal financial aid for a particular major or program at any institution. If the group is not earning the median income beyond that of high school graduates four years after completion — and that underperformance persists in two years out of three — students in that major will no longer be eligible for federal student loans in the direct loan program.
+
+People in graduate school are not part of the analysis of undergraduate outcomes. In the earnings test, the Education Department also excludes those from undergraduate programs with fewer than 30 students. The Duke math figure encompasses just 17 graduates.
+
+The data highlight that schools with enormous barriers to entry produce high-earning graduates. But how much credit do the institutions deserve?
+
+Research has shown that for many students, if you merely have the gumption to apply to one of these schools, you’ll earn as much as their graduates do even if you attend a different institution. But for Black, Hispanic and lower-income students, attendance at the high-barrier colleges can matter a great deal. Attending an eminent institution can help build a network of high-income mentors and be a signal to employers and graduate schools that recruit disproportionately at those institutions.
+
+Other research concludes that if you want to launch yourself into the 1 percent, these schools can improve your odds.
+
+Prestige is not always protective. Music programs with great reputations like Juilliard, the University of Miami and Indiana University could flunk the new federal test if current trends continue.
+
+According to Juilliard’s estimates, if the test was based on the 2026 earnings it projects for the 2022 graduates, the institution would pass. It’s also not in favor of a singular focus on earnings.
+
+“Accountability frameworks should reflect the diverse ways graduates build careers and contribute to society, rather than relying on a single measure that may not accurately capture the value of their education and their potential,” said Mary Caraccioli, a spokeswoman, via email.
+
+An Indiana University representative declined to comment. The University of Miami did not return messages seeking comment.
+
+Just 2 percent of the colleges and universities will be at risk of failing if their earnings data do not change.
+
+Meanwhile, some little-known names on the national scene rank near the top. Nursing programs at a handful of California schools, including California State University, East Bay; San Francisco State University; and Samuel Merritt University, produce graduates earning around $150,000 annually, putting them in the top 100 out of the nearly 25,000 bachelor’s programs the HEA Group analyzed nationwide. They stick out amid quantitative and science majors from institutions like the California Institute of Technology and Cornell.
+
+Defenders of the liberal arts will find some reassurance in the data. The median income of high school graduates nationwide is $34,808. English majors are comfortably above that, at a $48,920 median across all programs, while sociology graduates are at $52,197. We removed programs in Puerto Rico, Guam and the Northern Mariana Islands as their earnings benchmarks were much lower than those in U.S. states.
+
+Your school can make a big difference — or matter very little — depending on the major. A graduate who studied mechanical engineering at Carnegie Mellon University earned roughly $10,000 more than a graduate from the University of Alabama. That difference is over $150,000 if those same graduates studied computer science.
+
+To Michael Itzkowitz, founder of the HEA Group and the director of the federal College Scorecard website during the Obama administration, the new earnings test is reasonable. It’s tough to capitalize on the things that college generally provides — skills to engage in democracy, better health and happiness — if you’re not earning enough.
+
+“Ask anyone in the U.S., no matter where they’re from, ‘Do you want to go to college and earn less than a high school graduate?’” he said. “No one will say ‘yes.’”

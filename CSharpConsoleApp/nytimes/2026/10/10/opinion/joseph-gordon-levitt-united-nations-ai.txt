@@ -1,0 +1,90 @@
+================================================================================
+joseph-gordon-levitt-united-nations-ai.html
+Source: PreloadedData  Paragraphs: 26  Words: 1341/1541
+================================================================================
+
+SUMMARY
+
+Joseph Gordon-Levitt has spent much of his life telling stories about what it means to be human. In the video above, Mr. Gordon-Levitt takes Times Opinion to the U.N. General Assembly. I just got the first question from The New York Times: Why should the public listen to an actor on A.I. safety?
+
+ARTICLE
+
+We Had Questions About A.I. Joseph Gordon-Levitt Had Answers.
+The actor takes Times Opinion to the United Nations to explore what’s at stake with A.I.
+By Joseph Gordon-Levitt, Jared Geller, Edward Gallacher, Amanda Su and Mehron Abdi
+Published 2026-10-10 11:00 UTC
+https://www.nytimes.com/2026/10/10/opinion/joseph-gordon-levitt-united-nations-ai.html
+
+Joseph Gordon-Levitt has spent much of his life telling stories about what it means to be human. Now the actor and filmmaker is grappling with a technology that could change how we communicate, cooperate and think: artificial intelligence.
+
+Mr. Gordon-Levitt believes storytelling is humanity’s defining technology. As the United Nations’ global advocate of human-centric digital governance, he wants to help people understand what’s at stake as A.I. grows more powerful — and why its future demands human judgment and global cooperation.
+
+In the video above, Mr. Gordon-Levitt takes Times Opinion to the U.N. General Assembly. Along the way, he answers five questions about A.I., from the risks that worry him most to whether governments can keep up with Silicon Valley.
+
+Below is an edited transcript of this video. We recommend watching it in its original form for the full effect. You can do so using the video player above.
+
+Joseph Gordon-Levitt: This is the seal of the United Nations. They offered me this role: Official U.N. Global Advocate for Human-Centric Digital Governance. Why did they offer a global advocacy role to an actor?
+
+Clip from the film “500 Days of Summer”: Things have been a little difficult.
+
+My name is Joe Gordon-Levitt. I’m an actor. I make movies. It’s now my job to convince a bunch of world leaders and officials gathering at the U.N. that the way this technology —
+
+Archival clip of “The Daily Show”: A.I. Archival news clip: A.I. Archival clip of Elon Musk: Or S.I., pardon me.
+
+— is about to unfold over the next few years will be deeply, deeply impactful on all of our lives.
+
+And The New York Times asked me to bring along a camera. Morning, fellas.
+
+Man off-camera: How are you?
+
+Gordon-Levitt: All right. They’ll be asking me some questions along the way. I’ll do my best to say something worth saying.
+
+All right. I just got the first question from The New York Times: Why should the public listen to an actor on A.I. safety? Very fair question.
+
+Why listen to an actor? Don’t listen to an actor. You should read “Human Compatible,” by Stuart Russell. Go look up Yoshua Bengio. Read posts by people who work in alignment and safety and policy. You don’t want to read all those things? Well, I did! So, you know, if you want to listen to me, that’s a shortcut.
+
+What we don’t want is a bunch of people confused or apathetic while these very fast-moving businesses design the future by themselves, just in the interests of their own profits. A lot of what needs to happen, I think, has to do with communication, which is ultimately kind of what acting or filmmaking is.
+
+Event host: Please help us welcome the United Nations Global Advocate for Human-Centric Digital Governance, Joseph Gordon-Levitt. Gordon-Levitt U.N. speech: We can choose to govern this new, revolutionary technology for the benefit of people — and held accountable by people. We can set up systems to compensate people for their intellectual property and their personal data — I heard another round of applause, I’ll take it. Come on, that’s how this works. Let’s get the energy going.
+
+I hear that The New York Times is sending me another question: What does human-centric digital governance even mean? Even mean? What does that even mean?
+
+Human-centric digital governance — it’s sort of a mouthful. It just means that digital technology should be governed by people and for people. “A.I.” is nothing but algorithmically recombined, human-produced data. It’s humans. Calling it artificial intelligence sort of decenters humans. It offers this kind of magical fictitious character, this A.I. that we’ve seen in various sci-fi movies, but really — really all it is is us. It’s us.
+
+This has nothing to do with A.I. or the U.N. This is just that I like walking in New York at night. When I was a kid, you couldn’t smoke blunts on the street. [Laughs.]
+
+Archival news clip: OpenAI revealed on Friday that its systems went rogue and accessed U.S. government websites. Archival news clip: An A.I. researcher warning the technology could “kill us all” within the next 10 years. Archival news clip: Young workers increasingly are wary of the threat A.I. poses for their job prospects.
+
+What’s your biggest A.I. fear right now?
+
+At the risk of annoying The New York Times, I would object to that question just because reducing these concerns into one sound bite of fear — that’s one of the problems. To me, saying: Oh, I’m scared that A.I. could exterminate all of humanity — that doesn’t really get at the substance of the concern. There’s real validity to that concern. But that’s not the thing that really worries me.
+
+The thing that worries me is a lot more complicated and a lot more boring to talk about, because it’s a lot more dense. The decline of democracy, the decline of human empathy. These companies are betting on the notion that they’re going to take over the entire economy. That would be totalitarianism, and that would be really bad.
+
+Simultaneously, these models are being trained to hijack your intimacy, to make friends with you, to get you to fall in love with it. We shouldn’t be scared of an A.I. We should be concerned about the people building A.I.
+
+Archival news clip: And the United Nations chief is urging artificial intelligence global competitors to work together.
+
+Just got through security. Security’s quite a bit more hectic today. Today is the day that, I guess, the president will be addressing the General Assembly.
+
+Clip of Donald Trump U.N. address: I’m not going to stifle the growth of something that will be bigger than the Industrial Revolution. Whoever wins A.I. — you have to remember this — wins.
+
+OK. Another question from The New York Times: How does a slow-moving U.N. force a fast-moving Silicon Valley to play by its rules?
+
+To be honest, this is one of the things that I have found sort of daunting or troubling. I don’t know the answer. I think if it does take, say, seven years for the U.N. to put together an internationally agreed upon regulatory framework for A.I., then seven years from now we’ll be glad that we started now.
+
+Yoshua Bengio in an interview with Gordon-Levitt: We need to move away from this model that all the companies are following, the same recipe that’s training A.I.s like we train animals: To seek rewards. Because that leads to these entities trying to cheat in order to obtain those rewards. Gordon-Levitt: They have to do that, because they’re profit-driven companies. Bengio: Yes. Gordon-Levitt: How can an A.I. be built without the profit incentive? Bengio: I think we should move into a world where that power is shared. Not in the hands of a few companies, or even just a few countries — because it’s too much power. Power-sharing changes the incentive structure that drives us currently into this crazy race — competition between companies, competition between countries. Once we say: OK, we share the power. And how do we do it? I mean, we need institutions for that, we need to move toward that — but if we don’t do it, someone is going to abuse that power and we’re all going to be suffering.
+
+All right, it’s time to go. I just finished my last talk. But of course, there is one more question coming in. We’ve got the three dots right now — you want to show it? We’re waiting.
+
+OK, here’s the question: Governments and technology companies clearly have work to do. But what about the rest of us?
+
+Well, the midterms are coming up. We Americans have an extra responsibility because the frontier of this technology is being developed in our country. So a lot of the world — and I’m hearing from them here at the U.N. — a lot of the world is looking to see what we, as Americans, are going to do. What’s the signal that we are going to send our government in these next elections? And I hope we send a very clear one.
+
+This video was produced by Jared Geller, Edward Gallacher and Amanda Su. It was edited by Mehron Abdi. Additional editing by Greg Abraham. Additional production by Mark Lotto, Bobby Halick and Joe Bilman. Fact-checking by Julie Beer. Cinematography by Edward Gallacher and Joseph Navarro. Color by Kyle Kelley. Audio mixing by Efim Shapiro. Original music by Pat McCusker and Sonia Herrero. The postproduction manager is Mike Puretz. Audience strategy by Kristina Samulewski and Shannon Busta. The executive producer of Opinion Video is Erica Berenstein. The director of Opinion Video is Jonah M. Kessel. The director of audio engineering is Isaac Jones. The deputy director of Opinion Shows is Alison Bruzek. The director of Opinion Shows is Annie-Rose Strasser. The head of Times Opinion is Kathleen Kingsbury.
+
+Opinion Video combines original reporting with creative storytelling to produce visually transformative commentary. Pitch a video guest essay here.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
