@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-12 14:20:17
+Generated (UTC): 2026-10-12 14:34:41
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      4f6ec4d5fc976e44ed7340dfc3e3849ae3d545ef
+Git Commit:      40599d15879959ddcd4f3bd3a81634888f81b6f0
 Git Branch:      master
 Git Dirty:       no
 .NET SDK:        10.0.112
@@ -4822,10 +4822,10 @@ MODIFIED: 2026-10-07 23:12:42 (UTC)
 
 ================================================================================
 FILE:     README.md
-SIZE:     3.28 KB (3357 bytes)
+SIZE:     3.26 KB (3343 bytes)
 LINES:    74
-SHA256:   b56c53a7600f3ab3e5f1afe647134dd318fa3571241cfed51d5350496a5ee54e
-MODIFIED: 2026-10-07 23:20:29 (UTC)
+SHA256:   39187d367a4a005f22f5b6f70a857db85aa494d9fbad0bd8859078a3f27a4c92
+MODIFIED: 2026-10-12 14:30:06 (UTC)
 ================================================================================
 
 # HelloXUnit
@@ -4881,17 +4881,17 @@ Settings in `CSharpUnitTests/stryker-config.json`:
 | `coverage-analysis` | `off` | every test runs against every mutant |
 | `disable-bail` | `true` | every test runs to completion, exposing tests that kill nothing |
 | `disable-mix-mutants` | `true` | one mutant per run |
-| `concurrency` | `1` | Stryker 5.0.0 under-reports kills under `mtp` with concurrency above 1 ([#3832](https://github.com/stryker-mutator/stryker-net/issues/3832)) |
+| `concurrency` | `8` | parallel test sessions; drop to `1` if survivors look wrong ([#3832](https://github.com/stryker-mutator/stryker-net/issues/3832)) |
 | `thresholds.break` | `0` | raise once a baseline score exists |
 
 Code rules that keep mutants killable:
 
-- No data in static initializers. `mtp` reuses one test process, so a mutated static field is never re-initialized. Lookup lists are `is` patterns, method locals, or expression-bodied properties.
+- No data in static initializers, including `{ get; } = ...` auto-properties. `mtp` reuses one test process, so a mutated static field is never re-initialized. Lookup lists and shared instances are `is` patterns, method locals, or expression-bodied properties.
 - Caches key on everything that can be mutated. `HtmlElements` caches regexes by pattern and options.
 - No `new Regex($"...")`. Stryker 5.0.0 crashes on it ([#3872](https://github.com/stryker-mutator/stryker-net/issues/3872)); build the pattern first and pass it through `Compile(pattern)`.
 - No redundant guards or branches. Code that cannot change behavior only produces equivalent mutants.
 
-Known equivalent mutants: the topic-word weight in `ExtractiveSummarizer.Score` set to always 2.0 (uniform scaling), and the `"*"` search pattern in `ArticleFiles`.
+Known equivalent mutant: the `"*"` search pattern in `ArticleFiles` (.NET treats `""` as `"*"`).
 
 Only `CSharpClassLibrary` is mutated. Reports land in `CSharpUnitTests/StrykerOutput/<timestamp>/reports/`.
 
@@ -5199,9 +5199,9 @@ dotnet stryker "$@"
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-12 14:20:18
+EXPORT COMPLETED (UTC): 2026-10-12 14:34:42
 Total Files Exported:   19
-Total Source Size:      0.17 MB (176837 bytes)
+Total Source Size:      0.17 MB (176823 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): afa73ef6c034df58c39b148bb539482844765c5ba74f831ae81bb4e15a323164
+DUMP SHA256 (of all lines above this one): 0c9b71e1d84667df63ec8d11db200e9fcbe6ad7faa4b5bf8ff66920055fdc933
