@@ -16249,7 +16249,7 @@ Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesk
 
 ================================================================================
 100-unanswered-questions-science.html
-Source: PreloadedData  Paragraphs: 7  Words: 446/2600
+Source: PreloadedData  Paragraphs: 7  Words: 442/2600
 ================================================================================
 
 SUMMARY
@@ -16277,8 +16277,6 @@ Scroll down and you can read the 100 questions they sent back — a list that de
 And some, like Dr. Lieberman’s, express a pure curiosity for its own sake. Various hypotheses have tried to explain why chins might have helped our ancestors survive, he notes, but none really make sense. The only one left is sexual selection: Maybe chins made some hominins more attractive to the opposite sex, and the trait won out over time. But the theory is impossible to prove; testing it would entail “showing pictures of people without chins and asking if you would sleep with them,” which, Dr. Lieberman notes, is “a terrible experiment.”
 
 In that regard, it’s one of the many big questions below that are most likely impossible to answer, at least not in our lifetimes. Still, we hope you’ll spend some time pondering them yourself. Imagine them, perhaps, as a road map for the future of science — charting long journeys of human exploration that will be well worth the trip, even if we never see the destination.
-
-100 Scientists. 100 Questions.
 
 K. R. Callaway, Stella Raine Chu, Carolyn Y. Johnson, Carl Zimmer, Katrina Miller, Amber Williams, Alan Burdick and Alexandra Sifferlin contributed reporting.
 
@@ -16850,7 +16848,7 @@ Mr. Trump had defended the use of taxpayer money for the spots just five days ea
 
 ================================================================================
 whos-winning-the-race-for-congress.html
-Source: PreloadedData  Paragraphs: 32  Words: 1124/1127
+Source: PreloadedData  Paragraphs: 32  Words: 1120/1127
 ================================================================================
 
 SUMMARY
@@ -16944,8 +16942,6 @@ Quotes of the Week
 “In my experience, people engage in political bomb-throwing when they’re feeling insecure. So he’s welcome to make whatever comments he likes. I’m going to keep focusing on the midterms and helping us win on Election Day in the next 30 days.” — Senator Ted Cruz
 
 Vance and Cruz, two potential presidential candidates, engaged in a bit of early 2028 sniping last week, trading barbs about their midterm campaign schedules. Vance suggested that Cruz was more focused on laying the groundwork for a 2028 primary bid than helping Republicans win the coming midterm elections. Two days later, Cruz shot back, brushing off Vance’s jab.
-
-Worth a Thousand Words
 
 Produced by Leo Dominguez, Jillian Vordick, Rumsey Taylor and Ashley Wu.
 
@@ -20884,7 +20880,7 @@ Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesk
 
 ================================================================================
 los-angeles-mayor-election.html
-Source: RenderedHtml  Paragraphs: 41  Words: 3421
+Source: RenderedHtml  Paragraphs: 41  Words: 3387
 ================================================================================
 
 SUMMARY
@@ -20988,16 +20984,6 @@ L.A. is one of the most diverse and segregated cities in America. But the beauty
 L.A. remakes itself constantly, and we are a city of entrepreneurs. And I don’t mean that just economically, but also socially, culturally, in every single way except for city government. And that’s the disconnect. We are a bunch of cultural, social, economic entrepreneurs, and city government is not.
 
 Whoever takes office needs to have a tremendous amount of courage. I know we gave a lot of credit to Mayor Bass, but the real people that stood up to ICE were your everyday citizens. It was people getting arrested, getting deported in some cases. There’s so much a mayor can do. But how does a mayor take the cues from their citizens? It’s this big city that’s very diverse and very complex. We disagree on a lot. But there are certain things that we will all stand by. We’re an immigrant city. And we’re going to stand by our people.
-
-A Voter’s Guide to the Michigan Senate Primary
-
-A Voter’s Guide to the California Governor Primary
-
-A Voter’s Guide to the Texas Senate Republican Primary
-
-Opinion’s Editor on Making The Choice
-
-About our panel
 
 ================================================================================
 surveillance-autocrats-uganda.html
@@ -25449,7 +25435,7 @@ Asked in an interview about the Democratic brand and any issues where her views 
 
 ================================================================================
 elections-political-violence-harassment.html
-Source: PreloadedData  Paragraphs: 78  Words: 2779/2871
+Source: PreloadedData  Paragraphs: 78  Words: 2778/2871
 ================================================================================
 
 SUMMARY
@@ -25625,8 +25611,6 @@ For some, at a certain point, it all becomes too much.
 Ms. Greene recalled that her feud with the president came shortly after the assassination of Mr. Kirk. That made the subsequent deluge of threats more personal and more frightening.
 
 “I said, you know what? This is just not worth it for me personally,” she said. “I’m a very happy person without being in Congress. Much happier actually. And probably a lot safer.”
-
-Methodology
 
 The Times filed more than 100 open records requests for this project, reviewing thousands of violent threats made in emails, handwritten notes, social media postings, voice mail messages and police reports. The Times conducted more than 30 interviews with current and former elected officials, law enforcement officials, election officials, security experts and political operatives, while reaching out individually to every member of Congress. The Times also used artificial intelligence to compile and filter thousands of pages of court documents. Each case was manually reviewed and confirmed by Times journalists.
 
@@ -26243,7 +26227,7 @@ Juliana Castro Varón contributed analysis.
 
 ================================================================================
 whos-winning-the-race-for-congress.html
-Source: PreloadedData  Paragraphs: 35  Words: 1357/1368
+Source: PreloadedData  Paragraphs: 35  Words: 1353/1368
 ================================================================================
 
 SUMMARY
@@ -26345,8 +26329,6 @@ Quote of the Week
 Ossoff pulled no punches in his debate attacks on Representative Mike Collins, his Republican opponent in Georgia’s Senate race. He said Collins had “hired half the Third Reich,” a reference to Collins hiring aides who have espoused white nationalist and antisemitic views.
 
 Collins responded that he had “condemned racism, antisemitism, hate.”
-
-Worth a Thousand Words
 
 Produced by Leo Dominguez, Lazaro Gamio, Rumsey Taylor and Ashley Wu. Ruth Igielnik contributed reporting.
 
@@ -26546,7 +26528,7 @@ See a complete list of 2025 winners here.
 
 ================================================================================
 tony-romo-cbs-sports-nfl-tv.html
-Source: RenderedHtml  Paragraphs: 17  Words: 556
+Source: RenderedHtml  Paragraphs: 17  Words: 553
 ================================================================================
 
 SUMMARY
@@ -26594,8 +26576,6 @@ There is a difference, though, between playing and broadcasting.
 At 46, Romo could still march into the booth or a studio again. He has said he developed an “overreliance” on alcohol due to his pain from two back surgeries.
 
 If he can overcome this problem and rewrite his history, maybe this is not it for Romo as a broadcaster. America loves a comeback story.
-
-Connections: Sports Edition
 
 ================================================================================
 protein.html
@@ -27052,7 +27032,7 @@ To Michael Itzkowitz, founder of the HEA Group and the director of the federal C
 
 ================================================================================
 nyc-budgeting-affordability-crist.html
-Source: RenderedHtml  Paragraphs: 27  Words: 1191
+Source: RenderedHtml  Paragraphs: 27  Words: 1188
 ================================================================================
 
 SUMMARY
@@ -27126,8 +27106,6 @@ Asked about splurges, Mx. Crist considered. They are not really the splurging ty
 Turning 30 has made them think more about the future than they did in their 20s, which has meant thinking more about money, which can be an uncomfortable subject. If they lived in Pittsburgh, they acknowledged, they could do a lot more for less.
 
 “But I don’t think I would be as happy going into 30 if I didn’t live in New York,” they said. “I’m kind of shocked almost daily at how much I love about my life and how much that is dependent on the city that I live in.”
-
-Affording New York
 
 ================================================================================
 dubai-flight-tel-aviv-israel-pilots.html
@@ -28239,7 +28217,7 @@ While yields are rising across Europe, French bonds are also underperforming. Th
 
 ================================================================================
 midterms-elections.html
-Source: RenderedHtml  Paragraphs: 104  Words: 4565
+Source: RenderedHtml  Paragraphs: 104  Words: 4562
 ================================================================================
 
 SUMMARY
@@ -28504,8 +28482,6 @@ The Democratic Congressional Campaign Committee is planning to spend $13 million
 The ad buy includes some new districts — including, most notably, Pennsylvania’s First District, in suburban Philadelphia, a seat held by Representative Brian Fitzpatrick. One of the more centrist Republicans in the House, Mr. Fitzpatrick is among only a few Republicans seeking re-election in a seat that President Trump lost in 2024.
 
 The other new districts are California’s 48th, Michigan’s Fourth and Seventh, and New York’s 19th. New rules from the Supreme Court this year allow congressional candidates to coordinate for the first time on advertising with the parties.
-
-More Election News
 
 ================================================================================
 spain-elections-sanchez.html

@@ -1,6 +1,6 @@
 ================================================================================
 100-unanswered-questions-science.html
-Source: PreloadedData  Paragraphs: 7  Words: 446/2600
+Source: PreloadedData  Paragraphs: 7  Words: 442/2600
 ================================================================================
 
 SUMMARY
@@ -28,7 +28,5 @@ Scroll down and you can read the 100 questions they sent back — a list that de
 And some, like Dr. Lieberman’s, express a pure curiosity for its own sake. Various hypotheses have tried to explain why chins might have helped our ancestors survive, he notes, but none really make sense. The only one left is sexual selection: Maybe chins made some hominins more attractive to the opposite sex, and the trait won out over time. But the theory is impossible to prove; testing it would entail “showing pictures of people without chins and asking if you would sleep with them,” which, Dr. Lieberman notes, is “a terrible experiment.”
 
 In that regard, it’s one of the many big questions below that are most likely impossible to answer, at least not in our lifetimes. Still, we hope you’ll spend some time pondering them yourself. Imagine them, perhaps, as a road map for the future of science — charting long journeys of human exploration that will be well worth the trip, even if we never see the destination.
-
-100 Scientists. 100 Questions.
 
 K. R. Callaway, Stella Raine Chu, Carolyn Y. Johnson, Carl Zimmer, Katrina Miller, Amber Williams, Alan Burdick and Alexandra Sifferlin contributed reporting.

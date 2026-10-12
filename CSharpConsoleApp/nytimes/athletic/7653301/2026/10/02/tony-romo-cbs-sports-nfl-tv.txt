@@ -1,6 +1,6 @@
 ================================================================================
 tony-romo-cbs-sports-nfl-tv.html
-Source: RenderedHtml  Paragraphs: 17  Words: 556
+Source: RenderedHtml  Paragraphs: 17  Words: 553
 ================================================================================
 
 SUMMARY
@@ -48,5 +48,3 @@ There is a difference, though, between playing and broadcasting.
 At 46, Romo could still march into the booth or a studio again. He has said he developed an “overreliance” on alcohol due to his pain from two back surgeries.
 
 If he can overcome this problem and rewrite his history, maybe this is not it for Romo as a broadcaster. America loves a comeback story.
-
-Connections: Sports Edition

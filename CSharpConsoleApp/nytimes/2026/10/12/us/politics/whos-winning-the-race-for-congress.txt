@@ -1,6 +1,6 @@
 ================================================================================
 whos-winning-the-race-for-congress.html
-Source: PreloadedData  Paragraphs: 35  Words: 1357/1368
+Source: PreloadedData  Paragraphs: 35  Words: 1353/1368
 ================================================================================
 
 SUMMARY
@@ -102,7 +102,5 @@ Quote of the Week
 Ossoff pulled no punches in his debate attacks on Representative Mike Collins, his Republican opponent in Georgia’s Senate race. He said Collins had “hired half the Third Reich,” a reference to Collins hiring aides who have espoused white nationalist and antisemitic views.
 
 Collins responded that he had “condemned racism, antisemitism, hate.”
-
-Worth a Thousand Words
 
 Produced by Leo Dominguez, Lazaro Gamio, Rumsey Taylor and Ashley Wu. Ruth Igielnik contributed reporting.

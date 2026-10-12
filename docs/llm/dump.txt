@@ -1,8 +1,8 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-12 14:04:02
+Generated (UTC): 2026-10-12 14:20:17
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      383411feef5d81d50074aae6e6e6522879ecc124
+Git Commit:      4f6ec4d5fc976e44ed7340dfc3e3849ae3d545ef
 Git Branch:      master
 Git Dirty:       no
 .NET SDK:        10.0.112
@@ -442,10 +442,10 @@ $RECYCLE.BIN/
 
 ================================================================================
 FILE:     CSharpClassLibrary/ArticleExtraction.cs
-SIZE:     53.84 KB (55134 bytes)
-LINES:    1555
-SHA256:   236d52f9110a367959870c651b1ac1e274e1d25bd9124b8dc9e3322642a23b3c
-MODIFIED: 2026-10-07 23:12:42 (UTC)
+SIZE:     54.21 KB (55515 bytes)
+LINES:    1564
+SHA256:   14c0f1b128a770d7ff04c3caff70564253c753a622e0602fbff01f6c26364dfb
+MODIFIED: 2026-10-12 14:15:13 (UTC)
 ================================================================================
 
 using System.Collections.Concurrent;
@@ -530,7 +530,7 @@ public sealed record PageMetadata(
     IReadOnlyList<string> Sections,
     string? ArticleBody)
 {
-    public static PageMetadata Empty { get; } = new(null, null, [], null, null, null, [], null);
+    public static PageMetadata Empty => new(null, null, [], null, null, null, [], null);
 }
 
 public sealed record FormatOptions(bool IncludeMetadata = true, bool IncludeFigures = false, bool IncludeGraphics = false)
@@ -1159,7 +1159,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
     {
         Uri? url = HtmlPage.ParseUri(node.StringAt("url")) ?? metadata.Url;
         Uri linkBase = url ?? DefaultBase;
-        List<ArticleBlock> body = [.. BodyContent(node).SelectMany(block => ReadBlock(block, linkBase))];
+        List<ArticleBlock> body = BodyCleanup.DropOrphanedHeadings([.. BodyContent(node).SelectMany(block => ReadBlock(block, linkBase))]);
 
         if (!body.OfType<Paragraph>().Any())
         {
@@ -1426,10 +1426,10 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
             .Select(group => group.Key)
             .FirstOrDefault();
 
-        List<ArticleBlock> body = [.. candidates
+        List<ArticleBlock> body = BodyCleanup.DropOrphanedHeadings([.. candidates
             .Where(candidate => candidate.Tag != "p" || candidate.Class == dominantClass)
             .Select(candidate => ToBlock(candidate.Tag, candidate.Html, page.Metadata.Url))
-            .OfType<ArticleBlock>()];
+            .OfType<ArticleBlock>()]);
 
         return FromMetadata(page.Metadata, body, ExtractionSource.RenderedHtml);
     }
@@ -1523,6 +1523,15 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
 
     [GeneratedRegex(@"<[^>]*>")]
     private static partial Regex InlineTagPattern();
+}
+
+internal static class BodyCleanup
+{
+    public static List<ArticleBlock> DropOrphanedHeadings(List<ArticleBlock> body)
+    {
+        int keep = body.FindLastIndex(block => block is Paragraph or Quote or ItemList) + 1;
+        return [.. body.Take(keep), .. body.Skip(keep).Where(block => block is not Heading)];
+    }
 }
 
 public static class HtmlElements
@@ -2246,10 +2255,10 @@ static string DefaultSamplesDirectory()
 
 ================================================================================
 FILE:     CSharpUnitTests/ArticleExtractionTests.cs
-SIZE:     86.06 KB (88124 bytes)
-LINES:    2137
-SHA256:   98ef296ae17ef505072caa1b22a5161a3b3f1677ee058d2483dcfa3fa16e6554
-MODIFIED: 2026-10-12 13:44:16 (UTC)
+SIZE:     88.28 KB (90394 bytes)
+LINES:    2177
+SHA256:   52b004980b127c3e7002062b534cc64d546a1e3c327780ff18fa34a55c42cd0e
+MODIFIED: 2026-10-12 14:15:23 (UTC)
 ================================================================================
 
 using System.Text;
@@ -3285,6 +3294,34 @@ public class PreloadedDataExtractorTests
 
         Assert.Equal(new[] { new Figure(null, "Only credit"), new Figure("Only caption", null) }, Extract(Blocks).Body.OfType<Figure>());
     }
+
+    [Fact]
+    public void Extract_DropsHeadingsWithNoTextAfterThem()
+    {
+        const string Blocks = """
+            {"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Body."}]},
+            {"__typename":"Heading2Block","content":[{"__typename":"TextInline","text":"Affording New York"}]},
+            {"__typename":"ImageBlock","media":{"credit":"Photographer"}},
+            {"__typename":"Heading3Block","content":[{"__typename":"TextInline","text":"More News"}]},
+            {"__typename":"DetailBlock","content":[{"__typename":"TextInline","text":"Someone contributed reporting."}]}
+            """;
+
+        Assert.Collection(
+            Extract(Blocks).Body,
+            block => Assert.Equal("Body.", Assert.IsType<Paragraph>(block).Text),
+            block => Assert.Equal(new Figure(null, "Photographer"), block),
+            block => Assert.Equal(new Note("Someone contributed reporting."), block));
+    }
+
+    [Theory]
+    [InlineData("""{"__typename":"BlockquoteBlock","content":[{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Quoted."}]}]}""")]
+    [InlineData("""{"__typename":"ListBlock","content":[{"__typename":"ListItemBlock","content":[{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Item"}]}]}]}""")]
+    [InlineData("""{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"More."}]}""")]
+    public void Extract_KeepsHeadingsFollowedByText(string trailing)
+    {
+        string blocks = Fixtures.ParagraphJson("Body.") + """,{"__typename":"Heading2Block","content":[{"__typename":"TextInline","text":"Title"}]},""" + trailing;
+        Assert.Equal(new Heading(2, "Title"), Assert.Single(Extract(blocks).Body.OfType<Heading>()));
+    }
 }
 
 public class JsonLdExtractorTests
@@ -3463,7 +3500,16 @@ public class RenderedHtmlExtractorTests
     [Fact]
     public void Extract_SkipsEmptyHeadings()
     {
-        Assert.IsType<Paragraph>(Assert.Single(Extract("<body><p>x</p><h2> </h2></body>").Body));
+        Assert.IsType<Paragraph>(Assert.Single(Extract("<body><h2> </h2><p>x</p></body>").Body));
+    }
+
+    [Fact]
+    public void Extract_DropsTrailingHeadings()
+    {
+        Assert.Collection(
+            Extract("<article><h2>Kept</h2><p>Body.</p><h2>Orphan</h2></article>").Body,
+            block => Assert.Equal(new Heading(2, "Kept"), block),
+            block => Assert.IsType<Paragraph>(block));
     }
 
     [Fact]
@@ -4386,7 +4432,10 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(321, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        IReadOnlyList<string> files = ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]);
+
+        Assert.All(new[] { Husted, Oil, Turnout }, sample => Assert.Contains(Fixtures.SamplePath(sample), files));
+        Assert.Equal(files.Order(StringComparer.Ordinal), files);
     }
 }
 
@@ -5150,9 +5199,9 @@ dotnet stryker "$@"
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-12 14:04:02
+EXPORT COMPLETED (UTC): 2026-10-12 14:20:18
 Total Files Exported:   19
-Total Source Size:      0.17 MB (174186 bytes)
+Total Source Size:      0.17 MB (176837 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): 5e3a9f238edec13bcf298557d6e7455c05db59ba94fb0258d8362eb68b4acf61
+DUMP SHA256 (of all lines above this one): afa73ef6c034df58c39b148bb539482844765c5ba74f831ae81bb4e15a323164

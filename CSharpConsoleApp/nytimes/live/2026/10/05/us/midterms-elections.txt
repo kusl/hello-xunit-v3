@@ -1,6 +1,6 @@
 ================================================================================
 midterms-elections.html
-Source: RenderedHtml  Paragraphs: 104  Words: 4565
+Source: RenderedHtml  Paragraphs: 104  Words: 4562
 ================================================================================
 
 SUMMARY
@@ -265,5 +265,3 @@ The Democratic Congressional Campaign Committee is planning to spend $13 million
 The ad buy includes some new districts — including, most notably, Pennsylvania’s First District, in suburban Philadelphia, a seat held by Representative Brian Fitzpatrick. One of the more centrist Republicans in the House, Mr. Fitzpatrick is among only a few Republicans seeking re-election in a seat that President Trump lost in 2024.
 
 The other new districts are California’s 48th, Michigan’s Fourth and Seventh, and New York’s 19th. New rules from the Supreme Court this year allow congressional candidates to coordinate for the first time on advertising with the parties.
-
-More Election News

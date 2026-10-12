@@ -1,6 +1,6 @@
 ================================================================================
 elections-political-violence-harassment.html
-Source: PreloadedData  Paragraphs: 78  Words: 2779/2871
+Source: PreloadedData  Paragraphs: 78  Words: 2778/2871
 ================================================================================
 
 SUMMARY
@@ -176,8 +176,6 @@ For some, at a certain point, it all becomes too much.
 Ms. Greene recalled that her feud with the president came shortly after the assassination of Mr. Kirk. That made the subsequent deluge of threats more personal and more frightening.
 
 “I said, you know what? This is just not worth it for me personally,” she said. “I’m a very happy person without being in Congress. Much happier actually. And probably a lot safer.”
-
-Methodology
 
 The Times filed more than 100 open records requests for this project, reviewing thousands of violent threats made in emails, handwritten notes, social media postings, voice mail messages and police reports. The Times conducted more than 30 interviews with current and former elected officials, law enforcement officials, election officials, security experts and political operatives, while reaching out individually to every member of Congress. The Times also used artificial intelligence to compile and filter thousands of pages of court documents. Each case was manually reviewed and confirmed by Times journalists.
 
