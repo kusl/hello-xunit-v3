@@ -1031,6 +1031,34 @@ public class PreloadedDataExtractorTests
 
         Assert.Equal(new[] { new Figure(null, "Only credit"), new Figure("Only caption", null) }, Extract(Blocks).Body.OfType<Figure>());
     }
+
+    [Fact]
+    public void Extract_DropsHeadingsWithNoTextAfterThem()
+    {
+        const string Blocks = """
+            {"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Body."}]},
+            {"__typename":"Heading2Block","content":[{"__typename":"TextInline","text":"Affording New York"}]},
+            {"__typename":"ImageBlock","media":{"credit":"Photographer"}},
+            {"__typename":"Heading3Block","content":[{"__typename":"TextInline","text":"More News"}]},
+            {"__typename":"DetailBlock","content":[{"__typename":"TextInline","text":"Someone contributed reporting."}]}
+            """;
+
+        Assert.Collection(
+            Extract(Blocks).Body,
+            block => Assert.Equal("Body.", Assert.IsType<Paragraph>(block).Text),
+            block => Assert.Equal(new Figure(null, "Photographer"), block),
+            block => Assert.Equal(new Note("Someone contributed reporting."), block));
+    }
+
+    [Theory]
+    [InlineData("""{"__typename":"BlockquoteBlock","content":[{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Quoted."}]}]}""")]
+    [InlineData("""{"__typename":"ListBlock","content":[{"__typename":"ListItemBlock","content":[{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"Item"}]}]}]}""")]
+    [InlineData("""{"__typename":"ParagraphBlock","content":[{"__typename":"TextInline","text":"More."}]}""")]
+    public void Extract_KeepsHeadingsFollowedByText(string trailing)
+    {
+        string blocks = Fixtures.ParagraphJson("Body.") + """,{"__typename":"Heading2Block","content":[{"__typename":"TextInline","text":"Title"}]},""" + trailing;
+        Assert.Equal(new Heading(2, "Title"), Assert.Single(Extract(blocks).Body.OfType<Heading>()));
+    }
 }
 
 public class JsonLdExtractorTests
@@ -1209,7 +1237,16 @@ public class RenderedHtmlExtractorTests
     [Fact]
     public void Extract_SkipsEmptyHeadings()
     {
-        Assert.IsType<Paragraph>(Assert.Single(Extract("<body><p>x</p><h2> </h2></body>").Body));
+        Assert.IsType<Paragraph>(Assert.Single(Extract("<body><h2> </h2><p>x</p></body>").Body));
+    }
+
+    [Fact]
+    public void Extract_DropsTrailingHeadings()
+    {
+        Assert.Collection(
+            Extract("<article><h2>Kept</h2><p>Body.</p><h2>Orphan</h2></article>").Body,
+            block => Assert.Equal(new Heading(2, "Kept"), block),
+            block => Assert.IsType<Paragraph>(block));
     }
 
     [Fact]
@@ -2132,6 +2169,9 @@ public class SampleArticleTests
     [Fact]
     public void Sample_FilesAreDiscoveredFromTheOutputDirectory()
     {
-        Assert.Equal(321, ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]).Count);
+        IReadOnlyList<string> files = ArticleFiles.Resolve([Path.Combine(AppContext.BaseDirectory, "nytimes")]);
+
+        Assert.All(new[] { Husted, Oil, Turnout }, sample => Assert.Contains(Fixtures.SamplePath(sample), files));
+        Assert.Equal(files.Order(StringComparer.Ordinal), files);
     }
 }

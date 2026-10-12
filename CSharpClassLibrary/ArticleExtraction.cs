@@ -80,7 +80,7 @@ public sealed record PageMetadata(
     IReadOnlyList<string> Sections,
     string? ArticleBody)
 {
-    public static PageMetadata Empty { get; } = new(null, null, [], null, null, null, [], null);
+    public static PageMetadata Empty => new(null, null, [], null, null, null, [], null);
 }
 
 public sealed record FormatOptions(bool IncludeMetadata = true, bool IncludeFigures = false, bool IncludeGraphics = false)
@@ -709,7 +709,7 @@ public sealed class PreloadedDataExtractor : IArticleExtractor
     {
         Uri? url = HtmlPage.ParseUri(node.StringAt("url")) ?? metadata.Url;
         Uri linkBase = url ?? DefaultBase;
-        List<ArticleBlock> body = [.. BodyContent(node).SelectMany(block => ReadBlock(block, linkBase))];
+        List<ArticleBlock> body = BodyCleanup.DropOrphanedHeadings([.. BodyContent(node).SelectMany(block => ReadBlock(block, linkBase))]);
 
         if (!body.OfType<Paragraph>().Any())
         {
@@ -976,10 +976,10 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
             .Select(group => group.Key)
             .FirstOrDefault();
 
-        List<ArticleBlock> body = [.. candidates
+        List<ArticleBlock> body = BodyCleanup.DropOrphanedHeadings([.. candidates
             .Where(candidate => candidate.Tag != "p" || candidate.Class == dominantClass)
             .Select(candidate => ToBlock(candidate.Tag, candidate.Html, page.Metadata.Url))
-            .OfType<ArticleBlock>()];
+            .OfType<ArticleBlock>()]);
 
         return FromMetadata(page.Metadata, body, ExtractionSource.RenderedHtml);
     }
@@ -1073,6 +1073,15 @@ public sealed partial class RenderedHtmlExtractor : IArticleExtractor
 
     [GeneratedRegex(@"<[^>]*>")]
     private static partial Regex InlineTagPattern();
+}
+
+internal static class BodyCleanup
+{
+    public static List<ArticleBlock> DropOrphanedHeadings(List<ArticleBlock> body)
+    {
+        int keep = body.FindLastIndex(block => block is Paragraph or Quote or ItemList) + 1;
+        return [.. body.Take(keep), .. body.Skip(keep).Where(block => block is not Heading)];
+    }
 }
 
 public static class HtmlElements
