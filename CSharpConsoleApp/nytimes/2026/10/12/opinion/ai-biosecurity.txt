@@ -1,0 +1,48 @@
+================================================================================
+ai-biosecurity.html
+Source: PreloadedData  Paragraphs: 13  Words: 897/979
+================================================================================
+
+SUMMARY
+
+Of all the ways people say artificial intelligence could kill us all, one feels more realistic and palpable than the rest: the potential for A.I. to accelerate the development of a biological weapon. The government must build out the infrastructure and protocols that enable the biosecurity community to develop countermeasures — vaccines, antibodies, antivirals and diagnostics — at a speed we haven’t seen since the Covid-19 pandemic. In 2020, faced with an emerging pathogen and nothing to stop it, the first Trump administration launched Operation Warp Speed, treating a medical countermeasure as an industrial mobilization rather than a mere health program.
+
+ARTICLE
+
+We Aren’t Ready for the New Age of Biological Threats
+This is a hair-on-fire moment for the biosecurity community.
+By Jeff Coller
+Published 2026-10-12 09:01 UTC
+https://www.nytimes.com/2026/10/12/opinion/ai-biosecurity.html
+
+Of all the ways people say artificial intelligence could kill us all, one feels more realistic and palpable than the rest: the potential for A.I. to accelerate the development of a biological weapon.
+
+Last year, researchers at Stanford and the Arc Institute reported using A.I. to generate the blueprints for hundreds of novel virus genomes. Sixteen of those designs could be assembled into functional viruses that infect and kill bacteria, some even more effectively than the natural virus they were modeled on. This was not weapons research, and the viruses cannot infect people. But it would not be terribly difficult for someone with a properly trained A.I. model to produce a design that could pose a grave danger to us.
+
+In January, not long after those findings were announced, I convened a symposium in Washington on mRNA and national security, with biosecurity researchers and former defense officials. I left more worried than I arrived. We’re entering an era in which a machine can design a pathogen faster than we can create the countermeasure to fight it. This will be an especially grave issue when less-than-transparent parties are involved (as we’re currently witnessing with the drama around Russia’s anti-plague research lab).
+
+To defend ourselves, this country needs to strengthen its ability to quickly respond to a biological threat. The government must build out the infrastructure and protocols that enable the biosecurity community to develop countermeasures — vaccines, antibodies, antivirals and diagnostics — at a speed we haven’t seen since the Covid-19 pandemic.
+
+In other words, the government needs a permanent Operation Warp Speed for biosecurity, with the scope and budget of a national defense measure. The program we are talking about might sit unused for decades before the day it matters, but we will be grateful it exists when that day arrives. Congress has to be willing to pay for this, and only a statute will keep it alive over multiple presidential administrations.
+
+Policymakers are rightly focused on preventing the misuse of A.I. to develop a potential bioweapon. A bill now before the Senate, sponsored by Senators Tom Cotton, Republican of Arkansas, and Amy Klobuchar, Democrat of Minnesota, would require biotech companies that make and sell synthetic DNA to screen orders for gene sequences that could be used to develop a biological threat, and prevent bad actors from making purchases. The bill should pass. But it is designed merely to keep the capability away from whoever would misuse it — it does not address what happens if someone gets away with breaking the law. And it would have to fail only once.
+
+Some experts have proposed an ambitious goal, endorsed by the Group of 7, of having a vaccine ready within 100 days of identifying a pathogen with pandemic potential. But that target was set around natural pathogen threats, which emerge from an animal population in a specific location.
+
+An A.I.-designed pathogen defies these assumptions. The first evidence of an emerging threat may be patients getting sick — which means a shortened lead time to study the virus, sequence its genome and start developing a treatment. By the 100-day target, it may already have spread around the world, devastating hospitals, sapping local resources and leading to many lives lost. We must shorten the time it takes to develop countermeasures.
+
+The good news is we have done that before. In 2020, faced with an emerging pathogen and nothing to stop it, the first Trump administration launched Operation Warp Speed, treating a medical countermeasure as an industrial mobilization rather than a mere health program. The government bought manufacturing capacity before anyone knew when a viable vaccine would become available. A candidate vaccine was designed within days of the virus’s genetic sequence’s being published, and the country had doses by the end of the year.
+
+The science is no longer the hard part. The same A.I. models that compress the time to design a pathogen can compress the time to design a solution. They can generate antibodies and antigens as readily as viral genomes, and they are improving at both tasks at the same rate. Within a few years, designing a countermeasure will take hours.
+
+What will be hard is maintaining a countermeasure system when there is no immediate need for it. Operation Warp Speed was an improvisation, assembled in an emergency. It worked, and the country then went back to treating countermeasure development as something the pharmaceutical industry does when there is a market for it. There is no market for a pathogen that does not exist yet. This must be a government responsibility.
+
+Such a program has to be able to support many different types of biotechnology platforms and approaches used to develop countermeasures. Manufacturing capacity has to be continuously maintained rather than contracted for in a crisis. And the proposed countermeasure should be tested on a hypothetical viral genome every year, with the clock running and the results published. This is how we test many other major defensive systems the U.S. government maintains.
+
+We do not defend against nuclear weapons with treaties alone. We built warning systems, hardened command structures and a stockpile, all premised on the possibility that restraint fails. Here we have no binding rules and no defense, only assurances from companies racing one another. Whether A.I. agents and the companies building them can be controlled is an unsettled question. We need to be ready for whatever the answer is.
+
+Jeff Coller is a professor of RNA biology and therapeutics at Johns Hopkins University, where he directs the RNA Innovation Center. He co-founded the Alliance for mRNA Medicines.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
