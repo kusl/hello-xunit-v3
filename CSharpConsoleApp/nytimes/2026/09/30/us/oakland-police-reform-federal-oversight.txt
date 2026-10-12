@@ -1,60 +1,48 @@
 ================================================================================
 oakland-police-reform-federal-oversight.html
-Source: PreloadedData  Paragraphs: 22  Words: 842/842
+Source: PreloadedData  Paragraphs: 16  Words: 711/710
 ================================================================================
 
 SUMMARY
 
-The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections. Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
+A federal judge on Tuesday ended federal oversight of the Oakland Police Department after 23 years, concluding the longest-running federal monitoring of a police department in U.S. history. Barbara Lee, the Oakland mayor, said in a statement that a court in California found that the department had “achieved substantial compliance” with a 2003 agreement that resolved civil rights litigation over police brutality and required sweeping changes that the department struggled for years to implement. “They’re getting their police department back.
 
 ARTICLE
 
-California Governor Candidates to Face Off in Televised Debate
-Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.
-By Laurel Rosenhall
-Published 2026-09-30 12:00 UTC
-https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html
+Judge Ends Federal Oversight of Oakland Police After 23 Years
+In ending the longest such monitoring in U.S. history, a federal court said the department had mostly complied with reforms mandated by a 2003 settlement after a police brutality lawsuit.
+By Yan Zhuang
+Published 2026-09-30 09:45 UTC
+https://www.nytimes.com/2026/09/30/us/oakland-police-reform-federal-oversight.html
 
-The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election.
+A federal judge on Tuesday ended federal oversight of the Oakland Police Department after 23 years, concluding the longest-running federal monitoring of a police department in U.S. history.
 
-After a wild primary campaign this year, the governor’s race has settled into a low-key affair. Xavier Becerra, a Democrat who served as health and human services secretary under President Joseph R. Biden Jr., is a heavy favorite in a state dominated by his party. He is facing Steve Hilton, a Republican who was once a Fox News television host and an aide to David Cameron, the former British prime minister.
+Barbara Lee, the Oakland mayor, said in a statement that a court in California found that the department had “achieved substantial compliance” with a 2003 agreement that resolved civil rights litigation over police brutality and required sweeping changes that the department struggled for years to implement.
 
-CNN will host the debate at 6 p.m. local time, just days before ballots begin landing in voters’ mailboxes.
+That litigation, filed in 2000, stemmed from allegations that four Oakland officers, nicknamed the “Riders,” had planted evidence, falsified reports, made false arrests and used excessive force against suspects. The city settled a class-action lawsuit involving 119 plaintiffs for nearly $11 million and agreed to 51 reforms covering the police department’s use of force, discipline, training and internal affairs investigations under the supervision of an independent monitor and a federal judge.
 
-Univision, the Spanish-language network, told The New York Times that both candidates have also agreed to participate in a town-hall-style forum on Oct. 20. But the candidates will not appear at the same time at that event.
+The 2003 agreement called for five years of oversight. Instead, the federal supervision stretched on for more than two decades. In 2012, the monitor reported “serious concerns” about the department’s handling of Occupy Oakland protests the previous year, and its capacity to “adopt and hold true to the best practices in American policing.” A judge said in 2012 that the department had not made sufficient changes.
 
-Mr. Hilton, 57, who has lagged in polls and fund-raising, stands to gain more than Mr. Becerra from the national exposure that Wednesday’s debate will provide. He has been traveling the state to hold campaign events and sit for media interviews, trying to catch voters’ attention however he can.
+There was more controversy. In 2016, a scandal rocked the department after a woman alleged that she had sex with several officers, some while she was a minor.
 
-By comparison, Mr. Becerra, 68, has made limited public appearances since the June primary. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections.
+Oakland’s police department has repeatedly cycled through leaders. In 2016, the mayor at the time described the department as a “frat house.”
 
-The two men are vying to lead a state during a moment of economic pessimism, recent polling shows. Price increases and high housing costs are straining many households, and reducing the cost of living is a top priority for a plurality of likely voters.
+Jennifer L. Eberhardt, a psychology professor at Stanford University who served as a subject matter expert during the federal oversight, worked with the department on efforts to reduce racial disparities in police stops. By 2018, stops of Black drivers had fallen by 43 percent, while the city’s crime rate continued to decline, according to research by Eberhardt and other Stanford researchers.
 
-Gov. Gavin Newsom, who must leave office in January because of term limits, made sparring with President Trump a core part of his strategy as governor. The candidates running to replace him are taking cues, as Mr. Trump remains deeply unpopular in California.
+The department had made progress in recent years. In May, the monitor reported that the department had complied with all 51 reforms set out in 2003. While a September report found that the department had fallen short of a requirement to complete serious misconduct investigations on time, the monitor wrote that it is “confident that the capacity to meet the mandates of this task is there” because the department had been previously compliant.
 
-Mr. Becerra has attacked Mr. Trump’s moves to restrict voting access while serving as an adviser on a lawsuit against a Republican sheriff who seized ballots and while campaigning against a California ballot measure to require voter identification. Mr. Becerra was California’s attorney general before he worked for the Biden administration.
+That report also credited Mayor Lee and her administration; James Beere, who was named permanent police chief in July; and the department’s executive team with having “worked diligently to foster a culture of accountability.”
 
-“It’s really a threat to our democracy, and he’s working hard to protect people’s right to vote,” said Jonathan Underland, a spokesman for Mr. Becerra.
+At a news conference on Tuesday, Chief Beere called the ruling a “historic” day for the department and the community. “They’re getting their police department back. The oversight is going to belong to the people of Oakland,” he said.
 
-Mr. Hilton got Mr. Trump’s endorsement, which may have benefited him in the primary but now requires a difficult balancing act. He is trying to appeal to California voters who dislike the president while still keeping MAGA voters in his camp.
+Ms. Lee said in a statement that ending federal oversight “required stable leadership, accountability, breaking down silos, and a sustained commitment from the top of City government.”
 
-“Can you be anti-Trump but still vote for me?” Mr. Hilton asked in a full-page newspaper ad this summer that outlined the reasons he believed voters who oppose the president should still support him.
+While Oakland’s oversight arose from civil rights litigation brought by private plaintiffs, other American police departments have operated under monitoring imposed by consent decrees negotiated with the Justice Department.
 
-He said he’s met many voters on the campaign trail who tell him, “One-party rule just isn’t working, and we need a bit of balance.”
+Consent decrees are one of the federal government’s most powerful tools to overhaul troubled police departments. By and large, experts say, they are effective, at least for as long as the oversight is in effect.
 
-“I hear that often,” Mr. Hilton said in an interview.
+In January 2025, in the final weeks of the Biden administration, the Justice Department reached an agreement with Minneapolis on a proposed consent decree requiring extensive changes to its police department. A federal investigation had found a pattern of excessive force and racial discrimination in the city, where George Floyd was killed by a police officer in 2020.
 
-For the Univision town halls in October, the candidates will appear separately and take questions from the audience. Mr. Becerra will address voters in Spanish, which he grew up speaking in California with his parents, who immigrated from Mexico. An interpreter will translate the responses given by Mr. Hilton, who grew up in England with parents who emigrated there from Hungary.
+But President Trump has sought to curtail the use of such agreements. In his first term, the Justice Department opposed deals in Chicago and Baltimore. In May 2025, the department moved to dismiss agreements seeking consent decrees in Minneapolis and Louisville, Ky., and announced that it was closing six other Biden-era investigations of police departments.
 
-Most voters view debates as a partisan “team sport,” said Kim Nalder, a political science professor who leads the Project for an Informed Electorate at California State University, Sacramento. But she said that the debate may help some voters decide whom to support given that many are still learning about the candidates.
-
-Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
-
-“In this particular case, I think it is possible that some persuasion might happen because the impressions are not already formed,” Ms. Nalder said.
-
-In general, she said, televised political debates have had less impact in recent years as media habits have changed and candidates have focused more on turning out their supporters rather than persuading undecided voters to choose them.
-
-This summer, Mr. Hilton called for at least six debates. But front-runners like Mr. Becerra who enjoy a lopsided partisan advantage often decide that they have more to lose than gain from debating.
-
-Mr. Newsom was even more elusive than Mr. Becerra in 2018, the last time California had an open race for governor. The two candidates met for just one debate ahead of the general election — and very few people saw it.
-
-Mr. Newsom, a Democrat who was lieutenant governor, debated John Cox, a Republican businessman, on the radio. No television cameras were allowed to broadcast the event. And it took place in the middle of a Monday morning.
+The pullback has extended beyond policing. Last week, the Justice Department said more than 50 longstanding racial desegregation cases in schools had been dismissed, another shift away from forms of federal court supervision used to enforce civil rights laws.

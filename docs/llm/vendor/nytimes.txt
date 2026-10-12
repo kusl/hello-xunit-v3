@@ -5673,64 +5673,52 @@ He also announced a new role for her: the previously nonexistent post of special
 
 ================================================================================
 oakland-police-reform-federal-oversight.html
-Source: PreloadedData  Paragraphs: 22  Words: 842/842
+Source: PreloadedData  Paragraphs: 16  Words: 711/710
 ================================================================================
 
 SUMMARY
 
-The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections. Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
+A federal judge on Tuesday ended federal oversight of the Oakland Police Department after 23 years, concluding the longest-running federal monitoring of a police department in U.S. history. Barbara Lee, the Oakland mayor, said in a statement that a court in California found that the department had “achieved substantial compliance” with a 2003 agreement that resolved civil rights litigation over police brutality and required sweeping changes that the department struggled for years to implement. “They’re getting their police department back.
 
 ARTICLE
 
-California Governor Candidates to Face Off in Televised Debate
-Xavier Becerra, a Democrat who served in the Biden administration, will debate Steve Hilton, a Republican former talk show host, in what’s likely to be their only face-off before the election.
-By Laurel Rosenhall
-Published 2026-09-30 12:00 UTC
-https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html
+Judge Ends Federal Oversight of Oakland Police After 23 Years
+In ending the longest such monitoring in U.S. history, a federal court said the department had mostly complied with reforms mandated by a 2003 settlement after a police brutality lawsuit.
+By Yan Zhuang
+Published 2026-09-30 09:45 UTC
+https://www.nytimes.com/2026/09/30/us/oakland-police-reform-federal-oversight.html
 
-The two candidates running for California governor will meet Wednesday for a nationally televised debate that is likely to be their only face-off before the Nov. 3 election.
+A federal judge on Tuesday ended federal oversight of the Oakland Police Department after 23 years, concluding the longest-running federal monitoring of a police department in U.S. history.
 
-After a wild primary campaign this year, the governor’s race has settled into a low-key affair. Xavier Becerra, a Democrat who served as health and human services secretary under President Joseph R. Biden Jr., is a heavy favorite in a state dominated by his party. He is facing Steve Hilton, a Republican who was once a Fox News television host and an aide to David Cameron, the former British prime minister.
+Barbara Lee, the Oakland mayor, said in a statement that a court in California found that the department had “achieved substantial compliance” with a 2003 agreement that resolved civil rights litigation over police brutality and required sweeping changes that the department struggled for years to implement.
 
-CNN will host the debate at 6 p.m. local time, just days before ballots begin landing in voters’ mailboxes.
+That litigation, filed in 2000, stemmed from allegations that four Oakland officers, nicknamed the “Riders,” had planted evidence, falsified reports, made false arrests and used excessive force against suspects. The city settled a class-action lawsuit involving 119 plaintiffs for nearly $11 million and agreed to 51 reforms covering the police department’s use of force, discipline, training and internal affairs investigations under the supervision of an independent monitor and a federal judge.
 
-Univision, the Spanish-language network, told The New York Times that both candidates have also agreed to participate in a town-hall-style forum on Oct. 20. But the candidates will not appear at the same time at that event.
+The 2003 agreement called for five years of oversight. Instead, the federal supervision stretched on for more than two decades. In 2012, the monitor reported “serious concerns” about the department’s handling of Occupy Oakland protests the previous year, and its capacity to “adopt and hold true to the best practices in American policing.” A judge said in 2012 that the department had not made sufficient changes.
 
-Mr. Hilton, 57, who has lagged in polls and fund-raising, stands to gain more than Mr. Becerra from the national exposure that Wednesday’s debate will provide. He has been traveling the state to hold campaign events and sit for media interviews, trying to catch voters’ attention however he can.
+There was more controversy. In 2016, a scandal rocked the department after a woman alleged that she had sex with several officers, some while she was a minor.
 
-By comparison, Mr. Becerra, 68, has made limited public appearances since the June primary. It’s been two decades since California voters elected a Republican to statewide office, so many Democratic candidates in the state have come to wage fiercer fights in the primary against party rivals and then kept a lower profile in less competitive general elections.
+Oakland’s police department has repeatedly cycled through leaders. In 2016, the mayor at the time described the department as a “frat house.”
 
-The two men are vying to lead a state during a moment of economic pessimism, recent polling shows. Price increases and high housing costs are straining many households, and reducing the cost of living is a top priority for a plurality of likely voters.
+Jennifer L. Eberhardt, a psychology professor at Stanford University who served as a subject matter expert during the federal oversight, worked with the department on efforts to reduce racial disparities in police stops. By 2018, stops of Black drivers had fallen by 43 percent, while the city’s crime rate continued to decline, according to research by Eberhardt and other Stanford researchers.
 
-Gov. Gavin Newsom, who must leave office in January because of term limits, made sparring with President Trump a core part of his strategy as governor. The candidates running to replace him are taking cues, as Mr. Trump remains deeply unpopular in California.
+The department had made progress in recent years. In May, the monitor reported that the department had complied with all 51 reforms set out in 2003. While a September report found that the department had fallen short of a requirement to complete serious misconduct investigations on time, the monitor wrote that it is “confident that the capacity to meet the mandates of this task is there” because the department had been previously compliant.
 
-Mr. Becerra has attacked Mr. Trump’s moves to restrict voting access while serving as an adviser on a lawsuit against a Republican sheriff who seized ballots and while campaigning against a California ballot measure to require voter identification. Mr. Becerra was California’s attorney general before he worked for the Biden administration.
+That report also credited Mayor Lee and her administration; James Beere, who was named permanent police chief in July; and the department’s executive team with having “worked diligently to foster a culture of accountability.”
 
-“It’s really a threat to our democracy, and he’s working hard to protect people’s right to vote,” said Jonathan Underland, a spokesman for Mr. Becerra.
+At a news conference on Tuesday, Chief Beere called the ruling a “historic” day for the department and the community. “They’re getting their police department back. The oversight is going to belong to the people of Oakland,” he said.
 
-Mr. Hilton got Mr. Trump’s endorsement, which may have benefited him in the primary but now requires a difficult balancing act. He is trying to appeal to California voters who dislike the president while still keeping MAGA voters in his camp.
+Ms. Lee said in a statement that ending federal oversight “required stable leadership, accountability, breaking down silos, and a sustained commitment from the top of City government.”
 
-“Can you be anti-Trump but still vote for me?” Mr. Hilton asked in a full-page newspaper ad this summer that outlined the reasons he believed voters who oppose the president should still support him.
+While Oakland’s oversight arose from civil rights litigation brought by private plaintiffs, other American police departments have operated under monitoring imposed by consent decrees negotiated with the Justice Department.
 
-He said he’s met many voters on the campaign trail who tell him, “One-party rule just isn’t working, and we need a bit of balance.”
+Consent decrees are one of the federal government’s most powerful tools to overhaul troubled police departments. By and large, experts say, they are effective, at least for as long as the oversight is in effect.
 
-“I hear that often,” Mr. Hilton said in an interview.
+In January 2025, in the final weeks of the Biden administration, the Justice Department reached an agreement with Minneapolis on a proposed consent decree requiring extensive changes to its police department. A federal investigation had found a pattern of excessive force and racial discrimination in the city, where George Floyd was killed by a police officer in 2020.
 
-For the Univision town halls in October, the candidates will appear separately and take questions from the audience. Mr. Becerra will address voters in Spanish, which he grew up speaking in California with his parents, who immigrated from Mexico. An interpreter will translate the responses given by Mr. Hilton, who grew up in England with parents who emigrated there from Hungary.
+But President Trump has sought to curtail the use of such agreements. In his first term, the Justice Department opposed deals in Chicago and Baltimore. In May 2025, the department moved to dismiss agreements seeking consent decrees in Minneapolis and Louisville, Ky., and announced that it was closing six other Biden-era investigations of police departments.
 
-Most voters view debates as a partisan “team sport,” said Kim Nalder, a political science professor who leads the Project for an Informed Electorate at California State University, Sacramento. But she said that the debate may help some voters decide whom to support given that many are still learning about the candidates.
-
-Mr. Becerra has run a low-profile campaign, Ms. Nalder said, and many voters may be unfamiliar with Mr. Hilton unless they watch Fox News.
-
-“In this particular case, I think it is possible that some persuasion might happen because the impressions are not already formed,” Ms. Nalder said.
-
-In general, she said, televised political debates have had less impact in recent years as media habits have changed and candidates have focused more on turning out their supporters rather than persuading undecided voters to choose them.
-
-This summer, Mr. Hilton called for at least six debates. But front-runners like Mr. Becerra who enjoy a lopsided partisan advantage often decide that they have more to lose than gain from debating.
-
-Mr. Newsom was even more elusive than Mr. Becerra in 2018, the last time California had an open race for governor. The two candidates met for just one debate ahead of the general election — and very few people saw it.
-
-Mr. Newsom, a Democrat who was lieutenant governor, debated John Cox, a Republican businessman, on the radio. No television cameras were allowed to broadcast the event. And it took place in the middle of a Monday morning.
+The pullback has extended beyond policing. Last week, the Justice Department said more than 50 longstanding racial desegregation cases in schools had been dismissed, another shift away from forms of federal court supervision used to enforce civil rights laws.
 
 ================================================================================
 congress-ai-safety.html
@@ -14499,60 +14487,54 @@ But Mr. Rosenzweig said that Mr. Trump’s willingness to push boundaries more t
 
 ================================================================================
 us-bombers-britain-raf-fairford-iran.html
-Source: PreloadedData  Paragraphs: 20  Words: 800/800
+Source: PreloadedData  Paragraphs: 16  Words: 697/701
 ================================================================================
 
 SUMMARY
 
-The longtime home of David Puchkoff and Eileen Stukane has the feel of a country house in the middle of nowhere. The unique property in the heart of the West Village sits atop a six-story brick building, a former warehouse that was built around 1906. Mr. Puchkoff and Ms. Stukane said they would miss the penthouse, and all the parties and dinners they hosted in the outdoor space.
+The United States rushed over the weekend to withdraw all 12 B-1 Air Force bombers from an air base in southern England after commanders received new threats about an Iran-backed plot against the installation, two U.S. officials said on Sunday. The need to move the bombers out of the base, R.A.F. American officials on Sunday declined to specify the nature of the new information that prompted the rapid withdrawal of the Air Force bombers, some of which had just arrived in the past week as part of a normal rotation of forces.
 
 ARTICLE
 
-In the West Village, a Rooftop ‘Cottage’ Is on the Market
-The asking price for the unique property, which sits atop a six-story brick co-op in a former warehouse, is $10.5 million.
-By Vivian Marino
-Published 2026-09-30 09:02 UTC
-https://www.nytimes.com/2026/09/30/realestate/nyc-west-village-rooftop-cottage-real-estate.html
+U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats
+The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.
+By Eric Schmitt
+Published 2026-10-04 20:55 UTC
+https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html
 
-The longtime home of David Puchkoff and Eileen Stukane has the feel of a country house in the middle of nowhere. A screen door off a kitchenette opens to a cozy wooden porch with a swing and a large table for family meals. It looks out onto a dwarf Japanese maple tree and a garden of flowering sedums, fragrant herbs and vegetables.
+The United States rushed over the weekend to withdraw all 12 B-1 Air Force bombers from an air base in southern England after commanders received new threats about an Iran-backed plot against the installation, two U.S. officials said on Sunday.
 
-And then there are the views of Midtown Manhattan, which is only about a 20-minute subway ride away.
+The withdrawal was highly unusual: Such moves are rarely made so quickly from an allied air base in a peacetime country thousands of miles from a combat zone.
 
-The unique property in the heart of the West Village sits atop a six-story brick building, a former warehouse that was built around 1906. Mr. Puchkoff, a developer, bought the building in 1974 for about $220,000, and then converted it into a 12-unit co-op and kept a penthouse for himself. In the early 2000s, he added an irrigated, roughly 1,100-square-foot green roof and a cottage-like structure with two paned windows and a porch that connected to the apartment below.
+The need to move the bombers out of the base, R.A.F. Fairford, was deemed so urgent that some of the planes and their flight crews left while aerial refueling aircraft were still being scrambled to support their flights to the United States. At least three of the planes had landed at their home base in South Dakota by Sunday, the officials said, speaking on the condition of anonymity to discuss operational matters.
 
-The bucolic home, which has gained widespread publicity over the years, is now on the market. The asking price is $10.5 million, according to Jim St. André of Compass, who is listing the penthouse with Michael Maniawski and Trevor Stephens. Monthly maintenance is $5,468.
+The Pentagon’s European Command confirmed on Sunday that the bombers had left England but declined to comment on any new warnings.
 
-“It’s an interesting juxtaposition between country and urban,” Mr. St. André said of the property, adding that outdoor residential space in the West Village is uncommon. “You have this cottage in one world and in the background the lights of New York City. We’re not in Kansas anymore, but we pretty much are.”
+“We can acknowledge now that all U.S. bombers that were deployed to R.A.F. Fairford are redeploying to their home stations in the United States,” the command said in a statement. “U.S. Air Force bombers routinely operate around the world to support global force readiness and operational requirements.”
 
-Mr. Puchkoff was inspired to build the green rooftop and porch after visiting a friend’s lakefront house in rural Pennsylvania. Installing it all was an arduous endeavor that involved, among other things, hiring a structural engineer and using a tube alongside the building to blow soil onto the roof. While he and Ms. Stukane have enjoyed their private oasis — they were married in the home’s living room in 1988 — both say it’s time to move on.
+The British Ministry of Defense declined to comment on the movements of U.S. military assets.
 
-“I think as we’re aging, a lot of our attention is redirected now to our children and our grandchildren,” said Mr. Puchkoff, who is 87 and now retired. The couple, who have three daughters, said they might stay in Manhattan or move to the Hudson Valley (where porches are ubiquitous). “Right now, it’s all in flux,” he said.
+American officials on Sunday declined to specify the nature of the new information that prompted the rapid withdrawal of the Air Force bombers, some of which had just arrived in the past week as part of a normal rotation of forces. One U.S. official said the new information was part of the same threat warnings that surfaced three weeks ago, but specific details and a sense of urgency spiked in the past 24 hours, alarming commanders.
 
-“We think of it as an adventure,” Ms. Stukane said.
+The sudden pullout of the bombers came a week after the British police arrested five men who had been traveling last Sunday morning in white vans near the base, which has been used by American bombers in the U.S.-Israeli war against Iran. The men were released on bail a day later after the authorities did not discover explosives in the vans.
 
-The couple’s sixth-floor apartment, which encompasses around 3,000 square feet, has four bedrooms and two full bathrooms. Ms. Stukane, a writer, has used one of the bedrooms as an office.
+But the police have repeatedly said the men remain under investigation, and a dual British-Iranian national was arrested on Thursday on suspicion of preparing terrorist acts.
 
-Exposed wood columns, girders and brick are throughout the unit, as are oak floors, high ceilings and an abundance of storage space. Windows provide extensive views of Midtown and Lower Manhattan.
+Prime Minister Andy Burnham said last week that the British government believed Iran played a part in planning those events. U.S. and British officials, as well as those in Germany and Israel, believe the operation is connected to Iran’s Islamic Revolutionary Guards Corps or a separate military headquarters in Tehran. Iran has denied the accusations.
 
-Off the elevator, the entry is through a foyer with several adjacent closets and Ms. Stukane’s office. A hallway with a bathroom leads to a loft-like space that includes a living room, a dining area and an open kitchen.
+The episode has presented the authorities with myriad puzzles as they try to sort out the events over the past week, including the arrests, the frantic evacuation of 85 homes, a bomb disposal robot searching the vans for explosives and a national security meeting convened by Mr. Burnham.
 
-The heart of the home is the living room, which is anchored by a wood-burning fireplace that was crafted from discarded cobblestone that Mr. Puchkoff said he had found “all over the streets in the ’70s.” Near the center of the space is a nautical-style, stainless-steel staircase with cruise ship vibes; it rises to the rooftop cottage-like structure, which has a galley-like kitchenette.
+On July 23, Iran’s Foreign Ministry issued a statement warning that allowing the United States to use the base “makes London responsible” for U.S. actions. The same day, the Revolutionary Guards issued a statement saying, “Any base used to launch attacks on Iranian territory is a legitimate target for our forces.”
 
-“This is a nod to our sailing days,” Ms. Stukane said.
+In September, U.S. military commanders received a chilling warning from American and other Western intelligence agencies, according to U.S. officials briefed on the information. R.A.F. Fairford was the target of a potential Iran-backed attack.
 
-The main kitchen features butcher block countertops, a mahogany breakfast bar and oak cabinets. It is equipped with stainless-steel appliances and a pantry. Nearby is Mr. Puchkoff’s workroom, a laundry room and the primary bedroom, which has a hot tub in the en suite bathroom, as well as views of Hudson Yards.
+The murky outlines of a plot had been pieced together through a combination of intercepted communications, informants and other intelligence. Israel’s prime minister, Benjamin Netanyahu, said his intelligence officials also warned their British counterparts of a probable Iranian-sponsored attack, though they did not provide a specific target. Follow-up attacks were likely to include drones, the confidential assessments warned.
 
-At the other side of the apartment are two more bedrooms, one of which is a loft-style room up a short set of stairs.
+After that initial warning last month, concern among officials across Europe surged. According to a senior U.S. official, Israel warned Germany that American bases there were at heightened risk, noting Spangdahlem and Ramstein in particular.
 
-Mr. Puchkoff and Ms. Stukane said they would miss the penthouse, and all the parties and dinners they hosted in the outdoor space.
+An Iran-backed plot to commit an attack in Britain would be a major escalation by Tehran against a Western country in apparent retaliation for the American-and Israeli-led war against Iran.
 
-“The porch has been a gathering place for family,” Ms. Stukane said. “It made us very popular with our relatives.”
-
-They also have fond memories of gardening. “I’m the herb and vegetable gardener,” Ms. Stukane said. “We really do well with eggplant, zucchini and lettuce. And there are lots of tomatoes and a big section of basil.”
-
-Neither is sad, though, about leaving. “We saw this area evolve over the last 50 years from a wild, unruly area to what it is today,” said Mr. Puchkoff, who developed several residential properties in the neighborhood.
-
-Of his most memorable project, Mr. Puchkoff said, “I had the good fortune to be part of this garden and now it’s up to someone else to do what they want with it.”
+Michael D. Shear contributed reporting from London.
 
 ================================================================================
 steve-hilton-just-try-it-ad.html
