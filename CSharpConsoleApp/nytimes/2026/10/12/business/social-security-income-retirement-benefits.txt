@@ -1,0 +1,108 @@
+================================================================================
+social-security-income-retirement-benefits.html
+Source: PreloadedData  Paragraphs: 26  Words: 1032/1293
+================================================================================
+
+SUMMARY
+
+If Congress doesn’t act, more than 60 million Americans could see their Social Security income drop by nearly a quarter in six years. That puts her monthly Social Security benefit at $2,548, which accounts for the vast majority of her monthly income because she has just $20,000 in retirement savings (generating about $70 a month), like households with similar earnings. Other studies have shown that roughly 42 percent of households rely on Social Security for at least half of their retirement income.
+
+ARTICLE
+
+How American Retirees on Different Incomes Rely on Social Security
+Social Security funds are on track to run short by 2032, which would mean a reduction in benefits. Here’s how four hypothetical households rely on the program in retirement.
+By Tara Siegel Bernard
+Published 2026-10-12 14:55 UTC
+https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html
+
+If Congress doesn’t act, more than 60 million Americans could see their Social Security income drop by nearly a quarter in six years.
+
+That’s when Social Security’s retirement trust fund is expected to run dry, and incoming revenue would be enough to pay only 78 percent benefits, reducing every retiree’s paycheck by 22 percent.
+
+The program, which President Franklin D. Roosevelt signed into law in 1935 during the Great Depression, is not in danger of completely running out of money. While lawmakers have long known they would need to move to close that gap — through tax increases, benefit cuts or some combination — they have been slow to act on this politically charged topic.
+
+But the window to do that is closing.
+
+Many of the lawmakers being elected in the coming midterms will probably be entrusted with drafting reform packages, and they will need to contemplate crucial questions: Who will absorb the costs of any changes to shore up the program, and what will the consequences be? Will people be less prepared for retirement as a result?
+
+Procrastination has been costly, making these decisions now more difficult. Even some Republicans, who often resist any tax increases, have recently proposed raising the income ceiling on payroll taxes, the dedicated tax that finances the program, so that wealthier households contribute more.
+
+“Any serious Social Security reform package should be scored on what it does to household retirement outcomes, not only on what it does to trust-fund balances,” said Jack VanDerhei, director of retirement research at Morningstar’s Center for Retirement & Policy Studies.
+
+The details of any fix-it plan are crucial given the program’s extraordinary reach, potentially affecting tens of millions of working Americans, as well as future retirees and current ones — many of whom lean heavily on the program.
+
+Just how heavily do they lean on it?
+
+To address that question, we looked at four hypothetical households — two singles, two married couples — with different income levels and resources to illustrate the role that Social Security plays in their financial lives, a topic we’ll continue to closely track in the year ahead.
+
+In each illustration, individuals are 64 years old and plan to retire and file for Social Security at 67, the age at which they qualify for a full retirement benefit. All analyses were run by Mr. VanDerhei of Morningstar.
+
+The Lower-Income Retiree
+
+Monthly Social Security benefit at age 67: $1,543
+
+Social Security benefit if Congress doesn’t act: $1,204 (around age 70)
+
+Social Security is often a primary source of income for the lowest-income Americans, according to other analyses.
+
+In this case, a single man who earned $34,000 a year, on average, over his working life is one of the roughly half of households across the country that have no money in retirement accounts to draw on.
+
+The Middle-Income Retiree
+
+Monthly Social Security benefit at age 67: $2,548
+
+Social Security benefit if Congress doesn’t act: $1,987 (around age 70)
+
+Total monthly income from Social Security + savings: About $2,620
+
+In this case, a single worker earned about $75,000, on average, over her career. That puts her monthly Social Security benefit at $2,548, which accounts for the vast majority of her monthly income because she has just $20,000 in retirement savings (generating about $70 a month), like households with similar earnings.
+
+About three-quarters of similarly situated households also own their own homes; the median household holds $137,000 in home equity.
+
+With pensions fading and ever-rising costs — health care, housing, college — continuously pushed onto families, Social Security has served as a stabilizer during retirees’ most vulnerable years. Should the stock market plunge on the eve of your retirement, damaging savings at the most inopportune time, Social Security remains unaffected.
+
+Even households with solid income and savings need to stow away and accumulate substantial sums to draw even a modest income — one that must last for potentially several decades.
+
+That $1 million savings milestone? It will typically generate $40,000 a year (adjusted upward for inflation in future years).
+
+The Middle-Income Couple
+
+Monthly Social Security benefits at age 67: $5,096
+
+Social Security benefits if Congress doesn’t act: $3,975 (around age 70)
+
+Total monthly income from Social Security + savings: $5,668
+
+Each worker here earned $75,000, on average, over the course of their careers, for a combined total of $150,000. Retirement savings of $171,700 provide $572 in monthly income. Most households like theirs also own homes, with the median household holding $251,800 in home equity. A little more than a quarter also hold stocks, bonds or mutual funds outside retirement accounts.
+
+The Higher-Earning Couple
+
+Monthly Social Security benefits at age 67: $6,681
+
+Social Security benefits if Congress doesn’t act: $5,211 (around age 70)
+
+Total monthly income from Social Security + savings: $8,131
+
+This couple collectively earned about $261,000 a year — one spouse earned at least the maximum amount subject to Social Security payroll taxes each year, which works out to an average of about $186,000 over this spouse’s career; the other worker earned $75,000 on average.
+
+Their retirement savings of $435,000 could generate monthly income of $1,450. Most similar households own their homes; the median household holds $400,600 in home equity. About half hold stocks, bonds or mutual funds outside retirement accounts.
+
+Many retirees report feeling reliant on Social Security.
+
+But it’s more than just a feeling: Among beneficiaries 60 and older in the middle of a five-rung income ladder, where median household income was projected at about $90,900 in 2024, Social Security made up 38 percent of household income on average, according to the Social Security Administration’s MINT model, which uses administrative earnings and benefits records to make projections.
+
+Those in the next-highest rung, with median household income of $152,300, leaned on Social Security for a quarter of their income, on average, while the group just below the middle relied on it for 56 percent.
+
+Other studies have shown that roughly 42 percent of households rely on Social Security for at least half of their retirement income.
+
+The program is more than just an inflation-adjusted insurance policy against running out of money in retirement — it also provides disability, survivor and family benefits. When so much of our financial lives rides on luck, timing and our collective human vulnerability, this social contract has persevered.
+
+— Each example pairs a Social Security benefit calculated for a hypothetical worker born in 1962 who claims at 67 in 2029, with the retirement savings of real households near retirement with similar wages. The low and middle earners’ pay follows a career pattern based on actual workers’ earnings, rising with national wages; the higher earner earns at least the maximum amount subject to Social Security tax each year. Career-average earnings are stated in 2026 wage levels. Benefits are in 2026 dollars adjusted for inflation.
+
+— The reduced check assumes the retirement trust fund is depleted in the fourth quarter of 2032, as projected in the 2026 Social Security Trustees Report, after which about 78 percent of scheduled benefits would initially be payable. It is an illustrative proportional reduction, not a benefit estimate provided by the Social Security Administration.
+
+— Retirement savings figures are medians from the Federal Reserve’s 2022 Survey of Consumer Finances, adjusted for inflation, for comparable households headed by someone age 55 to 64 in 2022. They are not projections; balances could rise or fall with contributions, withdrawals and investment returns.
+
+— Retirement savings include individual retirement accounts, like Roth I.R.A.s, and employer plans such as 401(k)s and 403(b)s. Income from savings assumes a 4 percent annual withdrawal. It excludes pensions, earnings, home equity and other assets like stocks, bonds, mutual funds and annuities held outside retirement accounts. All income figures are before taxes.
+
+— All data and analysis are from Jack VanDerhei, director of retirement research at Morningstar’s Center for Retirement & Policy Studies.

@@ -1,0 +1,36 @@
+================================================================================
+meta-muse-wonder-full-models.html
+Source: PreloadedData  Paragraphs: 10  Words: 439/442
+================================================================================
+
+SUMMARY
+
+Meta on Monday unveiled a new series of advanced flagship artificial intelligence models, as it tries to catch up to rivals like Anthropic and OpenAI in the A.I. race. The two new models, called Muse Wonder and Muse Wonder Full, scored nearly as well as Anthropic’s most advanced models on tests that measure reasoning, writing and coding, according to data provided by Meta. Muse Wonder is the second series of A.I. models released under Mr. Wang’s A.I. division, and is the first that Meta has said is meant to compete with other cutting-edge “frontier” A.I. models, which typically require the most computing power to run.
+
+ARTICLE
+
+Meta Unveils New Series of Advanced A.I. Models
+The new models, Muse Wonder and Muse Wonder Full, are meant to compete with cutting-edge A.I. models from rivals like Anthropic and OpenAI.
+By Eli Tan
+Published 2026-10-12 17:00 UTC
+https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html
+
+Meta on Monday unveiled a new series of advanced flagship artificial intelligence models, as it tries to catch up to rivals like Anthropic and OpenAI in the A.I. race.
+
+The two new models, called Muse Wonder and Muse Wonder Full, scored nearly as well as Anthropic’s most advanced models on tests that measure reasoning, writing and coding, according to data provided by Meta.
+
+Mark Zuckerberg, Meta’s chief executive, revamped his company’s A.I. division last year after setbacks in developing the technology. He has since made progress with new A.I. models and other A.I. products for the company’s 3.5 billion users across Instagram, Facebook and WhatsApp. Muse, Meta’s A.I. agent app that can operate software and apps on behalf of users, climbed to the top of the App Store in the weeks after it was released last month.
+
+Muse Wonder arrives amid growing concerns over advanced A.I. models and agents, some of which have gone rogue, hacking into companies and meddling with government websites. Mr. Zuckerberg has tried to market Meta’s technology, which is built in a similar way to Anthropic’s and OpenAI’s models, with a different message than its rivals, saying that A.I. is meant to be useful and empowering, not dangerous.
+
+Meta began developing Muse Wonder after hiring Alexandr Wang, a founder of the A.I. start-up Scale AI, to be its chief A.I. officer in June 2025. Muse Wonder is the second series of A.I. models released under Mr. Wang’s A.I. division, and is the first that Meta has said is meant to compete with other cutting-edge “frontier” A.I. models, which typically require the most computing power to run.
+
+Muse Wonder will soon power parts of Muse, the company said. Muse Wonder Full is the more powerful model, and will be available only for users who subscribe to Meta’s premium A.I. coding tool, Muse Code.
+
+The new models, which were internally referred to as Watermelon, are also significantly better at coding than Meta’s previous models. The A.I. coding market is dominated by Anthropic and OpenAI, though Meta has been trying to grow its business selling A.I. services to other companies.
+
+(The New York Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+
+Muse Wonder faced some setbacks during development. In July, Meta paused a stage of A.I. development called “pre-training,” which delayed the release of the models until this month, The New York Times previously reported.
+
+In a livestream on Instagram over the weekend, Mr. Zuckerberg teased the new A.I. models while barbecuing meats. Also on the menu, Mr. Zuckerberg said: “A big watermelon.”
