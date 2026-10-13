@@ -27756,6 +27756,53 @@ The Trump administration has argued that energy deals with Mr. Putin, in additio
 Marc Santora contributed reporting.
 
 ================================================================================
+technology-stocks-ai-nasdaq.html
+Source: PreloadedData  Paragraphs: 3  Words: 555/552
+================================================================================
+
+SUMMARY
+
+Semiconductor stocks dropped on Tuesday as fears of runaway artificial intelligence spending converged with a growing threat from Chinese rivals to the biggest players in the memory chip industry. South Korea’s benchmark stock market tumbled in particular, led by steep losses in Samsung Electronics and SK Hynix, the world’s two leading memory chip makers. The sell-off followed Chinese media reports that China’s CXMT had unveiled a breakthrough in chip design.
+
+ARTICLE
+
+Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition
+South Korean stocks tumbled in particular, as reports of a breakthrough by a Chinese chip rival heightened concerns about competition.
+By Daisuke Wakabayashi
+Published 2026-10-13 09:55 UTC
+https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html
+
+Semiconductor stocks dropped on Tuesday as fears of runaway artificial intelligence spending converged with a growing threat from Chinese rivals to the biggest players in the memory chip industry.
+
+South Korea’s benchmark stock market tumbled in particular, led by steep losses in Samsung Electronics and SK Hynix, the world’s two leading memory chip makers. The sell-off followed Chinese media reports that China’s CXMT had unveiled a breakthrough in chip design.
+
+Other technology stocks around the world suffered declines, with losses concentrated in the chip-making sector.
+
+Tech stocks slide.
+
+- South Korea’s KOSPI fell 5.5 percent on Tuesday, driven by significant declines in its two largest members: Samsung Electronics and SK Hynix. The reported breakthrough by China’s CXMT, which would let memory chips store more data without increasing in size, could give the Chinese company an edge over its South Korean rivals, which have struggled to produce enough memory chips to keep pace with insatiable global A.I. demand.
+- Stocks elsewhere in Asia were broadly lower. Japan’s Nikkei 225 and Taiwanese shares fell nearly 2 percent, weighed down by technology stocks. Taiwan Semiconductor Manufacturing Company fell 2 percent and Japan’s SoftBank Group, a major investor in A.I., fell more than 8 percent.
+- In Europe, the chip makers Infineon and STMicroelectronics fell by 5 percent and ASML, a key supplier to the chip industry, shed about 1.5 percent. But the Stoxx 600, a broad regional index that is less driven by tech than benchmarks elsewhere, rose modestly in early trading.
+- Futures on the S&P 500 pointed to little change when stocks resume trading in the United States on Tuesday. But premarket trading for the tech-heavy Nasdaq reflected the anxiety about chip makers, suggesting another downbeat opening for the index that has been under pressure recently. Broadcom, Micron and other players in the chip market all traded lower, extending losses from the day before.
+
+Oil dips.
+
+- Brent crude, the global benchmark for oil, fell more than 1 percent to about $105 a barrel. The price of Brent has risen about 45 percent since the start of the war in Iran.
+
+- West Texas Intermediate crude, the U.S. benchmark, traded at around $92 a barrel, also dropped more than 1 percent.
+- Ship operators in the Persian Gulf remain wary of sending vessels through the Strait of Hormuz, the vital waterway between Iran and Oman. Attacks by the Iranian-backed Houthi militia in Yemen around the Red Sea and in Saudi Arabia have also threatened oil shipments via other routes.
+
+Gasoline prices stay high.
+
+- U.S. gasoline prices fell slightly on Tuesday to a national average of $4.34 a gallon, according to the AAA motor club. The cost for drivers by 46 percent since the war began.
+- Gas prices don’t move in lock step with crude, usually trailing increases or drops by a few days.
+- The average price of diesel ticked higher to $6.28, up 67 percent since the start of the war.
+
+What they are saying: A.I. investing is like a “casino.”
+
+- Adding to the unease about tech stocks were stark warnings from Hock Tan, chief executive of the chip maker Broadcom, about the frenzy surrounding A.I. investments. Speaking at a conference in Singapore, Mr. Tan said investors have “no clue what they are investing in” and warned that they may eventually discover “it’s almost like they are in a casino,” according to Bloomberg.
+
+================================================================================
 homelessness-unhoused-denver-shelters.html
 Source: PreloadedData  Paragraphs: 29  Words: 1775/1840
 ================================================================================
