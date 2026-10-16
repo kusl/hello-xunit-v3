@@ -28903,6 +28903,280 @@ Ms. Mobbs, who runs a charity providing humanitarian aid to Ukraine, said she do
 “I don’t know what he believes he will get by ratcheting up the pressure,” said Ms. Mobbs, whose father, Keith Kellogg, served as Mr. Trump’s envoy to Ukraine last year. “It’s not going to end well, in my opinion, based on everything that we know about the president’s psychology.”
 
 ================================================================================
+bonds-investors-interest-rates.html
+Source: PreloadedData  Paragraphs: 32  Words: 1452/1456
+================================================================================
+
+SUMMARY
+
+The bad news for bonds isn’t over. The intuitive explanation is straightforward: When rates rise, a bond you bought yesterday isn’t worth as much today because new, otherwise identical bonds are now available, and they pay more in interest. Should rates rise further, price declines would be less painful for shorter-duration bonds and bond funds.
+
+ARTICLE
+
+Why Bad News in the Bond Market May Be Good News for Investors
+In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.
+By Jeff Sommer
+Published 2026-10-16 05:07 UTC
+https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html
+
+The bad news for bonds isn’t over. Far from it.
+
+Yet I’ll stick my neck out and say that for careful people with long horizons, this is a fine time to make selective purchases of high-quality bonds. That includes Treasuries, inflation-protected, corporate and municipal bonds, and bond funds.
+
+Today’s high interest rates are painful for borrowers. But at their current levels, they have begun to provide a comfortable buffer against further losses for investors and promise richer income streams for the future.
+
+“With interest rates where they are now, it’s a good moment for long-term investors and for people in retirement to lock in some high yields,” Kathy Jones, a bond maven who was formerly a chief strategist at Schwab, told me.
+
+Even so, jumping into bonds now requires fortitude because trouble is likely to continue. Interest rates, which soared in September, could easily rise from here, and their pernicious economic toll is still spreading. Nor is this just a U.S. problem. In France, a debt crisis is underway, raising concerns that it could worsen financial problems elsewhere in Europe and around the world.
+
+A hot inflation report in the United States on Wednesday heightened expectations that the Federal Reserve will raise short-term rates again this year. It’s possible that longer-term rates set by thousands of traders in the bond market will rise, too. That means that bond buyers who sell before their bonds mature could face short-term losses.
+
+Still, months of rising rates have already led to a major and positive change for investors. The 10-year Treasury yield, which serves as a benchmark for all others in the bond world, surpassed 5.3 percent last month, up from 4.2 percent at the beginning of this year.
+
+It is hovering above 5 percent. While that may seem shocking after rates were so low for so long, current yields are only approaching the average of 5.4 percent since the 1950s, based on my own computation of data compiled by Robert J. Shiller, the Yale economist. Investors are being compensated at rates that haven’t been available for years. These higher interest rates imply better returns for bondholders in the years ahead.
+
+Yes, It’s Been Rough
+
+Still, if you’re leery of buying bonds, I don’t blame you. They have performed dismally. There’s no sugarcoating it.
+
+Why did this happen? Recall some basics. Rising interest rates mean falling bond prices, as a matter of fundamental bond math.
+
+The intuitive explanation is straightforward: When rates rise, a bond you bought yesterday isn’t worth as much today because new, otherwise identical bonds are now available, and they pay more in interest. Yields have soared since the start of the war with Iran at the end of February. Oil prices rose, the pace of inflation increased, and traders in the bond market demanded better yields — and lower prices — for the risks they were taking.
+
+Perhaps more important, this year’s rate increases are built on a deeper shift in the market.
+
+Bond rates have been trending upward since the Covid-19 pandemic, when the 10-year Treasury yield fell as low as 0.6 percent. That benchmark yield had begun dropping much earlier. It approached 2 percent during a steep recession in 2008 and fell below 2 percent in September 2011. In those years, deflation was a far bigger concern than inflation.
+
+Interest rates have taken a long road upward. Seen in this light, their increase may be viewed as a return to normal — to the interest rates that prevailed before the great financial crisis that started late in 2007.
+
+A variety of factors help to explain the decades-long increases in interest rates. They include: widening government deficits in the United States and other countries; a downturn in bond purchases by central banks; repeated inflationary shocks from disease, wars, tariffs and other disrupters; and, lately, increased global demand for capital to finance development of artificial intelligence. There’s been a sea change in interest rates.
+
+Watch Out for Duration
+
+Ordinary investors who held bonds and bond funds through these shifts have endured losses. If yields are approaching a peak, those losses could be coming to an end.
+
+Consider the returns for two funds this year and over the five years through Thursday.
+
+- iShares 20+ Year Treasury Bond E.T.F. (short for exchange-traded fund). It contains Treasuries with a maturity of at least 20 years. Shareholders lost 6.3 percent this year and 8.2 percent, annualized, over five years.
+- Vanguard Total Bond Market Index fund. It tracks a benchmark for the entire U.S. investment-grade bond market and the Bloomberg U.S. Aggregate Bond index, and it contains shorter- and longer-term Treasuries, mortgage-backed securities and corporate bonds. The bond fund declined 2 percent this year and 0.5 percent, annualized, over five years.
+
+The numbers are much worse for the iShares fund because it includes only long-term bonds, with an average “duration” of 14.5 years, according to FactSet. Duration measures a bond’s price sensitivity to interest rates. The Vanguard fund has a much shorter duration — less than six years. Duration is the main reason for the return differences.
+
+That’s important if you’re contemplating purchases of investment-grade bonds or bond funds now. Should rates rise further, price declines would be less painful for shorter-duration bonds and bond funds. (The contrary would also be true: Should rates decline sharply, which often happens in economic downturns, longer-duration bonds could have spectacular returns.)
+
+Note that I’m talking only about investment-grade bonds. High-yield bonds, known as junk bonds, are more hazardous. Hold junk bonds only if you have examined the specific risks, and have chosen to embrace them, in exchange for the somewhat higher yields they offer.
+
+Personally, I take on all the investing risk I can handle through stock index funds. For bonds, I want greater safety. That means short- to moderate-duration funds — with a rough maturity of up to five or six years — containing only investment-grade bonds.
+
+The Silver Lining
+
+This backward look at the bond market is gloomy. But in the contrarian world of investing, it’s why the future looks better.
+
+“The higher yields in the market now are a silver lining for investors,” Gina Martin Adams, chief market strategist at HB Wealth, an independent investment management firm, said in a phone conversation. Yields are in a historically reasonable range now, she said. “It would be worth nibbling at some bonds now, if you have been staying away from them.”
+
+Ms. Jones has a similar perspective. “I’ve been looking at high-quality bonds for myself,” she said.
+
+How should people think about the risk that rates would rise further? To produce losses over the next 12 months, yields would need to jump appreciably from current levels, with the 10-year Treasury yield approaching roughly 6 percent. That could happen. Even so, the income stream generated by bonds at current 5 percent-plus yields “should hold up well” over the next decade, Ms. Jones said, assuming the Fed tames inflation.
+
+The Fed raised the short-term rates it controls by one quarter point at its last meeting. While the market deems it unlikely that the central bank will raise rates again when policymakers meet this month, further increases are expected later this year and next. Longer-term rates set in the bond market are likely to moderate if inflation is perceived as being under control.
+
+That’s a benign outcome, of course. There are other possibilities.
+
+A nastier one, modeled on history, would be something like this: Inflation remains hot, forcing interest rates high enough to slow the economy. That would set off more bond losses and, ultimately, could start a recession.
+
+A recession would end the interest rate increase cycle emphatically. Interest rates typically plummet when the economy is weak, and bonds, especially Treasuries, tend to rise in value. That happened in the 2007-9 recession. While the U.S. government no longer has a pristine, AAA bond rating, I believe that Treasuries would probably serve as a haven again.
+
+Bonds are where investors have traditionally gone for stability. They haven’t done a great job lately, but they can still play that role. And if solid income is what you’re looking for, high-quality bonds can do the job.
+
+But don’t expect too much from them. Over the long haul, even when bonds have performed reasonably well, returns in the U.S. stock market have been much better. For very short periods, too, money market funds and Treasury bills have been more reliable than bonds because they don’t lose value when rates rise. (That’s because money market funds and Treasury bills have very short durations.) Government-insured certificates of deposit and high-yield savings accounts are also good places to park money.
+
+The turmoil in the bond market is opening opportunities. The negative bond headlines are disconcerting, but they signal better buys for prudent investors.
+
+================================================================================
+china-ev-thailand-cars.html
+Source: PreloadedData  Paragraphs: 47  Words: 1446/1450
+================================================================================
+
+SUMMARY
+
+In Thailand’s carmaking hub of Rayong, China’s largest electric vehicle maker, BYD, built its first factory outside China, a complex the size of 180 football fields. In the first seven months of this year, about two-thirds of electric vehicles sold in Thailand were imported, primarily from China. Tossophol Kunsri, president of the Automobile Labor Congress of Thailand, one of the country’s biggest autoworkers’ union, said Chinese electric vehicle makers often hired Thai workers for short-term contracts in brief production runs, then laid them off without severance pay.
+
+ARTICLE
+
+After Welcoming China’s Electric Vehicles, This Country Is Paying the Price
+Thailand introduced subsidies and tax cuts to encourage electric vehicle adoption. Now it is trying to recalibrate, alarmed by the threat to its industrial landscape.
+By Sui-Lee Wee, Kittiphum Sringammuang and Nicola Longobardi for The New York Times
+Published 2026-10-16 09:00 UTC
+https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html
+
+In Thailand’s carmaking hub of Rayong, China’s largest electric vehicle maker, BYD, built its first factory outside China, a complex the size of 180 football fields. Twenty miles south, a plant once run by General Motors is now owned by China’s Great Wall Motor. A 10-minute drive away, Ford took over a vehicle assembly plant from the Japanese automaker Suzuki.
+
+All of this happened in the past five years — evidence of an industry in upheaval.
+
+For decades, Japanese automakers dominated Thailand. They arrived in the 1960s, built supply chains and transformed the country into the “Detroit of the East.”
+
+Then the Chinese automakers arrived.
+
+Today, they control about 85 percent of Thailand’s electric vehicle market, up from almost zero four years ago. Japanese automakers, slow to embrace the technology, have struggled. In 2024 and 2025, Subaru and Suzuki shut down their Thai plants, while Nissan and Honda have scaled back production.
+
+Several Thai auto-parts suppliers that depended on Japanese manufacturers went bankrupt, threatening a supply chain that employs about 700,000 workers.
+
+“It was much faster than anything we had expected,” said Supavud Saicheua, chairman of the National Economic and Social Development Council, the central economic planning agency in Thailand.
+
+“We didn’t think of the full picture,” he added. “The impact on Thailand has been much more adverse than we had thought.”
+
+To some, Thailand is a cautionary tale about the unintended consequences of opening the door to China’s electric vehicle manufacturers. The lesson could resonate elsewhere. President Trump has seemed open to welcoming China’s E.V. brands to manufacture in the United States despite tariffs that effectively block their entry into the market. The European Union is struggling to rein in Chinese vehicles, despite imposing tariffs.
+
+Thailand is trying to contain the damage. Last month, Prime Minister Anutin Charnvirakul traveled to Tokyo to reassure Japanese automakers. A month earlier, he had ordered a review of policies that Japanese firms say put them at a disadvantage.
+
+Few in Thailand think gas-guzzling cars are the future. Electric vehicles made up a third of new car sales in the first seven months of 2026. It is easy to see the consumer appeal of the Chinese cars. Many offer technology like large display screens and autonomous driving at low prices. (Mr. Anutin owns BYD’s electric S.U.V., the Sealion 7.)
+
+But policymakers are concerned about the influx. In the first seven months of this year, about two-thirds of electric vehicles sold in Thailand were imported, primarily from China.
+
+The government is trying to curb the flood. Last month, it unveiled a three-tier tax system that imposes the highest rates on automakers importing vehicles with no plans for local production and the lowest on those that source a large share of their parts locally.
+
+But Ruth Banomyong, a professor of supply chain management at Thammasat University in Thailand, said there was little evidence that Thailand was benefiting. Chinese automakers, he said, operate within a “closed ecosystem” that makes it difficult for Thai companies to enter their supply chains because the core technology remains in China.
+
+He and his colleagues have estimated that 300,000 jobs could disappear within five years if electric vehicles dominate Thailand’s auto market.
+
+“The trickle-down effect is very minimal,” said Mr. Ruth, a former adviser to Thailand’s previous commerce minister.
+
+Tossophol Kunsri, president of the Automobile Labor Congress of Thailand, one of the country’s biggest autoworkers’ union, said Chinese electric vehicle makers often hired Thai workers for short-term contracts in brief production runs, then laid them off without severance pay.
+
+He said the Chinese companies rejected unions. By contrast, he said, he maintained respectful relationships with Japanese automakers, which were willing to negotiate annual salary increases and bonuses.
+
+Mr. Tossophol said that he had complained to the government about the Chinese companies’ labor practices and that the labor minister had agreed to investigate.
+
+“We’re standing at a crossroads,” he said. “Are we still going to be an actual automotive manufacturing base, or are we just going to be a market for cheap Chinese E.V.s?”
+
+‘We Thought It Was Still Far Off’
+
+In 2011, Netsana Sakulpolpanya started working at a car parts factory in Thailand’s Samut Prakan Province, making exhaust systems and mufflers for Toyota, its biggest customer.
+
+Her company embodied the homegrown industry that supplied Japan’s automakers. Ms. Netsana earned $440 a month operating molds and pressing machinery.
+
+Her first years were a boom. In 2012, she received an extra five months of salary and a $740 bonus. The money helped her care for her disabled sister and pay for her niece’s education at a university.
+
+In 2022, Thailand’s prime minister at the time, Prayuth Chan-ocha, declared electric vehicles crucial to the country’s economic future and its fight against pollution. He set a target for zero-emission vehicles to account for 30 percent of the country’s vehicle production by 2030.
+
+Ms. Netsana said union leaders had warned workers about the changes that electric vehicles could bring.
+
+“We honestly thought it was still far off,” she said.
+
+Then the government rolled out tax cuts and subsidies and allowed electric vehicles to be imported for two years before automakers had to meet local manufacturing requirements. A free-trade agreement between China and the Association of Southeast Asian Nations meant the vehicles faced no customs duty.
+
+Within months, Chinese brands like Changan, GAC Aion, Neta and Chery were driving on Thai roads.
+
+Ms. Netsana watched orders fall. Overtime disappeared. Her company began telling workers to stay home some days and cut wages to 75 percent of normal pay.
+
+In September 2023, Srettha Thavisin, a billionaire real estate developer, became prime minister with a mission to court foreign investment. His first stop was China. Chinese carmakers were looking abroad to escape a domestic market saddled with overcapacity and brutal price wars.
+
+Mr. Srettha said he felt he had little choice but to court them. Otherwise, they were likely to have gone to Vietnam or Malaysia. In hindsight, he said, his government should have tracked more closely how many Thai workers the Chinese companies employed and how much they sourced from Thai suppliers.
+
+Ms. Netsana’s company declared bankruptcy and shut down in 2024. Nearly 900 Thai workers lost their jobs without severance pay.
+
+Ms. Netsana, 49, now earns $11 a day working at a supermarket. She said she did not apply to the Chinese factories because a friend told her that they hire only young workers.
+
+“I blame the government for failing to manage the transition fairly,” Ms. Netsana said.
+
+A Factory Under Scrutiny
+
+At BYD’s factory in Rayong, workers intertwined multicolored wires into wiring harnesses, the nervous systems of electric vehicles. A sign warned: “No playing with mobile phones or loafing on duty.”
+
+Elsewhere, robotic arms welded together the frame of the BYD Atto 3, an electric sport utility vehicle. When it launched in Thailand, customers lined up overnight to buy it. This section operated around the clock.
+
+An overhead monitor displayed the day’s production target of 4,000 cars. By 3.52 p.m., 3,409 were complete.
+
+Opened in 2024, the BYD factory exports cars to across Southeast Asia, Australia and Europe. But American and European trade regulators have scrutinized it, questioning whether it functions as a final assembly plant to circumvent tariffs.
+
+Asked what percentage of car parts came from China, Benson Ke, BYD’s general manager in Thailand, said there were so many components that “it’s difficult to go into great detail.”
+
+He said BYD bought steel sheets locally and assembled batteries in Thailand with local partners. The factory employs 5,600 workers, 94 percent of them Thai, he said, and has received “high ratings for genuine localized manufacturing” during inspections.
+
+When we first met Mr. Ke, he was at a Bangkok motor show unveiling new models. Several attendees said they were considering buying their second BYD.
+
+Mr. Ke welcomed the government’s policy to raise excise taxes on imported vehicles, saying it would help control supply and price competition.
+
+It is easy to see why. BYD has invested more than $1 billion in its Rayong factory.
+
+Yet on a recent visit, signs of BYD’s connections to its Chinese supply chain were plentiful. BYD used Kuka robots, once German-owned, now controlled by China’s Midea. Boxes carrying wiring components bore Chinese addresses. Battery cells were imported from China.
+
+To Thai consumers, it might not matter.
+
+Nithi Thuamprathom, a Bangkok-based automotive reviewer with 1.2 million YouTube subscribers, said his Thai viewers asked him to review Chinese electric vehicles that offered features like adaptive cruise control and 360-degree cameras at prices that often undercut Japanese competitors.
+
+“The era of Japanese carmakers’ enjoying 60 years of easy profits in Thailand is over,” Mr. Nithi said. “Now they have to adapt to real competition.”
+
+================================================================================
+warsh-fed-imf-bangkok.html
+Source: PreloadedData  Paragraphs: 26  Words: 929/929
+================================================================================
+
+SUMMARY
+
+Kevin M. Warsh, chairman of the Federal Reserve, reiterated his commitment to “deliver price stability,” amid rising energy prices and soaring investments in artificial intelligence, which he called a “shock” to the economy. But he did not convey an urgency for the central bank to raise interest rates at its meeting at the end of the month. Mr. Warsh also noted most central bankers around the world were tightening monetary policy in sync in response to rising global inflation.
+
+ARTICLE
+
+Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy
+The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.
+By Patricia Cohen and Colby Smith
+Published 2026-10-16 05:02 UTC
+https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html
+
+Kevin M. Warsh, chairman of the Federal Reserve, reiterated his commitment to “deliver price stability,” amid rising energy prices and soaring investments in artificial intelligence, which he called a “shock” to the economy. But he did not convey an urgency for the central bank to raise interest rates at its meeting at the end of the month.
+
+Mr. Warsh spoke Friday in Bangkok before a standing-room-only crowd at the annual meetings of the International Monetary Fund and World Bank. He stuck to his approach to avoid giving specific guidance about what the Fed might do next in terms of policy adjustments.
+
+“I don’t prejudge meetings. I don’t believe in saying now what I might do at the meetings we have in the balance of this year,” Mr. Warsh said. “It’s a new chapter at the Fed, and we’re not in that business anymore.”
+
+The chairman conceded he would only “make some judgments at the October meeting and the December meeting,” the final two gatherings of the year.
+
+His comments, made in conversation with the I.M.F.’s managing director, Kristalina Georgieva, came right after she had warned of inflation pressures and the need for central banks to keep a tight rein on monetary policy in an earlier session.
+
+“Central banks should be laser-focused on price stability,” she said, adding that she welcomed the “firm language” coming from the Federal Reserve and other central banks.
+
+“Rate hikes today are better than falling behind the curve” and having to impose bigger rate increases later, she said.
+
+Mr. Warsh also noted most central bankers around the world were tightening monetary policy in sync in response to rising global inflation.
+
+Mr. Warsh’s comments were the last scheduled remarks before the Fed enters its communications blackout on Saturday, ahead of its policy meeting on Oct. 27-28. That meeting comes just days before the U.S. midterm elections, which will determine whether Republicans retain control of Congress.
+
+New inflation data this week that showed price pressures accelerating in September has complicated to some degree the Fed’s deliberations in October.
+
+Overall consumer prices rose 0.6 percent, the largest monthly increase in five months. Compared with the same time last year, prices were 3.7 percent higher. Wholesale prices also rose, while retail sales figures showed consumers continued to spend.
+
+Mr. Warsh on Friday expressed optimism about the overall state of the economy, highlighting specifically the enormous impact that A.I. is having.
+
+A.I. promises huge economic benefits in the long run, he said, but warned the path there “is likely to be a very bumpy one.”
+
+“The advent of this new technology is probably the most consequential change in the U.S. and the global economy in my lifetime,” said Mr. Warsh.
+
+Booming A.I. spending is one of many factors that have pushed up inflation this year. Another driver is the war with Iran, which has led to soaring energy prices.
+
+According to the I.M.F.’s projections, inflation in the United States is not expected to return to its 2 percent target until the middle of 2028.
+
+Still, several top policymakers made the case in recent weeks that the Fed could raise rates gradually after voting unanimously in September to lift them by a quarter of a percentage point to a new range of 3.75 percent to 4 percent.
+
+According to rate projections released alongside that rate decision, most Fed officials expected one more quarter-point increase this year after September’s move.
+
+If the Fed stands pat in October, as is widely expected, Mr. Warsh will be under pressure to explain why the central bank is not moving more aggressively in the face of broadening price pressures.
+
+Raising rates will keep the central bank in the cross hairs of President Trump, who has repeatedly attacked it for failing to acquiesce to his demands for substantially lower borrowing costs.
+
+Mr. Trump has spared Mr. Warsh, whom he handpicked for the job, from the bulk of the criticism. Instead, he has directed his ire at the chairman’s colleagues on the Board of Governors.
+
+Mr. Trump is engaged in a protracted legal fight with one of those seven members, Lisa D. Cook, whom the president has tried to fire for over a year over allegations that she committed mortgage fraud. The White House last week announced an investigation into Ms. Cook, culminating in a hearing that she was directed to attend.
+
+Mr. Warsh made a point on Friday of defending the Fed, its previous leaders and its staff. “Power comes from our institutional credibility, bestowed on me by the great chairmen that came before me,” he said.
+
+Since taking over as Fed chairman, Mr. Warsh has sought to recast how the central bank operates in a range of dimensions. In addition to jettisoning the provision of guidance over the future path of rates, he has also downplayed the importance of specific data releases and instead described data-point dependence as “a dangerous preoccupation.”
+
+As part of Mr. Warsh’s goal of enacting “regime change” at the central bank, he has announced five task forces to examine issues ranging from how the Fed communicates to how it measures inflation. One of those task forces is focused on productivity gains tied to A.I. and the broader impact on the labor market. Mr. Warsh said on Friday that there would be a “hearing” on the subject on Nov. 16 in San Francisco.
+
+Mr. Warsh noted that A.I. could transform how the Fed did its work because of its enormous analytical potential. This is “a big deal for central banks,” he said, adding that it will “fundamentally change the conduct of monetary policy.”
+
+================================================================================
 affordability-republicans-democrats.html
 Source: PreloadedData  Paragraphs: 22  Words: 1203/1281
 ================================================================================
@@ -29341,6 +29615,91 @@ About the data
 Fund-raising figures in the graphics include total contributions to each candidate’s main campaign committee, not including refunded contributions and contributions that candidates made to themselves. The totals also include transfers to the main campaign committee from other committees.
 
 ================================================================================
+elk-whidbey-island-bruiser-dead.html
+Source: PreloadedData  Paragraphs: 34  Words: 1046/1049
+================================================================================
+
+SUMMARY
+
+One summer around 14 years ago, a young elk ditched the American mainland, swam alone to a misty island and never left. “Everyone has a Bruiser story,” said Margaret Nichols, 71, who lived on Whidbey Island for years and returns monthly. Whidbey Island was enough for Bruiser.
+
+ARTICLE
+
+Bruiser the Elk Left His Herd for an Island and Made It Home
+After swimming across chilly waters to Whidbey Island in Washington State, the solitary elk charmed residents for more than a decade with his antics. He died at 15 to 18 years old.
+By Ishani Desai
+Published 2026-10-16 09:02 UTC
+https://www.nytimes.com/2026/10/16/us/elk-whidbey-island-bruiser-dead.html
+
+One summer around 14 years ago, a young elk ditched the American mainland, swam alone to a misty island and never left.
+
+The animal chose Whidbey Island, a stretch of rolling hills and steep bluffs north of Seattle. Known as Bruiser, he was the only one of his kind on that strip of land. And now, the elk — who enchanted locals with his ironclad loyalty and wily antics — has died, leaving residents heartbroken.
+
+“Everyone has a Bruiser story,” said Margaret Nichols, 71, who lived on Whidbey Island for years and returns monthly.
+
+To a degree, she said, Bruiser was the island’s mascot, his likeness immortalized on keychains, earrings, T-shirts and stickers. “We were practically hyperventilating,” Ms. Nichols said of the first time her family saw him.
+
+But why did a nearly 1,000-pound, 6-foot-tall wild beast inspire such devotion?
+
+The elk was to some a unifying animal, which was welcome for an island divided along political lines like many other communities. He had come to symbolize conservation and independence and his presence reassured some residents that they chose correctly when trading the bustling city life for a quiet island.
+
+Whidbey Island was enough for Bruiser. So he was right for the people, too.
+
+And Bruiser, who had a penchant for snacking on apples he found on trees in people’s yards, was entertaining in his own way.
+
+His antlers somehow became hopelessly entangled in all sorts of things: a bicycle, yard art, clotheslines. He often butted against fences and tarps, residents said.
+
+“He was always up to something,” said Cynthia Mason, 64, a resident on Whidbey Island. “There was a little mischievous side to him.”
+
+The island, about 169 square miles covered in lush forests, beaches and stunning cliffs, is a study in contrasts. The U.S. Navy erected an air base on it in the 1940s, at one point housing more than 11,000 people. There’s agriculture: farmers growing tomatoes, peppers and berries. Some of the island’s 71,000 residents commute by boat 75 minutes or longer each way to Seattle for office jobs, locals said.
+
+Bruiser once was a member of the North Cascades elk herd managed by the state and the Point Elliott Treaty Tribes in Skagit Valley, Wash., about 60 miles north of Seattle. The herd is the northernmost pack in the state. At about 1,600 animals, it is the smallest of the 10 herds recognized by the Washington Department of Fish and Wildlife.
+
+For motives unknown, Bruiser braved chilly waters and dangerous currents in Skagit Bay, leaving the U.S. mainland and arriving on the island’s shore around 2012, said Kurt Licence, a wildlife biologist with the Washington Department of Fish and Wildlife. The route is about two to four miles, though it is not exactly known what course Bruiser took, Mr. Licence said.
+
+The morning of Sept. 13, 2012, Fred Goodman was walking on his property near Strawberry Point, by the eastern shore of Whidbey Island. There, he spotted a tawny coat and antlers, much to his astonishment.
+
+Mr. Goodman, who spent a career in wildlife management, knew.
+
+It was an elk.
+
+An elk had not been spotted on Whidbey Island for more than 100 years after the island’s elk population was hunted to zero around the early 1900s, officials and residents said.
+
+At the time, Mr. Goodman called an officer with the Washington Department of Fish and Wildlife, Ralph Downes, who confirmed that an elk was roaming Whidbey.
+
+The local newspaper, The Whidbey News-Times, published a story recounting how the elk had graced its shores, Mr. Downes said, and word spread. The newspaper documented a relationship between Mr. Downes and Bruiser, with the officer receiving about a half-dozen calls about the elk’s exploits in a single year.
+
+A well-known Bruiser tale involved him playing with a rope swing attached to a buoy in February 2017. The rope was wound around the antlers, and the bull couldn’t get it off.
+
+Bruiser bucked and thrashed when Mr. Downes and others tried to free him. He ran, but the buoy kept hitting his face, and Bruiser became more angry, Mr. Downes recalled.
+
+He crashed in the woods, went over a bluff and fell on a beach, still furious and wearing the unwanted crown, he said.
+
+Mr. Downes was part of a group that tranquilized Bruiser. “He woke up just as pissed off as when he fell asleep,” he said. “He wasn’t very thankful.”
+
+Perhaps Bruiser longed for a way back to his herd. During the rut, or the mating season when an elk becomes more aggressive, he would be spotted bugling — making a mating call — toward the Washington State mainland.
+
+Despite his frustrations, Bruiser stayed.
+
+Ansel Santosa, 35, and co-owner of the Ballydídean Farm Sanctuary, said Whidbey Island’s politics are narrowly split. Only 33 votes separated the Republican from the winning Democratic candidate for governor in 2024 in a district that includes the island. But Bruiser was a topic everyone could rally behind. He never saw the animal, and yet felt a special connection from the pictures posted on social media.
+
+“He gave me hope that we could become part of the community in that way,” Mr. Santosa said.
+
+After Bruiser’s death, The News-Times published a 1,602-word tribute to “the neighbor who never paid rent.”
+
+As he grew in years, the residents’ love for Bruiser grew. But the beast — who was anywhere from 15 to 18 years old — grew haggard. Bulls rarely live more than 12 years, according to the state’s Fish and Wildlife Department.
+
+Detective Sergeant Ed Wallace, a spokesman for the Island County Sheriff’s Office, recalled a video posted about a week before Bruiser’s death, which showed the elk had damaged antlers and was moving with a limp.
+
+On Oct. 6, the sheriff’s office was called at about 1 p.m. to a private property for a report of a dead elk. A couple came across the carcass while walking on the beach, the detective sergeant said.
+
+It was Bruiser. He wasn’t shot. He was at the base of a cliff with his antlers broken.
+
+Perhaps, Mr. Downes said, Bruiser wanted one last glimpse across the bay from the top of the cliff. He had left behind his herd, but had found a new place to belong, Mr. Goodman said.
+
+“Maybe we were his herd,” he said.
+
+================================================================================
 elon-musk-ken-paxton-texas-senate-race.html
 Source: PreloadedData  Paragraphs: 10  Words: 405/405
 ================================================================================
@@ -29376,6 +29735,85 @@ Mr. Musk also donated $10 million to a separate pro-Paxton super PAC, money that
 Mr. Musk has not shown much enthusiasm in public or private about any midterm candidates, rarely posting on X, his social media site, about Republican nominees. But in recent days, he has posted negatively multiple times about Mr. Talarico.
 
 On the campaign trail, Mr. Talarico has criticized the political influence of billionaires like Mr. Musk.
+
+================================================================================
+japan-women-makeup-chores.html
+Source: PreloadedData  Paragraphs: 31  Words: 1159/1159
+================================================================================
+
+SUMMARY
+
+Japan’s prime minister, Sanae Takaichi, stood at a lectern in Parliament this week fielding questions about the budget, Russia, an emerging political scandal and nuclear de-escalation. Ms. Takaichi, the first woman in Japan’s history to serve as prime minister, seized the moment to make a point. Ms. Takaichi’s remarks have prompted debate in Japan, where women still shoulder a disproportionate share of household chores and face pressure to conform to rigid expectations known as midashinami, or looking presentable in public.
+
+ARTICLE
+
+Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.
+Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women.
+By Javier C. Hernández and Kiuko Notoya
+Published 2026-10-16 09:55 UTC
+https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html
+
+Japan’s prime minister, Sanae Takaichi, stood at a lectern in Parliament this week fielding questions about the budget, Russia, an emerging political scandal and nuclear de-escalation.
+
+Then came an inquiry about her schedule. Ms. Takaichi, the first woman in Japan’s history to serve as prime minister, seized the moment to make a point. She said her daily agenda was far busier than her male predecessors because she spends at least three hours on makeup, bathing, cooking and other chores.
+
+“Finding the time to sit down and focus with a truly clear head is a challenge,” she told the room of lawmakers, a vast majority of them men. “I feel that, compared to a male prime minister, I might be spending an extra three or four hours on these tasks.”
+
+Ms. Takaichi’s remarks have prompted debate in Japan, where women still shoulder a disproportionate share of household chores and face pressure to conform to rigid expectations known as midashinami, or looking presentable in public. These guidelines include wearing makeup (but not too much) and high heels while avoiding short skirts and low-cut tops.
+
+Some of Ms. Takaichi’s supporters praised her remarks, saying she had helped bring attention to the extra effort women invest to succeed at work and the role they play in running households.
+
+“Are they saying she should show up to the Diet barefaced?” Kotoe Hashimoto, a conservative writer, said on X, using the name for Japan’s Parliament.
+
+But some lawmakers and commentators criticized Ms. Takaichi, a staunch conservative, saying she was promoting stereotypes about women.
+
+Yoshiko Kira, an opposition lawmaker in Japan’s Senate, said in an interview that Ms. Takaichi was reinforcing gender norms and undermining efforts to improve women’s rights in Japan.
+
+“I find it deeply unsettling that the prime minister would speak as if these specific expectations regarding appearance and demeanor are simply ‘the natural order of things’ — as if they were immutable, foundational premises that cannot be challenged,” she said.
+
+Ms. Takaichi’s remarks came during a routine budget hearing on Wednesday in response to a question about a recent report that argued Japan’s prime ministers spend too much time dealing with legislative procedures.
+
+The report, by NXJI Research, found that Japanese leaders can spend up to seven hours a day answering questions from lawmakers. The prime minister, the report found, is expected to attend Parliament sessions on average about 72 days each year, compared with 50 days in Britain and 13 days in Germany.
+
+Ms. Takaichi, a self-described workaholic who gets “zero to three hours” of sleep a night, responded by describing the demands of her schedule. She said she “found it quite difficult to carve out time to sit down and think strategically about the direction our country should take or the kind of nation we aim to be.” She said she takes home a “mountain of paperwork” each day.
+
+She went on to describe how her all-male team of aides has had trouble adapting to her schedule, not even setting aside time in her diary for makeup before television appearances.
+
+“They haven’t quite gotten used to the fact that I am a female prime minister rather than a male one,” she said, eliciting laughter from lawmakers.
+
+Ms. Takaichi has made a point of modeling traditional values while in office. She has spoken about caring for her ailing husband, cooking meals and cleaning her residence.
+
+By some estimates, Japanese women take on more than three-quarters of household chores. That burden is exacerbated by the fact that many Japanese workers are expected to routinely work overtime — as much as 22 hours per month — according to recent surveys.
+
+While Ms. Takaichi receives support in her official duties, she is not given a staff of butlers, chefs and gardeners, as in the White House.
+
+According to an interview this year with Ms. Takaichi’s husband and former lawmaker, Taku Yamamoto, the official residence has limited domestic help. In the interview, published by the monthly magazine Bungeishunju, Mr. Yamamoto said that a cleaner comes to the residence once a week, but there is no cook. He sometimes orders pizza, he said, making sure to get the delivery person’s name so the order can get through security.
+
+“Access to the building is so strictly controlled, it’s like being in a prison!” he told the magazine.
+
+In Japan, it is relatively uncommon for families to hire domestic help; only about 2 percent of households employ housekeepers, according to the Ministry of Economy, Trade and Industry.
+
+Ms. Takaichi, who vowed to “work, work, work, work and work” upon her election last year, has frequently highlighted her grueling schedule to reinforce an image of a down-to-earth leader. Her comments in July about her sleep schedule prompted debate in the country over work-life balance. At the time, she recounted that she spent a holiday weekend ironing undergarments, sewing fraying skirts and reinforcing loose jacket buttons.
+
+Ms. Takaichi rose to power in Japan’s male-dominated political system and has embraced some policies that critics say erode women’s rights. As prime minister, she supported legislation aimed at preserving the male-only lineage of Japan’s imperial family. She also opposes changing a longstanding law that requires married couples to share a surname.
+
+She has sometimes been subject to sexism, including commentary on her wardrobe, hair and makeup.
+
+Midashinami is such a large part of the culture in Japan that schools do routine checks on hair, nail and skirt length, and workplaces enforce strict rules. While there are expectations about grooming for both women and men, in practice women often face more scrutiny.
+
+Tokyo’s governor, Yuriko Koike, has apologized several times over the past few years for forgetting to wear lipstick at news conferences. Japan was abuzz earlier this year when a television anchor for NHK, the public broadcaster, rushed to the studio after an earthquake and appeared on the air wearing glasses and seemingly no makeup.
+
+Some companies have worked in recent years to ease the burden on women. Japan Airlines last year relaxed its dress code, allowing flight attendants and ground staff to wear sneakers instead of high heels.
+
+Outside a subway station in Tokyo this week, women expressed mixed views about Ms. Takaichi’s comments. Some said they were baffled how she could spend so much time on makeup and bathing.
+
+Rina Sumi, 22, who works part time at a cafe, said that Ms. Takaichi’s remarks “weren't appropriate in this day and age.”
+
+“Why bring up her gender like that — as if it were an excuse?” she said.
+
+Mika Okado, 27, a nurse, said she spends an hour each day getting ready, including preparing a bento box for herself. She said she was surprised by Ms. Takaichi’s ability to devote so much time to her routine, adding that she admired her frankness.
+
+“In a way, it’s actually quite refreshing — she’s speaking without overthinking it,” she said. “There’s a certain human quality to the fact that she isn’t calculating every move or anticipating how it might be perceived.”
 
 ================================================================================
 ukraine-war-life-in-kyiv.html

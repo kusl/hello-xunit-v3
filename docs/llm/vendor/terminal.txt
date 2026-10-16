@@ -1,6 +1,6 @@
-kushal@fedora:~/src/dotnet/MyImapDownloader$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -33,12 +33,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.17 MB across 19 files
 
-real	0m0.495s
-user	0m0.255s
-sys	0m0.232s
+real	0m0.418s
+user	0m0.246s
+sys	0m0.219s
 Restore complete (0.7s)
 
-Build succeeded in 0.9s
+Build succeeded in 0.8s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -51,9 +51,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.2       4.0.2   
 
 
-real	0m2.006s
-user	0m1.629s
-sys	0m0.410s
+real	0m1.821s
+user	0m2.217s
+sys	0m0.345s
 Restore complete (0.5s)
 
 Build succeeded in 0.6s
@@ -65,14 +65,16 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m2.039s
-user	0m1.738s
-sys	0m0.398s
+real	0m1.652s
+user	0m1.593s
+sys	0m0.388s
 
-real	0m5.346s
-user	0m5.977s
-sys	0m0.853s
+real	0m5.506s
+user	0m6.312s
+sys	0m0.770s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
+
+
 
 
 

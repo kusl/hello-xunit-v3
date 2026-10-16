@@ -1,0 +1,89 @@
+================================================================================
+bonds-investors-interest-rates.html
+Source: PreloadedData  Paragraphs: 32  Words: 1452/1456
+================================================================================
+
+SUMMARY
+
+The bad news for bonds isn’t over. The intuitive explanation is straightforward: When rates rise, a bond you bought yesterday isn’t worth as much today because new, otherwise identical bonds are now available, and they pay more in interest. Should rates rise further, price declines would be less painful for shorter-duration bonds and bond funds.
+
+ARTICLE
+
+Why Bad News in the Bond Market May Be Good News for Investors
+In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.
+By Jeff Sommer
+Published 2026-10-16 05:07 UTC
+https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html
+
+The bad news for bonds isn’t over. Far from it.
+
+Yet I’ll stick my neck out and say that for careful people with long horizons, this is a fine time to make selective purchases of high-quality bonds. That includes Treasuries, inflation-protected, corporate and municipal bonds, and bond funds.
+
+Today’s high interest rates are painful for borrowers. But at their current levels, they have begun to provide a comfortable buffer against further losses for investors and promise richer income streams for the future.
+
+“With interest rates where they are now, it’s a good moment for long-term investors and for people in retirement to lock in some high yields,” Kathy Jones, a bond maven who was formerly a chief strategist at Schwab, told me.
+
+Even so, jumping into bonds now requires fortitude because trouble is likely to continue. Interest rates, which soared in September, could easily rise from here, and their pernicious economic toll is still spreading. Nor is this just a U.S. problem. In France, a debt crisis is underway, raising concerns that it could worsen financial problems elsewhere in Europe and around the world.
+
+A hot inflation report in the United States on Wednesday heightened expectations that the Federal Reserve will raise short-term rates again this year. It’s possible that longer-term rates set by thousands of traders in the bond market will rise, too. That means that bond buyers who sell before their bonds mature could face short-term losses.
+
+Still, months of rising rates have already led to a major and positive change for investors. The 10-year Treasury yield, which serves as a benchmark for all others in the bond world, surpassed 5.3 percent last month, up from 4.2 percent at the beginning of this year.
+
+It is hovering above 5 percent. While that may seem shocking after rates were so low for so long, current yields are only approaching the average of 5.4 percent since the 1950s, based on my own computation of data compiled by Robert J. Shiller, the Yale economist. Investors are being compensated at rates that haven’t been available for years. These higher interest rates imply better returns for bondholders in the years ahead.
+
+Yes, It’s Been Rough
+
+Still, if you’re leery of buying bonds, I don’t blame you. They have performed dismally. There’s no sugarcoating it.
+
+Why did this happen? Recall some basics. Rising interest rates mean falling bond prices, as a matter of fundamental bond math.
+
+The intuitive explanation is straightforward: When rates rise, a bond you bought yesterday isn’t worth as much today because new, otherwise identical bonds are now available, and they pay more in interest. Yields have soared since the start of the war with Iran at the end of February. Oil prices rose, the pace of inflation increased, and traders in the bond market demanded better yields — and lower prices — for the risks they were taking.
+
+Perhaps more important, this year’s rate increases are built on a deeper shift in the market.
+
+Bond rates have been trending upward since the Covid-19 pandemic, when the 10-year Treasury yield fell as low as 0.6 percent. That benchmark yield had begun dropping much earlier. It approached 2 percent during a steep recession in 2008 and fell below 2 percent in September 2011. In those years, deflation was a far bigger concern than inflation.
+
+Interest rates have taken a long road upward. Seen in this light, their increase may be viewed as a return to normal — to the interest rates that prevailed before the great financial crisis that started late in 2007.
+
+A variety of factors help to explain the decades-long increases in interest rates. They include: widening government deficits in the United States and other countries; a downturn in bond purchases by central banks; repeated inflationary shocks from disease, wars, tariffs and other disrupters; and, lately, increased global demand for capital to finance development of artificial intelligence. There’s been a sea change in interest rates.
+
+Watch Out for Duration
+
+Ordinary investors who held bonds and bond funds through these shifts have endured losses. If yields are approaching a peak, those losses could be coming to an end.
+
+Consider the returns for two funds this year and over the five years through Thursday.
+
+- iShares 20+ Year Treasury Bond E.T.F. (short for exchange-traded fund). It contains Treasuries with a maturity of at least 20 years. Shareholders lost 6.3 percent this year and 8.2 percent, annualized, over five years.
+- Vanguard Total Bond Market Index fund. It tracks a benchmark for the entire U.S. investment-grade bond market and the Bloomberg U.S. Aggregate Bond index, and it contains shorter- and longer-term Treasuries, mortgage-backed securities and corporate bonds. The bond fund declined 2 percent this year and 0.5 percent, annualized, over five years.
+
+The numbers are much worse for the iShares fund because it includes only long-term bonds, with an average “duration” of 14.5 years, according to FactSet. Duration measures a bond’s price sensitivity to interest rates. The Vanguard fund has a much shorter duration — less than six years. Duration is the main reason for the return differences.
+
+That’s important if you’re contemplating purchases of investment-grade bonds or bond funds now. Should rates rise further, price declines would be less painful for shorter-duration bonds and bond funds. (The contrary would also be true: Should rates decline sharply, which often happens in economic downturns, longer-duration bonds could have spectacular returns.)
+
+Note that I’m talking only about investment-grade bonds. High-yield bonds, known as junk bonds, are more hazardous. Hold junk bonds only if you have examined the specific risks, and have chosen to embrace them, in exchange for the somewhat higher yields they offer.
+
+Personally, I take on all the investing risk I can handle through stock index funds. For bonds, I want greater safety. That means short- to moderate-duration funds — with a rough maturity of up to five or six years — containing only investment-grade bonds.
+
+The Silver Lining
+
+This backward look at the bond market is gloomy. But in the contrarian world of investing, it’s why the future looks better.
+
+“The higher yields in the market now are a silver lining for investors,” Gina Martin Adams, chief market strategist at HB Wealth, an independent investment management firm, said in a phone conversation. Yields are in a historically reasonable range now, she said. “It would be worth nibbling at some bonds now, if you have been staying away from them.”
+
+Ms. Jones has a similar perspective. “I’ve been looking at high-quality bonds for myself,” she said.
+
+How should people think about the risk that rates would rise further? To produce losses over the next 12 months, yields would need to jump appreciably from current levels, with the 10-year Treasury yield approaching roughly 6 percent. That could happen. Even so, the income stream generated by bonds at current 5 percent-plus yields “should hold up well” over the next decade, Ms. Jones said, assuming the Fed tames inflation.
+
+The Fed raised the short-term rates it controls by one quarter point at its last meeting. While the market deems it unlikely that the central bank will raise rates again when policymakers meet this month, further increases are expected later this year and next. Longer-term rates set in the bond market are likely to moderate if inflation is perceived as being under control.
+
+That’s a benign outcome, of course. There are other possibilities.
+
+A nastier one, modeled on history, would be something like this: Inflation remains hot, forcing interest rates high enough to slow the economy. That would set off more bond losses and, ultimately, could start a recession.
+
+A recession would end the interest rate increase cycle emphatically. Interest rates typically plummet when the economy is weak, and bonds, especially Treasuries, tend to rise in value. That happened in the 2007-9 recession. While the U.S. government no longer has a pristine, AAA bond rating, I believe that Treasuries would probably serve as a haven again.
+
+Bonds are where investors have traditionally gone for stability. They haven’t done a great job lately, but they can still play that role. And if solid income is what you’re looking for, high-quality bonds can do the job.
+
+But don’t expect too much from them. Over the long haul, even when bonds have performed reasonably well, returns in the U.S. stock market have been much better. For very short periods, too, money market funds and Treasury bills have been more reliable than bonds because they don’t lose value when rates rise. (That’s because money market funds and Treasury bills have very short durations.) Government-insured certificates of deposit and high-yield savings accounts are also good places to park money.
+
+The turmoil in the bond market is opening opportunities. The negative bond headlines are disconcerting, but they signal better buys for prudent investors.
