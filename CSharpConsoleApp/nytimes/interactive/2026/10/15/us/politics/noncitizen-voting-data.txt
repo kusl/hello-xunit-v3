@@ -1,0 +1,60 @@
+================================================================================
+noncitizen-voting-data.html
+Source: RenderedHtml  Paragraphs: 22  Words: 764
+================================================================================
+
+SUMMARY
+
+While President Trump has claimed that noncitizens voted en masse and even tipped the scales in recent elections, research from partisan and nonpartisan groups alike has shown that instances of noncitizen voting are so rare that they have never been significant enough to change the outcome of an election. Investigations into noncitizen voting have historically followed a pattern. Nowhere did federal and state charges for noncitizen voting exceed 25 people in a state in a recent election, The Times found.
+
+ARTICLE
+
+How Claims of Widespread Noncitizen Voting Fall Apart
+Investigations into noncitizen voting follow a pattern. Each inquiry ends with few, if any, prosecutions.
+By Amy Schoenfeld Walker, Jeremy White and Seamus Hughes
+Published 2026-10-15 23:01 UTC
+https://www.nytimes.com/interactive/2026/10/15/us/politics/noncitizen-voting-data.html
+
+While President Trump has claimed that noncitizens voted en masse and even tipped the scales in recent elections, research from partisan and nonpartisan groups alike has shown that instances of noncitizen voting are so rare that they have never been significant enough to change the outcome of an election.
+
+Investigations into noncitizen voting have historically followed a pattern. First, state or federal election officials report that hundreds or thousands of noncitizens may be on their voter lists. After further review, the figures often shrink to dozens. Each inquiry ends with few, if any, prosecutions.
+
+“We keep finding the same story over and over and over again, which is very, very small numbers,” said Christopher Mann, the research director at the Center for Election Innovation and Research in Washington, which tracks reports of ineligible voting.
+
+But just how small are those numbers?
+
+The center tracks public reports of suspected noncitizen registration and voting made by election officials and prosecutors. The New York Times reviewed those reports and examined additional court records dating back to 2020. Nowhere did federal and state charges for noncitizen voting exceed 25 people in a state in a recent election, The Times found.
+
+Florida, Pennsylvania and Texas were among the states with the most charges for noncitizen voting in the 2024 election.
+
+Election officials regularly check their voter lists for ineligible voters and either remove them or refer them to prosecutors. But Trump administration officials have said that the government will find more of these cases if it simply looks harder, and they have launched a robust campaign to root out voter fraud. In recent weeks, federal prosecutors have brought charges against dozens of people.
+
+“We’re just getting started,” Homeland Security Secretary Markwayne Mullin said in late September.
+
+The Department of Homeland Security has assigned hundreds of agents to hunt for noncitizens on state voting lists, and it has begun investigating nonprofits it says may be recruiting noncitizens to vote. Justice Department leaders have threatened state election officials with criminal charges if noncitizens cast ballots in their states.
+
+Even so, the administration’s claims of large-scale voter fraud have not stood up to scrutiny. Election officials and experts say federal investigators have relied on matching names from voter lists to a massive federal database, when both sources may be incomplete or out of date.
+
+People who recently became naturalized citizens, for example, can be flagged as false positives.
+
+In one instance, D.H.S. officials told Nevada this summer that they had found nearly 16,000 noncitizens registered to vote in the state. When the agency later sent a list of 185 names, state election officials said that all were citizens.
+
+D.H.S. also said it had found more than 2,500 noncitizen voters in Georgia. The state reviewed the list and said that no more than 150 had voted.
+
+Prosecutions under the effort have also been scarce. A review of federal court records shows that, since 2025, the Trump administration has charged 131 people with illegally registering or voting as a noncitizen.
+
+Most of these cases are ongoing, but 25 people have been found guilty or pleaded guilty. Two people have been acquitted, and charges were dropped or cases were dismissed for four other individuals.
+
+The federal government has traditionally been more reliant on states to handle voter fraud. During the Biden administration, court records show, federal prosecutors charged 13 people.
+
+Research shows that earlier convictions for noncitizen voter fraud were exceedingly rare. The Heritage Foundation identified 71 criminal convictions nationwide for noncitizen voting between 2000 and 2025.
+
+It is possible that a larger number of noncitizens may register to vote or cast a ballot and never be prosecuted for voter fraud. State election officials sometimes remove potential noncitizens from voter lists without bringing charges against them. Prosecutors typically have to prove that people knowingly registered or voted to win a conviction.
+
+But noncitizens often appear on voter rolls because of mistakes rather than an intention to commit fraud, researchers and voting rights advocates say.
+
+For example, New Jersey improperly added as many as 6,600 noncitizens to its voter lists in 2023 and 2024 because of a motor vehicle department software error that registered people to vote when they applied for a driver’s license or state identification card.
+
+State officials said that approximately 340 of those people had cast ballots, one of the larger confirmed instances of noncitizen voting, though it represents just a tiny share of the state’s voting public.
+
+It’s also just a fraction of the number of noncitizen voters that the Department of Homeland Security claimed to have found in New Jersey — 35,152.

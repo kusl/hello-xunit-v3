@@ -1,23 +1,23 @@
 ================================================================================
 homelessness-unhoused-denver-shelters.html
-Source: PreloadedData  Paragraphs: 29  Words: 1775/1840
+Source: PreloadedData  Paragraphs: 29  Words: 1778/1834
 ================================================================================
 
 SUMMARY
 
-Denver has recorded the biggest recent drop in street homelessness among the largest U.S. cities, according to my analysis of local data. With the help of social workers, the city connects those people to services and shelters. Progressive cities have tried to get around the dilemma by flooding the streets with social services, hoping that offers of help would get people on the streets to pack up.
+Since Mayor Mike Johnston of Denver took office in 2023, he has focused on getting unsheltered homelessness to zero. With the help of social workers, the city connects those people to services and shelters. I asked Mr. Johnston if it’s realistic to think a city as large as Denver can eliminate street homelessness.
 
 ARTICLE
 
-We Know How to Fix Homelessness. Why Don’t More Cities Do It?
-It takes doing things conservatives and progressives both dislike.
+We Know How to Fix Homelessness. Look at Denver.
+It takes doing things that both conservatives and progressives dislike.
 By German Lopez
 Published 2026-10-13 09:00 UTC
 https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html
 
-Homelessness, all appearances to the contrary, is a long-solved problem. We know both the causes and the cure. You wouldn’t think that’s the case from visiting many U.S. cities. Stymied by political and financial hurdles, progressive bastions including Los Angeles, Seattle and Burlington, Vt., appear to have given up. They have surrendered public spaces to the homeless and their encampments to the point that it’s difficult to describe these spaces as truly for the public anymore.
+Homelessness, all appearances to the contrary, is a long-solved problem. We know both the causes and the cure. You wouldn’t think that’s the case from visiting many U.S. cities. Stymied by political and financial hurdles, progressive bastions — including Los Angeles, Seattle and Burlington, Vt. — appear to have given up. They have surrendered public spaces to the homeless and their encampments to the point that it’s difficult to describe these spaces as truly for the public anymore.
 
-Denver shows what happens when a city puts into place proven policies with determination and focus. Not only has it dramatically reduced homelessness, it embarrasses every other urban jurisdiction that has failed to deal with its Covid-era surge of homeless encampments. Other cities no longer have an excuse.
+Denver shows what happens when a city puts into place proven policies with determination and focus. Not only has it significantly reduced homelessness; it embarrasses every other urban jurisdiction that has failed to deal with its Covid-era surge of homeless encampments. Other cities no longer have an excuse.
 
 Denver has recorded the biggest recent drop in street homelessness among the largest U.S. cities, according to my analysis of local data. The city’s drop was roughly 13 times the national rate in 2025, the most recent year for federal statistics. Since 2023, Denver’s unsheltered population is down 64 percent. “What they’re doing is working,” said Samantha Batko, a senior fellow at the left-leaning Urban Institute, which is independently evaluating the city’s progress.
 
@@ -31,33 +31,33 @@ Speaking from an office stuffed with Colorado memorabilia, Mr. Johnston said he 
 
 On a Monday afternoon, Mr. Johnston played tour guide. He wanted to show me the city’s new homeless shelters and how they differed from traditional facilities. We walked 10 minutes from City Hall — the mayor stopped to congratulate a wedding party on the way out — to a block of tiny houses known as Elati Village.
 
-Each resident there gets a small house that offers a level of privacy not typical for homeless shelters. Valentino Ortiz, a former Elati Village resident and a transgender man, said privacy was important for his safety. He recalled a previous stay at a more traditional shelter. “The third day, I was already getting sexually assaulted,” he said. At Elati, “you have a beautiful tiny home to call your own. You have hot showers, you can cook your own meals and do laundry.”
+Each resident there gets a small house that offers a level of privacy not typical for homeless shelters. Valentino Ortiz, a former Elati Village resident and a transgender man, said privacy was important for his safety. He recalled a previous stay at a more traditional shelter. “The third day, I was already getting sexually assaulted,” he said. At Elati, “you have a beautiful tiny home to call your own. You have hot showers. You can cook your own meals and do laundry.”
 
-Next, Mr. Johnston took me to The Aspen, a city-owned hotel. For residents, it is like an apartment complex. The rooms weren’t too different from places I’ve lived before. Mr. Johnston said he wanted the city’s shelters to feel like real homes — “a room of one’s own.”
+Next, Mr. Johnston took me to the Aspen, a city-owned hotel. For residents, it is like an apartment complex. The rooms weren’t too different from places I lived in before. Mr. Johnston said he wanted the city’s shelters to feel like real homes — “a room of one’s own.”
 
-As we walked through the building, residents told the mayor they finally had been able to get their lives in order. Staff at The Aspen and other shelters spend much of their time preparing people to leave. They help residents get the documents they need to find a job and permanent housing. They connect them to training, education programs and additional government aid, including housing vouchers and rent subsidies. Residents don’t face hard limits on how long they can stay, but providers are, under their contracts, evaluated on how many people they help get on the right path.
+As we walked through the building, residents told the mayor they finally had been able to get their lives in order. Staff members at the Aspen and other shelters spend much of their time preparing people to leave. They help residents get the documents they need to find a job and permanent housing. They connect them to training, education programs and additional government aid, including housing vouchers and rent subsidies. Residents don’t face hard limits on how long they can stay, but providers are, under their contracts, evaluated on how many people they help get on the right path.
 
 The goal is to keep people off the streets for good. To that end, the city still has to address the high cost of housing. Denver has enacted some reforms, but buying and renting a home remain too expensive for much of the poor and middle class.
 
-Ana Miller, an organizer for the homeless rights group Housekeys Action Network Denver, criticized The Aspen for some of its rules and their enforcement, particularly the staff’s room inspections. She also panned the shelter’s provider, Urban Alchemy, which has faced criticisms in other cities for its unorthodox tactics, including its hiring of ex-convicts as staff members. Ms. Miller said Elati Village offers a better model than typical shelters, but she worried about resistance from neighborhoods to building more such communities. The neighbors living in apartments near Elati “literally point cameras at the community and watch them,” she said.
+Ana Miller, an organizer for the homeless rights group Housekeys Action Network Denver, criticized the Aspen for some of its rules and their enforcement, particularly the staff’s room inspections. She also panned the shelter’s provider, Urban Alchemy, which has faced criticism in other cities for its unorthodox tactics, including its hiring of ex-convicts as staff members. Ms. Miller said Elati Village offers a better model than typical shelters, but she worried about resistance from neighborhoods to building more such communities. The neighbors living in apartments near Elati “literally point cameras at the community and watch them,” she said.
 
-Still, the numbers speak for themselves. Mr. Johnston said that no one has declined an offer to move into one of the new facilities, and that they are consistently at or near capacity. The city’s biggest problem is how it can buy or build more places like Elati Village and The Aspen to meet demand.
+Still, the numbers speak for themselves. Mr. Johnston said that no one has declined an offer to move into one of the new facilities and that they are consistently at or near capacity. The city’s biggest problem is how it can buy or build more places like Elati Village and the Aspen to meet demand.
 
-Much of the tens of millions of dollars the city has spent on shelters was paid for through temporary federal funds that have expired. The Trump administration has also moved to cut housing subsidies across the country. The financial constraints have led some local officials to question whether the cost of the city’s efforts is worth the benefit. If that sentiment spreads, it could doom progress.
+Much of the tens of millions of dollars the city has spent on shelters came from temporary federal funds that have expired. The Trump administration has also moved to cut housing subsidies across the country. The financial constraints have led some local officials to question whether the cost of the city’s efforts is worth the benefit. If that sentiment spreads, it could doom progress.
 
 At 6:30 a.m. on Tuesday, I met with a Denver police squad to see the enforcement side of the city’s strategy. Officer Michael Nierenberg, who led the group, told me his goal was not to arrest people. Tall and imposing, he said the threat he presented was only an incentive to push people to get help. Social workers rode along.
 
-Early in the patrol, we came across a tent. Inside, a couple slept with all their belongings scattered across the floor. Officer Nierenberg waited patiently as they woke up, and then explained the consequences of breaking laws against camping outside: a verbal warning, then a written warning, then a ticket or arrest. He started asking about the couple’s situation. They were from Texas, they said, and still had family there. They would like to go back, but they didn’t have the means to do so.
+Early in the patrol, we came across a tent. Inside, a couple slept with all their belongings scattered across the floor. Officer Nierenberg waited patiently as they woke up, and then he explained the consequences of breaking laws against camping outside: a verbal warning, then a written warning, then a ticket or arrest. He started asking about the couple’s situation. They were from Texas, they said, and still had family there. They would like to go back, but they didn’t have the means to do so, they added.
 
-Officer Nierenberg told them to pack up their tent and that he would go see what he could do. He sat in his car, making calls and looking through his computer. After about 15 minutes, he came back with a bus ticket. The man, who identified himself as Chance, cried tears of joy.
+Officer Nierenberg told them to pack up their tent and said he would see what he could do. He sat in his car, making calls and looking through his computer. After about 15 minutes, he came back with a bus ticket. The man, who identified himself as Chance, cried tears of joy.
 
 We continued like this for the rest of the morning. Sometimes the encounters were less pleasant. One man told the officers, in colorful language, to go away. Other times, people were cordial. “It has been a typical morning,” the officer told me as we headed back to the police station.
 
-Progressives tend to view the enforcement side of anti-homelessness strategies with disdain because it can involve criminalizing an economic or a mental health issue. At the same time, residents don’t want encampments clogging up parks and sidewalks. Progressive cities have tried to get around the dilemma by flooding the streets with social services, hoping that offers of help would get people on the streets to pack up. The reality, as cities have painfully learned, is that people often need a stronger push to abandon their tents.
+Progressives tend to view the enforcement side of anti-homelessness strategies with disdain because it can involve criminalizing an economic or a mental health issue. At the same time, other residents don’t want encampments clogging up parks and sidewalks. Progressive cities have tried to get around the dilemma by flooding the streets with social services, hoping that offers of help would get people on the streets to pack up. The reality, as cities have painfully learned, is that people often need a stronger push to abandon their tents.
 
-The balanced approach has shrunk the number of encampments across Denver, the Urban Institute’s evaluation found. Between 2023 and 2025, the number of active encampments fell by nearly half. The number of large encampments, with 10 or more tents or structures, dropped by 91 percent. “It’s pretty much night and day,” said Anthony Mantelli, whose family runs the West Saloon and Kitchen in the city’s 16th Street Mall. “I close the restaurant four or five nights a week. I don’t deal with many issues at all.”
+The balanced approach has shrunk the number of encampments across Denver, the Urban Institute’s evaluation found. From 2023 to 2025, the number of active encampments fell by nearly half. The number of large encampments, with 10 or more tents or structures, dropped by 91 percent. “It’s pretty much night and day,” said Anthony Mantelli, whose family runs the West Saloon and Kitchen in the city’s 16th Street Mall. “I close the restaurant four or five nights a week. I don’t deal with many issues at all.”
 
-Mayor Johnston described his strategy through his perspective as a former school principal. “Your job is to keep everyone safe,” he said. “That means I love every single kid in the building. And if there’s one kid who’s making other kids in the building feel unsafe, my job is to either help him change his behavior or hold him accountable for it.”
+Mr. Johnston described his strategy through his perspective as a former school principal. “Your job is to keep everyone safe,” he said. “That means I love every single kid in the building. And if there’s one kid who’s making other kids in the building feel unsafe, my job is to either help him change his behavior or hold him accountable for it.”
 
 I asked Mr. Johnston if it’s realistic to think a city as large as Denver can eliminate street homelessness. “I genuinely believe we can do it,” he said.
 
@@ -65,15 +65,13 @@ The next phase will be more difficult. Those who continue to live on the streets
 
 For this step, Mr. Johnston has begun an initiative that focuses on connecting people to mental health and addiction treatment. That will be hard to execute. Many of the sick and addicted are resistant to treatment, and getting them to accept help can require a kind of coercion and policing of low-level crimes that many progressives are uncomfortable with.
 
-I came away from Denver convinced that the mayor’s focus and determination are the most crucial factors. I’ve seen this happen nationwide: Policies that work in one place fail in another because officials can replicate the law or the money, but not the leadership — the force of will — behind the original success.
+I came away from Denver convinced that the mayor’s focus and determination are the most crucial factors. I’ve seen this happen nationwide: Policies that work in one place fail in another because officials can replicate the law or the money but not the leadership — the force of will — behind the original success.
 
 But Democrats around the country should figure out how to copy Denver’s program. The party’s failure to tackle homelessness and public disorder more broadly has haunted it nationwide. It’s one reason the party is unpopular, even as President Trump has approval ratings in the 30s, leaving many voters with two options on the ballot they don’t particularly like.
 
 “When you see a problem in front of you every day and nothing happens, your only option is either to blame your neighbor or to blame democracy,” Mr. Johnston said. Mr. Trump “has proved that if things are bad enough, Americans are open to both of those arguments.”
 
 He added: “I think the opposite’s also true. If you can prove that there’s something hard to do and we work it out together and it gets better, you train people’s muscle memory to turn to each other — not to turn on each other.”
-
-Mr. Lopez is a writer for the editorial board.
 
 The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
 
