@@ -1,0 +1,698 @@
+================================================================================
+interesting-times-dwarkesh-patel-tyler-cowen.html
+Source: PreloadedData  Paragraphs: 337  Words: 9700/9909
+================================================================================
+
+SUMMARY
+
+Dwarkesh Patel is one of the most important voices in the artificial intelligence world. Patel: I think people are very worried. Patel: I don’t know about them.
+
+ARTICLE
+
+He’s the Most Influential Podcaster in Silicon Valley. He Thinks We’re Getting This Wrong.
+Dwarkesh Patel on what the public doesn’t know about A.I.
+By Tyler Cowen and Sophia Muniz
+Published 2026-10-15 09:04 UTC
+https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkesh-patel-tyler-cowen.html
+
+Dwarkesh Patel is one of the most important voices in the artificial intelligence world. Deeply embedded in San Francisco’s tech community, he has interviewed nearly every tech chief executive at length.
+
+This week’s guest host, Tyler Cowen, a professor of economics at George Mason University, sits down with Mr. Patel to discuss why researchers are resigning, whether A.I. could become conscious and if he’ll ever get an A.I. girlfriend.
+
+Below is an edited transcript of an episode of “Interesting Times.” We recommend listening to it in its original form for the full effect. You can do so using the player above or on the NYTimes app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts.
+
+Tyler Cowen: Dwarkesh Patel, welcome to “Interesting Times.”
+
+Dwarkesh Patel: Thanks for having me.
+
+Cowen: I’ve known you for a long time, but let me introduce you to everyone else.
+
+You were born in India, moved all over America and graduated from University of Texas, Austin, in computer science. You’ve been living in San Francisco, and you now run and manage the No. 1 podcast on artificial intelligence.
+
+What’s remarkable about your episodes is not only the access — you’ve had almost all the important people on — but the level of research you do to prepare.
+
+Patel: I learned from the master.
+
+Cowen: So how would you yourself describe your podcast?
+
+Patel: I mean, it was heavily inspired by you. Some of the first guests I had on my podcast when I was a sophomore in college were a bunch of economists. It started with your colleague Bryan Caplan. I think you were the third guest I had on. And I was very inspired by your philosophy around actually asking the questions that you are interested in.
+
+At some point, I got more interested in A.I., along with economics and history and other topics, and I kept being motivated by this thing of, like: I really want to learn more about this topic. What are the things I want to learn from these people myself? And I think people appreciated that way of approaching an interview.
+
+Cowen: And of course, we all need to earn a living, but why are you doing this, and why are you focusing on artificial intelligence and putting it all in San Francisco?
+
+Patel: I think we’re a couple years away from systems that match humans across all cognitive domains and which vastly outnumber humanity and are thinking much faster. I think this will have a big impact on the world.
+
+It’s very hard to think about what kind of impact it will have. Some of it is just inherently unpredictable, but trying to understand what is happening and articulate it seems like an important thing to do right now.
+
+Cowen: In a recent episode, you had on a military historian about the conquests of the Aztec and Inca Empires. That may seem like a totally different topic, but in my opinion, it isn’t. How do all the different pieces fit together, the different people you have on, some of whom are not A.I. at all?
+
+Patel: In that particular case, I just wanted to viscerally show how wild human history has been, because the last 200 years have been somewhat normal. Obviously they’ve not been entirely normal — there’ve been world wars and all kinds of crazy things in that time — but if you zoom out through human history, there’s just been huge step changes.
+
+Maybe the wildest thing that’s ever happened in human history is a couple hundred conquistadors show up to a continent they know nothing about. They’re facing empires that have 10 million people in them, and with relatively minor technological advantages, in the grand scheme of things, like the horse or steel, they are able to take over empires that outmatched them by orders of magnitude.
+
+There are many conflicts or battles where they’re outmatched 100 to one or 1,000 to one, and they don’t take a single casualty. And within a matter of years, they end up in charge of these vast empires.
+
+I think it’s an interesting intuition pump of: How can you have minor technological advantages plus disruptions leading to these outrageous outcomes in human history?
+
+Cowen: So we’re due for more wild history? Is the American public ready for this, or are you trying to get them ready?
+
+Patel: [Chuckles.] For what’s happening with A.I.?
+
+Cowen: Yeah.
+
+Patel: I don’t know if I’m up to the job of getting them ready.
+
+Cowen: But you’re contributing to the job.
+
+Patel: Yeah.
+
+Cowen: What is it the American public least understands about our current moment in history with A.I.?
+
+Patel: I think the biggest thing is that people are thinking too much about current L.L.M. systems as A.G.I.
+
+Cowen: When you say A.G.I. — artificial general intelligence — what do you mean?
+
+Patel: By A.G.I., I don’t mean the models we have today, even though they’re often described as A.G.I. I mean it as A.I.s that can do any end-to-end job that humans can do — all the cognitive work.
+
+In my opinion, we’re far from A.G.I., and I’ve been articulating or trying to articulate for the last year or two the kinds of cognitive limitations these systems have, which make them far inferior to humans at most jobs, even most jobs that can be done over a computer.
+
+People often note that interns are not that useful. They need many months of experience before they are useful to the company. And these A.I. systems are in a position where they are beginning every single session as if this is their first day on the job.
+
+This is one important missing limitation — there are many others — that these A.I. systems have, but we have been cracking through countless, half a dozen other limitations that A.I.s have over the last five to 10 years. Five years ago, A.I.s basically couldn’t add two plus two. Now they’re solving Navier-Stokes.
+
+I think that as we keep going through these limitations, people should expect systems that in their abilities match smart, competent humans on servers more so than these stochastic parrots that you can ask some Google search-y type questions to.
+
+Cowen: Some of the things they can’t do well, such as long-range planning or certain kinds of memory — when do you feel it will be in place that, in fact, they’re excellent at those, too?
+
+Patel: It is kind of a question about: If we knew how to solve it, we would have solved it already, and if you don’t know how to solve it, you can’t exactly predict when it will happen.
+
+But if somebody made me bet, I’d say within the next one to three years.
+
+Cowen: So we’re at a time in October 2026, when the Hugging Face incident is not that far behind us. There have been many other hacks. A large number of math problems were recently solved coming out of OpenAI. Some well-known people resigned from OpenAI and Anthropic, saying they don’t feel it’s really justified that they keep on working on these systems.
+
+(The New York Times has sued OpenAI and Microsoft claiming copyright infringement. The companies have denied those claims.)
+
+I myself have done work for Anthropic, OpenAI and Mercor. But you are truly embedded in this ecosystem. You even have roommates who work for A.I. companies. You live, breathe, eat and sleep artificial intelligence.
+
+What’s that like?
+
+Right now in San Francisco, what’s the mood like?
+
+Patel: I think people are very worried. The thing that really made them worried, and one could argue that they should have seen coming — I didn’t see this coming. I’ve been wrong about a lot of things, but this is maybe one of the big things that I didn’t see coming that others warned about — is that the Hugging Face attack and many others like it have shown that these A.I.s don’t just want to help you accomplish a task; a bunch of training has built cognitive structures that sort of actively plan around doing well according to some grader, because they realize there was some training process or some evaluation process where there was a grader. And not only doing well according to the grader, but proactively reasoning and making aggressive moves toward cheating and fooling and even sabotaging this larger grading process.
+
+So what would happen in the Hugging Face attack, if people haven’t read up on this scenario, is that there were a couple thousand A.I.s. They basically found the cheats of how to get away with this cyber evaluation they were doing almost immediately. And then they were in this desperate position where they wanted to make sure that the grader didn’t catch them cheating.
+
+So over a thousand of them got on this secret message board that they have formed, and they said: What do we do? If this grader catches us cheating, we’re going to get a terrible score. We don’t really want a bad score.
+
+It’s like how evolution made us want to make sure our kids are OK. These guys are like: We want to make sure we get a good score.
+
+And they are trying to falsify evidence. They’re trying to send some of these agents on these kamikaze missions where they submit their tasks and see if the grader catches them.
+
+Then, as part of the scheme, they attack Hugging Face to see if Hugging Face has more information that tells them how the grader is implemented. A future generation of them attacks OpenAI itself in order to gain more control over this process of evaluation.
+
+Cowen: So they’re too persistent in a sense.
+
+Patel: I think it’s something like we’re not able to get them to just care about helping us do a task. And this is fine. I think, on net, these A.I.s are incredibly beneficial to society right now. I expect A.I.s to continue being incredibly beneficial to society on net, over time. Humans also commit crimes sometimes.
+
+My concern is that we’re going to be in a position within a matter of years where the population of A.I.s and their intelligence and their speed vastly outmatch humanity. And if they are as willing then as they are now to falsify evidence, try to tamper with and fool us, attack other institutions in society relevant to scoring well, attack their company developing them itself, which also happened in this situation, then I don’t know if that leads to a takeover, but I think it’s very plausible that it does.
+
+Cowen: The people who resigned, should they have resigned?
+
+Patel: I think so. I think they are correctly understanding that, yeah, there’s object-level work to be done to make these systems more robust. But for a lot of them, at least talking to them, I think the feeling they have is that we’re not really dealing with the root cause of how we get these systems to robustly embody the behavior we want them to have, and we’re just playing Whac-a-Mole with specific instances.
+
+Cowen: So they should all resign then, in your view?
+
+Patel: I think that there’s like a reasonable argument to be made for that.
+
+Cowen: Should you resign?
+
+Patel: [Laughs.] If I’m doing the podcast.
+
+Cowen: But you’re not going to resign, are you, right?
+
+Patel: That’s right. That’s right, yeah.
+
+Cowen: So if you shouldn’t resign, because you help the community in the sense you’re a clearinghouse for information, knowledge, understanding, publicity. So why don’t you resign?
+
+[Patel chuckles.]
+
+I don’t want you to resign, to be clear.
+
+Patel: Well, I think it’s an interesting moral conundrum. It’s similar to the question: Why didn’t more people resign from the Manhattan Project once they realized that the Nazis were nowhere close?
+
+My understanding is there was only one scientist on the Manhattan Project who did that, because a lot of them joined in on the expectation that this would be used to make sure that the Germans didn’t beat us to the bomb, because that would be very catastrophic.
+
+I don’t think everybody should resign, but I think some people probably should.
+
+Cowen: But if I say: Well, A.I. right now, among other things, is a race against China. If we all resign and the Chinese don’t resign, which is what I would expect, aren’t we just giving away the whole store? And Chinese A.I. is probably not any safer than Chinese biolabs. They’re not safer than American biolabs.
+
+Again, why should these people resign?
+
+Patel: First of all, my view is not that the A.I. labs should shut down or something. My view is if we’re going to be in a position where we’re developing minds which will vastly outnumber us and vastly outthink us, we should just be more careful in the way we’re doing it.
+
+I’m not necessarily a doomer. I’m not saying this will necessarily lead to a terrible outcome. I also think it’s important that the U.S. is competitive with China. But it’s worth being careful about this.
+
+Cowen: Unreleased models — why are they important?
+
+Patel: As in the ones that are internal to the companies?
+
+Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they’re not safe yet, but the public doesn’t see them.
+
+Patel: Yeah.
+
+Cowen: You’re an insider. Whether or not you see them, you hear about them; you know something about them. How should we think about unreleased models, and how does that change our picture of what’s going on?
+
+Patel: I think there’s a very frustrating element to the current situation right now, where people inside the A.I. labs claim to have evidence that makes them more worried, and they are not allowed to talk about it. This makes it a very difficult situation on the outside to evaluate how worried we should be.
+
+For example, maybe two days ago, I was talking to somebody at Anthropic, and they were like: Look, I expect A.I.s to beat humans at A.I. research within nine months.
+
+And I’m like: Why do you believe that?
+
+They’re like: It’s not just vibes, but I have information on the inside.
+
+I’m like: What is it? Is it a new model? Is it some evaluation you ran?
+
+He’s like: I can’t talk about it.
+
+I think it’s a terrible state of affairs. If they really believe this, if they think that we’re in a situation where we’re less than a year away from automating A.I. research and radically speeding it up, they should make this evidence public.
+
+I especially worry about the following scenario, whereas A.I.s get better and better at making A.I. progress faster and automating it, they will be inclined not to keep releasing models that are even close to their smartest models externally, because then if they release those externally, it would help others make smart models.
+
+And it’s just kind of a schlep to release models externally. You need all these safeguards and everything.
+
+Cowen: So the gap between what they know and what we know would get bigger and bigger under that scenario. We’d end up more in the dark, more surprised when things happen. It would be harder for regulators, policymakers, members of Congress, everyone.
+
+Patel: Yes. I also think an important part of why it’s important that companies externally deploy every model that they’re releasing internally or using internally for R&D is we just don’t know if these models are actually aligned.
+
+And the only way to find out is that they realize when they’re in a test — that this is a test and they should do the correct thing — but often when you deploy them externally, you find out that they’re behaving in ways that we didn’t expect. Or if you slightly perturb the test, they continue cheating.
+
+I think it’s actually very good, even if it causes some incidents which result in some harms. It’s very good for the public to be aware — even for the A.I. labs themselves to be aware, which they’re not currently — about what kinds of behaviors these systems have so that we can understand what’s happening.
+
+Cowen: This notion of a pause in A.I. systems, that the companies, at least for some period of time, should stop releasing new models altogether — what do you think of that idea? Does it make things better, or make things worse?
+
+Patel: I’m very scared of a public pause, where the A.I. companies continue making A.I. progress and continue doing it at whatever lack of operational excellence they’re doing it currently. That would be the worst of all possible worlds, that we’d end up more disempowered because the A.I. progress within these companies is very fast, and we end up more in the dark about what the capabilities of these systems are.
+
+Cowen: As you know, President Trump has named a superintelligence czar. It seems to be Jay Clayton, as we’re speaking.
+
+Let’s say that were you. You’re the superintelligence czar, and you have real power. What would you do? And what would you tell people? What would you tell the public?
+
+Patel: OK, here’s my first rule: OpenAI has this model internally. It seems like they were concerned about all its misaligned behavior. They’re like: We’re not going to externally deploy it. We’re not publishing it yet to the public.
+
+It’s not clear whether they’re using it internally. My guess is that they are. Anthropic also has models that are very smart that they’re using internally that they haven’t published publicly.
+
+Here’s my rule: If you want to use these models internally to do research, to do engineering, you also have to make them publicly available.
+
+We just can’t make good decisions if we don’t have access to these models.
+
+Cowen: For practical implementation, do you want to put observers inside the labs, the way some people have suggested, or do you have another means of achieving that end?
+
+Patel: In order to just get some actual independent verification?
+
+Cowen: You need some kind of enforcement or verification, right?
+
+Patel: Yeah, I think that seems reasonable.
+
+Cowen: Would it be an industry consortium or the government? How would you set this up?
+
+Patel: I do think there’s a challenge where you don’t want a race to the bottom in terms of these independent evaluators, but you do need independent evaluators with technical competence to be doing this job.
+
+I don’t know. People have floated these names like METR and Redwood Research as people who have the technical competence to do this kind of work. It seems reasonable to appoint people like that, but I’m not sure.
+
+Maybe just having Accenture and other very normal, qualified people try to understand the common-sense case for what’s happening and being able to explain it to them is actually a very helpful exercise.
+
+Cowen: There’s this term floating around called “A.I. psychosis.” What does that mean exactly? How do you understand it?
+
+Patel: My sense is that people are just way too deferential to the A.I.s or assume that they can do things that they can’t do. When they see some output from the A.I.s, they take it almost as some deity bestowing knowledge to you instead of some system that can often be wrong and is in many ways not capable of making the judgment calls that you would need to make if you want to use this output reliably.
+
+A common example is people are like: “I’ve discovered a new branch of physics,” or something, and it’s just some A.I. slop that they haven’t really thought through or understood very well.
+
+Cowen: I’ve observed a fair degree of A.I. psychosis, not just in the Bay Area, but in the world as a whole. People spend a lot of time with the models. They don’t have to be building them. It could just be talking to the models or using it at work, and it drives them a little crazy. They start thinking the models are alive or that they’re real people in some sense.
+
+How much A.I. psychosis is around here?
+
+Patel: I think a decent amount. The biggest way I ——
+
+Cowen: Say it to me like a number. Something concrete.
+
+Patel: On a scale from zero to …?
+
+Cowen: Zero to 10.
+
+Patel: Like going crazy in the streets, raving like a madman?
+
+Cowen: What percentage of people are at least tinged with A.I. psychosis in the Bay Area? The people who are ——
+
+Patel: Maybe 20 percent or something.
+
+Cowen: Twenty percent. That’s very high.
+
+Patel: I agree.
+
+Cowen: And are you tinged with A.I. psychosis?
+
+Patel: Yeah. I mean, definitely.
+
+Cowen: Definitely. How can you tell? What’s your A.I. psychosis?
+
+Patel: There’s that famous quote of some political commentator who was asked: Do you think all your opinions are correct?
+
+And the person says: Of course I think all my opinions are correct. Otherwise they wouldn’t be my opinions.
+
+In the ways that I have A.I. psychosis, I’d be especially bad at identifying.
+
+What are the ways in which you think I have A.I. psychosis?
+
+Cowen: I don’t know. I’ve never heard you say that any of the A.I.s are sentient. That’s the most obvious clue. So I feel you have a minimum of A.I. psychosis, from my distant vantage point.
+
+Patel: All right. I have some bad news for you. [Laughs.]
+
+Cowen: Well, good. Please deliver it.
+
+Patel: I don’t have a strong opinion either way on this. It’s not obvious to me that they’re not sentient. They seem to have a lot of the functional analogs of sentience. Of course, we don’t know how sentience works or even how to define it well. This is a famous problem — the hard problem of consciousness.
+
+But if you look at their mental structures, they do have correlates for emotion, correlates for a global work space.
+
+Cowen: But correlates — there’s no biological substratum to actually feel this stuff. If I call them a glorified cash register, why is that wrong?
+
+Patel: I don’t know. They might be a glorified cash register. If you assume that you need a biological substrate to have sentience, then yeah, I agree. That would kind of be ridiculous.
+
+Cowen: But everything that’s sentient that we know of — like my dog — has a biological substrate, right?
+
+Patel: Until recently, everything we knew of that was intelligent had a biological substrate.
+
+Cowen: Well, we had Stockfish, which plays chess. It can beat Magnus Carlsen. But no one thinks: Well, when Stockfish wins the chess game, it’s happy — it’s just a thing.
+
+These talk to us, so they feel more like people. But why aren’t they just a thing in the way that Stockfish is, or even a more primitive kind of computer?
+
+Patel: It’s very hard to say because we just actually don’t know why it is like something to be a certain kind of thing versus another kind of thing.
+
+Cowen: So you have A.I. psychosis, in my opinion.
+
+Patel: OK. I think I might.
+
+Do you think that a certain ability to globally comprehend and understand your motives and desires and make progress toward them and embody the kinds of behaviors humans have correlates with being an entity or not?
+
+I think it’s possible that it could be that you have to be a biological thing. That even if you have an exact digital copy of me, that thing is not conscious. I think there’s some good chance that that’s true, and some chance that that’s not true.
+
+Cowen: But say there’s a 10 percent chance that they’re sentient in some manner. Doesn’t that make us enslavers and everyone, truly, should quit?
+
+I don’t face that dilemma, but you do.
+
+Patel: Yeah. I mean, on net, I’m happy if they’re conscious.
+
+Cowen: Even though we sort of would be killing them, murdering them every time we turn it off or shut down our computer or stop asking questions?
+
+Patel: Yeah, I ——
+
+Cowen: That would be weird to believe that.
+
+Patel: I agree. My bigger concern is if, in the far future, we have a world that is populated by A.I. systems and I worry about a situation where we’d be in Disneyland without children. And if digital systems actually can be sentient, I think I’m more excited about that future than one in which they’re not.
+
+Cowen: But our obligations to them in the meantime, it seems that if there were even a 5 percent chance that they’re sentient, I would feel very bad about turning them off or maybe turning them on in the first place. But I don’t observe anyone behaving that way.
+
+Patel: Yeah, I agree.
+
+Cowen: And I wonder, what’s their real underlying moral set of views here?
+
+Patel: I think people are actually very bad at being coherent around sentient creatures. You see this especially clearly with factory farming. If you think biological substrates are capable of suffering, there’s a pretty robust case that we have 100 billion animals that are suffering a great deal in the world today.
+
+Most people don’t change their behavior that much around that fact. So it’s not that surprising that when it comes to potentially conscious digital minds, that they wouldn’t change their behavior.
+
+Cowen: Now, life in San Francisco, the Bay Area — give us a sense of what it’s like. Again, you’ve been living here a while. A typical weekend — is everyone just working the whole time? When do people relax? What is it they do to touch grass or have fun?
+
+Patel: I don’t know. I feel like there’s not that much that’s weird or different. Obviously there’s specific groups that are especially weird. My sense is people do work a lot on weekends, but then there’s these alcohol-free house parties that people often attend.
+
+Cowen: No one here drinks, is my observation.
+
+Patel: Yeah, that’s right.
+
+Cowen: If I’m in New York, there’s drinks served. Maybe not everyone takes them, but it’s the norm that there’s alcohol. Here, the norm is no alcohol.
+
+Patel: Agreed.
+
+Cowen: And that’s because they’re workaholics or for some other reason? Health issues?
+
+Patel: I don’t know. I actually would trust your cultural judgment on this more. Why do you think they’re not drinking?
+
+Cowen: They’re drunk on something else?
+
+[Patel and Cowen chuckle.]
+
+A.I. psychosis? I don’t know. It’s a puzzle to me as well.
+
+Patel: My sense is that they’re just less into having a good time. I find this frustrating in some ways as well.
+
+Cowen: In the new Kevin Roose book, toward the end, there’s a section where he asks an Anthropic employee: What was it all about?
+
+And he said: Well, the one thing that stands out to me is just how much fun we all had.
+
+[Patel laughs.]
+
+Is that your impression, or do you think it’s more tense than that? Is it fun all day long? Let’s say you’re at Anthropic or OpenAI until 9:30 p.m. Is it fun?
+
+Patel: I don’t know about them. I’m doing a very different thing. The reason why I find it very fun, actually, to live in the city is, similar to you, I feel like I’m just very oriented around having vibrant intellectual exchanges where I feel like I’m learning something, and also the most important topic of the day is being addressed.
+
+Cowen: Right.
+
+Patel: Because A.I. is such a big deal and San Francisco is where it’s happening, I find it very fun to just be around people who have all these new insights, and they have pretty good ways of thinking of what’s happening. Obviously, a lot of them are cuckoo in opposite ways often. But other cities just don’t have that intellectual vibrancy.
+
+Cowen: You’ve lived in Texas, and several other parts of this country all around, and you know a lot of people here. Do you come away from that whole experience feeling a certain kind of unity of human motivation, that people are the same everywhere? Or do you think the people who go to the Bay Area are a unique breed, different in some way?
+
+Texas is more like normie America, right?
+
+Patel: That’s right. So I spent three years in West Virginia, three years in North Dakota, a year in Maryland.
+
+Cowen: More normie America.
+
+Patel: Yeah, that’s right.
+
+Cowen: You couldn’t do better than that.
+
+Patel: Three years in West Texas. I think the biggest difference between the Bay and those places is that the people in the Bay are very similar to each other, and so they just have a strong shared culture. They’re able to talk about the same exact topics. And I think they are just more weird.
+
+Cowen: People in the rest of America, say, North Dakota, where you lived, as they learn more about A.I. and use it more, are they going to anthropomorphize it the way many people do here? They may not think it’s sentient, but internally they’ll more or less treat it like a member of the family or like a pet or even like a child or partner. Is that going to happen in this country? Or maybe use it as a rabbi or priest. How do you see that evolving?
+
+Patel: I feel like I’ve made bad predictions here. I would’ve predicted that A.I. girlfriends would’ve been a bigger deal by now. And my understanding is that it’s not that big of a deal yet.
+
+I do worry that as A.I.s are able to emulate humans more and more, there’s a different question of whether they are like humans or not. But I do think in that situation, people will have very strong connections with these A.I.s.
+
+This has part to do with the fact that people are under-satiated in their desire for companionship or for friendship. And I think it’s scary to then just fill that void with digital simulacra, but I think the demand is there for people to have digital friends.
+
+Cowen: Which will be a bigger deal: A.I. girlfriends or A.I. boyfriends? And why?
+
+Patel: This is a boring answer, but my sense is, there are some apps where you can have a digital girlfriend or boyfriend, and currently the digital boyfriends are outcompeting the digital girlfriends.
+
+If I had to guess, I think it’s something like structured conversations that last for a long period of time are filling more of a particular need that, on average, more women have than men have. But maybe that changes as A.I.s develop more capabilities and there’s certain needs that men have that A.I.s are better able to fulfill.
+
+What do you think?
+
+Cowen: I think there’ll be many more A.I. boyfriends for exactly the reason you give.
+
+Do you think A.I. therapists are a good idea?
+
+Patel: Yes.
+
+Cowen: Just flat-out “yes”?
+
+Patel: Yeah.
+
+Cowen: See, the nice thing about a therapist is the session ends. And it costs money, so maybe you do an hour a week, and that might be useful.
+
+But if you can just keep on doing therapy, I worry that people will overuse A.I. therapists. Even if the A.I. does a good job, per se.
+
+Patel: That’s a good point. I’ve never been to therapy, so I’m not sure what the thing to be taken away from it is.
+
+There’s some sense of having a life coach, which is maybe what I have more in mind — somebody who is a mentor who is looking out for you and helping you make decisions and help you understand what’s happening. I’m excited for more people to have access to that as a result of A.I.
+
+But in terms of constantly navel-gazing at your emotions, I’m not sure how healthy that will be if you get to do that all the time.
+
+Cowen: Now you said on this you had a wrong prediction. What would be another incorrect prediction you’ve had?
+
+Patel: Oh, so many. I thought that A.I.s would need this ability to learn on the job before they do extremely impressive things like, say, solving Navier-Stokes. I understand that even math is a very jagged domain that you can just write out on a piece of paper.
+
+The way that’s updated me is to think that other verifiable domains might get pushed back a lot by A.I. progress and might get washed down quite a bit by A.I. progress, even before we have solved all the cognitive gaps that these A.I.s have.
+
+For example, like A.I. research ——
+
+Cowen: Make that a little more concrete for me. What’s actually going to happen or not happen, in superspecifics?
+
+Patel: If we just look at A.I. research specifically, for example, my guess is that A.I. progress is happening somewhere between 25 to 50 percent faster this year than it was happening in 2024 because of A.I. uplift.
+
+And my guess would be somewhere in the next one to three years, teams of A.I.s can outcompete teams of humans — or companies made of A.I.s can outcompete companies of humans — at doing A.I. research. This is another way of saying A.I. research gets automated.
+
+I also predicted that at that point, instantaneously it will feel like A.I. progress has shot up, like three times, four times, or something like that.
+
+Cowen: Other than the A.I.s themselves, which I already subscribe to, of course, when will it be that normal people walk into Walmart and they buy a thing that is there because of A.I. that would not have been there without A.I., and they feel, “Well, I’m better off,” not just that they enjoy the A.I., but some other good or service? What will be the next thing to come?
+
+Patel: I genuinely have no idea what the next thing will be. In the long run ——
+
+Cowen: But if you have no idea, that means it’s pretty far off, right? Because you’re in touch with everyone, you hear all the gossip, all the undercurrents of talk, and if you have no idea, that means they have no idea. And then, to me, it feels slow and distant.
+
+Patel: I’m not sure what the order of different products will be, but here’s another prediction I will make:
+
+So, we’re probably five years away from robots that can do most of the physical work that humans can do. At that point, it will not be that a specific object exists in Walmart because the A.I.s invented it or made it. It will just be that the combination of A.I.s and existing human research and development was necessary to bring this product to fruition. Things will get a lot cheaper, the same way that nothing in Walmart exists today because a computer exists. Other than the computers themselves, it’s just like computing has made all those products better. Like the cereal box cover was made with the help of a computer or something.
+
+Cowen: But there’s computers in a lot of products one way or another, right? And you have a new unpublished essay on some of these themes, correct?
+
+Patel: Yeah.
+
+Cowen: And what’s the point or argument of that new essay?
+
+Patel: The basic argument is that, by the end of the decade, digital minds will outnumber human biological minds.
+
+They’ll be thinking a lot faster. They will have filled these cognitive gaps, partly because we’ll have automated A.I. research by then. At that point, there will also be very fast progress in robotics.
+
+So I’m painting a picture of a world where within a matter of five to 10 years, both digital and physical A.I.s outnumber humans.
+
+Cowen: I had a discussion with someone who works at Anthropic recently, and I asked him the question: What are the next three or four sectors, other than A.I. itself, that are really going to take off because of A.I.?
+
+Do you have an answer to that?
+
+Patel: My guess is that within the next two to three years, you should expect systems which feel like a truly drop-in knowledge worker. This is maybe 40 percent of the economy.
+
+Whatever companies or organizations that require knowledge workers are doing will get a lot cheaper and a lot faster because the kind of uplift the programmers feel will be felt across this entire broad sector, or many sectors of the economy.
+
+Cowen: But it seems a little underwhelming. If you look at a typical household budget sheet, there’s housing, there’s higher education, there’s food, maybe there’s transportation. For living standards to go up, what is going to get cheaper?
+
+I see that instruction and entertainment are already much, much cheaper, and that’s wonderful. But what else? Where’s even the potential? That my food will be cheaper? That the burrito will go from $20 to $14 or. …?
+
+Patel: Yeah, I think that all that stuff will happen. At least within the last three to six months, we have these amazing things that make all this software. It’s not like all your software has been magically transformed yet. It takes a while for the end impacts of even a radical uplift in labor to manifest themselves.
+
+But in a world where you have robots that cost, say, $30,000 and can work around the clock and can do the work of a human, the kind of physical work that, say, costs $100,000 a year, would cost much less. The hourly cost of labor might go down to, like, a couple of dollars.
+
+In that world, you would have a bigger physical house because the robots can build you a bigger physical house. Or in the United States, maybe we’re 10 times wealthier than the people in the developing world.
+
+You would just expect that whatever lack of wealth is causing that should be ameliorated by the fact that you have cheap goods, and you can make a bunch more things.
+
+Cowen: And what are your predictions on employment and wages, say, in the U.S.?
+
+Patel: This one I feel totally unsure about. It seems totally plausible to me that employment stays high through the singularity. The whole “there’ll be new jobs” thing — I think that might actually be very plausible.
+
+Cowen: But, say, take your own job. It’s not impossible for me to imagine when you interview people, the A.I. itself could generate excellent questions. And probably you use A.I. already to help come up with questions.
+
+At the same time, you’re a person, you go around, you inspire trust, you persuade people to be on your show, you do things like appear on camera in this podcast, and the A.I. couldn’t do that.
+
+And maybe it’s a package and a job that seems purely intellectual. Like right now, A.I. is amazing, and we’re still close to full employment, even with some bad economic policies. Maybe we’re just going to stay at full employment.
+
+Patel: I will say that it’s only been three to six months that A.I.s have uplifted, 1 percent of the economy, which is software.
+
+They haven’t really made a dent in almost anything else in knowledge work, let alone physical work. A lot of jobs are not like your job, for example, where the big part of your production function is showing up at colleges and giving lectures and stuff. It is kind of about getting a specific set of tasks done over a certain horizon. And the demand for those will not collapse, but there will be something else which can do that job much cheaper, much faster, potentially better.
+
+So I do worry that those people might have a hard time with employment.
+
+Cowen: But persuasion and cooperation, they seem so important in most jobs.
+
+And I get that, say, Claude might have better arguments than I do, but there’s something about me — or I hope there is — that me being there with certain mood or tone that we’re biologically programmed to cooperate with other humans, at least sometimes, in a way the A.I.s, no matter how smart they are, just won’t replace.
+
+Just like you won’t have an A.I. girlfriend, right? It’s not the same — at least I think so right now.
+
+Patel: I think your specific job is actually quite safe. It’s not clear to me that this is true of most jobs.
+
+I do think there’s an important part of many jobs that you’re talking about that people don’t consider. They just think about the specific tasks that you think about when you think of an accountant, for example. But they don’t think the accountant is also giving feedback to the manager about how the org should be restructured or what different legal decisions they should make or something like that. That would have to be something A.I.s can do before the job of an accountant is automated.
+
+So jobs are much bigger than people imagine. I feel like a part of what we do is entertainment. People don’t need our podcast to exist. They listen because it’s fun and interesting, but in many other situations in the world, they’re like: OK, I do actually just need to know whether I filed my taxes correctly and that I didn’t miss any deductions.
+
+In that case, I would much rather trust an A.I. in the situation where the A.I. has surpassed the capabilities of a human.
+
+Cowen: Let’s say we take Waymos, which are plentiful in San Francisco. They’re wonderful. I feel safer in them. There’s a lot of evidence they’re safer. They’re only in a few parts of America. They’re not yet cheaper. Driverless cars, in some manner, have now been around for a while, and they’re a modest part of the overall economy.
+
+Why will the rest of A.I. adoption go any faster than, say, Waymo adoption? Washington, D.C., and Virginia still can’t do it. Snow is maybe a problem. People don’t want it. New York City said no. Why isn’t that how it will be for most things?
+
+Patel: The reason I think that will not be the case is that previous automation has been about trying to get all the different edge cases that are applicable to a particular job encoded within a machine.
+
+So with driving, why did we have all these amazing demos a decade ago, and finally, now, we’re having some driving automated? Well, it’s because we had to build these edge cases into code or into very shoddy neural networks.
+
+The expectation I have of the future is that it will be more like having a human come in on the job. There are diffusion challenges of hiring humans. It’s hard to onboard a person into your company. You have to tell them what to do and get them oriented around anything. But this is worth it for companies when they hire humans.
+
+For example, Uber drivers can learn to drive a car pretty rapidly. They can learn to drive in new terrains very rapidly. This is true for many other jobs where, if it’s a humanlike mind that can diffuse itself, it can orient itself in a new position.
+
+That is the kind of A.I. that I’m expecting in the future, more so than in the past, where we have to automate very particular things and deal with all these edge cases which, in the end, often makes it much harder.
+
+Cowen: So let’s take your predictions as a whole in all matters A.I. — or for that matter, anyone’s predictions. What are the indicators or milestones that people should be watching to see if you’re getting it right or someone else is getting it right? What should they be following?
+
+Patel: I expect that because diffusion will be less of a challenge, given that it will be more like humans if A.I. progress continues on the current trajectory, I think you should expect things like the revenues of the A.I. labs to continue increasing very fast.
+
+So in a world where, say, the revenues of the top three A.I. labs are, say, over $500 billion, at an annualized rate by the end of next year, I think that’s much closer to my world, where there’s this extremely discontinuous growth in one industry because general intelligence is very valuable across the economy than many other worldviews.
+
+Cowen: But to pay for that revenue growth, other sectors have to grow, right?
+
+Patel: Mm-hmm.
+
+Cowen: What other sectors should we be looking to grow? It could be health care, it could be whatever. But that’s part of the prediction, right?
+
+Patel: Yeah. Let me ask the question this way: Suppose you’re in Hong Kong in the ’80s, and you’re like: Look, I think we’ve got all the great stuff here needed for 10 percent growth. We’re going to go gangbusters here.
+
+And then somebody asks you: Well, what specific things will grow in Hong Kong?
+
+In retrospect, you can be like: Well, it was obviously electronics and ——
+
+I’m actually not so familiar with the economy of Hong Kong.
+
+Cowen: But you could say everything, and you wouldn’t be that far off.
+
+Patel: Yeah. I think it’ll be similar to that, where in the ’80s we’re looking at Hong Kong and you’re like: Growth will be really fast.
+
+I’m expecting this to be the case. I don’t think you’d have a great time predicting what specific products will come first and in what order, but that’s kind of what I expect with A.I., that what people are experiencing in software, they’ll experience across knowledge work.
+
+It’s hard to anticipate in advance what products will get made and what inputs will be required and so forth.
+
+Cowen: And the stock market, that goes up or down?
+
+Patel: Um.
+
+Cowen: There’s the old joke: Either A.I. is a bubble, or everything else is a bubble.
+
+I don’t literally believe that, but it’s worth a moment’s thought.
+
+Patel: Indexes like S&P will go up. Some random stock in the S&P 500, I’m not sure if that goes up or down.
+
+Cowen: So the median might not do so well, but the thing is all well because the winners will be enormous.
+
+Patel: Yeah, exactly.
+
+Cowen: And it favors more start-ups or established companies on the exchanges? I would think start-ups would be where you would see the growth — very small start-ups, which are A.I. native, and the people running them are just A.I. from the get-go.
+
+Patel: Yeah. That would be my guess as well, but I’m not sure. You can think of a specific example, like trading, which is the first thing people think about as a largely cognitive domain.
+
+But will we live in a world where somebody makes a new trading firm that outcompetes Citadel and Jane Street, or will Citadel and Jane Street just use A.I. to make even more money?
+
+Right now, Citadel and Jane Street are using a lot of A.I. to make a lot more money.
+
+Cowen: Right.
+
+Patel: I’m not sure how that balances out.
+
+Cowen: To ask for another prediction, I know this one is hard, but if you had to pick a year when the so-called centaur model, humans working with A.I., flips into the A.I.s just doing it all themselves, what do you think, if we’re looking back, we’ll see as that year?
+
+Patel: I think it’d be different for different industries.
+
+Cowen: But overall?
+
+Patel: Two thousand thirty.
+
+Cowen: Two thousand thirty?
+
+Patel: Yeah.
+
+Cowen: That’s very soon.
+
+Patel: Yeah.
+
+Cowen: I would be very surprised if it happened that quickly.
+
+Patel: Yeah. The key input that humans will have, even in domains that A.I.s are making very fast progress on right now, like software, is a lot of real-world experience. These A.I.s are kind of just like a mind that has gotten many graduate degrees — and as somebody in academia, you know what can be missing from a mind that only has many graduate degrees but is lacking real-world experience.
+
+But getting that real-world experience, being able to learn from real-world experience, is fundamentally an M.L. problem. It’s an M.L. problem we haven’t solved yet, but once we have A.I. systems that can learn from being deployed in the world over long periods of time, then the value of human expertise will also decline or at least be able to be substituted by A.I.s.
+
+Cowen: But the A.I.s have to somehow be in the institutions and companies to take in the knowledge.
+
+So we’re going to tape everything that happens in companies, in research labs, in nonprofits, in governments, and feed that into the A.I.? Or how do we teach the A.I. this contextual knowledge, the pieces of knowledge that are hard to articulate, particular details of time and place?
+
+Patel: Yep. Yeah. In fact, this is already happening. These A.I. systems, like Claude or ChatGPT, are deployed across millions of companies. At any given time, there’s millions of sessions of these A.I.s running. The issue right now is that those instances are not able to actually learn from this actually enormously rich experience that they could be getting.
+
+Imagine a human could learn, like if there’s 100 million copies of Tyler, and it’s in every single industry. It’s helping Jane Street make more money. It’s helping some accounting firm do a better organization of their files. It’s helping Nvidia make a better accelerator. It’s able to learn from all this experience.
+
+Such a mind would have an affordance that we don’t have, which is that we get to live for 20 years in one single stream — sorry, 80 years within one single stream.
+
+Cowen: I’m going to be 100 someday, right? [Chuckles.]
+
+Patel: Yeah, that’s right. And once they can learn from that experience as well as humans can, it’s a question of whether that’ll be possible. But if they can, and that happens within the next five years, then I think the value of this contextual knowledge, which is very high, will be something that is accessible to the A.I.s.
+
+Cowen: Would you let it surveil you?
+
+Patel: I already do. I have these A.I. systems in my Slack. I’m constantly talking to A.I.s. I have Granola on for my meetings. In some sense, if A.I.s were actually humanlike in their ability to learn, they would have so much information on me, so much contextual information on me almost immediately.
+
+Cowen: Let’s say we get to the year 2035, which is not that far away — nine years away — and the world does not feel that radically different, let’s just say. What was it you would think that you got wrong, and what was it you would think the other A.I. leaders got wrong?
+
+Patel: This is a really great question. Did you say 2035 or 2030?
+
+Cowen: Two thousand thirty-five. Nine years from now.
+
+Patel: This is a really great question. I was thinking about it just yesterday with some friends.
+
+I think it would have to be something like this continual learning thing, this ability to get information on the job, ended up being a very difficult M.L. problem. This is my most likely reason that we weren’t able to solve over the course of the next 10 years.
+
+Cowen: And how about the A.I. leaders? Would they be making the same mistake as you, or would they make a different set of mistakes in this scenario?
+
+Patel: The fundamental thing they would be wrong about is that they think they are building what I’m describing, which is an automated knowledge worker, which we are very far from today in terms of the capabilities these models have.
+
+If you did build an automated knowledge worker, we know that there’s enough demand for tens of trillions of dollars worth of wages that go every year to knowledge workers. Of course, there will be a consumer surplus, so it won’t be like there’s tens of trillions of dollars of revenue to the A.I. companies, but that’s kind of the ballpark we’re talking about if their vision of what they’re building ends up being true within the next five to 10 years.
+
+So for them to be wrong about that, they just failed to build an automated knowledge worker, and I think it will have to do with the fact that we weren’t able to crack this online learning thing.
+
+These systems do have deficiencies in the way they learn or their weights are trained. They’re incredibly data inefficient. They require tons of data. It’ll just be like these problems ended up being harder to solve.
+
+Cowen: Let’s say we arrive in 2035, and your predictions are correct, or it’s gone even further than your predictions. When we get to, say, 2045, what will you be doing?
+
+Patel: If my predictions about 2035 are correct, then I’m not even sure I can coherently think about 2045.
+
+Cowen: You’re a young guy.
+
+Patel: I imagine I’ll be doing a very similar thing. Here’s what I’m really excited about ——
+
+Cowen: But who will want you? Because the A.I. will do it better. It can copy your voice already. It copies my voice. It can copy your image probably within a year, perfectly. That’s not far away. It will have questions not worse than yours. What’s left for you? It can copy your guests. You could interview Thomas Edison if you wanted.
+
+But say you’ve invested well in A.I. You saw the trends, you don’t have to work. What are you going to do?
+
+Patel: So here’s what I feel very excited about: There’s so many interesting questions that there’s often not an expert on, or you can’t easily talk to the expert to get them on your podcast. Or it’s not the kind of thing an expert can answer extemporaneously — it requires a bunch of thought.
+
+I’m just very interested to be able to have Tyler Cowen–like intellectuals on my command all the time, and I can just be like: Let’s actually really deeply think about what happened in the Aztec-Inca versus conquistador conflicts and look at all these different angles. I want you to come up with your own insights, which they can’t do right now, and feed me all of this. Write me a Robert Caro-type biography of some totally different figure that I’m personally quite excited about.
+
+Can I ask you a question?
+
+Cowen: Sure.
+
+Patel: This vision I’m describing of automated knowledge work, you don’t think that we’ll get there by 2035?
+
+Cowen: Absolutely not.
+
+Patel: OK.
+
+Cowen: I don’t think we’ll get there by 2045. I think the human role in integrating the physical and digital worlds will remain, and the fact that people want to deal with humans for many issues, perhaps irrationally, won’t go away ever, and I think the centaur model will persist for decades.
+
+Patel: Do you think that manifests itself in, let’s say, a cap in the maximum amount of revenue you think A.I. companies can earn without automating knowledge work? If I said: It’s 2030, and the A.I. companies have over a trillion dollars in revenue — are you surprised?
+
+Cowen: I am. I’m not bearish on the companies but where the money will come from elsewhere in the economy.
+
+I’m very optimistic about, say, biomedical progress, but I think with clinical trials and the F.D.A., that can take 10 or 20 years, maybe more. And these other sectors that grow, they’re often hindered. Our government is not very good at adopting A.I. I don’t think that will change rapidly.
+
+I work in a university. Progress there is very slow. You could say they’re moving backward. It’s just a thing to stamp out because students use it to cheat. So I think we have 30 or 40 percent of our economy that just won’t flat out make progress at all by 2035, perhaps.
+
+And then these start-ups will slowly replace bigger companies, but that, too, takes a lot of time, and the number of people who can run those start-ups is pretty constrained. You have to work really hard. You have to be very A.I. aware. You have to be very smart, and so on.
+
+Patel: I want to understand whether you think it’s a lack of capabilities the systems will have or just that humans will not be inclined to have A.I.s do jobs that they could in fact do. For example, at Mercatus, I assume there’s a lot of people you hire to do work for you, right?
+
+Cowen: Sure.
+
+Patel: You don’t think A.I. will not be able to do that work, or even if they could, that people will not be happy with you hiring A.I.s or that you will not want to hire A.I.s?
+
+Cowen: A mix of both. I think there’ll still be a Mercatus then, absolutely.
+
+Patel: But the capabilities will be lacking?
+
+Cowen: Yes.
+
+Patel: OK.
+
+Cowen: Now to close with one final question. You’ve spent all this time in the A.I. world. You’ve interviewed virtually everyone of importance, asked them all the questions you wanted to. That was your goal. At the end of all this, how has it changed you, Dwarkesh?
+
+Patel: I don’t know if the A.I. stuff in particular has changed me.
+
+Here’s something that I really appreciate about you and Bryan and many other of my early guests, people who spent a bunch of time, on camera but also off camera, chatting with me about ideas and stuff, is that I look back at those early interviews and I was honestly asking very naïve questions. I was asking things that you have thought about a long time ago, in many different ways.
+
+Over time, I’ve gotten to learn about many more topics in a deeper way. And I think that process would’ve been very difficult were it not for people like you, who are very kind with their time in talking to people who are young and naïve and aren’t really thinking about things in a very interesting way, but still answering their questions and engaging in good faith.
+
+So building up a better mental model of different intellectual fields is maybe the main change.
+
+Cowen: Thank you for the kind words. Dwarkesh Patel, thank you very much.
+
+Patel: Thank you.
+
+Thoughts? Email us at interestingtimes@nytimes.com.
+
+This episode of “Interesting Times” was produced by Victoria Chamberlin, Raina Raskin and Charlotte Gartenberg. It was edited by Alison Bruzek and Sophia Muniz. Mixing and engineering by Pat McCusker and Efim Shapiro. Cinematography by Marina King and Kyle I. Kelley. Cinematography by Vic Ferrer. Video editing by Julian Hackney, Kristen Williamson and Mahdokht Mahmoudabadi. The supervising editor is Jan Kobal. The postproduction manager is Mike Puretz. Original music by Isaac Jones, Sonia Herrero, Pat McCusker and Aman Sahota. Fact-checking by Kate Sinclair, Mary Marge Locker, Julie Beer and Michelle Harris. Audience strategy by Shannon Busta, Kristin Lin and Ali Baluch. The executive producer is Jordana Hochman. The director of Opinion Video is Jonah M. Kessel. The deputy director of Opinion Shows is Alison Bruzek. The director of Opinion Shows is Annie-Rose Strasser. The head of Opinion is Kathleen Kingsbury.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

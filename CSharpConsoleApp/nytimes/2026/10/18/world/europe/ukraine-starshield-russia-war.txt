@@ -1,0 +1,62 @@
+================================================================================
+ukraine-starshield-russia-war.html
+Source: PreloadedData  Paragraphs: 22  Words: 993/995
+================================================================================
+
+SUMMARY
+
+President Volodymyr Zelensky expressed concerns on Sunday that the United States might abandon Ukraine and side with Russia, following a series of moves by the Trump administration, including what he described as ongoing restrictions on a U.S.-provided military-grade satellite internet service used by the Ukrainian army. The Ukrainian leader has taken particular issue with what he has described as “a planned operation” to cap the speed at which Ukrainian forces can use the satellite internet service, Starshield. Frustrated by Mr. Trump’s preference for putting pressure on Ukraine instead of on Russia, Mr. Zelensky said on Wednesday that he had ordered Ukrainian forces to resume strikes on Russian oil facilities, defying the American leader.
+
+ARTICLE
+
+Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia
+President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.
+By Constant Méheut
+Published 2026-10-18 11:01 UTC
+https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html
+
+President Volodymyr Zelensky expressed concerns on Sunday that the United States might abandon Ukraine and side with Russia, following a series of moves by the Trump administration, including what he described as ongoing restrictions on a U.S.-provided military-grade satellite internet service used by the Ukrainian army.
+
+“If the United States will officially take the side of Russia, of course if these two countries will be together, of course we will not prevail and we will not be able to stand,” Mr. Zelensky told NBC’s “Meet the Press,” in an interview conducted in English. “If United States will support Putin, I mean, it’s unbelievable. It’s a tragedy. It’s a historic mistake and a big tragedy.”
+
+Mr. Zelensky’s comments capped a week of rising tensions between Kyiv and Washington that began with President Trump’s Oct. 9 announcement that he had brokered a deal to buy Russian diesel fuel, in a bid to lower gas prices before the U.S. midterm elections. To let Russian oil flow back into the market, Mr. Trump demanded that Ukraine halt its attacks on Russian oil refineries, which it begrudgingly did for a few days.
+
+But Kyiv said it got nothing in return, while Russia continued its devastating bombardments of Ukrainian cities. Then on Friday, Mr. Trump announced a rollback of new U.S. sanctions on Russia.
+
+Mr. Zelensky has denounced the moves as benefiting Russia, the aggressor in the war, and complained about a string of developments that he said hampered Ukraine’s ability to fight and that he strongly suggested were orchestrated by Washington — deepening the rift between the two countries.
+
+The Ukrainian leader has taken particular issue with what he has described as “a planned operation” to cap the speed at which Ukrainian forces can use the satellite internet service, Starshield.
+
+The service, the military-grade version of Starlink, is provided under a Pentagon contract through the company SpaceX. Kyiv uses Starshield to provide connections for its drones in both offensive and defensive military operations.
+
+Kyiv has said that drones relying on the service stopped working at speeds above 100 miles per hour, and also experienced disruptions when flying at lower speeds.
+
+Mr. Zelensky has not explicitly said who he believed was behind that “operation.” But in his NBC interview on Sunday, he said “the message came from government,” in a reference to the Trump administration. “I don’t know from whom, what cabinet, and et cetera,” he added.
+
+Mr. Trump has denied ordering restrictions on Starshield and said he did not think the SpaceX founder, Elon Musk, had done so either.
+
+Mr. Musk has suggested that any restrictions on the service came from the Trump administration, saying that Starshield systems are “owned and controlled by the U.S. government.” A bipartisan group of U.S. senators has demanded an investigation into the disruptions.
+
+The Ukrainian military first reported the restrictions on Wednesday morning, saying they had disrupted operations at the front and endangered the country’s air defense capabilities. Kyiv has since contacted the Pentagon and SpaceX for answers, but said neither had responded. Some disruptions to the service persisted as of Saturday evening, according to Ukrainian officials and commanders.
+
+“Based on the information currently available to us, we cannot confirm that Starshield’s full capabilities have been restored,” Denys Sienik, a senior Ukrainian diplomat in the United States, said on Saturday.
+
+“Four (4!) days after we submitted our inquiries, we have yet to receive a response from the Pentagon or SpaceX,” Mr. Sienik added in a social media post. “We hope to receive confirmation that unlimited speeds have been restored and that Starshield is operating as it did previously, providing reliable communications essential to protecting our people amid intensified Russian aerial attacks.”
+
+Ukrainian commanders offered mixed accounts of the situation on Saturday evening, with some saying disruptions continued while others said the service had returned to normal.
+
+Separately, arson attacks on Starlink ground stations have been reported in Poland and Bulgaria. The Polish authorities have accused Russian intelligence services of carrying out the attack on the station in Poland, and the Bulgarian authorities have said that an investigation is ongoing. It was not clear whether the stations relay internet traffic to the Ukrainian military. Russia’s embassy in Poland did not immediately respond to a request for comment.
+
+The Ukrainian military uses Starshield for a wide range of operations, including on attack drones that strike Russian command posts and on ground drones that deliver supplies to frontline troops. Mr. Zelensky has said interceptor drones also rely on the service to shoot down Russian long-range drones, although use in those cases appears to be limited.
+
+Ukrainian forces use Starshield only for operations inside their country. The service does not work over Russian territory, meaning that Ukraine cannot use it to strike the Russian oil facilities that Mr. Trump wants spared.
+
+Frustrated by Mr. Trump’s preference for putting pressure on Ukraine instead of on Russia, Mr. Zelensky said on Wednesday that he had ordered Ukrainian forces to resume strikes on Russian oil facilities, defying the American leader.
+
+A first attack on an oil refinery southeast of Moscow took place Thursday. It was followed on Sunday by a drone assault on St. Petersburg which set ablaze a large oil terminal, according to St. Petersburg’s governor and a Ukrainian drone company that said its weapons were used in the strike.
+
+Ukraine has long argued that the strikes on Russian oil refineries have little impact on gas prices, which have been largely driven by the U.S.-Israeli war in Iran and the resulting drop in oil product exports. The strikes, however, have strained Russia’s oil industry, helping erode revenues that Moscow uses to finance its war effort.
+
+“Our deep strikes, our attempts to target Russian oil refineries — it’s not damaging the United States, it’s not damaging the world,” Oleksandr Merezhko, the chairman of the Ukrainian Parliament’s foreign affairs committee, said in a phone interview. “It’s damaging only Russia and gives us a chance to bring Putin to the table of negotiation.”
+
+Siobhán O’Grady contributed reporting.
