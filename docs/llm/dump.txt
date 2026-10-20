@@ -1,10 +1,10 @@
 ===============================================================================
 PROJECT EXPORT
-Generated (UTC): 2026-10-20 12:28:03
+Generated (UTC): 2026-10-20 12:39:26
 Project Path:    /home/kushal/src/dotnet/HelloXUnit
-Git Commit:      7bf23d878e1b42eee3eadd5e1fc5683cb1b5d6e8
+Git Commit:      7e608c6e8f4c0fbb5a10d862c2ba633ab6a450bb
 Git Branch:      master
-Git Dirty:       no
+Git Dirty:       yes (uncommitted changes are included below)
 .NET SDK:        10.0.112
 Files Exported:  19
 ===============================================================================
@@ -5199,9 +5199,9 @@ dotnet stryker "$@"
 
 
 ===============================================================================
-EXPORT COMPLETED (UTC): 2026-10-20 12:28:03
+EXPORT COMPLETED (UTC): 2026-10-20 12:39:26
 Total Files Exported:   19
 Total Source Size:      0.17 MB (176823 bytes)
 Output File:            /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 ===============================================================================
-DUMP SHA256 (of all lines above this one): 58590b62f2ef5dcbbff5ab5708bb7f2319a5488a2222d54f38275a5816141f36
+DUMP SHA256 (of all lines above this one): 3a03461af550d0e4d9e397b116a464d50c637585a39414693b1be784c4109078

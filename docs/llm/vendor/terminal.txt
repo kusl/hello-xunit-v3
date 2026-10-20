@@ -1,9 +1,23 @@
 kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
-  (use "git push" to publish your local commits)
+Your branch is up to date with 'origin/master'.
 
-nothing to commit, working tree clean
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CSharpConsoleApp/nytimes/2025/10/28/well/eat/health-effects-honey-maple-syrup-agave.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        CSharpConsoleApp/nytimes/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html
+        CSharpConsoleApp/nytimes/2026/10/17/arts/
+        CSharpConsoleApp/nytimes/2026/10/17/health/
+        CSharpConsoleApp/nytimes/2026/10/19/well/
+        CSharpConsoleApp/nytimes/2026/10/19/world/
+        CSharpConsoleApp/nytimes/2026/10/20/us/
+        CSharpConsoleApp/nytimes/2026/10/20/world/
+
+no changes added to commit (use "git add" and/or "git commit -a")
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -33,9 +47,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.17 MB across 19 files
 
-real    0m0.581s
-user    0m0.260s
-sys     0m0.256s
+real    0m0.474s
+user    0m0.263s
+sys     0m0.253s
 Restore complete (0.8s)
 
 Build succeeded in 0.9s
@@ -51,9 +65,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.2       4.0.2   
 
 
-real    0m2.165s
-user    0m2.348s
-sys     0m0.453s
+real    0m2.125s
+user    0m2.584s
+sys     0m0.396s
 Restore complete (0.5s)
 
 Build succeeded in 0.6s
@@ -65,88 +79,11 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real    0m2.485s
-user    0m1.854s
-sys     0m0.402s
+real    0m1.821s
+user    0m1.761s
+sys     0m0.385s
 
-real    0m5.931s
-user    0m7.217s
-sys     0m1.027s
-kushal@fedora:~/src/dotnet/HelloXUnit$ 
- *  History restored 
-
-kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
-On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-Starting project export...
-Project Path: /home/kushal/src/dotnet/HelloXUnit
-Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Listing files via git...
-Found 19 files to export
-Processing (1/19): .config/dotnet-tools.json
-Processing (2/19): .editorconfig
-Processing (3/19): .gitignore
-Processing (4/19): CSharpClassLibrary/ArticleExtraction.cs
-Processing (5/19): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (6/19): CSharpClassLibrary/FilenameString.cs
-Processing (7/19): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (8/19): CSharpConsoleApp/Program.cs
-Processing (9/19): CSharpUnitTests/ArticleExtractionTests.cs
-Processing (10/19): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (11/19): CSharpUnitTests/FilenameStringTests.cs
-Processing (12/19): CSharpUnitTests/stryker-config.json
-Processing (13/19): Directory.Build.props
-Processing (14/19): Directory.Packages.props
-Processing (15/19): HelloXUnit.slnx
-Processing (16/19): README.md
-Processing (17/19): export.sh
-Processing (18/19): global.json
-Processing (19/19): mutate.sh
-
-Export completed successfully!
-Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 0.17 MB across 19 files
-
-real    0m0.659s
-user    0m0.277s
-sys     0m0.272s
-Restore complete (0.8s)
-
-Build succeeded in 0.9s
-Project 'CSharpClassLibrary' has the following package references
-   [net10.0]: No packages were found for this framework.
-Project 'CSharpConsoleApp' has the following package references
-   [net10.0]: No packages were found for this framework.
-Project 'CSharpUnitTests' has the following package references
-   [net10.0]: 
-   Top-level Package                Requested   Resolved
-   > Microsoft.NET.Test.Sdk         18.11.0     18.11.0 
-   > xunit.runner.visualstudio      4.0.1       4.0.1   
-   > xunit.v3                       4.0.2       4.0.2   
-
-
-real    0m2.168s
-user    0m2.505s
-sys     0m0.501s
-Restore complete (0.5s)
-
-Build succeeded in 0.6s
-
-The following sources were used:
-   https://api.nuget.org/v3/index.json
-
-The given project `CSharpClassLibrary` has no updates given the current sources.
-The given project `CSharpConsoleApp` has no updates given the current sources.
-The given project `CSharpUnitTests` has no updates given the current sources.
-
-real    0m2.178s
-user    0m1.854s
-sys     0m0.393s
-
-real    0m6.263s
-user    0m8.325s
-sys     0m1.088s
+real    0m6.259s
+user    0m7.504s
+sys     0m0.978s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 

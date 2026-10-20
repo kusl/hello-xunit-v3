@@ -1,0 +1,62 @@
+================================================================================
+covid-reinfection-risks.html
+Source: PreloadedData  Paragraphs: 21  Words: 818/818
+================================================================================
+
+SUMMARY
+
+Covid has been around long enough that the once wildly unpredictable virus has finally settled into a few recognizable patterns. But repeated Covid infections can take a toll, he and other researchers said. Covid infections have generally become milder as the virus has mutated and new variants have circulated.
+
+ARTICLE
+
+How Bad Is Another Case of Covid?
+Repeated infections are “a fact of life” at this point, experts say. But they warn there is no such thing as a risk-free case.
+By Dani Blum
+Published 2026-10-19 09:02 UTC
+https://www.nytimes.com/2026/10/19/well/covid-reinfection-risks.html
+
+Covid has been around long enough that the once wildly unpredictable virus has finally settled into a few recognizable patterns.
+
+Cases normally rise in the late fall and winter, so repeated infections seem inevitable in the coming months. “Reinfection is more or less a fact of life, with an asterisk,” said Dr. Ziyad Al-Aly, a senior clinical epidemiologist at Washington University in St. Louis who studies Covid. “The asterisk here is that we tend to trivialize this.”
+
+And people who have already been sick with the virus three, or five or seven times may think they know what’s in store should they test positive again: a cough, an aching throat, full-body fatigue or other common symptoms.
+
+But repeated Covid infections can take a toll, he and other researchers said.
+
+Milder Infections, Continued Risk
+
+Covid infections have generally become milder as the virus has mutated and new variants have circulated. Additionally, scientists suspect that the more times you’ve been exposed to Covid — whether through infections or vaccination — the better your immune system becomes at recognizing and responding to the virus.
+
+On average, the risk of getting seriously sick from an infection — whether it’s your first or your fifth — has significantly declined, Dr. Al-Aly said.
+
+But, he added, that does not mean an infection is inconsequential. There’s no such thing as a risk-free case, experts said.
+
+“It doesn’t really mean it’s a nothing burger,” he said. “It doesn’t really mean that people should forgo vaccination or not really care about it. It doesn’t really mean they shouldn’t stay at home when they are sick.”
+
+The virus remains especially dangerous for people with compromised immune systems, those with underlying conditions like diabetes or heart disease, pregnant women and people over 65.
+
+With repeated infections, the virus can set off symptoms before enough viral load builds up to turn a rapid test positive. As a result, people who test for Covid too early may have a false negative result. Doctors recommend taking a second test 48 hours later.
+
+Scientists are split on whether your first bout with Covid predicts how you’ll fare the next time. A pivotal study, published in 2024 in the journal Communications Medicine, examined electronic health records from more than 200,000 people who were first infected between 2020 and 2022, and then infected again before the spring of 2023. The paper found that people who were hospitalized during their first infection were likely to have a bad case of Covid the next time. People with mild first infections tended to have another mild bout, the study found.
+
+But it’s been challenging to find more recent health record data that examines cases of reinfection with the latest variants of the virus, said Richard Moffitt, a researcher at Emory University, who was an author on the 2024 report.
+
+“How many times have you gotten Covid, and then how many times, of those, does your doctor know about?” he said. “The surveillance as far as how many people getting Covid end up in the medical system has really plummeted.”
+
+Researchers do know that the severity of a case, as well as the symptoms, can vary from one infection to the next. A person who was asymptomatic during one Covid infection could develop a sore throat and cough the next. Someone who had cold symptoms during a first infection could have an upset stomach as part of another bout.
+
+“Every infection is a chance at something going wrong,” Dr. Moffitt said.
+
+Long Covid as Russian Roulette
+
+Doctors tend to be more concerned about the chance that someone will develop long Covid from repeated infections than they are that a person will get very sick in the acute phase of the illness. Covid can cause long-term damage to nearly every part of the body and repeated cases can compound those harms.
+
+A number of studies have shown that each time someone contracts Covid introduces an opportunity to develop long-term symptoms. Researchers often compare it to Russian roulette: Any infection could be the one that leads to long Covid.
+
+“Every time there’s a wave, there’s another wave that’s going to follow with patients developing new onset long Covid,” said Akiko Iwasaki, an immunologist at Yale University.
+
+Some researchers think that reinfections are part of why the number of people with long Covid has plateaued. Even though some people have recovered from their long-term symptoms, there’s continually a new influx of patients developing the condition, said Dr. Danny Altmann, a professor of immunology at Imperial College London. And if someone already has long Covid and then contracts the virus again, that patient risks experiencing more severe symptoms.
+
+Doctors said that the possible harms of repeated infections are significant enough that people should take precautions, like getting vaccinated and masking when traveling or in crowded areas.
+
+At this stage of dealing with the virus, we’re not “helpless,” Dr. Iwasaki said. “There are things that we can do.”
