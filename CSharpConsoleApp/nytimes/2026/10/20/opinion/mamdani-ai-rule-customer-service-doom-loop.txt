@@ -1,0 +1,56 @@
+================================================================================
+mamdani-ai-rule-customer-service-doom-loop.html
+Source: PreloadedData  Paragraphs: 17  Words: 956/1036
+================================================================================
+
+SUMMARY
+
+What the chatbot probably didn’t know was that this customer is in a position to fight back. “Companies are increasingly deploying A.I. chatbots as the mandatory gateway between consumers and the help they need,” states a new report on the ubiquity of A.I. customer service intermediaries. Companies whose chatbots and automated voice systems mislead people, leave them stuck without help or only pretend to offer support would face significant penalties, with fines per violation (per customer) ranging from $525 for a first-time offender up to $3,500.
+
+ARTICLE
+
+Help! A Chatbot Hijacked My Customer Service Call.
+An effort to fix a hotel bill illustrates why New York City is now trying to crack down on A.I. chatbot-powered customer service.
+By Samuel A.A. Levine
+Published 2026-10-20 09:01 UTC
+https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html
+
+Press 1 if you’ve heard this story before. Press 2 if it has happened to you.
+
+After a recent trip, I noticed several mysterious charges on my hotel bill. Certain I hadn’t raided the minibar, I went hunting for a customer service number to get an explanation. I searched and I searched. Nothing. Instead, all I could find was an offer for a “live chat” blinking in the bottom-right corner of my phone screen. I gave it a try.
+
+Three dots danced. A friendly name appeared. Cheerful pleasantries were exchanged. I began explaining my problem until an F.A.Q. menu suddenly interrupted me. That’s when I realized I had been communicating with a chatbot all along.
+
+I had stumbled into the digital labyrinth — a veritable Hotel California, and I was just a prisoner of my own device. I explained my predicament. I re-explained it, supplying information it already seemed to have, answering prompts that had little to do with the the question I was asking, and rebuffing discount codes and propositions to book another stay. At one point, I pleadingly typed a single word in all caps: HUMAN. The machine whirred, ignoring me.
+
+As I floundered, I found myself reflecting on the future of customer service. Based on my 25-minute ordeal, I began to suspect that the chatbot was not designed to solve my problem. It seemed to be designed to test how much friction customers would tolerate — how much information we would provide to train future models — before giving up. What the chatbot probably didn’t know was that this customer is in a position to fight back.
+
+In my job as commissioner of the New York City Department of Consumer and Worker Protection, I hear similar complaints from New Yorkers of every stripe. Automated customer service systems tasked with handling our data and money are driving us crazy. Whether you’re trying to return a purchase, cancel a subscription or recover a hacked account, getting actual help requires a Homeric quest past a morass of junk.
+
+It’s easy to dismiss these exhausting mazes of chatbots, robocalls, irrelevant pop-ups and consent forms as the routine irritations of life lived on tiny screens. But taken together, these episodes can amount to something much larger — delayed medical care, denied insurance coverage, predatory subscription practices and scams that cost Americans an estimated $119 billion a year.
+
+Now, artificial intelligence is starting to make a bad situation worse. “Companies are increasingly deploying A.I. chatbots as the mandatory gateway between consumers and the help they need,” states a new report on the ubiquity of A.I. customer service intermediaries. “That includes tenants, borrowers, insurance policyholders and fraud victims seeking assistance with services that can be enormously consequential in their lives.”
+
+While the technology is still evolving, a common trend is emerging. In a recent global study, nearly one in five consumers reported that A.I. customer support failed to provide any benefit at all. Just artificiality, no intelligence. Little wonder then that states such as California, Maine, New Jersey and Utah are moving to require companies to disclose chatbot use.
+
+Today, New York City is going a step further, proposing some of the most rigorous rules in the nation to protect customers against automated doom loops, including automated voice systems and chatbots. Our proposal is simple: Companies can still use A.I. and other automated tools, but they need to tell consumers when they are communicating with a chatbot — and make it much easier to reach a human being.
+
+Companies whose chatbots and automated voice systems mislead people, leave them stuck without help or only pretend to offer support would face significant penalties, with fines per violation (per customer) ranging from $525 for a first-time offender up to $3,500. Reminder: There are roughly 8.6 million people living in New York City, according to the latest census.
+
+We’ve faced these dilemmas before. At the dawn of the modern internet era — the last great technological inflection point — government leaders took the view that markets could self-correct and that technology companies could police themselves. Individuals, rather than companies, were expected to shoulder the burden of protecting their own privacy, a burden we still bear every time we helplessly click “I agree” just to use a website or an online service.
+
+The confidence with which companies subject customers to onerous hoops to process returns and get their money back, which I saw firsthand at the Federal Trade Commission with online retailers, is no accident. It reflects decades of policy choices that allowed corporate America to unilaterally control the direction of new, powerful technologies: a philosophy born of the Reagan era that held government could create problems but not solve them.
+
+In the month ahead, my department will solicit written testimony from the public, review comments, consider feedback and issue a final rule, in the hopes of establishing guidelines ahead of this year’s holiday season, when we expect retailers to roll out new chatbot “assistants” along with their Black Friday sales.
+
+For the moment, Washington politicians have taken little action on this issue. Many of the industry insiders who hold sway on Capitol Hill have proposed fighting A.I. with more A.I.: developing personal digital assistants that can negotiate with corporate chatbots, spawning algorithms to go toe to toe with algorithms while consumers stand on the sidelines.
+
+Our hope is that New York’s rule will offer a template for other municipalities and for states to follow. The more cities and states that follow suit, the more financial pressure on companies to comply — regardless of the gridlock in D.C.
+
+When I finally resolved my mysterious hotel bill, it wasn’t because the chatbot had a breakthrough. It was because, eventually, I reached a person. As it turned out, that was the solution all along.
+
+Samuel A.A. Levine is the commissioner of the New York City Department of Consumer and Worker Protection and a former director of the Federal Trade Commission.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.

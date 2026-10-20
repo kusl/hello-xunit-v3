@@ -1,6 +1,6 @@
 ================================================================================
 france-protests-debt-budget.html
-Source: PreloadedData  Paragraphs: 15  Words: 997/1077
+Source: PreloadedData  Paragraphs: 15  Words: 995/1075
 ================================================================================
 
 SUMMARY
@@ -23,9 +23,9 @@ Clashing with police and bearing inspiring banners, the students have riveted th
 
 The high school protests began in the poor suburbs of Paris in mid-September. They have spread to state-run schools in every region of the country, from big cities to provincial towns. The 15- to 18-year-olds are rebelling against long hours, large class sizes, frequent teacher absences and crumbling school buildings. They also worry about global warming, the rise of the far right and the A.I. threat to jobs for the young. At the center of their complaints is chronic underinvestment.
 
-This is something of a conundrum. After all, the French state spends a great deal on education: around $100 billion a year, or 5.1 percent of gross domestic product, above the European Union average. So what’s going on? Crucially, more than a quarter of that money goes not to the young but to the old, paying the pensions of retired teachers. That points to one of the root causes of the country’s problems. About one-quarter of all state spending goes to pensions; another quarter goes on social services, from health care to unemployment benefits.
+This is something of a conundrum. After all, the French state spends a great deal on education: around $100 billion a year, or 5.1 percent of gross domestic product, above the European Union average. So what’s going on? Crucially, more than a quarter of that money goes not to the young but to the old, paying the pensions of retired teachers. That points to one of the root causes of the country’s problems. About one-quarter of all state spending goes to pensions; another quarter goes to social services, from health care to unemployment benefits.
 
-No French government has balanced its books for 52 years. Even so, the French debt pile, at 119 percent of gross domestic product, is lower than that of some other countries, including the United States. As recently as 2019, President Emmanuel Macron managed to bring the annual deficit within the E.U. target of 3 percent of G.D.P.
+No French government has balanced its books for 52 years. Even so, the French debt pile, at 119 percent of G.D.P., is lower than that of some other countries, including the United States. As recently as 2019, President Emmanuel Macron managed to bring the annual deficit within the E.U. target of 3 percent of G.D.P.
 
 Then came the pandemic. Mr. Macron’s pledge to spend “whatever it takes” to keep the French economy alive during lockdown sent the deficit rocketing to 9.2 percent of G.D.P. in 2020. Accumulated debt rose by $335 billion in one year. France was then slower than other E.U. countries to ease its pandemic subsidies. The government spent another $95 billion to shelter France from rising energy prices after Russia invaded Ukraine in 2022.
 
@@ -39,7 +39,7 @@ The current prime minister, Sébastien Lecornu, has proposed painful but scarcel
 
 France remains in many ways a robust and wealthy country. Yet market distrust of France is not so much economic as political. The markets doubt whether a poisonously splintered political system, increasingly dominated by extremes of right and left, will ever agree to the painful changes that are needed to get the public finances back on track. The country, they fear, is becoming socially volatile and institutionally paralyzed. That explains the withdrawal of confidence that has pushed France’s borrowing costs sky-high.
 
-There is no easy way out. Whoever wins the presidential election in May will struggle to win a parliamentary majority in the legislative election that follows in June, setting up further political turmoil. What’s more, many doubt the willingness of Ms. Le Pen, the current front-runner, to confront the crisis honestly. She presented a five-year budget plan last week that was stuffed with ideological obsessions and creative accountancy.
+There is no easy way out. Whoever wins the presidential election in May will struggle to win a parliamentary majority in the legislative election that follows in June, setting up further political turmoil. What’s more, many doubt the willingness of Ms. Le Pen, the current front-runner, to confront the crisis honestly. She presented a five-year budget plan last week that was stuffed with ideological obsessions and creative accounting.
 
 On the other hand, Ms. Le Pen knows that the markets could make or break her presidency. She wants to prove that she is a stateswoman, not a wrecker. With that in mind, she will probably order her bloc of 139 deputies in the Assembly to abstain to allow the budget to pass. That may avert, for now, the kind of meltdown suffered by Greece after the financial crash. But France is no longer in control of its destiny.
 
