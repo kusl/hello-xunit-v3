@@ -1,0 +1,72 @@
+================================================================================
+alzheimers-disease-brain-head-shape.html
+Source: PreloadedData  Paragraphs: 26  Words: 1343/1344
+================================================================================
+
+SUMMARY
+
+The illnesses that rob people of the ability to think, remember and create identity often begin, with pinpoint precision, in specific parts of the brain. Take Alzheimer’s, a disease that typically takes root years before memory unravels, when tangles of a protein called tau begin to accumulate and cells die off in a structure near the base of the brain called the entorhinal cortex. And the architecture of the brain did not by itself predict who would develop Alzheimer’s.
+
+ARTICLE
+
+Alzheimer’s Researchers Look at an Unusual Data Point: Head Shape
+Could the geometry of our brains increase the risk of Alzheimer’s disease? It’s a provocative question, but one that some scientists are beginning to explore.
+By Carolyn Y. Johnson
+Published 2026-10-22 09:00 UTC
+https://www.nytimes.com/2026/10/22/science/alzheimers-disease-brain-head-shape.html
+
+The illnesses that rob people of the ability to think, remember and create identity often begin, with pinpoint precision, in specific parts of the brain. It’s one of the biggest mysteries about brain diseases: Why do they start where they do?
+
+Neuroscientists call this phenomenon, in which specific areas and cells in the brain are damaged by a disease while others are unaffected, “selective vulnerability.” Figuring out why it happens — and how to prevent or stop it — is a holy grail of the field.
+
+Take Alzheimer’s, a disease that typically takes root years before memory unravels, when tangles of a protein called tau begin to accumulate and cells die off in a structure near the base of the brain called the entorhinal cortex.
+
+In a preliminary study, scientists found that tau buildup in that origin area was linked to the progression of Alzheimer’s disease only when the region also lay close to the edge of the tentorial incisura, a notch in the brain’s outer lining.
+
+This correlation prompts a series of unorthodox questions: Could the repeated mechanical stresses of everyday life, paired with the sag of gravity over a lifetime, create pressure points in the brain? And could that biomechanical wear and tear influence people’s risk of developing Alzheimer’s disease? And, as a result, could differences in the anatomy of a person’s head help explain why some people develop dementia and others do not?
+
+“It really started in hushed tones in neuropathology circles,” said Dr. John Crary, a neuropathologist at the Icahn School of Medicine at Mount Sinai in New York, who partnered with Frank Provenzano, a neural imaging bioengineer at Columbia University, to test the idea in a small sample of 47 patients with mild cognitive impairment. Their paper was published in the journal Alzheimer’s & Dementia this month.
+
+The idea is provocative — not least in how it carries a whiff of some long-discredited ideas from the 19th century, when head shape was used to predict personality and justify racism. But outside scientists said the approach is intriguing, though the evidence is preliminary and suggestive and would need to be rigorously tested. They applauded the study for injecting a new idea into the scientific discussion.
+
+“It’s really outside the box, which I love,” said Dr. Gil Rabinovici, a neurologist at the University of California, San Francisco, who was not involved in the study and cautioned that the idea needs more evidence to build a convincing case. “I think we should be thinking more outside the box, in terms of understanding risks for neurodegeneration.”
+
+Pressure points in the brain?
+
+Much of what we know about the human brain comes from autopsies, after the organ has been removed from the skull. In other words, it has often been mapped entirely out of context. The relationship between the skull and the soft, fragile brain are studied in head traumas, but largely untested in many neurodegenerative diseases. But it was precisely this relationship that Dr. Crary, who runs a brain bank, became interested in.
+
+Dr. Crary had studied a form of neurodegeneration caused by repeated head trauma, chronic traumatic encephalopathy, or C.T.E. C.T.E. has shown scientists that mechanical forces can indeed trigger the accumulation of toxic tangles of the protein tau.
+
+Dr. Crary had also read a 1958 scientific paper that reported an unconventional set of autopsy data, in which a portion of the skull was removed. It sparked his curiosity because it showed wide variation in the size of an opening in the middle of the brain called the tentorial notch, the lip of a pass-through area between two compartments.
+
+After an acute injury or a stroke, brain tissue can swell and press against the edge of the rigid tentorial notch. Would smaller, cumulative effects of a lifetime of movement have a similar effect?, Dr. Crary wondered.
+
+“Some people have big ones, some have small ones, some have long ones, some have short ones,” Dr. Crary said of tentorial notches. “And as I was looking at this, I was thinking this could be a risk factor.”
+
+Dr. Crary, a self-proclaimed contrarian who has an “X-Files” poster in his office with the slogan, “I want to believe” inscribed on it, readily admits that it was hard to get other scientists interested in an idea so far outside the mainstream. But he needed a partner, one with both open-mindedness and the requisite technical chops, to tackle the project.
+
+That partner appeared on a trans-Atlantic flight back from a conference in Lisbon. Dr. Provenzano, who had been up until 4 a.m. working on grant reviews, was feeling crummy and sat down next to Dr. Crary.
+
+As they started chatting, Dr. Crary pulled out his laptop and began explaining his theory that a lifetime of jostling, at a spot in the brain uniquely situated at the junction of soft tissue and stiff structures, could explain why the entorhinal cortex is where Alzheimer’s takes root. Dr. Provenzano, who has a 3-D printed model on his desk of the brain region, perked up.
+
+“As a biomedical engineer, I’m kind of like a rhinoceros to a fire. I have to put it out,” Dr. Provenzano said. “I was like, ‘John, this is outstanding — we can address this.’”
+
+Measuring the distance
+
+To take a first swing at the question of whether brain anatomy could help explain Alzheimer’s risk, the researchers analyzed medical scans from 47 people with mild cognitive impairment, with tangles of tau in the vulnerable area. They measured the distance between the hard edge of the tentorial notch and the entorhinal cortex.
+
+This distance did not predict the amount of tau tangles in the brain. And the architecture of the brain did not by itself predict who would develop Alzheimer’s. The researchers did find, though, that tau in the risky region was linked to developing dementia over the next three years only among people with a tight gap between the notch and the entorhinal cortex.
+
+Both scientists acknowledge that their small study is only a starting point, not a proven case. They hope, though, that their work will encourage follow-ups. The Alzheimer’s field has long been focused on toxic clumps of a protein called amyloid-beta, and more recently on tangles of tau. Multiple drugs that remove amyloid have been approved, but they have produced limited benefits for patients.
+
+David Attwell, a neuroscientist at University College London, wrote in an email that Dr. Crary and Dr. Provenzano’s paper showed an “intriguing correlation” and raised many other questions that could be studied.
+
+He said it was easy to speculate as to the possible ways that everyday mechanical stresses could contribute to Alzheimer’s risk. For example, brain cells called microglia that clear amyloid-beta protein from the brain are sensitive to being stretched. But he, like others, said there were other factors that might correlate with the distance between the two brain regions that could also play a role.
+
+The ideas proposed by Dr. Crary and Dr. Provenzano still need to be tested to see if they bear out. Even if they do not, though, they may still generate other ideas or observations that spark new research directions.
+
+Michael Yassa, a neurobiologist at the University of California, Irvine, said he was cautiously excited about the paper. His own lab published a paper last year in Nature Communications that examined the changing shape of the brain over the course of a lifetime. Dr. Yassa’s team chronicled the effects of the “slouch of gravity,” which compresses the brain in some directions and stretches it in others. Certain aspects of this resculpting, they found, tended to be pronounced in older adults experiencing impairments in memory and cognitive functioning.
+
+Dr. Yassa said that, from his perspective, the Alzheimer’s field had long failed to embrace new ideas, and he hoped that keeping an open mind could lead to benefits for patients and families.
+
+“It’s so dominated by the classic ideas — classic, as in, from 1909,” Dr. Yassa said. “Pushing the envelope on these ideas, and breaking through some of these silos, and banging down doors is what we should be doing.”
