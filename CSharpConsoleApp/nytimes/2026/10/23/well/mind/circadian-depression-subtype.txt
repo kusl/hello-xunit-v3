@@ -1,0 +1,65 @@
+================================================================================
+circadian-depression-subtype.html
+Source: PreloadedData  Paragraphs: 21  Words: 850/849
+================================================================================
+
+SUMMARY
+
+It is well known that clinical depression is linked to disruptions in circadian rhythm, the body’s internal 24-hour clock that controls the sleep-wake cycle. In the study, there was some overlap among the participants who had atypical depression and those who were found to have circadian depression. Circadian depression is “a plausible” medical condition, he added.
+
+ARTICLE
+
+Your Sleep Habits May Point to a Specific Type of Depression, a New Study Finds
+Researchers say people with ‘circadian depression’ might benefit from therapies that help adjust the body’s clock.
+By Christina Caron
+Published 2026-10-23 09:03 UTC
+https://www.nytimes.com/2026/10/23/well/mind/circadian-depression-subtype.html
+
+It is well known that clinical depression is linked to disruptions in circadian rhythm, the body’s internal 24-hour clock that controls the sleep-wake cycle. Reduced daylight in autumn and winter, for example, can set off a type of depression known as seasonal affective disorder, or SAD.
+
+But, according to Dr. Ian B. Hickie, a professor of psychiatry at the Brain and Mind Centre at the University of Sydney, in Australia, SAD is “just the tip of the iceberg.”
+
+In a study published this week in the British Journal of Psychiatry, Dr. Hickie and his collaborators have proposed a new subtype of clinical depression called “circadian depression,” that is estimated to affect about a quarter of the people who have major depressive disorders. And it is not dependent on seasonal changes.
+
+The researchers assessed more than 11,000 Australians who had been diagnosed with depression and found that over 2,600 of them, or about one in four, met the criteria for circadian depression.
+
+It is not a formal diagnosis but rather a suggested subtype, defined as meeting three or more of the following criteria:
+
+- Waking up “very tired”
+- Waking up late
+- Identifying as a night owl
+- Sleeping much later on “free days” than on “working days”
+- Seasonal changes in sleep duration, social activity, mood, weight, appetite or energy level
+- Sleeping more when feelings of depression are at their worst
+
+Dr. Hickie and his colleagues found that people who met those criteria reported that their depression started at an earlier age than those who did not. In addition, they were more likely to have gained weight during depressive episodes, and exhibit more severe symptoms like brief hallucinations and suicidal thinking.
+
+Identifying this subtype is important, Dr. Hickie added, because people who have it may derive greater benefit from treatment that helps adjust the body clock than from conventional therapies.
+
+Those who showed symptoms of circadian depression reported having a worse response to the antidepressants selective serotonin reuptake inhibitors, or S.S.R.I.s, and serotonin-norepinephrine reuptake inhibitors, or S.N.R.I.s. They also reported more side effects from those drugs.
+
+Some of the symptoms associated with circadian depression are similar to depression with atypical features, which is already considered a subtype of depression. With atypical depression, patients often report feeling sleepy during the day and hungry even after they have eaten. And they do not usually respond well to modern antidepressants.
+
+In the study, there was some overlap among the participants who had atypical depression and those who were found to have circadian depression. But about 1,400 patients with atypical depression did not meet the criteria for circadian depression, the researchers said.
+
+Circadian depression, according to the study, was also associated with genetic signals that suggested a higher risk of developing attention deficit hyperactivity disorder, or A.D.H.D.; major depression; anxiety; bipolar disorder; inflammation; and insulin resistance.
+
+Dr. Hickie hypothesized that the people in the study who were labeled with circadian depression might benefit from treatments including melatonin, a hormone that helps regulate the body’s internal clock, and light therapy.
+
+People who don’t respond to antidepressants “very quickly get labeled treatment-resistant,” Dr. Hickie said. “We would argue they’ve probably been on the wrong track since the start.”
+
+More research is needed to know whether those with circadian depression would benefit from such treatments, but earlier studies have shown the mental benefits of resetting the body clock and staying consistent.
+
+“Circadian features, such as difficulty becoming alert in the morning or oversleeping, point to treatments that target sleep and circadian timing,” said Michael Terman, who was among the first researchers to show that bright artificial light early in the morning has an antidepressant effect.
+
+“Bright light therapy is an established treatment for seasonal affective disorder, and research has also shown benefits in nonseasonal depression and bipolar disorder,” said Dr. Terman, who currently serves as president of the Center for Environmental Therapeutics and was not involved in the new study.
+
+Circadian depression is “a plausible” medical condition, he added. But, he said, the study’s findings don’t establish a new diagnosis or show that circadian depression will respond to specific types of treatments.
+
+A significant limitation of the study was that the participants, who were predominantly of European ancestry, self-reported their sleep-wake cycles, and it was unclear whether they did so accurately. It was also unclear whether the patients were in the midst of a depressive episode during the study — depressive episodes are known to cause sleep disruptions.
+
+“If it’s a circadian type of depression, that should mean that the circadian problems should go away when the depression goes away, and that, they have not shown,” said Dr. Nina Kraguljac, a psychiatrist at the Ohio State University Wexner Medical Center and chair of the American Psychiatric Association’s Council on Research, who was not involved in the study.
+
+Even so, she said, it’s worthwhile trying to better understand to what extent the clock in the brain contributes to depression.
+
+“Almost every patient who is depressed either sleeps too much or doesn’t sleep enough,” she added. “So it is important to think about circadian rhythms as a potential way to personalize treatments in depression.”

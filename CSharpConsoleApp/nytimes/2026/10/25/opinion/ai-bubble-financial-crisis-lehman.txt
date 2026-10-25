@@ -1,0 +1,76 @@
+================================================================================
+ai-bubble-financial-crisis-lehman.html
+Source: PreloadedData  Paragraphs: 27  Words: 2008/2089
+================================================================================
+
+SUMMARY
+
+As the money pours in, the companies involved are resurrecting bad old habits eerily reminiscent of the shenanigans deployed in the run-up to the financial crisis. With more U.S. funds in A.I.-heavy stocks than in homes, a crash could destroy more wealth than the 2008 financial crisis did. As bad as the financial crisis was, it began with a small slice of mortgages of a still-diversified economy.
+
+ARTICLE
+
+This Boom Looks a Lot Like the Housing Bubble
+There are signs the A.I. boom is going bust. If it does, the consequences could rival the 2008 financial crisis.
+By Jen Harris
+Published 2026-10-25 13:00 UTC
+https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html
+
+Artificial intelligence is fast becoming the largest investment in U.S. history. As the money pours in, the companies involved are resurrecting bad old habits eerily reminiscent of the shenanigans deployed in the run-up to the financial crisis.
+
+There are already signs that much of this investment may go bad. If it does, the consequences could rival what happened in 2008.
+
+We know far too little about the financial plumbing propping up this surge. What little we do know looks remarkably like the tactics once employed by Wall Street firms like Lehman Brothers, the storied 158-year-old bank that collapsed in 2008, setting off a panic that ultimately cost taxpayers nearly $700 billion in bailouts in today’s dollars and nearly nine million Americans their jobs. Now as then, companies are hiding large amounts of debt off public balance sheets. Firms responsible for protecting our pensions and our insurance are again risking our money by snapping up complicated financial products backstopped by assets of uncertain value. A small group of companies are buying and selling large amounts of a hot product to one another, inflating demand for the product and obscuring the risks of the system in a web of complexity. The accountants and credit-rating firms that analyze the situation — and that are financially beholden to the debtors — are deploying shaky excuses to declare it all fine.
+
+There are a few differences. With more U.S. funds in A.I.-heavy stocks than in homes, a crash could destroy more wealth than the 2008 financial crisis did. And the Trump administration, reportedly eager to prevent a bust, is making changes that inject new opacity and more risk into the situation.
+
+There are already signs the nascent A.I. industry may not soon generate the trillions of dollars required to pay off all the huge debts it is incurring. Earlier this month, The Financial Times reported that the projected annual revenue at A.I. lab OpenAI was about $50 billion at the end of September, 28 percent lower than had previously been believed. Figures reported by The Wall Street Journal this month suggested that revenue growth at Anthropic, OpenAI’s chief rival, was softening. Markets are getting nervous, with the tech-laden Nasdaq falling over 5 percent over the last two weeks.
+
+Anthropic and OpenAI are already so entangled in our economy (and in our national security) that if they sink, Washington will need a plan. Done right, any rescue would come with real safety guardrails, real insurance that we won’t cede control of the technology to China and real service to the public interest.
+
+Lehman Brothers was born in 1850 as a cotton brokerage in antebellum Alabama. The A.I. chipmaker Nvidia was born in 1993 in a booth at a Denny’s in San Jose, Calif., and Meta in a Harvard dorm in 2004. And yet the financial circumstances surrounding those companies share an uncanny resemblance.
+
+Start with hidden loans. A Wall Street Journal analysis in August concluded that the nine largest tech firms, Nvidia and Meta included, have managed to accrue $3 trillion of debt, or roughly 10 percent of the entire U.S. economy, off their balance sheets. Keeping the debt off the books (and away from the figures investors and regulators watch most closely) makes it easier for those companies to spend enormous sums constructing the data centers that drive A.I. — centers they believe will both improve the technology and satisfy an expected takeoff in demand.
+
+Back in 2008, Lehman, too, accumulated lots of debt, primarily from buying subprime mortgages; those loans, which were targeted to home buyers with thin or imperfect credit histories, were the hot product of its day. The firm similarly avoided scrutiny by shuffling the debts off its balance sheet. When those mortgages went bad, so did Lehman, and its sudden demise nearly took much of the banking system with it.
+
+Within days of its failure, Washington committed hundreds of billions of dollars to stabilize the financial system, and the Federal Reserve backstopped trillions more. Still, the rescue wasn’t enough to stave off the worst recession since the Great Depression. Millions of jobs and trillions in household wealth evaporated.
+
+Now you might ask: Didn’t Congress pass legislation to prevent another crisis from occurring? Yes, but that law, known as Dodd-Frank, applied largely to lenders, which means banks and bank-holding companies. It left private creditors, back then a relatively small slice of the finance world, virtually untouched. In 2018, Congress, worried about the potential impact on small businesses, loosened rules to allow many private creditors to stretch their balance sheets. It ignored objections that money, like water, would always flow to the least regulated corners of finance.
+
+Enter Silicon Valley. A.I.’s biggest players seized on the loosely regulated private credit industry to help finance their data center spree.
+
+Another throwback to the bad old days of 2008: the way the A.I. firms and their main suppliers are buying and selling the technology and its infrastructure to each other, lending large sums to one another to fund the deals. Nvidia disclosed commitments and guarantees of over $530 billion to its own customers in July — more than triple the amount it was lending just three months earlier. Analysis by the asset manager Sona found at least 176 circular financing deals in the A.I. ecosystem that were worth $3.6 trillion over the past three and a half years.
+
+Back in the housing bubble, major Wall Street firms came up with numerous complex ways to borrow from their rivals, with proceeds going to purchase even more subprime mortgages. The result made demand for those loans look greater than it actually was, and it built a financing web so tangled that it became difficult to parse any one firm’s exposure. As Lehman’s collapse later showed, such confusion meant that a problem anywhere can soon become a problem everywhere.
+
+Then how about the fact that accounting firms, those given the job of calling out any warning signs, appear asleep at the wheel once again? Ernst & Young, which signed off on Lehman’s questionable accounting tactics before its collapse, is now being accused of offering more tautology than real comfort in its latest approval of Meta’s unusual accounting moves to fund its very expensive A.I. push. Everything is all fine, essentially, because Meta said it is.
+
+Those are the similarities. Now for the differences.
+
+This presidential administration, reportedly worried that any A.I. slowdown will beget a broader economic one (which, in turn, could worsen its political standing), is propping up the boom. Its measures likely goose the available money in the short term but will worsen the pain of any correction. President Trump wants to allow Americans to invest their retirement savings in private credit funds, ensuring they will lose directly if these data center deals go bad. The Securities and Exchange Commission has made it easier for data center owners and their lenders to slice and repackage this debt, which is exactly what banks did to subprime mortgage debts in the housing bubble. The S.E.C. is also proposing rules that allow newly public companies to disclose even less than they already do.
+
+Another difference: This time, taxpayers are more clearly on the hook, because private creditors are more directly attaching A.I. debt to the financial products we need. Take annuities, which are often relied on by retirees. Because many Americans rely on such insurance products, their policies are usually guaranteed by the state should an insurer go bankrupt. Right now, private creditors like Apollo are funding the debt boom in part by tapping the money sitting in companies like Athene, the $470 billion insurer Apollo controls. Should the A.I. boom go bad and Athene go under, Apollo knows the state (i.e. taxpayers) will be on the hook for much of what it owes policyholders. (Athene’s opaque disclosures make it hard to know how much of its assets are in data centers.)
+
+Private-capital-backed firms now own nearly 20 percent of the entire U.S. life insurance industry, with assets of nearly $1.5 trillion.
+
+As bad as the financial crisis was, it began with a small slice of mortgages of a still-diversified economy. This time, the sector at risk is our economy’s growth engine. A.I.-related investment fueled an estimated one-third of the country’s recent economic growth, and the handful of companies most exposed to the A.I. build-out now comprise roughly one-third of the entire S&P 500.
+
+In other words, the U.S. economy is fully hostage to an A.I. build-out laden with increasingly worrying financial engineering, all riding on a wager — that demand for A.I. will keep growing, that customers will soon be willing to pay what the technology actually costs to produce and that firms will manage to build the infrastructure required to supply it. Recent estimates indicate that A.I. would need to generate as much as $3 trillion annually in perpetuity to return the capital extended. That’s 9 percent of the U.S. gross domestic product, or twice what Americans spend on food.
+
+Already, a closer look at the fundamentals of OpenAI and Anthropic, the most critical players in this bet, are perhaps even worse than the headlines suggest. Right now OpenAI expects to lose $280 billion by 2030 even assuming revenues grow tenfold over the same period. And both OpenAI and Anthropic have already slashed prices 40 percent to 50 percent from early summer, perhaps because China’s Deep Seek, the leading “open weight” A.I. model, reportedly nearly matches their latest models’ performances at about 1.4 percent of the cost. Far less expensive open weight models have roughly doubled their share of token volume this year, according to OpenRouter, a service that tracks A.I. usage across all major providers. Prices and market share are shrinking; costs are not.
+
+Such worries may explain why tech stocks have been taking a beating, and bond markets — normally where investors go for shelter amid financial turbulence — are volatile. Many of those private creditors — a sector that has grown sharply amid the A.I. boom, to between $2 trillion and $3 trillion — are showing classic signs of financial distress.
+
+A final difference from 2008: The government deficit has reached historic highs. The reality is our government has little money to rescue all the major players should this boom go bust. Yet national security demands will never allow the United States to cede the technology to China. So if the A.I. bet starts to falter, a range of voices including that of Palantir’s chief executive, Alex Karp, as well as those of privacy advocates have suggested that the government take over frontier or cutting-edge A.I. The technology would join America’s other big-ticket national security expenses, such as aircraft carriers and warheads, which for the most part, are critical to our military and security arsenal but lack commercial viability.
+
+The government could separate the technology into its two constituent parts: Innovation would move to a national lab with safety protocols like the ones that govern nuclear weapons; a computing arm would run on a meter and operate similarly to a utility. A careful reorganization would help lessen the chaos of a crisis, thus softening any recession, and prevent our most formidable adversary from taking over the industry. Obviously, such a plan would raise plenty of hard design questions. But the basic aim is simple: Our most powerful A.I. models, which are perhaps proving too expensive for any private firm to build, could then answer to democratically elected leaders and be pointed more clearly to public good than to quarterly profits.
+
+The necessary authorizing legislation could ensure the independence of this new national lab from undue political interference and also detail civil liberties and privacy protections fit for an A.I. era in a way we never got around to with the internet revolution a quarter-century ago. And as long as we’re at it, perhaps Congress and our regulators can reassess the choices that landed us where we are now.
+
+There’s an old chestnut in finance circles that crises take longer, and then happen faster, than you think. With so many echoes of 2008, shame on us if this one catches anyone by surprise.
+
+Jennifer M. Harris directs the Economy and Society Initiative at the William and Flora Hewlett Foundation. She was an economic official in the Biden White House.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
