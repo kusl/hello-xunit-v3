@@ -1,18 +1,9 @@
-kushal@fedora:~/src/ts/kphoto$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
-Your branch is up to date with 'origin/master'.
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   CSharpConsoleApp/nytimes/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html
-	modified:   CSharpConsoleApp/nytimes/2026/10/25/nyregion/30-year-old-angst.html
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	CSharpConsoleApp/nytimes/2026/10/26/
-
-no changes added to commit (use "git add" and/or "git commit -a")
+nothing to commit, working tree clean
 Starting project export...
 Project Path: /home/kushal/src/dotnet/HelloXUnit
 Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
@@ -42,97 +33,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.17 MB across 19 files
 
-real	0m0.538s
-user	0m0.288s
-sys	0m0.251s
+real	0m0.451s
+user	0m0.257s
+sys	0m0.248s
+Restore complete (0.8s)
 
-Welcome to .NET 10.0!
----------------------
-SDK Version: 10.0.113
-
-----------------
-Installed an ASP.NET Core HTTPS development certificate.
-To trust the certificate, run 'dotnet dev-certs https --trust'
-Learn about HTTPS: https://aka.ms/dotnet-https
-
-----------------
-Write your first app: https://aka.ms/dotnet-hello-world
-Find out what's new: https://aka.ms/dotnet-whats-new
-Explore documentation: https://aka.ms/dotnet-docs
-Report issues and find source on GitHub: https://github.com/dotnet/core
-Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
---------------------------------------------------------------------------------------
-Checking the state of installed workloads...
-Pack Microsoft.Android.Sdk.Linux version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Sdk.Linux version 36.1.2...
-Pack Microsoft.Android.Sdk.Linux version 35.0.105 is already installed.
-Writing workload pack installation record for Microsoft.Android.Sdk.Linux version 35.0.105...
-Pack Microsoft.Android.Ref.36 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Ref.36 version 36.1.2...
-Pack Microsoft.Android.Runtime.36.android version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.36.android version 36.1.2...
-Pack Microsoft.Android.Runtime.Mono.36.android-arm version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.Mono.36.android-arm version 36.1.2...
-Pack Microsoft.Android.Runtime.Mono.36.android-arm64 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.Mono.36.android-arm64 version 36.1.2...
-Pack Microsoft.Android.Runtime.Mono.36.android-x86 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.Mono.36.android-x86 version 36.1.2...
-Pack Microsoft.Android.Runtime.Mono.36.android-x64 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.Mono.36.android-x64 version 36.1.2...
-Pack Microsoft.Android.Runtime.CoreCLR.36.android-arm64 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.CoreCLR.36.android-arm64 version 36.1.2...
-Pack Microsoft.Android.Runtime.CoreCLR.36.android-x64 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.CoreCLR.36.android-x64 version 36.1.2...
-Pack Microsoft.Android.Runtime.NativeAOT.36.android-arm64 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.NativeAOT.36.android-arm64 version 36.1.2...
-Pack Microsoft.Android.Runtime.NativeAOT.36.android-x64 version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Runtime.NativeAOT.36.android-x64 version 36.1.2...
-Pack Microsoft.Android.Templates version 36.1.2 is already installed.
-Writing workload pack installation record for Microsoft.Android.Templates version 36.1.2...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-arm version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-arm version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-arm64 version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-arm64 version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-x64 version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-x64 version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-x86 version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-x86 version 9.0.11...
-Pack Microsoft.NET.Runtime.MonoAOTCompiler.Task version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NET.Runtime.MonoAOTCompiler.Task version 9.0.11...
-Pack Microsoft.NET.Runtime.MonoTargets.Sdk version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NET.Runtime.MonoTargets.Sdk version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x86 version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x86 version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64 version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64 version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm64 version 9.0.11 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm64 version 9.0.11...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-arm version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-arm version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-arm64 version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-arm64 version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-x64 version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-x64 version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.Mono.android-x86 version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.Mono.android-x86 version 10.0.1...
-Pack Microsoft.NET.Runtime.MonoAOTCompiler.Task version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NET.Runtime.MonoAOTCompiler.Task version 10.0.1...
-Pack Microsoft.NET.Runtime.MonoTargets.Sdk version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NET.Runtime.MonoTargets.Sdk version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x86 version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x86 version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64 version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64 version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm version 10.0.1...
-Pack Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm64 version 10.0.1 is already installed.
-Writing workload pack installation record for Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm64 version 10.0.1...
-----------------
-Restore complete (1.3s)
-
-Build succeeded in 1.4s
+Build succeeded in 0.9s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -145,9 +51,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.2       4.0.2   
 
 
-real	0m2.799s
-user	0m3.160s
-sys	0m0.561s
+real	0m2.104s
+user	0m2.136s
+sys	0m0.382s
 Restore complete (0.5s)
 
 Build succeeded in 0.6s
@@ -159,11 +65,38 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m2.280s
-user	0m1.962s
-sys	0m0.433s
+real	0m1.857s
+user	0m1.763s
+sys	0m0.406s
 
-real	0m6.477s
-user	0m9.312s
-sys	0m1.204s
+real	0m3.517s
+user	0m7.452s
+sys	0m0.867s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
