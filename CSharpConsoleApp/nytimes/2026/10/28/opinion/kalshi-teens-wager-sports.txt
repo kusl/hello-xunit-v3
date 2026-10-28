@@ -1,0 +1,59 @@
+================================================================================
+kalshi-teens-wager-sports.html
+Source: PreloadedData  Paragraphs: 19  Words: 1357/1358
+================================================================================
+
+SUMMARY
+
+I spent Monday morning at a breakfast hosted by the prediction market company Kalshi. The only time I have ever really considered prediction markets as a parenting issue is when I wrote about the rise of addictive gambling among young men since sports betting became legal in some states in 2018. At the breakfast, Lara said that prediction markets are not like sports books or casinos, citing the mechanics of how Kalshi works.
+
+ARTICLE
+
+Is This the Gateway Drug for Gambling?
+We actually can regulate prediction markets, and we should do it now.
+By Jessica Grose
+Published 2026-10-28 09:06 UTC
+https://www.nytimes.com/2026/10/28/opinion/kalshi-teens-wager-sports.html
+
+I spent Monday morning at a breakfast hosted by the prediction market company Kalshi. At an event space in Manhattan with soaring ceilings and tables stacked with bagel towers, Emily Oster, a best-selling parenting writer and economist, and the Kalshi co-founder Luana Lopes Lara had a conversation billed as being about “how data, forecasting and probabilities can sharpen our choices,” which promised to “tackle parents’ questions about prediction markets.”
+
+My first thought when I received the Paperless Post was: How is Kalshi going to help me sharpen my choices as a mom? The only time I have ever really considered prediction markets as a parenting issue is when I wrote about the rise of addictive gambling among young men since sports betting became legal in some states in 2018.
+
+Prediction markets are regulated differently from sports betting platforms, where there is a house that collects and pays off bets. Kalshi doesn’t have to abide by state laws on gambling (though there are lawsuits pending about this loophole), and it doesn’t have to pay the same taxes.
+
+What Kalshi does is provide a platform to match opposing traders and it earns fees when trades are executed. The bigger the pool of people making trades on its platform, the more money Kalshi makes. This summer, wagering on the World Cup exploded on Kalshi. The company recorded $27 billion in trading during tournament play, according to Reuters.
+
+Most states require sports bettors to be 21, while most prediction markets allow users as young as 18. A CNN analysis published at the end of August found that Kalshi users between the ages of 18 and 21 traded $5 billion on the platform this year, though that’s only about 3 percent of the company’s trading volume.
+
+At the breakfast, Lara said that prediction markets are not like sports books or casinos, citing the mechanics of how Kalshi works. The platform allows betting on all sorts of events beyond sports — like whether “The Odyssey” will win the best picture Oscar or whether it will rain tomorrow. Because prediction markets make their money off transaction fees, regardless of whether traders win or lose, Lara described the company as having more noble incentives than traditional sports books, and also ones that are more aligned with users.
+
+It is true that the inner workings of prediction markets aren’t the same as sports betting apps. But according to every gambling addiction expert, psychologist and pediatrician I have ever spoken to, users treat sports books and prediction markets as interchangeable (The consensus seems to be: If it looks like a duck and quacks like a duck. …).
+
+A majority of Kalshi’s trades come from sports. In fact, the company previously advertised itself as the “first app for legal sports betting in all 50 states.” Polymarket, the other leading prediction market in the United States, also has the highest volume of its trades from sports. The N.B.A. just made deals with both Kalshi and Polymarket.
+
+According to an analysis by The Wall Street Journal in May, on both Kalshi and Polymarket, “losers vastly outnumber winners.” Though advertising by prediction markets suggests big paydays for regular Joes, professionals dominate winnings. My sense is that Gen Z is turning to prediction markets in part because the traditional ways of building wealth feel out of reach to them. The job market stinks, the potential for artificial intelligence destruction of many industries, if not humanity, looms, so why not put some of your piddling savings on whether the Timberwolves will win by over 5.5 points tonight?
+
+Abdullah Mahmood, a licensed social worker who works with problem gamblers in Columbus, Ohio, told me that some of his younger clients — between the ages of 18 and 24, he estimates — started their betting addictions with prediction markets. Mahmood said that for many young men, their identity is rooted in sports, which can be communal. But that love of sports and sense of identity are “being wrapped in trading and gambling,” and that’s perverting what could have been very positive for them, he said.
+
+Dr. Shawn Kelly, a pediatrician in Ottawa who specializes in adolescent addiction medicine, said, “From a youth brain perspective specifically, there is no discernible difference” between prediction markets and sports betting. From the time children become adolescents, until their brain fully matures in their early-to-mid 20s, they are particularly vulnerable to the allure of short-term rewards and the chemical rush of dopamine that goes with it.
+
+At the breakfast, Lara addressed some of the risks Kalshi could pose for young users. She explained that her platform has a strict age-verification system that requires a Social Security number, name, date of birth and form of identification to keep minors from trading. Lara did acknowledge that there are specific risks for users ages 18 to 21, and that these young adults can elect to give a parent access to all of their transactions.
+
+This week, Kalshi rolled out a $2,500 deposit limit for its youngest customers, “unless you have proof of funds or self-attestation that you know the risks associated with trading and the contracts.” Lara added that the company has a partnership with Birches Health, which provides treatment for compulsive behaviors, including a gambling addiction self-test.
+
+While I appreciated this acknowledgment, it also reveals the contradiction at the heart of Kalshi’s public image: We’re not gambling, but we provide resources for gambling addiction and give millions to the National Council on Problem Gambling. We’re not gambling, but we acknowledge that there are higher risks for our younger users whose brains are still forming.
+
+The company wants to be seen as taking these matters seriously and creating its own guardrails. Tarek Mansour, Kalshi’s other founder, told PBS last month that theirs is a pro-regulation company. In practice, that seems to mean only the regulations it picks and chooses.
+
+At the event, Lara mentioned that the company sued regulators at the Commodity Futures Trading Commission to expand its business to include predictions for elections. The commission argued that it was not in the public interest and that the regulator was not equipped to offer fraud protection in that context. Kalshi won and “the litigation actually helped with a lot of other markets.”
+
+Attorneys general in 44 states signed onto a letter this year to try to claw back the power to regulate prediction markets from the Commodity Futures Trading Commission, calling them a “new form of casino” and citing research that shows the younger someone starts gambling, the greater the likelihood of developing a problem. We do not have to accept the widespread availability of prediction markets as normal, even if this breakfast treated it as part of our inevitable financial future.
+
+Toward the end, Lara said a market she follows closely is about artificial intelligence. Specifically, she likes one about whether the Citrini scenario, a doomsday forecast predicting that A.I. will destroy the economy, will happen. When I checked on Tuesday morning, 19 percent of Kalshi users wagering on the question put their money behind “yes.”
+
+I hate those odds. As a parent, I’m not sure how that data is supposed to help me. I want to put my money behind “no” to all of it.
+
+End Notes
+
+- Yes, I read Alexandra Alter’s profile of the tech titan Marissa Mayer and her new personal A.I. assistant, Dazzle, which is pitched to busy working moms. Yes, I think it’s weird that she asked a bot to come up with three things that made her daughter special. But I was more struck by how out of touch she is with the user base of regular parents she hopes to reach.
+- I have been doing this for so long, I wrote about Mayer’s maternity leave controversy for Bloomberg in 2012, when I was very pregnant with my now older daughter. I stand by that take, which is that her experience of maternity leave — she reportedly built a nursery next to her office — is so different from your average person’s as to be completely irrelevant. Our energy is better spent fighting for policy changes than worrying about whatever she’s doing. Feel free to drop me a line about anything here.

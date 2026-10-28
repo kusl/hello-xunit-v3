@@ -1,0 +1,590 @@
+================================================================================
+ezra-klein-podcast-nate-silver.html
+Source: PreloadedData  Paragraphs: 283  Words: 9847/10135
+================================================================================
+
+SUMMARY
+
+If the election goes roughly as the polls say it will, then in some ways it would mark the end of the Trump era, I think. I mean, are they just polling people and saying: Do you think you’re going to vote? I think, in some ways, what happened to Democrats after 2012 was kind of weird, right?
+
+ARTICLE
+
+Nate Silver on What the Polls Say — and What His Gut’s Telling Him
+The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.
+By Ezra Klein and Jack McCordick
+Published 2026-10-27 09:06 UTC
+https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html
+
+This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.
+
+We are a week out from the midterm elections, and something that looked almost impossible a year ago has happened. There is a path for Democrats to win not only the House but also the Senate — a Senate majority for Democrats, to sort of recap this.
+
+To achieve this, they would need to defend the competitive Senate seats that they currently hold. That’s Georgia, Minnesota, New Hampshire, Michigan. And then they need to flip at least four seats in states currently held by Republicans.
+
+A couple of those states had always looked possible: Maine, North Carolina. But then came the hard ones, states where Donald Trump had won by double digits: Alaska, Texas, Iowa, Ohio. People weren’t really talking about Kansas, but now Kansas.
+
+And the remarkable thing about this cycle is that Democrats are polling competitively in all of them. In a handful of those races, they’re actually far ahead.
+
+And so I think the question is: Can we trust these polls? What can we really say about where the elections stand just a week before the vote?
+
+To talk about all this, I wanted to have Nate Silver on the show. Nate, of course, is an internationally famous elections nerd, one of the people who brought a lot of election forecasting into the center of every election season.
+
+These days, he edits Silver Bulletin on Substack, putting out a ton of great analysis, polling and election forecasts.
+
+He co-hosts the podcast “Still Counting,” and he’s the author of, most recently, “On the Edge: The Art of Risking Everything.”
+
+Ezra Klein: Nate Silver, welcome back to the show.
+
+Nate Silver: Hey, Ezra. How are you, man?
+
+I’m good. I wanted to ask — I didn’t follow up when you said this to me a second ago, because I want to do it on air. You said to me, looking a little far away in your eyes, that this election feels momentous to you.
+
+I’ve known you a long time. You don’t usually say things like that. So what feels momentous?
+
+If the election goes roughly as the polls say it will, then in some ways it would mark the end of the Trump era, I think. He’ll still be president for two more years. But the minute the election, the votes, are counted — might take a while because of Alaska and California and states like that — the 2028 election campaign begins, and if Trump has a bad night, as polls show, then he’s a super-lame duck, right? You might draw an analogy to George W. Bush after 2006.
+
+People, understandably, are having trouble believing in the polls. It kind of looks like a different regime, right? Where Kansas is competitive, Texas is competitive. Potentially gains for Democrats deep into Republican territory.
+
+But maybe we’re on the verge of something different between generational turnover, between Trump being three-quarters of the way through his two constitutionally provided-for terms.
+
+With A.I. looming, too. It’s not quite clear to me how big an issue A.I. is in this election. I think maybe more than people assume. But it could be the biggest issue of 2028. I think you might expect it to be, along with the economy, one of the biggest issues of 2028.
+
+I was thinking, as you said that, about the conversations I had about the election a year ago.
+
+Yeah.
+
+And a year ago, the conversation was: Democrats will probably win the House. And the Senate, I mean, never say never … but no.
+
+The reason was, to win back the Senate, Democrats were going to need to win in a number of places where Trump had won by more than 10 points. Given everything we know about partisanship in modern America, that wasn’t going to happen.
+
+So when we’re talking, it’s about two weeks before the election right now. It will be less by the time this airs. Democrats are at a 70-plus percent chance of winning the Senate in your model — and not just winning the Senate, but possibly winning beyond that ——
+
+With some room to spare.
+
+Kansas and some room to spare. Why? What happened?
+
+So I think a couple of things happened, and some of them have to do with expectations, maybe, being miscalibrated. After 2024, there was talk of a, I guess, permanent conservative vibe shift — that Democrats were on their heels, and Joe Biden had failed, and wokeness had peaked.
+
+That was dumb — the idea that it would be permanent.
+
+Yeah, and if you look at the history of American elections, then the most regular trend in American elections — one of the few things that survives for decades — is that there is a backlash against the president’s party at the midterm. Maybe a little bit bigger if a president is in his second, kind of lame-duck term.
+
+We can recite the exceptions on one hand: 1998, after Monica Lewinsky; 2002, after Sept. 11. That’s about it.
+
+In 2022, Biden had a relatively gentle thumping in the midterm compared with what you might expect, based on his approval rating. So look, in the average midterm, the environment shifts by seven and a half points against the president’s party versus the previous presidential year. This year, it looks more like 11 points.
+
+OK, but why is 11 points important? Well, there are all these states, like you said, that Trump won by 10, 11, 12, 13 points, right? Ohio, I think, he won by 11 points. So if you have an 11-point swing, and it’s fairly uniform, all of a sudden Ohio becomes a tossup.
+
+What I think wasn’t so clear is that Democrats have actually nominated, in most important races, pretty good candidates and were lucky enough to face weaker Republican candidates. I’m not sure if James Talarico is everybody’s cup of tea, but he is able to take advantage of Ken Paxton’s many sins and so forth, right? In North Carolina, Roy Cooper was a strong recruit from Chuck Schumer and company.
+
+Democrats have the strategy now of trying to nominate independents in name only in states like Nebraska. I think both the candidates, the Republican and the Democrat, are strong in Iowa, for example. But I would say that probably the candidate intangibles, they might move things by five points at most.
+
+But you kind of do the math, and you’re like: OK, well, Texas is a Trump plus-13 state. The partisan climate moves 11 points toward Democrats, so now it’s R plus two. And then, is Ken Paxton below average enough to turn R plus two into D plus two? Well, that’s the math, right? And that’s kind of a logical enough story.
+
+So one question that raises for me is, Schumer and his team — the Democratic Senatorial Campaign Committee under Kirsten Gillibrand right now — they looked pretty bad a couple of months ago. And they looked pretty bad, primarily, because the focus was on the fight that they waged and lost in Maine to make Janet Mills the nominee, and instead it was going to be Graham Platner. Graham Platner imploded.
+
+Yeah.
+
+Troy Jackson, who’s the Democratic nominee now, is ahead of Susan Collins by a bit. I think people are nervous about that race, because Collins tends to outperform her polling, and it’s not that wide of a gap.
+
+But if you’re looking over the range of states, do they look pretty good? I mean, Josh Turek in Iowa, Mary Peltola in Alaska, Roy Cooper, right? It seems like they’re ——
+
+Yeah, Peltola’s a big one. I’m not sure that an average Democrat would be in a tossup, but she’s a slight favorite in that race, actually.
+
+Look, you have these big fights in Maine and Michigan. I would share Democrats’ concern about Maine a little bit. I mean, that’s based on nothing but just the fact that Susan Collins beat her polls by literally like nine points in the last election.
+
+There’s a whole argument about how persistent polling error is. We tend to assume that it’s not, but that’s when races for the polls have gotten maybe closer by a point or two.
+
+There hasn’t been a lot of polling in Maine. Michigan. Look, I’m one of those people who says that, all other things held equal, a moderate will be able to do better than a progressive, at least in a purple state like Michigan, right?
+
+And if you compare the governor’s race there, where Jocelyn Benson is ahead by eight points, Abdul El-Sayed is ahead by three, or three and a half or something. Again, there is a four or a four-and-a-half-point candidate quality gap that is, again, within that range of what, and how, we think candidates can matter in an environment like this one.
+
+But if you have enough wind at your back, then you can overcome some of those problems. And by the way, in other ways, El-Sayed is a good candidate. He’s very Michigan in certain ways, right? He, in kind of a Zohranesque way, doesn’t present — I mean, he kind of is a bro, right? It’s an interesting contrast to Francesca Hong. And there are gendered parts to that comparison, too, potentially. He has also raised a lot of money, and money is helpful.
+
+Michigan and Maine — if Democrats were to lose one of them, they’d still have a chance. If they were to lose both, then probably game over for a Democratic Senate flip.
+
+One of the things that has been interesting to me, looking at the polls — and people have commented on this, so this is not my original observation — is that Democrats seem to be overperforming more in redder states.
+
+Yes.
+
+So they look better than you would think in a Texas, a Kansas, an Iowa, maybe. Like a little bit less good in a Michigan, a Minnesota. And it kind of goes on in the blue states, right?
+
+Is there something to this? And if so, what do you make of it?
+
+Well, that’s what I think makes Democrats nervous. It’s the red states, especially in the heartland, where the polling overperformance has been concentrated in some of these recent elections.
+
+At the same time, the story does make sense on a couple of levels, right? No. 1: gas and diesel prices. If you look at where diesel fuels are consumed, not usually by passenger vehicles but by agriculture, trucking, petroleum, home-heating oils. It’s all the colder Midwestern states, where a lot of the battlegrounds are concentrated as it happens this year.
+
+If you believe in a last-in, first-out argument, what if we are reverting, somewhat, out of the Trump era? Actually, in 2024, for the first time in a while, you had very mild depolarization.
+
+Some of the worst states that Democrats had, relative to 2020, were New York and California. Younger voters of color, for example, and younger men in general, moved against Democrats.
+
+Whereas, relatively speaking, if you’re really looking in the weeds, Kansas is a state where Kamala Harris, I think — the Partisan Voting Index, we call it — the gap between that and the national spread declined in Kansas a little bit. So maybe you’re having some last in, first out, where the people who joined the Trump coalition — like Latinos, working-class whites — maybe just moving a little bit back in the other direction. Or maybe just not voting.
+
+One reason Trump — his polls in 2024 were overperformance among young men. The one group you do not want to rely on to turn out in a midterm is usually young men.
+
+I feel like there’s another story you could tell, and I’d be curious how this rates for you. It actually has to do, potentially, with candidate quality on both sides.
+
+So in redder states, Democrats have been, I would say, more rigorously following a view that they need more moderate candidates. So you think of Adam Hamilton in Kansas. Sherrod Brown is a longtime populist. Roy Cooper in North Carolina. Jon Ossoff — I mean, I wouldn’t say Georgia is a red state anymore, but Jon Ossoff is this relentlessly disciplined figure.
+
+Nebraska with Dan Osborn, who’s actually running as an independent. I wouldn’t say Democrats chose him, but obviously Democrats are aligned, I think, and excited about his candidacy — and didn’t run a Democrat against him.
+
+And as you get into the more traditionally purple or bluer states, like Maine, they have nominated a more left-leaning candidate. You know, Troy Jackson replacing Graham Platner, who is also a more left candidate.
+
+Obviously, Abdul El-Sayed, in Michigan, the more left candidate, won. In Minnesota, the more kind of left candidate won for the Democrats. It seems like she’s going to win — but is performing a little bit worse than people are comfortable with.
+
+So I feel like one way you could squint at this is to say, in redder states, Democrats have been very purposefully choosing candidates who just seem more independent. Then, as you go down to where Democrats felt more comfortable and could take more risk, they’re taking more risk and trading away some of the possible gains. Like, that would be the moderation-wins thesis of what we’re seeing.
+
+Well, and Florida is a state where you had a D.S.A. candidate that isn’t on anyone’s map because she’s now trailing by six or seven or eight points, which isn’t that bad for Florida. But there you see the failure to select a — you know, you need a pretty conservative Democrat, probably, to win in Florida at this point.
+
+No, I think that’s a lot of it. I think a lot of it also, if you look at a state like Minnesota, where Peggy Flanagan is ahead by three and a half or four points ——
+
+Yeah, but not by nine or 10.
+
+Yeah. The states where you have these Democratic trifectas, and you have critiques of Democratic governance, is where you tend to see more problems potentially. In Oregon, where you’ve had a lot of critiques of liberal governance, Tina Kotek, the incumbent, I think is only ahead by, like, one or two points in the polls. Kathy Hochul certainly looks like she’ll win re-election, but maybe by a relatively tepid margin. You haven’t seen that as much in Massachusetts, which is a classically well-governed state that’s often had a Republican governor in the form of Charlie Baker.
+
+But there’s an anti-incumbent mood. People, I think, are making this implicit calculation about who has power over their life, right?
+
+But not against all incumbents. Ossoff, the incumbent in Georgia, is going to stomp — from what we can tell in the polls — his challenger.
+
+Roy Cooper is a former governor of North Carolina. He’s going to win in a walk.
+
+So there are Democratic incumbents who are doing just fine here.
+
+I think Minnesota is the clearest example of this. Tim Walz’s approval rating is 17 points underwater or something, to the point where he was going to run for another term and didn’t. So that’s kind of like ground zero for that.
+
+He’s had a real fast rise and fall in politics.
+
+The trajectory of losing vice-presidential nominees — John Edwards had a rough fall from grace, for example. Paul Ryan — no longer in Congress, right? It’s pretty rough.
+
+Yeah, that’s a fair point.
+
+One more thing for these hypotheses about the heartland and the Midwest. The Economist had some data showing that the closer Trump voters live to data centers, the more likely they are to flip and plan to vote Democrat this cycle.
+
+In the West, in general, you have a lot of data centers — you want some space, but you don’t want to be too far off the grid and too rural. So that could be a hidden factor, too.
+
+There’s something I was thinking about while I was going through and trying to decide which of the candidates seemed to me to be overperforming the most. I was thinking about how uncorrelated attention and performance is right now.
+
+So if I go through the candidates who are all over my feeds and who are on big podcasts — and I mean, obviously, some of this is also their choice of how to run. But it’s, like, Abdul El-Sayed is omnipresent, right? James Talarico, omnipresent. Jon Ossoff — he’s not going on many national podcasts at the moment, but his clips are absolutely everywhere.
+
+You’re not seeing Sherrod Brown. You’re not seeing very much of Mary Peltola. She does not do a lot of national press. You’re not seeing a lot of Roy Cooper.
+
+But you look at it, and there is almost no connection between who the candidates are who are everywhere, on social media and my feeds, and who are the candidates who are doing particularly well or poorly, at least in polls.
+
+Yeah. Look, some candidates have different incentives. If you want to run for president in 2028, then you probably want a somewhat higher profile. I think in a case like Talarico or El-Sayed, they inescapably feel that they’re going to get the maximum amount of attention anyway.
+
+But there’s something to be said for keeping a lower profile, too. Maybe Ohio is a good example of that, maybe Iowa a bit.
+
+In midterms, there are basically three big questions: Will your voters turn out? Will the other side’s voters turn out? And then: How much persuasion is taking place among the 15 percent of the electorate that are possibly swing voters?
+
+If Democrats were to come up short in a couple of races, like Iowa or Kansas, they might say: You know what? This race just got a little bit too much on everybody’s radar. And Republicans manage to drag some voters off the finish line.
+
+I mean, the persuasion part of this is done. I’d be shocked if Democratic turnout wasn’t high by midterm standards. We don’t know if Republicans are going to turn out, and that will determine the range between a Republicans hold the Senate and keep Democrats to 10 seats in the House and a complete 1994-style disaster.
+
+So right now, we’re talking a little bit as if the thing Democrats are hoping will happen will happen.
+
+Yeah.
+
+But we often see polling error in midterms, and maybe we see polling error in presidential elections, too.
+
+So how resilient are Democratic hopes to polling error? And how are you thinking about where the polling error might be when you’re building things into the model and thinking about what you’re trying to correct for?
+
+You’ve seen Trump underestimated many a time, seen Susan Collins underestimated many a time. On the other hand, the pollsters know that has happened, right?
+
+How do you think about the polling error dimension of this?
+
+Look, the first thing I always tell people is that, whenever you’re looking at a series of polls in a Senate race or in Senate races, plural, always ask yourself: What if they’re off by three or four points in the same direction in every race?
+
+Democrats have a lot of three-point leads in races like Ohio and Texas, more or less, right? If you had a three-point polling error, you would have a very long night, where we might be waiting for ranked-choice voting in Alaska.
+
+But the House is different. If Democrats were not to win the House, then there would be profound questions about what’s going on with the polling, and in some ways, what’s going on with the country, too.
+
+I think Democrats have the emotional feeling that when there’s a polling error, it is against them. Because Hillary Clinton and Joe Biden and just in general — polls actually have repeatedly underestimated Donald Trump.
+
+But is that true? And is it particularly true in midterms? Have polling errors been consistently against Democrats?
+
+It has not been true in the two midterms in the Trump era. I guess 2018 was under Trump, and their polls were — it was one of the most accurate years for polling ever. In 2022, similar.
+
+In fact, there were a couple of races that were high profile, like the John Fetterman race in Pennsylvania, where polls showed Mehmet Oz closing the gap after Fetterman’s stroke. And then Fetterman won by a pretty solid, I think, four or five points, or something like that, right?
+
+But overall, polls were quite accurate. There are also elections that are held in odd-numbered years, runoffs, things like that. In New Jersey and Virginia last year, the polls were five to 10 points low on Democrats, which is one of the biggest polling errors we’ve seen in a well-polled general election.
+
+The critique I have of some of the people who say: Well, you’re undersampling Republicans in these polls. And Democrats are much more enthusiastic and much more likely to respond to and trust the pollsters — every single person in the industry is aware of that. I think every pollster is aware that polls missed low on Donald Trump in 2016, 2020 and 2024.
+
+The three presidential years were kind of the death knell for the gold standard of polling, which is like: We’re just going to go and survey people, and we’ll weigh to well-known census demographics, and we’ll just trust the data.
+
+The J. Ann Selzer poll in Iowa, which — and bless her, I mean, she was literally the highest-rated pollster. She and The New York Times/Siena Poll were, I think, tied for No. 1 or something, right? But that weekend ——
+
+Now we stand alone.
+
+Yeah.
+
+Say what happened with Ann Selzer. Because maybe some people are emotionally scarred, and some people have no idea what we’re talking about.
+
+It was the weekend before the election, and I had some dinner plans on Saturday, and then I got a text from a friend saying: Have you heard about this Iowa poll? There’s a rumor that Ann Selzer — the dame or don of Iowa polling, who had predicted Barack Obama’s big win in the Iowa caucus in 2008 — would have a poll coming out showing Kamala Harris winning by three points in Iowa.
+
+Every other poll of Iowa had been Trump plus nine or something like that. And our model was pretty skeptical.
+
+You don’t usually want to bet against Ann Selzer, but it kind of opened up this whole world. Like: What if everyone is just way overcompensating for past elections?
+
+It didn’t make a lot of sense, but she had gotten very far before by just saying: I’m just going to trust my data. I’m not going to overly massage it, not make too many assumptions about it.
+
+And the poll was off by — what was it, like, 13 or 14 or 15 points?
+
+It was bad. And Trump insanely sued the paper, as if publishing a poll where he was losing was defamation.
+
+Yeah, it’s never clear what the incentives are supposed to be, but ——
+
+OK, can we just stop on this polling thing for a minute, though?
+
+Let’s get in the weeds, methodologically, for a minute. Because I find that whenever we start discussing, or I start thinking about, how what is happening in polls — to massage demographics, to answer all these problems of: People don’t pick up the phone — or: We’re using online sampling, and we don’t know who will turn out — I feel very disoriented.
+
+What do you do? What are the pollsters doing?
+
+And I should say that I’m not a pollster. I’m a forecaster. But that distinction, in some ways, is becoming blurrier, right?
+
+Yeah. That’s what I mean: They feel like they’re forecasting.
+
+I think the upshot of the Ann Selzer thing is that everyone knows that a poll is almost like a minimodel, with polling-flavored inputs.
+
+And I’m not sure what the right metaphor is. People want to make it like it’s some broken gauge on your beat-up old car that, when it says 25 percent of fuel left, actually, you have to refill because the gauge is broken. Instead of more of an iterative process.
+
+You open a restaurant, the customers complain the food is too spicy, you tamp it down a little bit. Now some of your customers say: No, I want the spice back in my food.
+
+And so, it’s more of an iterative process, and I think pollsters are now aware that they’ll be judged on their results, in the final few weeks at least. As much as they might say: Well, it’s just a snapshot of public opinion — there are huge reputational stakes on the line for being right.
+
+And for being wrong.
+
+And for being wrong. The pollsters have pretty good incentives to correct for these problems.
+
+But sometimes — I know it sounds kind of tautological — when there are these big wave-change elections, or elections that are kind of unexpected, sometimes pollsters lowball them. In 1994, for example, it looked like a relatively bad year for Bill Clinton that turned into a terrible year, right?
+
+You can also look at a year like 2014 as a parallel that I’d be worried about if I were the Republicans. That’s the year when the polls were never great for Obama, but you had a really, really big differential turnout, where Democrats just weren’t that enthusiastic.
+
+At the time, Obama was relying on more of a multiethnic, younger coalition that traditionally does not turn out at the same rates in midterms. That turned into a nine-seat loss, a total rout for Democrats in the Senate.
+
+I mean, this is, I think, what I’m asking you. We know the midterm electorate is going to be different from the presidential electorate, that some people are going to be more motivated to vote than others.
+
+I mean, are they just polling people and saying: Do you think you’re going to vote? And that’s the big screen?
+
+I have read analyses of these — The Upshot a while back. And Nate Cohn did a cool thing where they let you see how different ways of moving the data around would give you a very different result on the same underlying poll data. Is there a kind of conventional thing they’re doing to compose a midterm electorate that is going to be really different in 2026 than it was in 2022?
+
+Yeah. So one difference, if you ask people: Are you going to vote? How enthusiastic are you about voting? — that produces a very Democratic sample.
+
+Other pollsters try to predict whether people will vote based on other types of data, right? And those techniques tend to produce more modest results for Democrats.
+
+One thing you can watch in the early voting data — which, generally, I advise people not to do — is who was winning among lower-propensity voters. People who have voted in no more than one out of the past three elections, counting midterms — those low-propensity voters appear to be quite Democratic so far.
+
+It may be — probably will to some extent — Republicans will cast their vote by Election Day anyway, and they’ll catch up, right? But if not — if Democrats’ low-propensity voters turn out and the G.O.P. doesn’t — then that’s where you might see a polling error that underestimates Democrats.
+
+So if Republicans end up having a better than expected night, what do you think will have ended up being the explanation for it?
+
+I mean, look, I think there are two versions of this. One is just that Democrats lose all the tossups, right? Talarico loses by a point, Jackson loses by a point, maybe El-Sayed wins by a recount. Sherrod Brown wins, but Turek loses by three points.
+
+That’s very feasible in the thick part of the probability distribution. And then I think some questions about the polls, but that’s kind of in line. We’ll say: OK, partisanship is still really strong.
+
+Maybe pollsters and Democrats are getting their hopes up a little bit too high, to think you could win in these R plus-12 states that have been R plus eight. But we just kind of reached the point where we ran out of oxygen, climbing up that big red hill, right?
+
+Let’s say the House is kind of close, and Democrats only pick up North Carolina in the Senate. I mean, then that’s kind of hard to contemplate, almost. Not because it’s not theoretically possible based on the polls.
+
+In our model, we have these fat tails that say sometimes polls can be off by five or six or seven points, or something crazy. But that would defy everything that we think we know about how midterms work.
+
+There are, I think, a couple of races that feel, to me, like they have a lot of outsize narrative importance, right? Talarico feels, to me, like it’s got a lot of narrative importance to people. The possibility of Democrats being competitive in Texas, a sort of return of a religious left.
+
+Abdul El-Sayed is going to be seen as a very important test of — he’s actually not a D.S.A. guy but sort of a more left populist, unsparing candidate. I was watching this video where he absolutely annihilates this guy who comes to one of his town halls who is like: Will you denounce the Muslim Brotherhood? And El-Sayed, who’s a very, very, very smart guy, leaves this guy like a smoking crater on the floor. So it feels like there’s going to be a lot of attention on how he, specifically, does.
+
+You’ve been very attentive to the factional divisions in the Democratic Party recently. I think you’ve cut Democrats into, what is it, the capital-L left, the “Abundance” libs ——
+
+Yeah, there you go.
+
+Which, I guess, is me. And then Richardsonism — which you’ve named for Heather Cox Richardson — which is more like “resistance” Democrats.
+
+I’m curious how you think different forms of the election might end up being interpreted and shaping the Democratic Party and its strategies.
+
+So the two big — apart from who wins — sub-story lines of Nov. 3 are: One, how do progressives do relative to moderates? And then: Is there evidence of an A.I. backlash from the state-by-state results.
+
+If people do these ecological analyses afterward, and they find: Hey, yeah, in states where there was data center construction, the Republicans underperformed by three points — that might be important, as well.
+
+But, yeah, if El-Sayed were to lose, then win or lose the Senate, then that’s a very bad narrative for progressives. I don’t know what happens if, let’s say, Benson wins by nine points and El-Sayed wins by four, right? Maybe nerds like me are like: Well, he had a below average wins of a replacement. That proves my thesis.
+
+But I think that wouldn’t really carry the day in the Democratic debate as much. I think for any race, an important threshold question is: Was the race called on election night? That shapes narratives quite a bit.
+
+People who aren’t nerds tend not to pay much attention to the margin as long as it seems unambiguous and clear. People wanted to tell this oversupplied narrative of the progressives winning everywhere in the primary, and that wasn’t entirely true.
+
+Francesca Hong was ultimately rejected in Wisconsin. I don’t know that Jasmine Crockett actually is more progressive than Talarico. She’s more of a partisan bomb thrower — and she lost that race.
+
+But she wasn’t a D.S.A. person. That was not her profile in politics.
+
+Not a D.S.A. person. But I think Democratic voters have exercised a fair amount of rational discretion, right?
+
+I mean, there’s nothing that says that voters have to, or necessarily should, maximize everything based on electability. You’re allowed to say: Well, I am trying to calculate some expected value score of what is the chance that this candidate wins, times how much good will they do for the issues that I care about.
+
+Although I will tell you one thing: The amount of Democratic infighting really dropped off after these races in Maine, Michigan, Wisconsin.
+
+And it’s going to go up again when the 2028 primary heats up.
+
+It’s going to be the only thing everyone is talking about for a year and a half.
+
+One narrative that I think is going to be true — particularly if you have a bunch of these players win — is that Democrats are coming into an era of elder millennial talent. I apologize to my Democratic officeholder Gen X friends. The late boomer and then the Gen X class, in the Democratic Party, ended up pretty caught between political eras and communication eras.
+
+But when I look at the Democratic talent right now, I think about the left and people like Zohran Mamdani and Abdul El-Sayed and Alexandria Ocasio-Cortez, who are hugely talented. I think El-Sayed will be a pretty superstar U.S. senator if he wins.
+
+And then I look at people like Rob Sand, who looks like he’s going to win the Iowa governor’s race in a walk. We think about Talarico, who really is a star; Jon Ossoff, who has become an absolute superstar.
+
+Like, I think you’re just sort of seeing the arrival of a Democratic class that is just more native to this era — came in during Obama, then was shaped by Trump and understands communication now.
+
+Just something seems to be changing that is actually across a different faction. They all now have stars in a way that I wouldn’t have said was true a few years ago.
+
+I think some of it is kind of like a Steph Curry effect — with Obama as an analogue — where he starts shooting 3-pointers from where no one has before, and now kids are practicing that in high school, and they graduate and go to college in the N.B.A.
+
+And who is Steph Curry in this analogy?
+
+Obama, yeah.
+
+I mean, yeah, El-Sayed and Ossoff, for instance, are both very influenced by Obama in different ways.
+
+You know, Mayor Pete’s got a little bit ——
+
+Yeah, Pete Buttigieg is another kind of elder millennial talent I would add to this.
+
+I think, in some ways, what happened to Democrats after 2012 was kind of weird, right? Where Hillary lost to Obama. Bill Clinton became president in 1993, but for some reason, it’s like: Well, it’s Hillary’s turn now. And she had a very competitive primary against Bernie Sanders — and prevailed.
+
+But that, in some ways, felt like a return to a different Democratic Party than the party that Obama was trying to craft. And then Biden, who was expressly chosen by Obama because he was old and not seen as a threat to run for president himself, kind of won amid this flight to safety.
+
+Obviously, some of these were competitive nomination processes. But it feels like some trajectory got interrupted in the Democratic Party. Maybe now it’s being restored, I suppose, a little bit.
+
+So we’ve been talking a lot about the Senate. The Senate is like the charismatic megaphone of midterms. There are only a couple of races you have to pay attention to; you can keep the characters in them in mind.
+
+Obviously, the House is not a binary outcome. It really matters if Democrats end up with 228 members of the House, 235, 240, 250.
+
+So tell me about what the modeling and the polling seem to suggest about where Democrats might end up, and the kind of sensitivity of that in both directions.
+
+So one of the big consequences of all this redistricting, as well as voter self-sorting, is that you have far fewer swing districts than you once did. Also Democrats had a relatively good 2024 in the House. I mean, there was still some doubt, on election night, whether Democrats might actually win the House in 2024, despite Harris having lost.
+
+So even the models, even our model that has them with a 90 percent plus chance of winning the House, that only “translates” into, I think, 22 seats or something on average.
+
+Which, like, we’ve seen wave elections that are 40, 50 seats.
+
+Right. I mean, was it 63 in 2010, for example?
+
+Yeah. Which was, like, the very big one.
+
+Or 41 or something in 2018. Republicans did gain a few seats from the redistricting process, mostly one where they just cut out a majority-minority district. So Louisiana, Alabama, Tennessee and some of those states. The Alabama district is actually kind of close in the polling.
+
+But that’s a clean three seats wiped out from Democrats, right? In Texas and Florida, you are not seeing many Republican gains because in Texas, the theory was: Oh, we can now take more risks because we now have a much firmer hold with lower-income Latino voters.
+
+Well, if you believe the polls, those are the groups that are shifting most aggressively back toward Democrats. And in Florida, Ron DeSantis drew a riskier map that was optimized more for presidential years and would have a lot of tossup to lean R districts in an environment like this one.
+
+Now in Florida, Republicans have — we talked before about: What if Democrats win in Kansas or Texas? At this point, it almost feels remarkable if a Democrat won a statewide race in Florida.
+
+I have never read what was, to me, a fully satisfying explanation of how Florida became so red. But Florida has gone, as you say, from being a canonical swing state to more of a Republican readout than Texas.
+
+Ron DeSantis barely won his first race for governor. How did Florida become so red?
+
+I think it’s 75 percent migration and 25 percent kind of a death spiral for the Democratic Party that might be self-reinforcing.
+
+With the migration, Florida is a unique place in offering blue state amenities but without as many libs. That has always attracted older people. But, yeah, I think you have a lot of political self-selection.
+
+In most states, if you look at voter registration data, people have begun to, again, register more as Democrats than Republicans. Which was not true for, like, four or five years in a row.
+
+This year you’ve seen those comebacks for Democrats in the Midwest, in particular in Pennsylvania, but not in Florida. Florida just keeps getting redder at the registration level.
+
+OK. So that’s the center of House polling.
+
+But we’ve talked about a two- to three or four-point polling error not being unusual. Given incumbency advantages in the House, given redistricting ——
+
+Yeah.
+
+Is this the kind of thing where, if you get a three-point error, and it turns out Democrats did better than expected by three points — where, all of a sudden, a bunch of the redistricting falls apart, and Democrats have this huge wave election and actually are winning 40 seats in the House, and they have this huge majority under Speaker Hakeem Jeffries?
+
+Yeah, no, it is a little bit asymmetric, right? People love the flood and maritime metaphors, but if the wave gets really big, then one thing that happens is that it inundates candidates who have not been prepared for that type of disaster. I mean, I think the best example of this is actually in the Senate with Roger Marshall, where I have ——
+
+In Kansas.
+
+In Kansas. I have family who lives in Overland Park, Kan. — big in Kansas and Missouri politics — and like: Boy, Roger Marshall is a really bad candidate — right? I’m like: You know, it’s Kansas. I’m sorry, it doesn’t matter. Doesn’t matter. But if you’re caught up in this tide, and Kansas, it has elected Sharice Davids to Congress a few times ——
+
+Sorry, you saw the thing where Trump then went to defend Roger Marshall?
+
+Oh, no. Yeah.
+
+And was like: Yeah, the reason he had to go after his candidates, his patients, for payment in that way, people were trying to paint him — and he used, like, an antisemitic slur.
+
+Archival clip of Donald Trump: Roger was given a real — I know the guy. He’s one of the — he’s a tough guy and all, but he’s also high quality, and he’s a fine person. And he was given a bum rap because he was mandated by law to request, strongly, money owed from patients. You’re not allowed not to do it. You have to, by law, go after those people. And they made it like, oh, he was some kind of a Shylock-type guy.
+
+There are times when I wonder whether Trump really cares whether the G.O.P. holds the Senate or not. I mean, he hasn’t done a whole lot through Congress. It’s mostly been through executive power, right?
+
+And I think John Cornyn would win Texas.
+
+Trump easily could have just ended that primary and made Cornyn the winner, right? That was completely within Trump’s power, and Republicans would be in a stronger position in Texas and less likely to lose the Senate if that had happened.
+
+Trump has, on the margin, not wanted to lose the midterm election. He did this weird midterm convention.
+
+But his whole theory of why Republicans might lose a midterm convention appears to be that he himself is not on the ballot, and that if only people would act like he is on the ballot, Republicans would be fine. Then his other theory was to promise every American a $5,000 check ——
+
+Yeah.
+
+If Republicans win — to bribe people. He’s willing to win the midterm if he can win it in a way that is personally congratulatory. But if winning the midterm means giving Republicans space from him and backing people he doesn’t really like? Then no.
+
+Look, Republicans are kind of caught between a rock and a hard place in elections, where Trump himself is the dominant figure but not himself on the ballot. That entire tranche of elections — so 2018, if you kind of want to count, 2022, as well — where something prevented Biden from having the wipeout you might get with a 40 percent approval rating typically.
+
+All the runoffs, including the two in Georgia, all the special elections, Supreme Court races, ballot initiatives, all that kind of stuff, it’s all gone really badly for Republicans. Because the one magic trick that Trump has is to get a certain type of usually disengaged voter to crawl on glass to vote for him when he himself is on the ballot.
+
+And furthermore, these are the exact voters who aren’t answering polls or that are incorrectly deemed to be unlikely voters or anything like that, right? Those people are not going to crawl over glass to vote for Roger Marshall or Ken Paxton, I don’t think.
+
+But I don’t want to lose sight of the big picture here. I don’t think we’d be talking about Democrats being favored in the Senate if Trump hadn’t decided to go to war with Iran and spike gas prices into the mid-$4 per gallon — more here in California and places like that, less in some other places.
+
+You obviously keep close track of Trump’s approval rating.
+
+Yeah.
+
+What is the story of its decline? It has dropped quite a bit since he took office a second time.
+
+Has that drop been steady? Or has it been discontinuous around certain events?
+
+If you want to model it statistically, then it’s quite correlated with gas prices, frankly. There’s also a time trend. In general, you see it jut up and drop down a little bit based on gas prices and economic anxiety.
+
+It dropped a lot during Liberation Day — was that April 2025? Concern about tariffs. But it’s been a pretty steady decline.
+
+I think people learned some incorrect lessons from the first Trump term. When voters felt like the economy was good — and objectively it was pretty good in the first three years of Trump — that just kind of serves like a halo that allows you to say: Oh, Democrats are complaining about democracy this and democracy that, and race and xenophobia and whatever else. But you got more money in your paycheck, you have a good job, the stock market is up, your house is appreciating in value.
+
+And now that people question all those things, it makes the culture war stuff seem kind of desperate and silly. Also, just kind of fatigue. Trump likes to say it’s his third term, and it kind of feels that way.
+
+He’s been the dominant figure in American politics since mid-2015. That’s a really long time. He’s also 80 years old.
+
+You and I were both early on the: Biden is too [expletive] old — I don’t know if you have to censor that — bandwagon. But Biden began to develop more problems at roughly this point in his presidency.
+
+And it’s like, OK, we’ve already mentioned the two things that are maybe not hard to explain, but, like: Why the war with Iran? And then: Why is Trump taking this very unpopular stance on data centers, which feels like the perfect issue for a populist to do some mild demagoguing in the other direction?
+
+Data centers are like an 80-20 issue against data centers now, roughly. And when you ask people: Do you want to have A.I. accelerate or slow down? It’s like 3 percent for acceleration and like 60 percent for slowdown, and 30 percent are not sure, continue at the current pace, or whatever.
+
+Well, I could give two — you know, I could give a substantive and a less substantive reason for Trump.
+
+One is that I think he actually is persuaded we’re in a military and geopolitical and economic race with China. I mean, as he likes to say: “Whoever wins superintelligence, wins.”
+
+The other is that if the A.I. boom — if something shifts sentiment, then the one economic indicator Trump has that is looking good for him — the stock market — collapses. And then he’s got nothing, right?
+
+Then you’ve got high interest rates, you’ve got terrible debt, you’ve got anemic growth, you’ve got a weak stock market. And the thing where all the investment was going is no longer maybe working out.
+
+And I think it’s not nothing here: A bunch of A.I. execs have donated a ton of money to Donald Trump. And Elon Musk, personally — and I want to talk about this, too — is individually financing, at this point, the Republican midterm campaign, right? What’s he put in? It’s hundreds of millions of dollars now.
+
+Counted for, like, $400 some million. It’s a lot of money.
+
+Yeah, and it’s hard even to know if we know everything that’s gone in. And so he may also not want to alienate his tech-right, even tech-center, constituency.
+
+I think that’s a lot of it. I’m not a Trump whisperer, right? It does seem like the one thing that consistently motivates him is that he doesn’t like seeing red arrows on the stock market ticker. And you’ve seen increasing amounts of investor anxiety.
+
+I think the A.I. bubble argument is getting more sophisticated, right? It’s like: How can we land this plane without instrumentation we’ve tested before on this narrow strip of runway?
+
+Just in the past week or two, you’ve also had oil prices increase sharply again in the Middle East. I don’t know, I mean, if there were to be a last-week surprise, the most obvious surprise would be some kind of market downturn that would further hurt Trump. Things can break a lot more.
+
+You were using the Bush 2006 analogy a few minutes ago. You talked about Bush as a super-lame duck. And I was thinking, as you said that, that the final two years of Bush’s term were tremendously eventful, leading up to a global financial meltdown at the end of it.
+
+I look at Trump, and I look at the economy, and I look at the geopolitical situation, and what I see is risk everywhere. If you told me we were going to have a massive recession or stock market correction or correlated financial crisis in the next few years, I’d say: Yeah, that totally tracks to me.
+
+If you were to tell me some Russia-Ukraine or Iran-America or Israel-Iran or some combination of things — that it flies even more out of control than it already is, that would seem totally plausible to me. Some kind of rogue A.I. behavior — an American A.I. swarm attacks China, or a Chinese A.I. swarm attacks America.
+
+The world feels full of risk to me. And we’ve seen lame-duck presidents like that. Things begin to blow up in their face, and they have very little power or public credibility to handle it.
+
+And he’ll be 82 years old by the end of the term, too.
+
+Look, in some ways, Trump was pretty lucky, in the first three years of his first term in the White House, that nothing kind of literally or figuratively blew up. It wasn’t like Biden, where Ukraine happened under Biden’s watch, and Gaza happened under Biden’s watch.
+
+If Republicans lose the Senate, probably one of the first people who should be blamed is Pete Hegseth. I don’t think there are very many people who would serve as secretary of defense who would have thought that going to war with Iran with a very ambiguous war plan and very ambiguous goals was a smart idea.
+
+But it’s the other way around. I’m not saying you’re saying anything different here, but Donald Trump and Benjamin Netanyahu wanted to go to war in Iran. And Donald Trump had named Pete Hegseth — a “Fox & Friends” co-host — defense secretary because he wanted somebody in that position who would never, under any circumstance, say no to him.
+
+I think it’s very likely Hegseth pretty quickly gets the ax after the midterms, or at some point. But he’s very unlikely to be replaced by a thoughtful commanding general who also has the personal stature to say no to Donald Trump, right? They’re not going to bring back Jim Mattis.
+
+I mean, you’ve seen this on tariffs. Gary Cohn, the Goldman Sachs head who was the National Economic Council director in Trump’s first term, would not have presided over this tariffs regime. He just would not have.
+
+Trump and his team wanted to come in to make sure Trump would be surrounded by people who always said yes. And what does this all look like if the stock market goes into free fall because it turns out that A.I. is not ready for prime time, because it’s actually too dangerous? Or what if we do end up in confrontation with China?
+
+The number of things that could go wrong, and not just go wrong geopolitically but in a way that would then correlate into the economy in a catastrophic fashion, potentiating some crazy meltdown. To say nothing of the way Trump might act if he’s really cornered in the last two years and begins going into high-tilt strategies, to use one of your poker terms.
+
+And Trump — older and surrounded by Pete Hegseths.
+
+Yeah. It makes me anxious, to be honest. The A.I. thing alone — this is a different episode, right? — probably makes me anxious. Where it’s just, like, OK, the future could look very different five years from now, three years from now.
+
+If you’re in middle age, you want to think: Oh, I can keep doing what I’m doing, do it for another 20 or 30 years, and then, whatever, retire. And now it’s like: Oh, who the [expletive] knows?
+
+But Trump is not the ideal president to have at the helm, when you’re on the verge of — I don’t think we’re necessarily on the verge of a singularity — perhaps the most important technological advancement in decades, to put it modestly, right? I’m not sure that’s a person that you’d want to have in charge — an 82-year-old Donald Trump.
+
+Does the Musk money dump matter? Does money, in general, matter this late in the election?
+
+I think money is generally overrated in politics. I qualify that by saying that for any high-profile race — so Senate, governor, certainly president — where you encounter diminishing returns.
+
+If you were to look at the frontier of the House map, where maybe name recognition and visibility are an issue, if you were to look at state legislatures, those are really important. Especially now that state legislatures and governors play into the now, apparently, every two years redistricting that we have.
+
+The other thing, too, is that when you are buying ads with voter-donated money, you get better rates. And also you get better rates if you have that money raised earlier and lock that in when it’s less competitive.
+
+So you hear about the Republican financial advantage. Because that’s primarily corporate PAC money and party money, it’s probably translating to more like 50-50 in terms of actual ad impressions that voters are seeing.
+
+Right before the 2024 election, you published a piece — you can correct me if I’m wrong — about some part of this, where you basically said: My model says Kamala Harris is going to win ——
+
+Yeah.
+
+And my gut says Donald Trump is going to win. Right? I think you did this pre-election.
+
+Yeah. This is a preregistered take.
+
+Is your gut in any way different from your model this year?
+
+Well, what I talked about in that piece is that it would be more embarrassing for the industry — meaning pollsters, forecasters, pundits, whatever, etc. — if once again Republicans beat their polls in the Midwest, right? So emotionally, I feel some need to hedge against that. And yeah, I’m a little skeptical of Kansas, maybe, and Iowa and that tier of states.
+
+What’s different, though, is that in ’24, I had an exercise where I think it became a list of like 21 reasons the political environment favored Donald Trump. And I’m like: I’m going to do one, to be fair, for why it favors Harris. But I could only come up with like four or five things, right?
+
+This year it’s the reverse. The fundamental conditions feel terrible for Republicans, right? You have the second-term, 80-year-old president who had a bad midterm when he was younger and more popular, and the economy was perceived as better in 2018.
+
+And now you have Iran, you have $4.50 gas, you have Jeffrey Epstein, right? You have corruption in the White House.
+
+You have a strong batch of Democratic candidates. You know, in some ways, you’d imagine that it would be a worse year for Republicans in 2018. And if that’s true, that means that Democrats win the popular vote by the House by 10 or 11 points or something.
+
+And so my gut is really contradictory, right? I worry more about the state polls being wrong than the national race being miscalibrated.
+
+I think that’s a good place to end. Always our final question: What are three books you would recommend to the audience?
+
+OK, Ezra, this is tough because I’m a frequent listener of the show, and some of my recommendations have been taken by other recent guests.
+
+No, that’s good. I feel like the audience takes it more seriously when there are repeat recommendations.
+
+Well, I picked three slightly weird ones, though.
+
+The first one is “The Rise and Fall of American Growth” by the economic historian Robert Gordon. It was written in 2016.
+
+I remember reading this book when I was in Paris, at a poker tournament in Paris, as one does, right? And Paris is so timeless.
+
+Meanwhile, this was like the week when the U.S. went to war with Iran. It was the week when the Department of Defense and Anthropic got into a big fight. Things just felt like they were accelerating.
+
+You read this book recently?
+
+I read it recently, yeah. And the juxtaposition between the timelessness of Paris and this acceleration in A.I. and other things got me thinking a little bit about economic history.
+
+But anyway, Gordon’s book talks about a couple of things. One, the thesis, which is implied by the title, is that, actually, the huge gains that the United States made came between, roughly, 1870 and 1970. It’s also a reminder that the Industrial Revolution — because this is kind of what the A.I.-optimistic case is — well, the Industrial Revolution worked out OK and wound up making people live longer and wealthier.
+
+For many years, the Industrial Revolution produced terrible living conditions for people, where you had Charles Dickens and child labor. You know, the most vivid image I have is Dickens talking about how much horse manure there was on American streets. You didn’t have indoor plumbing.
+
+So it’s a fascinating book. It’s very detailed. It’s not like a beach read. But very compelling about all these massive changes that aren’t well measured by gross domestic product. And then I tie that to my France thing, because Europe has opted for lower G.D.P. growth but, arguably, higher quality of life. Maybe not the best time to be talking about France this week, but still.
+
+Book No. 2 is called “You Can Just Do Things” by Cate Hall. Cate is a former poker player and fellow traveler. She was, at one point, the highest-ranked female poker player in the world. She developed a drug addiction and kind of dropped off the map for a couple of years but is now back to working in the Bay Area scene.
+
+It’s kind of a self-help book for a certain type of nerd that emphasizes the importance of agency. But a lot of it really is about how to handle personal relationships better and how poor people are at communicating, sometimes, basic goals and needs and wants in relationships, because they think it might feel weird or whatever else. But she’s like: Look, just have honest conversations with people, get honest feedback, and that will go a long way in life.
+
+So I recommend that book, too. Last one is another oldie but a goody.
+
+So I read a lot of poker strategy books — probably not appropriate for “The Ezra Klein Show” for recommendations. Probably the best poker-related book of all time is called “The Biggest Game in Town.” It was written by a guy named Al Alvarez, in 1983. It’s a short, compact read.
+
+Alvarez was a British literary critic and poet who did this thing where he kind of went into the desert in Las Vegas when the World Series of Poker was coming into being and talked to all these old-time, Texas-roadhouse gamblers. It’s very well-written — maybe slightly overwritten, in a kind of magaziney way.
+
+But this part of the world is important to me, right? And it’s one of the few books about gambling that doesn’t fall into clichés and captures this part of the world that I’m fascinated by very well.
+
+That book sounds great. Nate Silver, thank you very much.
+
+Thank you, Ezra.
+
+You can listen to this conversation by following “The Ezra Klein Show” on the NYTimes app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts. View a list of book recommendations from our guests here.
+
+This episode of “The Ezra Klein Show” was produced by Jack McCordick. Fact-checking by Michelle Harris, Kate Sinclair, Julie Beer and Jordyn Flaherty. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Pat McCusker. Our recording engineer is Aman Sahota. Cinematography by Bets Wilkins. Video editing by Arpita Aneja, Mahdokht Mahmoudabadi and Brandon Belk-Yee. Our executive producer is Claire Gordon. The show’s production team also includes Annie Galvin, Marie Cascione, Kristin Lin, Emma Kehlbeck, Rollin Hu, Marina King and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser. Transcript editing by Filipa Pajevic and Marlaine Glicksman.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
