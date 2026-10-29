@@ -1,0 +1,128 @@
+================================================================================
+nvidia-china-jensen-huang-trump.html
+Source: PreloadedData  Paragraphs: 55  Words: 2345/2348
+================================================================================
+
+SUMMARY
+
+The surveillance of Ms. Huang continues, they said, and companies that have been affiliated with her continued this year to purchase Nvidia chips. Nvidia said the company that employed Ms. Huang, Megaspeed, was like any other regional customer and that it had previously investigated and debunked claims the Singaporean company was smuggling chips to China. When Mr. Trump was initially briefed on the intelligence last year, U.S. officials did not believe the Nvidia executive knew that Ms. Huang was gathering information for the Chinese.
+
+ARTICLE
+
+Nvidia Chief Seen as Target of Chinese Spy Plot
+A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.
+By Jonathan Swan, Maggie Haberman, Ana Swanson, Paul Mozur, Tripp Mickle and Julian E. Barnes
+Published 2026-10-29 09:01 UTC
+https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html
+
+American spy agencies had gathered striking intelligence.
+
+A top executive at a Singapore-based data center company was under scrutiny for possibly steering advanced Nvidia A.I. chips to China. And now American officials had concluded that she was a Chinese intelligence asset, funneling information to Beijing.
+
+But what came next was even more alarming. Surveillance of the executive, Alice Huang or Huang Le, a Chinese citizen, revealed that she had developed a close relationship with Jensen Huang, Nvidia’s chief executive.
+
+For years, Washington has worked to deny China the technology needed to match or surpass the United States in the intense global competition for superiority in artificial intelligence. The discovery that Beijing was getting reports from someone with direct access to Mr. Huang, one of the most powerful figures in the A.I. revolution as well as an influential ally of President Trump’s, set off alarms at the White House.
+
+Roughly a year ago, Mr. Trump was briefed about the intelligence findings, which have not been previously reported, and chose not to do anything with the information. Mr. Trump has been wary of disrupting Nvidia’s chip sales, which are helping to drive the economy and the stock market, and of further complicating the trading relationship with China.
+
+This account is based on interviews with people briefed on the surveillance, who spoke on the condition of anonymity because the findings are drawn from classified intelligence, as well as other officials and industry executives and analysts.
+
+American officials already suspected that Ms. Huang was helping China evade constraints on its ability to gain access to advanced A.I. chips.
+
+But the revelation that she was feeding information directly to Beijing raised more troubling possibilities, including that Mr. Huang had insights into Mr. Trump’s thinking on an issue of vital importance to both nations, one likely to come up when the president visits China next month. And it left questions about whether she could be gleaning information about Nvidia, which as much as any company accounts for the lead the United States has maintained in developing cutting-edge A.I. models.
+
+Mr. Huang has not received a defensive briefing, warnings sometimes given to Americans who are being targeted by foreign intelligence services, people briefed on the surveillance said.
+
+The surveillance of Ms. Huang continues, they said, and companies that have been affiliated with her continued this year to purchase Nvidia chips.
+
+Nvidia said the company that employed Ms. Huang, Megaspeed, was like any other regional customer and that it had previously investigated and debunked claims the Singaporean company was smuggling chips to China. John Rizzo, a spokesman for Nvidia, said: “Jensen’s interactions with Ms. Huang are not unusual or unexpected. Meetings with customers are part of a C.E.O.’s job; Jensen talks with thousands of customer executives every year.”
+
+Nvidia is “confident that if the U.S. government believes that any person is a threat to American industry, it would let us know,” Mr. Rizzo said. Customers like Megaspeed, he added, “receive ordinary business information — not sensitive Nvidia trade secrets — and zero information relevant to national security.”
+
+The White House, the C.I.A. and the National Security Agency all declined to comment. In a statement to The New York Times, Megaspeed said that its “current leadership” takes the matter “extremely seriously and is committed to getting to the facts behind these allegations.” It added that “outside counsel has been retained to conduct a thorough internal investigation and has notified the U.S. government that we are fully committed to cooperating.”
+
+Ms. Huang did not respond to requests for comment. It is not clear how closely she is still connected to Megaspeed. A person familiar with Megaspeed’s operations said that Ms. Huang had become less active in the company in the wake of the American investigations.
+
+Asked about the American conclusion that Ms. Huang has been collecting intelligence on behalf of Beijing, Liu Chang, the spokesman for the Chinese Embassy in Washington, said the United States was pursuing a campaign of “groundless smears and slanders” against China.
+
+When Mr. Trump was initially briefed on the intelligence last year, U.S. officials did not believe the Nvidia executive knew that Ms. Huang was gathering information for the Chinese. It is unclear whether intelligence officials have since updated their assessment, but some senior officials inside the Trump administration doubt that Mr. Huang could have remained unaware of what they had concluded was her intelligence-gathering role for China.
+
+Questions about whether Megaspeed was providing A.I. chips to China became public through articles published last year by The New York Times and Bloomberg News.
+
+Mr. Huang has successfully lobbied the administration during Mr. Trump’s second term to loosen regulations on artificial intelligence companies and roll back tighter restrictions on the sales of Nvidia’s chips to China. He also negotiated a deal with Mr. Trump that allowed the U.S. government to take a 25 percent stake of certain Nvidia chips that the government allows to be sold to China.
+
+The close relationship between the president and Mr. Huang has impeded efforts to clamp down on Nvidia’s chip sales abroad, current and former U.S. officials said. They described some investigations and proposed trade sanctions involving China or Nvidia as having ground to a halt within the Commerce Department, the agency in charge of regulating chip exports.
+
+Nvidia has said that it complies with the law and that there is no evidence of its chips being smuggled to China. Mr. Rizzo said China’s government has “blocked U.S. AI chips, protecting its own industry.”
+
+Many questions about the situation remain unanswered, at least publicly.
+
+It is unclear whether concerns about protecting the surveillance played a role in the decision not to inform Mr. Huang. Telling him could have alerted Ms. Huang that she was being watched, which is a common reason intelligence officials hesitate to give defensive briefings.
+
+It could not be determined which intelligence agency or agencies have been involved in monitoring Ms. Huang, or what prompted them to start. It is also not clear under what circumstances Ms. Huang began gathering information for Beijing, what information she passed along or its value to China.
+
+The previous reporting about Ms. Huang by The Times described her meteoric and somewhat mysterious rise. A Chinese businesswoman and investor, she eventually became a top official with Megaspeed, which the Commerce Department, toward the end of the Biden administration, began to suspect was helping China evade U.S. prohibitions and gain access to the computing power of Nvidia chips.
+
+The U.S. government has been investigating Megaspeed since late 2024, when a Commerce Department official visited its data center in Malaysia and found the site to be suspicious. The Nvidia equipment was still packed in boxes, suggesting it was being shipped in or out rather than installed there.
+
+Singapore has conducted its own investigation into Megaspeed. In 2025, Singaporean authorities brought Ms. Huang in for questioning, but subsequently released her.
+
+The Commerce Department investigation into Megaspeed was handed over this year to the Justice Department, administration officials said.
+
+While the U.S. government has restricted companies from exporting the most advanced Nvidia chips into China since 2022, some firms have been found to illegally smuggle them over the Chinese border. Other companies have legally set up businesses that buy large numbers of chips to build data centers in Southeast Asia that serve Chinese firms.
+
+Some U.S. officials and lawmakers consider this to be a problematic loophole, and the Biden administration restricted this practice. Mr. Trump rolled back those rules. The administration is weighing whether to tighten them again.
+
+Megaspeed is among the firms in Southeast Asia that buy chips to build data centers and then rent their computing power to companies in China.
+
+Megaspeed is essentially a middle man. It has bought Nvidia chips from the American arm of Inspur, a Chinese server maker. The U.S. has blacklisted Inspur’s parent company for funneling technology to the Chinese military, though the U.S. firm remains free of sanctions.
+
+Megaspeed has then provided that computing power to Alibaba and other Chinese companies. U.S. officials believe the firm is one piece of a sprawling international effort by Chinese companies to access the chips needed to build and run A.I. Investigators suspect that some Nvidia chips acquired by Megaspeed are also finding their way illegally into China.
+
+Megaspeed’s sister company in Malaysia bought at least $4.8 billion worth of advanced A.I. equipment containing Nvidia chips and technology between June 2024 and February 2026, according to trade records obtained from ImportGenius, a trade platform. It was an exceptional amount of money for a small, obscure company.
+
+Nvidia and Megaspeed have continued to do business this year. The limited data available for most of this year shows that Megaspeed and its affiliates kept buying Nvidia products, often through intermediaries.
+
+To prevent chips from being smuggled to China, Nvidia evaluates buyers before approving a chip purchase and sometimes checks later whether the buyer still has the chips. The company continues to list Megaspeed on its website as a cloud partner. Megaspeed advertised the relationship as recently as this month. In a job ad, Megaspeed’s Indonesian branch called itself “a premier business partner of Nvidia.”
+
+Megaspeed has continued serving its primary client, Alibaba, according to that person and other tech industry analysts.
+
+In June 2024, just weeks before Megaspeed began its purchases, photos posted to LinkedIn showed Mr. Huang alongside Ms. Huang at a bar in Taipei following a local technology trade show. They drank whiskey with other A.I. executives.
+
+One year later, in May 2025, they were seen together again, leaving a restaurant in Taipei after a business dinner with other A.I. suppliers. She waited behind Mr. Huang as he spoke to Taiwanese journalists outside the restaurant.
+
+Those details were described in a Times article last October. But the deeper intelligence involving Ms. Huang remained closely held inside the administration.
+
+People with knowledge of the matter said U.S. agencies had been conducting electronic surveillance of Ms. Huang. That surveillance showed that she was in contact with an American citizen.
+
+U.S. intelligence agencies generally cannot legally surveil American citizens without a court order. But when communications involving Americans turn up in surveillance, citizens can be identified to government agencies who can show a need for the information through a process known as unmasking. In this case, the unmasking process identified Mr. Huang as the U.S. citizen.
+
+Before 2025, Mr. Huang seldom visited Washington and stayed out of politics.
+
+But as the Trump administration was considering a ban on sales of Nvidia chips to China, Mr. Huang and his wife traveled to Mar-a-Lago, the president’s private club and residence in Florida, to meet with Mr. Trump at a high-end donors’ dinner and sell him on the idea of allowing chip companies to do business with Beijing.
+
+At the event, according to people briefed on the discussion there, the Nvidia executive appeared to wow the president with his descriptions of his own rise.
+
+Nvidia later donated at least $20 million to Mr. Trump’s ballroom fund, a person with knowledge of the matter said. The company also pledged to invest $500 billion on manufacturing in the United States.
+
+And when the Chinese leader, Xi Jinping, visited the White House for a state dinner last month, Mr. Huang was at the head table.
+
+Last year, Mr. Trump approved the sale of an older generation of Nvidia chips to China in return for a cut of the revenue. As the president sought warmer ties with China ahead of his meeting with Mr. Xi, he entertained a push by Mr. Huang to sell the Chinese even more powerful technology, rankling some administration officials and Republicans in Congress, before ultimately deciding against it.
+
+People who have watched the two men interact say Mr. Trump has been won over by the lavish praise Mr. Huang has given the president in public, and his immense wealth and success.
+
+It is not clear when Mr. Huang and Ms. Huang of Megaspeed first met. Before The Times reported last year on her role in purchasing Nvidia chips, Ms. Huang posted photos of herself with Mr. Huang on her social media feed, according to a person who viewed it.
+
+Ms. Huang has a slim profile on the Chinese internet. She has described herself as Megaspeed’s chief executive, and the company listed her as its managing director for its first eight months before removing her from that role in its corporate paperwork. Megaspeed’s current director is from Singapore but has recently lived in Shanghai, according to business records and his social media accounts.
+
+According to information posted online by a Chinese investment fund where Ms. Huang worked, she was formerly employed in China as a TV reporter, but The Times could not find any information to verify that. She later worked at several major Chinese banks, then joined a Shanghai-based fund, Hexi Capital, which has invested in a variety of semiconductor- and A.I.-related firms, according to WireScreen, a data platform.
+
+According to tech investors familiar with the company, Ms. Huang and her associates bragged about her connections to Mr. Huang and used it to raise funds and promote their fast-expanding network of businesses, which has invested alongside the Chinese government in data centers around China. In Southeast Asia, Megaspeed has continued to pitch new data centers, hire employees and trumpet its close connections to Nvidia, according to industry analysts, online job posts and other records.
+
+Megaspeed is pushing ahead with construction of a large data center in Johor, the Malaysian state across the border from Singapore, where new A.I. facilities have risen between palm oil plantations. In a stock filing last month, a Malaysian property developer said it had received the final payment for the 53-acre plot where a Megaspeed subsidiary has promised to build the data center.
+
+When a Times journalist visited recently, rows of construction materials sat between the skeletal frames of partially built data centers. Outside the park, backhoe loaders dug into the reddish brown earth as workers installed concrete pipes.
+
+The company had already secured the chips necessary for the build out, according to a person with knowledge of the plans.
+
+Pei-Lin Wu and Zunaira Saieed contributed reporting.

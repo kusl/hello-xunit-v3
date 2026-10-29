@@ -1,6 +1,6 @@
 ================================================================================
 ezra-klein-podcast-nate-silver.html
-Source: PreloadedData  Paragraphs: 283  Words: 9847/10135
+Source: PreloadedData  Paragraphs: 283  Words: 9847/10033
 ================================================================================
 
 SUMMARY
@@ -353,7 +353,7 @@ But that, in some ways, felt like a return to a different Democratic Party than 
 
 Obviously, some of these were competitive nomination processes. But it feels like some trajectory got interrupted in the Democratic Party. Maybe now it’s being restored, I suppose, a little bit.
 
-So we’ve been talking a lot about the Senate. The Senate is like the charismatic megaphone of midterms. There are only a couple of races you have to pay attention to; you can keep the characters in them in mind.
+So we’ve been talking a lot about the Senate. The Senate is like the charismatic megafauna of midterms. There are only a couple of races you have to pay attention to; you can keep the characters in them in mind.
 
 Obviously, the House is not a binary outcome. It really matters if Democrats end up with 228 members of the House, 235, 240, 250.
 

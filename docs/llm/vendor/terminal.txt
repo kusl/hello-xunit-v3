@@ -1,6 +1,6 @@
-kushal@fedora:~/src/dotnet/simpler-grants-gov-client$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/network-monitor/src$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
+Your branch is ahead of 'origin/master' by 4 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -33,12 +33,12 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.17 MB across 19 files
 
-real	0m0.521s
-user	0m0.250s
-sys	0m0.264s
-Restore complete (0.8s)
+real	0m0.438s
+user	0m0.269s
+sys	0m0.204s
+Restore complete (0.7s)
 
-Build succeeded in 0.9s
+Build succeeded in 0.8s
 Project 'CSharpClassLibrary' has the following package references
    [net10.0]: No packages were found for this framework.
 Project 'CSharpConsoleApp' has the following package references
@@ -51,9 +51,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.2       4.0.2   
 
 
-real	0m2.092s
-user	0m2.497s
-sys	0m0.426s
+real	0m1.853s
+user	0m2.198s
+sys	0m0.377s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -65,86 +65,38 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m2.135s
-user	0m1.830s
-sys	0m0.413s
-/home/kushal/src/dotnet/HelloXUnit/CSharpConsoleApp/nytimes/2026/10/27/opinion/election-interference-trump-midterms.html: No article content was found in the HTML.
+real	0m1.622s
+user	0m1.565s
+sys	0m0.330s
 
-real	0m5.773s
-user	0m7.301s
-sys	0m0.809s
-kushal@fedora:~/src/dotnet/HelloXUnit$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
-On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-Starting project export...
-Project Path: /home/kushal/src/dotnet/HelloXUnit
-Output File:  /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Listing files via git...
-Found 19 files to export
-Processing (1/19): .config/dotnet-tools.json
-Processing (2/19): .editorconfig
-Processing (3/19): .gitignore
-Processing (4/19): CSharpClassLibrary/ArticleExtraction.cs
-Processing (5/19): CSharpClassLibrary/CSharpClassLibrary.csproj
-Processing (6/19): CSharpClassLibrary/FilenameString.cs
-Processing (7/19): CSharpConsoleApp/CSharpConsoleApp.csproj
-Processing (8/19): CSharpConsoleApp/Program.cs
-Processing (9/19): CSharpUnitTests/ArticleExtractionTests.cs
-Processing (10/19): CSharpUnitTests/CSharpUnitTests.csproj
-Processing (11/19): CSharpUnitTests/FilenameStringTests.cs
-Processing (12/19): CSharpUnitTests/stryker-config.json
-Processing (13/19): Directory.Build.props
-Processing (14/19): Directory.Packages.props
-Processing (15/19): HelloXUnit.slnx
-Processing (16/19): README.md
-Processing (17/19): export.sh
-Processing (18/19): global.json
-Processing (19/19): mutate.sh
-
-Export completed successfully!
-Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
-Total source size: 0.17 MB across 19 files
-
-real	0m0.451s
-user	0m0.261s
-sys	0m0.220s
-Restore complete (0.4s)
-
-Build succeeded in 0.5s
-Project 'CSharpClassLibrary' has the following package references
-   [net10.0]: No packages were found for this framework.
-Project 'CSharpConsoleApp' has the following package references
-   [net10.0]: No packages were found for this framework.
-Project 'CSharpUnitTests' has the following package references
-   [net10.0]: 
-   Top-level Package                Requested   Resolved
-   > Microsoft.NET.Test.Sdk         18.11.0     18.11.0 
-   > xunit.runner.visualstudio      4.0.1       4.0.1   
-   > xunit.v3                       4.0.2       4.0.2   
-
-
-real	0m1.680s
-user	0m1.677s
-sys	0m0.356s
-Restore complete (0.4s)
-
-Build succeeded in 0.6s
-
-The following sources were used:
-   https://api.nuget.org/v3/index.json
-
-The given project `CSharpClassLibrary` has no updates given the current sources.
-The given project `CSharpConsoleApp` has no updates given the current sources.
-The given project `CSharpUnitTests` has no updates given the current sources.
-
-real	0m1.782s
-user	0m1.774s
-sys	0m0.365s
-
-real	0m3.039s
-user	0m5.961s
-sys	0m0.895s
+real	0m5.902s
+user	0m8.058s
+sys	0m1.124s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
