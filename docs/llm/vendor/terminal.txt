@@ -1,6 +1,6 @@
-kushal@fedora:~/src/dotnet/network-monitor/src$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/observermagazine.github.io$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
-Your branch is ahead of 'origin/master' by 4 commits.
+Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
@@ -33,9 +33,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.17 MB across 19 files
 
-real	0m0.438s
-user	0m0.269s
-sys	0m0.204s
+real	0m0.451s
+user	0m0.259s
+sys	0m0.220s
 Restore complete (0.7s)
 
 Build succeeded in 0.8s
@@ -51,9 +51,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.2       4.0.2   
 
 
-real	0m1.853s
-user	0m2.198s
-sys	0m0.377s
+real	0m1.933s
+user	0m2.347s
+sys	0m0.410s
 Restore complete (0.4s)
 
 Build succeeded in 0.5s
@@ -65,13 +65,13 @@ The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
 The given project `CSharpUnitTests` has no updates given the current sources.
 
-real	0m1.622s
-user	0m1.565s
-sys	0m0.330s
+real	0m1.934s
+user	0m1.701s
+sys	0m0.377s
 
-real	0m5.902s
-user	0m8.058s
-sys	0m1.124s
+real	0m3.726s
+user	0m7.989s
+sys	0m1.082s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
 
 
