@@ -41928,6 +41928,117 @@ Israel’s current approach to Iran “poses a major threat to Iran’s security
 Leily Nikounazar contributed reporting.
 
 ================================================================================
+heat-battery-thermal-energy-storage.html
+Source: PreloadedData  Paragraphs: 44  Words: 1681/1685
+================================================================================
+
+SUMMARY
+
+Most big batteries store electricity and discharge it as needed, and they have already revolutionized power grids and ushered in an era of electric vehicles. But this battery array, built over the past year by a start-up called Antora Energy, stores large amounts of blistering heat. Only a smattering of these large heat batteries exist today.
+
+ARTICLE
+
+A New Kind of Battery Is Taking Off. This One Stores Blistering Heat.
+Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.
+By Brad Plumer
+Published 2026-10-29 09:00 UTC
+https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html
+
+Nestled in the cornfields of eastern South Dakota, a new type of battery is running, and some companies are betting the idea could transform the global energy system.
+
+Most big batteries store electricity and discharge it as needed, and they have already revolutionized power grids and ushered in an era of electric vehicles. But this battery array, built over the past year by a start-up called Antora Energy, stores large amounts of blistering heat.
+
+To charge up, Antora draws surplus electricity from nearby wind farms that would otherwise go to waste, using it to heat carbon blocks to as much as 4,352 degrees Fahrenheit. The blocks stay hot for days, releasing heat on demand to produce steam for a nearby biofuel refinery, replacing the need to burn natural gas and coal.
+
+Only a smattering of these large heat batteries exist today. But experts say the technology, also known as thermal storage, has the potential to unlock vast amounts of low-cost clean energy.
+
+“We want this to be a global energy solution,” said Justin Briggs, a co-founder and chief operating officer of Antora, which is based in San Jose, Calif. “We want to be able to provide cheap, reliable energy anywhere in the world.”
+
+Interest in energy storage has soared in recent years, partly because of the rapid growth of wind and solar power. While those technologies can generate electricity cheaply, they are intermittent and often produce power when it’s not needed, like on gusty nights. That means periodic gluts of low-cost energy, if anyone can figure out how to harness it.
+
+Storing that energy as heat has advantages.
+
+Industries and factories need tremendous amounts of heat and steam for everything from frying potato chips to smelting iron ore. They usually burn coal or natural gas to generate high temperatures, which creates more planet-warming greenhouse gases than all of the world’s cars combined. Heat batteries could offer a cleaner option.
+
+Nearly a dozen start-ups have emerged with their own ideas for thermal storage. Rondo Energy, based in Alameda, Calif., uses superheated bricks. Others are using ceramic bricks, crushed rocks or dirt.
+
+Plenty of obstacles loom. Companies have to prove they can scale up and that their materials won’t degrade under extreme temperatures. In many regions, regulations make it difficult for heat batteries to take advantage of inexpensive renewable power.
+
+Yet some analysts say the technology has significant potential, even if climate concerns have faded from the political agenda. The U.S.-led war with Iran has disrupted global supplies of natural gas, leaving many industries seeking alternative energy sources. Some thermal storage companies, including Antora and Rondo, are considering ways to use heat batteries to fuel data centers as tech giants scramble for power.
+
+“It’s an incredibly promising technology,” said Jeffrey Rissman, senior director of industry at Energy Innovation, a nonpartisan research organization. “I struggle to envision a clean industrial future and a clean grid without a role for thermal storage.”
+
+An early test
+
+Just outside of Big Stone City, S.D., POET, one of the world’s largest biofuels producers, owns an ethanol refinery. Each day, roughly 150 trucks rumble in with thousands of bushels of corn that get crushed, heated and distilled into fuel for cars.
+
+That distillation process requires a steady supply of steam, roughly 350 degrees Fahrenheit. For years, the company burned tremendous quantities of natural gas, enough to power tens of thousands of homes each day, in three massive boilers to generate that heat. It also used waste steam from a coal-burning power plant next door.
+
+That’s quickly changing.
+
+On a bright September day, workers were putting the finishing touches on Antora’s heat battery, which sits across the street from the ethanol plant and started piping over hot steam earlier this year.
+
+South Dakota is a good place to try the technology because there’s a surplus of cheap electricity here — at times. Wind turbines generate 60 percent of the state’s power, but often, bottlenecks on transmission lines mean those electrons have nowhere to go. During breezy periods, wholesale electricity prices can sink to near zero, and grid operators sometimes have to shut off turbines that are not needed.
+
+In a control room, Antora’s employees monitor local grid conditions. When prices drop low enough, the batteries start charging. When prices rise, charging stops. That’s key to making the economics work.
+
+“We take electricity when it’s abundant and inexpensive and when no one else needs it,” said Mr. Briggs, who co-founded the company in 2018. “We wanted to make sure that we were never going to add extra strain to the grid.”
+
+That electricity powers large resistance heaters similar to those found in toasters, which heat hundreds of carbon blocks in steel-encased modules the size of shipping containers. The carbon blocks glow white-hot at high temperatures, transferring energy to a circulating fluid that’s used to generate steam.
+
+Antora’s battery charges faster than it releases heat and, once fully charged, can provide a constant flow of steam for 100 hours, even through a long lull in wind power.
+
+POET has been pleased with the results so far and plans to switch off its gas boilers nearly year-round. The cost of the steam it gets from Antora is competitive with buying natural gas, the company said. POET also gets an extra benefit: By reducing greenhouse gas emissions, the company qualifies for a bigger federal tax credit for low-carbon biofuels.
+
+“It’s been a good partnership,” said Jeff Lautt, the company’s president and chief operating officer. “So much so that we would be open to doing it again at another location if it makes sense.”
+
+While thermal storage may have climate benefits, it has attracted bipartisan support. When Antora’s project came online, South Dakota’s Republican governor and senators praised it. Many conservatives like the idea of round-the-clock power that relies on domestic materials. The carbon blocks can be manufactured from byproducts of petroleum and coal production and, unlike many battery types, don’t rely on Chinese components.
+
+“It’s more than a niche technology,” said Peter Lake, who until recently was senior director of power for the Trump administration’s National Energy Dominance Council. “There’s an elegance and simplicity to it.”
+
+Antora recently announced a deal to provide a thermal battery to another ethanol refinery in Kansas, owned by Pratt Energy. But the batteries could supply heat for a wide range of processes, from paper pulping to cement making, not just for biofuels, Mr. Briggs said.
+
+“Almost every major industry has a steam system like this that you can just plug into,” he said.
+
+The need for heat
+
+Rival projects are popping up quickly.
+
+Rondo Energy, a major competitor, uses renewable energy to heat firebricks to as much as 2,732 degrees Fahrenheit. The start-up is already providing steam to a biofuels plant in California and a cement factory in Thailand; an upcoming project will tap daytime solar power to supply heat to a brewery in Portugal owned by Heineken.
+
+Eric Trusiewicz, Rondo’s chief executive, says that thermal storage looks increasingly attractive financially because of the falling cost of renewables and recent disruptions to oil and gas markets caused by wars in Ukraine and the Middle East.
+
+“As a general philosophy, we don’t try to sell anywhere unless we’re substantially less expensive than fossil fuels,” Mr. Trusiewicz said. “Five years ago, that was a limited number of places. Now, that’s become a very large part of the world.”
+
+If they hope to compete with gas, the batteries need to be dirt-cheap. Antora aims to speed production by making modules in a factory and trucking them to project sites for fast installation. The company says it built the South Dakota project, one of the largest battery arrays on the planet, in under a year.
+
+“Now we have to prove we can do this at global scale,” Mr. Briggs said.
+
+One recent study from the National Laboratory of the Rockies estimated that thermal storage could potentially outcompete natural gas in many places and eventually supply up to one-third of America’s industrial heat needs if battery costs keep declining.
+
+That would be significant for climate change, since industrial heat accounts for roughly 10 percent of planet-warming greenhouse gases, more than cars or airplanes.
+
+“Industrial heat hasn’t really received a lot of attention to date,” said Melissa Hulting, director for industrial decarbonization at the Center for Climate and Energy Solutions, a nonprofit organization. “Thermal batteries could be a real game-changer.”
+
+That study did identify a major catch, however.
+
+In many parts of the country, it can be difficult for heat batteries to charge only when electricity is plentiful and cheap, because local rules don’t allow retail prices to vary by the hour. In South Dakota, Antora spent long hours negotiating a new rate structure with the local utility, Otter Tail Power. But reworking the rules across hundreds of different utilities and grid regions could take time.
+
+“There’s an inertia challenge to overcome,” said Matt Schuerger, a former member of the Minnesota Public Utilities Commission. “As you often see with new innovations, many of these rules were written before thermal batteries came along.”
+
+A data center frenzy
+
+Some investors have recently been exploring heat batteries to power the energy-hungry data centers needed for artificial intelligence.
+
+Tech companies are racing to get electricity wherever they can, particularly from sources like natural gas that generate power at all hours. Yet wait lists for gas generators can stretch for years.
+
+Antora and Rondo say they could use steam from heat batteries to run simple steam turbines that are easier to get and produce steady power for data centers. This sounds inefficient — turning electricity into heat and then back into electricity — but analysts say it can make sense if the batteries can be installed quickly.
+
+In July, Antora raised $550 million, and some of its investors said the potential to power data centers was particularly alluring.
+
+“Industrial heat is a big opportunity, but this data center opportunity is massive,” said Joe Fath, a partner and head of growth at Eclipse, which helped to lead Antora’s funding round. “I think it’s most likely over time going to be the bigger driver.”
+
+================================================================================
 interesting-times-podcast-julia-yost-erika-lust.html
 Source: PreloadedData  Paragraphs: 208  Words: 6347/6540
 ================================================================================
@@ -42714,6 +42825,98 @@ Many on the left have framed an expanded horizon of political possibility as the
 And yet that generational note contains its own message of hope. Bill Clinton, George W. Bush, and Donald Trump were all born in 1946. Joe Biden was born even earlier, in 1942. Ossoff is a child of the 1980s, as are Alexandria Ocasio-Cortez, Abdul El-Sayed and JD Vance. Marco Rubio and Josh Shapiro were born in the 1970s. Among everything else, the last decade of American politics has often looked like a gerontocracy. The close of the MAGA era may bring an end to that, too.
 
 ================================================================================
+the-best-cities-to-retire-in-2026.html
+Source: PreloadedData  Paragraphs: 6  Words: 349/349
+================================================================================
+
+SUMMARY
+
+Florida emerged as the best state for retirees last year, according to a study by the personal finance platform WalletHub, and this year a similar study drilled down to the local level, pitting the 182 largest U.S. cities against one another. Four categories of data contributed equally to the final ranking: affordability, activities, quality of life and health care. Orlando’s access to “very affordable” in-home health and adult day care services edged out the other two cities, Mr. Lupo explained.
+
+ARTICLE
+
+The Best Cities to Retire in 2026
+A study compared data across 45 metrics to find the best cities for senior living.
+By Arnesa A. Howell
+Published 2026-10-29 09:02 UTC
+https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html
+
+Florida emerged as the best state for retirees last year, according to a study by the personal finance platform WalletHub, and this year a similar study drilled down to the local level, pitting the 182 largest U.S. cities against one another. Four categories of data contributed equally to the final ranking: affordability, activities, quality of life and health care. Sources included the U.S. Census Bureau, the Bureau of Labor Statistics and WalletHub’s own research.
+
+Once again, Florida was found attractive by retirees, with Orlando benefiting from the state’s favorable tax policies and handily ranking second for affordability, according to WalletHub. In fact, the three top retirement cities were all in Florida, and four made it into the top 10.
+
+Ranked second and third, Miami and Tampa piggybacked on the state’s financial advantages for retirees, according to Chip Lupo, a WalletHub analyst. (With no state income tax, residents keep a larger chunk of their Social Security check and other retirement income. There are also no inheritance or estate taxes.) Orlando’s access to “very affordable” in-home health and adult day care services edged out the other two cities, Mr. Lupo explained. Overall, the city fared well in the health care category, offering older residents plenty of options for specialized care through gerontologists, quality geriatric hospitals and home health care facilities. A central geographic location helped, too, making it more weather-friendly than hurricane-prone Gulf Coast cities, Mr. Lupo continued.
+
+Mild-weathered Scottsdale, Ariz., a city with the best quality of life and the second-highest share of people 65 and over, finished fourth overall — despite scoring 114th for affordability. Next was Casper, Wyo., cited as one of the cheapest cities to live in.
+
+Among the five worst places to retire, four were in California: Stockton, Calif., came in last. New York City was least affordable.
+
+“A lot of people do live on fixed incomes and don’t have a whole lot of flexibility,” Mr. Lupo said. “In that case, you may want to settle for maybe not one of the worst, but somewhere middle of the road, a place like Knoxville, Tenn., or Columbia, S.C.”
+
+================================================================================
+oberlin-college-professor-murdered.html
+Source: PreloadedData  Paragraphs: 23  Words: 706/706
+================================================================================
+
+SUMMARY
+
+An accomplished photography professor at Oberlin College in Ohio and his wife were found shot to death at their home on Wednesday, according to the authorities, who said that the professor’s son had been arrested and charged with murder. The professor, Pipo Nguyen-duy, 64, who had taught at the college since 1998 and was its studio art chairman, and his wife, Tran Thi Phong, 56, were identified by the Oberlin Police Department as the victims. Edie Carey, 21, a senior at Oberlin, said in an interview on Thursday that she had taken four or five classes taught by Mr. Nguyen-duy, and that he had become her favorite professor.
+
+ARTICLE
+
+Oberlin College Professor and His Wife Are Murdered by His Son, Police Say
+Pipo Nguyen-duy, 64, was the studio art chairman at the liberal arts college in Ohio and had been honored for his photography, including being named a Guggenheim fellow.
+By Neil Vigdor
+Published 2026-10-29 22:09 UTC
+https://www.nytimes.com/2026/10/29/us/oberlin-college-professor-murdered.html
+
+An accomplished photography professor at Oberlin College in Ohio and his wife were found shot to death at their home on Wednesday, according to the authorities, who said that the professor’s son had been arrested and charged with murder.
+
+The shootings jolted the Oberlin campus, which is about 35 miles southwest of Cleveland, and visual artists who had known him.
+
+The professor, Pipo Nguyen-duy, 64, who had taught at the college since 1998 and was its studio art chairman, and his wife, Tran Thi Phong, 56, were identified by the Oberlin Police Department as the victims.
+
+Daniel Jones, 31, of Ashland, Ore., who the police said was Mr. Nguyen-duy’s son and Ms. Phong’s stepson, was charged with six counts of murder, four counts of felonious assault and one count of tampering with evidence, the authorities said.
+
+A motive was not immediately clear.
+
+In a statement, Carmen Twillie Ambar, Oberlin’s president, described Mr. Nguyen-duy, who was known as Pipo, as a beloved member of the college community whose passion for photography touched everyone.
+
+Mr. Nguyen-duy, who was born in Vietnam and came to the United States as a political refugee, had received numerous honors for his photography over the years, including a Guggenheim Fellowship in 2011, according to his biography.
+
+“Our community will be hurting for a very long time, and when the shock of this news subsides, we will all need to process our grief,” Ms. Ambar said.
+
+Around 9 a.m. on Wednesday, officers responded to a car fire in a parking lot at the college’s music conservatory, according to a police report. Investigators found a wood stove heater in the back seat of the Toyota hatchback, which had Oregon plates and was registered to Mr. Jones, with a makeshift chimney pipe protruding from the roof, the authorities said.
+
+Officers discovered Mr. Jones’s wallet, passport and live ammunition rounds inside the car before finding him about a mile away over an hour later, the police said.
+
+Based on the officers’ interactions with Mr. Jones, they went to his family’s home — about two blocks from where they had responded to the car fire — to conduct a wellness check, investigators said.
+
+After forcing their way into the home, officers found Mr. Nguyen-duy’s body on the first floor and Ms. Phong’s in an upstairs bedroom, the authorities said. Both had been shot multiple times, the police said.
+
+Jenifer Berki Merrill, a lawyer for Mr. Jones, declined to comment about the charges on Thursday. She said that Mr. Jones preferred to go by his birth name, Asia Nguyen-duy.
+
+On Thursday, police officers carried him by his arms and legs into Oberlin Municipal Court for an initial hearing in his case, a video taken by WKYC-TV showed.
+
+He slumped over in a chair while wearing handcuffs and beige-and-pink striped jail clothes during the proceeding.
+
+A judge set his bond at $3 million and he remained in custody on Thursday afternoon, according to court records.
+
+Edie Carey, 21, a senior at Oberlin, said in an interview on Thursday that she had taken four or five classes taught by Mr. Nguyen-duy, and that he had become her favorite professor.
+
+“I feel like the college experience I was promised of becoming really close with someone who knows so much was really only fulfilled by my relationship with him,” she said.
+
+“His teaching wasn’t like anything else I had experienced,” she added. “It was really kind of holistic. He really changed how I see the world.”
+
+Ms. Carey, who worked as a photo lab monitor for the studio art department overseen by Mr. Nguyen-duy, said he would regale his students with fascinating stories about his life.
+
+He told them about competing nationally in table tennis as a teenager in Vietnam and becoming a Buddhist monk in northern India, which required him to shave his head, she said. When he moved to the East Village in New York City in the 1980s, he was hired as a bouncer, she said.
+
+Ms. Carey said that students had set up tributes to Mr. Nguyen-duy on campus, including photographs he had taken. She credited him with inspiring her to pursue a career as an artist after she graduates.
+
+“I always thought about him being there for me,” she said.
+
+================================================================================
 nvidia-china-jensen-huang-trump.html
 Source: PreloadedData  Paragraphs: 55  Words: 2345/2348
 ================================================================================
@@ -42896,6 +43099,893 @@ In August, CoreCivic announced the sale in a statement that said the company int
 Treasury Secretary Scott Bessent, who was in Minnesota on Friday to announce developments in the administration’s efforts to root out fraud in safety net programs, said he had not heard about the prison deal. He called questions about the gap between the 2025 price tag and what the government paid “a waste of our time.”
 
 David A. Fahrenthold contributed reporting.
+
+================================================================================
+alina-habba-turhan-mildon-trump-congo-venezuela.html
+Source: PreloadedData  Paragraphs: 41  Words: 1659/1656
+================================================================================
+
+SUMMARY
+
+President Trump’s former lawyer Alina Habba Mildon stormed into the White House this month and set off an explosive, deeply personal battle by accusing another Trump ally of skimming money from a philanthropic donation. The donation, she claimed, had been made by her husband, Turhan Mildon, a Turkish businessman she had met and married this year. Mr. Mildon’s spokesman said his client’s marriage to Mrs. Mildon was his second.
+
+ARTICLE
+
+Alina Habba’s Husband Ignited a White House Drama. Now His Background Is Under Scrutiny.
+Turhan Mildon, who married Alina Habba this summer, presents himself as a 29-year-old billionaire with ties to global leaders. His story has inconsistencies.
+By Anatoly Kurmanaev, Tyler Pager and Declan Walsh
+Published 2026-10-30 21:58 UTC
+https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html
+
+President Trump’s former lawyer Alina Habba Mildon stormed into the White House this month and set off an explosive, deeply personal battle by accusing another Trump ally of skimming money from a philanthropic donation.
+
+The donation, she claimed, had been made by her husband, Turhan Mildon, a Turkish businessman she had met and married this year. But now it is Mr. Mildon who is coming under scrutiny in the United States and abroad.
+
+After hearing out Mrs. Mildon’s account several weeks ago, Mr. Trump directed his aides to investigate her accusations against Richard Grenell, who had served as the president’s special envoy to Venezuela and president of the Kennedy Center. The result has been a soap opera-like showdown that has exposed both the intensity of behind-the-scenes feuding among Trump confidants as well as their efforts to profit from their affiliation with him.
+
+White House officials concluded that a key element of Mr. Mildon’s story, as relayed to Mr. Trump by Mrs. Mildon, did not add up.
+
+In particular, they said they found that the money in question, $17.6 million, came not from Mr. Mildon but instead from a government account in the Democratic Republic of Congo, where Mr. Mildon has built ties to leading politicians and won business contracts.
+
+That finding in turn cast doubt on Mrs. Mildon’s accusation that Mr. Grenell had diverted millions of dollars of Mr. Mildon’s money meant for the Kennedy Center, according to people briefed on the inquiry who spoke on the condition of anonymity to discuss an ongoing matter. The payment seems to have gone to a Texas company with ties to Mr. Grenell for what U.S. officials say appears to be a software contract for Congo.
+
+Mr. Mildon has declined to comment on any aspect of the White House investigation. Mr. Grenell’s role in the transaction remains unclear. He has denied the accusations and had no further comment.
+
+Why Mrs. Mildon made such a provocative accusation remains unclear. But the ensuing scrutiny of the couple is now exposing other inconsistencies in how Mr. Mildon, a self-described billionaire who has aggressively pursued business deals in Africa and Venezuela, has portrayed his background and wealth.
+
+A spokesman for Mr. Mildon who declined to be named denied that his client has misrepresented any part of his background, calling it an attempt to damage his client’s reputation.
+
+But an examination of his rise to prominence in Washington, Venezuela and Africa suggests that he has made misleading, exaggerated or disputed statements about his businesses, his influence with global leaders, his marriages and even his age, according to documents and interviews with government officials and other people who know Mr. Mildon or have done business with him around the world.
+
+Mr. Mildon has previously told The New York Times and other news organizations that he is 29, and his wife, 42, has told friends the same. Documents seen by The Times and interviews with former classmates, however, put his age at 25.
+
+His U.S. visa, which he obtained in 2023 in Kinshasa, the Congolese capital, lists his date of birth as Dec. 2, 2000, as does a photo of his Turkish passport that was shown to The Times. British corporate records also list his birthday as December 2000.
+
+News articles and photographs show that he attended a private high school in Turkey. One student there and another in his middle school described him as a classmate. They graduated in 2020 and say they are 25. The high school, the SEV Amerikan Koleji in Istanbul, declined to comment, citing privacy protection laws.
+
+In 2021, Mr. Mildon married into the family of a prominent Turkish magnate. That marriage ended in 2024.
+
+Mr. Mildon’s spokesman said his client’s marriage to Mrs. Mildon was his second. But several of Mr. Mildon’s former confidants say he celebrated a legally nonbinding religious marriage to a daughter of a Venezuelan military commander last year before he met Ms. Habba. The ceremony took place at a time when Mr. Mildon was pursuing business deals in Venezuela and building ties to the inner circle of Nicolás Maduro, who was then the country’s president.
+
+Mr. Mildon, through his spokesman, said he had only been engaged to the woman, María Ceballos, the daughter of Adm. Remigio Ceballos, the former operational head of the Venezuelan armed forces. The spokesman said they held an engagement ceremony that reflected Mr. Mildon’s culture. Mr. Mildon is not known to have said publicly that he was married to Ms. Ceballos.
+
+Ms. Ceballos, however, told friends that she became Mr. Mildon’s spouse in Turkey. (Religious marriages are not legally binding under the Turkish law; Mr. Mildon ended the relationship this year, Ms. Ceballos told friends.)
+
+In media interviews, Mr. Mildon has presented himself as a billionaire with extensive business interests in Congo and Venezuela. He told Forbes Turkey that his companies’ revenues totaled $2.6 billion in 2025, and he spoke about making hundreds of millions of dollars in combined investments in construction, mining, cement and food exports.
+
+The extent of his wealth, which is concentrated in private companies, is hard to discern, but there are indications that his firms have come under financial strain.
+
+A significant share of Mr. Mildon’s revenues came from operating 10 Venezuelan state-run cement plants, according to people familiar with his businesses.
+
+In June, the Venezuelan government assailed Mr. Mildon’s cement company for investing just 6 percent of the agreed amount of new capital into the firm in the first two years of a five-year concession, according to a copy of a document seen by The Times and confirmed by government officials. This month, the government canceled the contract and asked Mr. Mildon’s company to vacate the premises.
+
+In Venezuela, Mr. Mildon’s businesses also accumulated debts with suppliers and wage arrears with workers, several workers and suppliers said.
+
+At a shrimp processing plant he operates in western Venezuela, managers have been telling workers in recent weeks that they do not have funds to pay their wages.
+
+One of his cement plants has run up $5 million in debts this year with more than 150 suppliers and government agencies, including for invoices for as little as six dollars, a document seen by The Times shows.
+
+Mr. Mildon’s spokesman said his client remains in control of cement plants and that his company has submitted to an independent audit. The spokesman disputed The Times’s description of Mr. Mildon’s businesses, but did not respond to specific questions about their financial condition.
+
+Throughout his career, Mr. Mildon has frequently promoted what he says are close connections to global power brokers as he has sought to win business contracts and project influence, according to multiple people who have interacted with him.
+
+Mr. Mildon has told people that he is closely connected to Mr. Trump, President Recep Tayyip Erdogan of Turkey, President Félix Tshisekedi of Congo, Mr. Maduro and his successor as Venezuela’s leader, Delcy Rodríguez. Interviews with people close to the governments of these countries suggest that he has exaggerated the depth of some of these relationships.
+
+Mr. Mildon’s spokesman said his client had never sought to peddle access or influence, adding that his client does not disclose private meetings.
+
+Mrs. Mildon’s history with Mr. Trump has put him in the middle of the current White House investigation. However, the only public evidence of her husband crossing paths with Mr. Trump is a photo on social media that shows the president walking into his New Jersey golf club, and Mr. and Mrs. Mildon standing at a table in the background.
+
+A person close to Mr. Trump said the president does not know Mr. Mildon and would not recognize him.
+
+One person described Mr. Mildon showing the person last year on his phone a purported WhatsApp conversation in English with Mr. Maduro, when he was the leader of Venezuela. People close to Mr. Maduro, however, said he did not use WhatsApp at that time, out of fear of being hacked, and has never conversed in English.
+
+Mr. Mildon’s spokesman said Mr. Mildon had never communicated with Mr. Maduro through WhatsApp or any other platform and had never exchanged phone numbers with him.
+
+Another person said that since U.S. forces toppled Mr. Maduro in January, Mr. Mildon has told people that he had a close relationship with his successor, Ms. Rodríguez. He has told investors that he is the person to secure a business deal in Venezuela, that person said.
+
+Mr. Mildon met Ms. Rodríguez in February, shortly after Mr. Maduro was captured by U.S. forces. Mr. Mildon participated in a meeting secured by a Trump-allied media executive. Mr. Mildon and Ms. Rodríguez have not met or had regular contact since, people close to Ms. Rodríguez said.
+
+Mr. Mildon holds a Congolese diplomatic passport and told The Times earlier this month he was an adviser to the country’s leader, Mr. Tshisekedi.
+
+But although the two men have been pictured together during official events, the extent of their personal connection is unclear. Mr. Mildon has forged ties with powerful figures around the president, helping him win lucrative contracts but also drawing him into factional squabbles.
+
+Since starting to do business in Congo in 2021, Mr. Mildon has won government contracts worth over $500 million for projects including a financial center, a sports arena, social housing and a military camp.
+
+But several projects are incomplete or have suffered delays, including sensitive defense projects, leading to tensions with some officials.
+
+In a text message, one senior Congolese official said the government was in regular and constructive contact with Mr. Mildon to complete his stalled projects.
+
+Earlier this year, Mr. Mildon signed a contract worth more than $50 million to build a drone base in Kisangani, in eastern Congo, to help counter Rwanda-backed M23 rebels, two officials said. But there has been little progress on building the base, and the military’s effort against the M23 has made little progress.
+
+The government of Congo declined to provide comment on the record for this article.
+
+================================================================================
+rebecca-bennett-nj-house-race.html
+Source: PreloadedData  Paragraphs: 50  Words: 1966/1967
+================================================================================
+
+SUMMARY
+
+To Rebecca Bennett, the limitations of the MH-60 Seahawk she flew as a 20-something Navy helicopter pilot were striking. Jeff Lindbom flew with Ms. Bennett in the Navy while she was deployed on the U.S.S. Mr. Kean has said the disclosure shows that Ms. Bennett is incapable of working across the aisle in Washington.
+
+ARTICLE
+
+A Navy Pilot Tries to Flip a Key House Seat, Right by Trump’s Golf Club
+Rebecca Bennett, a Democrat, is vying to unseat Representative Thomas Kean Jr. in a New Jersey district that includes President Trump’s Bedminster golf club.
+By Tracey Tully
+Published 2026-10-31 07:00 UTC
+https://www.nytimes.com/2026/10/31/nyregion/rebecca-bennett-nj-house-race.html
+
+To Rebecca Bennett, the limitations of the MH-60 Seahawk she flew as a 20-something Navy helicopter pilot were striking. Its computer processors were too slow to load a moving Google map, she said. Floppy diskettes were the norm. And female pilots had nowhere to safely urinate on long flights.
+
+The problems, she said, seemed fixable, but not from a cockpit.
+
+So Ms. Bennett, now 39 and running for Congress in one of the country’s most closely watched midterm races, applied in 2014 to the Navy’s elite Test Pilot School, where for a year she trained to assess and improve aircraft performance.
+
+“To go try,” she said, “to make this stuff better.”
+
+That same mind-set, she said, led her to launch her first campaign for office soon after President Trump was elected to a second term. “I was like, ‘I’ve got to go throw myself at this problem,’” Ms. Bennett, a Democrat, said in an interview.
+
+To get to Washington, she will first need to unseat Representative Thomas Kean Jr., a New Jersey Republican who shares a name with his father, a former governor.
+
+The race was upended this spring after Mr. Kean, 58, disappeared from Capitol Hill for nearly four months, an absence he later said was tied to a long-term hospital stay for depression. Waning public support for the president and alarm over the high prices of gas, diesel and groceries have only added to Mr. Kean’s challenges.
+
+Democrats see Mr. Kean’s Seventh District seat as one of their best pickup opportunities in Tuesday’s elections, in spite of the congressman’s formidable fund-raising advantage, which has helped to fuel a barrage of negative ads against Ms. Bennett, a former health care executive.
+
+Mr. Kean and his Republican allies have tried to depict Ms. Bennett as too left-leaning for the affluent district and its most famous, part-time resident: Mr. Trump, who often spends time at his golf club in Bedminster. “She’s a greedy, liberal millionaire who doesn’t care about you,” intones an ad paid for by the Kean campaign.
+
+But a review of Ms. Bennett’s life and career offers a far more complex portrait, one that appears to be resonating with voters in a state that a year ago elected another Navy helicopter pilot, Gov. Mikie Sherrill, by a resounding margin. In the final weeks of the campaign, officials with two Republican super PACs withdrew about $2 million in ads booked in support of Mr. Kean after internal polling showed his odds dimming; early Democratic turnout has been roughly twice the rate of Republican turnout in the northern New Jersey district.
+
+‘Incredibly driven’
+
+Ms. Bennett spent 15 years in the Navy and the Air National Guard and was registered to vote as a Republican until she was nearly 30. She describes herself as a “patriot” at rallies where supporters hold signs that read “country over party,” a campaign slogan. In grad school at the Wharton School of the University of Pennsylvania, her similarly hard-charging M.B.A. classmates voted her “most likely to become president.”
+
+It is a prediction that was tossed around in her childhood home in Granbury, Texas, too. Her sister, Sarah Matz, said it was a lighthearted nod toward Ms. Bennett’s tendency to “always go to the hardest thing.”
+
+At 16, Ms. Bennett moved 75 miles away from home and into a dorm room at the University of North Texas to begin two years of publicly funded college-level math and science coursework. At 18, she won an R.O.T.C. scholarship and entered Cornell University, where she studied chemical engineering.
+
+When Ms. Bennett, the maid of honor at her sister’s wedding, recited a long speech from memory, Ms. Matz recalled: “My husband’s friends were like, ‘Your sister’s really intense.’”
+
+“She is incredibly smart. She’s incredibly driven,” Ms. Matz added.
+
+“That’s who she is. She’s not trying to be anything else, you know?”
+
+Jeff Lindbom flew with Ms. Bennett in the Navy while she was deployed on the U.S.S. Nimitz in the Persian Gulf, during Operation Enduring Freedom. Their first flight together was a nighttime training mission, he said, and Ms. Bennett was his instructor.
+
+The helicopter they were flying came too close to another. “A not-good situation,” he said. “Definitely gets the hair standing on the back of your neck.”
+
+Ms. Bennett took charge to get the pilots reoriented and in the coming days gave Mr. Lindbom, a friend, a failing grade. Her high standards helped to shape him as a pilot, he said; years later, he would follow her to Test Pilot School.
+
+The school, founded in 1945 and based in Patuxent, Md., is known for its rigor. Twenty-two of its graduates, including a woman who graduated with Ms. Bennett in 2016, have gone on to become astronauts since 2000, according to a spokesman for NASA.
+
+To save time commuting during the yearlong program, Ms. Bennett put a mattress on the floor of a classmate’s condo and returned home on weekends to see her husband, who at the time was also on active duty in the Navy.
+
+“She knew what it would take to succeed in that kind of environment,” the classmate, Kristine Sweigart, said. “She literally lived on my floor for a year so that she could excel.”
+
+That was also the year that Ms. Bennett’s politics began to shift toward the Democratic Party.
+
+‘I cannot sit in this church’
+
+In 2016, Mr. Trump, then a New York City businessman, was ascendant.
+
+Ms. Bennett changed her party affiliation that summer and made what she said was her first-ever political contribution, to Mr. Trump’s Democratic opponent, Hillary Clinton.
+
+One of Ms. Bennett’s first television ads emphasized the apolitical nature of the military. “In the aircraft,” she says, “you’d never ask your crew if they’re Democrats or Republicans.”
+
+But after leaving the Navy in 2022, Ms. Bennett did fully jump into partisan politics, participating in phone banks for Democratic candidates and traveling to Michigan with her sister to knock on doors in support of Vice President Kamala Harris’s presidential bid.
+
+She has told supporters that her frustration with Mr. Trump’s 2016 victory briefly led her to stop attending church in Maryland, according to a recording first reported by The Washington Free Beacon.
+
+“I was like, ‘I cannot sit in this church full of people who voted for Trump,’” said Ms. Bennett, a Presbyterian. “Then, ultimately, I decided they do not get to decide what Christianity looks like.”
+
+Mr. Kean has said the disclosure shows that Ms. Bennett is incapable of working across the aisle in Washington. “That’s not a person who’s going to listen,” he told a debate audience.
+
+After moving to New Jersey in 2019, Ms. Bennett became active in a Presbyterian Church (U.S.A.) congregation in Princeton that is known for its inclusive services. David A. Davis, the church’s pastor, said she sought his counsel soon after Mr. Trump was elected in 2024. She was deciding, he said, whether to enter the race against Mr. Kean, aware it would “upend her life.” Some of Ms. Bennett’s earliest campaign videos, he noted, were filmed at Nassau.
+
+It was a deliberate choice for Ms. Bennett, who said that her “sense of service” was heavily shaped by the church-led mission trips she participated in as a teenager in Texas.
+
+“We were not wealthy,” she said. “But we had a roof over our head and we had food.
+
+“Going to places in the country and seeing people who do not have that, it just made me very appreciative of what I was given.”
+
+Early in the campaign, as she tried to set herself apart from Mr. Kean, Ms. Bennett frequently referred to the 2010 Honda Accord she drove. Mr. Kean comes from a wealthy New Jersey political family; his estimated $10 million in assets are linked largely to family trusts.
+
+Yet during the debate, Ms. Bennett refused to state her own net worth, instead referring people to her financial disclosure forms, which show assets worth between $430,000 and $1.5 million, including two I.R.A.s and college savings plans.
+
+Ms. Bennett and her husband also own a four-bedroom home in Montgomery, N.J., a suburban township that lawmakers excised from the Seventh District when redrawing congressional boundaries after the 2020 census.
+
+House members are not required to live in the district they represent. But the new map created a public relations challenge for a candidate hoping to kick Mr. Kean — whose deep New Jersey roots extend to the state’s first governor — out of office.
+
+During the summer of 2025, she and her husband moved into a rental home about 15 miles away in Bridgewater, which is in the Seventh District. Their 7-year-old daughter attends public school there and their 4-year-old daughter is in day care nearby.
+
+‘The best of the best’
+
+The race began as one of only a handful of tossup battleground contests in the 2026 midterm cycle and was regularly cited by both parties as a must win, drawing prominent surrogates to the campaign trail.
+
+Gabby Giffords, a former congresswoman and a leading gun-control advocate, joined Ms. Bennett this month at a library in New Providence. The Democratic House leader, Hakeem Jeffries, spent a recent Friday night with Ms. Bennett at a small Baptist church in Linden. Pete Buttigieg, a former transportation secretary, spoke to a large crowd at a community college in Branchburg, hailing Ms. Bennett’s military experience as the “perfect background for going to the United States Congress in today’s Washington.”
+
+“A test pilot — the best of the best — whose job is to figure out what’s broken before anybody gets hurt,” he said.
+
+Before entering the race, Ms. Bennett worked for four health care companies — Johnson & Johnson, Midi Health, Noom and Oshi Health — and she has made repealing the deep cuts to Medicaid that Mr. Kean supported as part of the president’s so-called Big Beautiful Bill a central campaign platform. She has also called for modernizing the country’s air traffic control system, ending the war with Iran and freezing child care costs at 7 percent of a family’s income.
+
+Ms. Bennett’s own child care costs have become a Republican talking point, after campaign filings showed she used roughly $20,000 in donations to pay for her daughter’s day care, a decision Mr. Kean has attacked. Ms. Bennett’s campaign has noted that the Federal Election Commission has since 2018 permitted candidates to use campaign contributions to pay for child care “to help parents who aren’t independently wealthy be able to run for Congress.”
+
+Republicans have also homed in on Ms. Bennett’s work in health care in ads that suggest she led efforts to put profits over patients, highlighting her role at Midi in brokering a partnership with a private-equity-backed hospital chain. “She bragged about her deals with sketchy companies,” reads a mailer that includes a photograph of a bloody, disembodied eye.
+
+Cindy Gentry, Ms. Bennett’s boss at Midi, a start-up focused on expanding telehealth for menopausal women, said the advertising “missed the point.”
+
+“The point is women didn’t have access to care,” Ms. Gentry said. “What Rebecca was trying to do, was, ‘How do I create telehealth offerings that expands access and provides good, high-quality care to women who right now don’t have access to it?’”
+
+In early October, Ms. Bennett and Mr. Jeffries sat side by side at Greater Mount Moriah Baptist Church, in front of pews packed with Democratic loyalists. The pastor, the Rev. Barry Wise II, used the opportunity to note his disappointment with Democrats who fail to follow through on promises after being elected, pointedly urging Ms. Bennett — and Mr. Jeffries — to do better.
+
+Ms. Bennett, in her remarks, turned to face Pastor Wise.
+
+“I will wake up every day,” she said, “and work harder than I’ve ever worked in my life to fight for you and your family as hard as I fight for my own kids.”
+
+================================================================================
+midterm-election-races-what-to-watch.html
+Source: PreloadedData  Paragraphs: 35  Words: 1630/1661
+================================================================================
+
+SUMMARY
+
+One would think that in a state as deeply red as South Carolina, this would be enough. There’s every reason to think Graham will eke out a win — this is South Carolina, after all. Beyond the immediate politics, it is difficult to overstate the larger historical significance of liberal Democratic wins in Mississippi or South Carolina.
+
+ARTICLE
+
+Three Races I am Watching Closely
+The future of American politics runs through the South.
+By Jamelle Bouie
+Published 2026-10-31 15:15 UTC
+https://www.nytimes.com/2026/10/31/opinion/columnists/midterm-election-races-what-to-watch.html
+
+I’m at the stage right before an election when I stop paying close attention to polls. People are already voting — millions, in fact, have already voted — and there isn’t much left to learn from new polls. Instead, I’ve turned my attention to a handful of races I think are interesting, both as potential bellwethers and as stories in their own right.
+
+Virginia’s 5th Congressional District
+
+The first of these is close to home. The 5th District includes Lynchburg, Danville and Charlottesville, where I live. It covers most of central Virginia, touching the Richmond suburbs in the east, the Shenandoah Valley in the west and the majority of rural Southside, reaching the North Carolina border.
+
+Most years, the 5th is solidly Republican. But there is precedent for a Democratic victory. In 2008, Tom Perriello — who, I should say, I know personally — won the seat. He lost in the 2010 Republican wave on account of his votes for the Affordable Care Act and a climate change bill. Perriello is back this year, hoping to unseat the incumbent Republican, John McGuire.
+
+I think Perriello is running a strong and vigorous race — the kind of campaign that can make the difference in an exceptionally close contest. But I still think the final result will hinge on overall national conditions. If we’re looking at a double-digit swing toward Democrats, Perriello wins. If it’s something more modest, I think he falls short.
+
+South Carolina Senate
+
+The next race I am watching is further South. Darline Graham is running to replace her brother, Lindsey Graham, in the Senate. She is a novice politician, relying on name recognition and the full support of President Trump. One would think that in a state as deeply red as South Carolina, this would be enough. But you would be wrong.
+
+Graham has quite a few disadvantages beyond her lack of experience. Not only do place-holder candidates tend to suffer compared with those who have been elected to the seats they hold, but Graham had a bitter primary battle that left South Carolina Republicans divided. Rather than play for unity, her former opponent Ralph Norman has been an open critic, exacerbating the split. There are also conservative third-party candidates on the ballot who have eaten into Graham’s support.
+
+It has been clear since the summer that this race is more competitive than it initially looked, and in the most recent New York Times survey, Graham is in a statistical dead heat with her Democratic opponent, Annie Andrews.
+
+There’s every reason to think Graham will eke out a win — this is South Carolina, after all. (And I spend enough time there every year visiting family to get a good sense of its deeply-rooted conservatism.) But thanks to a surge in Black turnout and potential crossover voting among Republican-leaning independents, there is a real chance of a Democratic upset.
+
+As for Andrews? She has been on the ground for nearly two years, trying to build support and name recognition. She has been hustling, and in politics as in most areas of life, hustle can mean the difference between victory and defeat.
+
+Mississippi Senate
+
+The last race I’m paying close attention to is in another place that is far more competitive than you would think: Mississippi. According to many polls, the incumbent senator, Cindy Hyde-Smith, appears to be just ahead of her Democratic challenger, Scott Colom.
+
+There’s a familiar dynamic here. Hyde-Smith is what you might call a replacement-level candidate — no better and no worse than a generic Republican. And why would she need to be? The stark racial polarization of Mississippi voters means that as long as Hyde-Smith can attract the vast majority of white voters, she is in good shape come Election Day.
+
+But what happens if there is a slight decline in racially polarized voting among whites? What happens if there is an explosion of Black turnout — thanks to the Supreme Court’s unpopular decision in Louisiana v. Callais — in a state where Black Americans make up close to 40 percent of the population? And what happens if the candidate leading the charge for Democrats is smart and talented with a record of winning in a seemingly inhospitable environment?
+
+In that case, you have another potential upset in a state that for decades has been written off by Democrats and taken for granted by Republicans.
+
+Beyond the immediate politics, it is difficult to overstate the larger historical significance of liberal Democratic wins in Mississippi or South Carolina. Both states are virtual bywords for American reaction; South Carolina was the hotbed of nullification, secession and Redemption, as well as the staging ground for the 1948 Dixiecrat rebellion. Mississippi had the South’s first Jim Crow state constitution and produced a stream of racist demagogues from Theodore Bilbo to James Eastland.
+
+Democratic victories would shake up the political landscapes in both states. They might also work as proof of concept for further investment below the Mason-Dixon line.
+
+The South overall is a fast-growing and dynamic part of the country, with a rapidly diversifying population of white and Black Americans, Latinos, and Asian Americans. It is a hub for new immigrants and a destination for Americans from across the country. It has also been a laboratory for democratic backsliding — a place where reactionary lawmakers have done their best to limit the scope of democratic participation and impose their preferred social order.
+
+But there’s a clear tension here between dynamism and tradition. And in the fastest-growing states of the South, economic and social dynamics have begun to produce renewed partisan competition, as new coalitions emerge to contest power.
+
+A Democratic Party that can contest and win in both the Deep and the Upper South — Georgia, South Carolina, Louisiana, and Mississippi, in addition to Virginia and North Carolina — is a Democratic Party with far more paths to national victory than it has had over the last decade.
+
+Which is all to say that I’m not just paying attention to Virginia, South Carolina and Mississippi because I am a Southerner with roots in and connections to those states, but because I’m convinced that the future of both parties, to say nothing of the future of the nation, goes through the South.
+
+What I Wrote
+
+My column this week was on President Trump’s corrupt use of the pardon power, the rule of law and the future of American democracy.
+
+Donald Trump is not the first president to break the law. He is not the first president to disregard the law. He is not even the first president to insist that his actions cannot, on some deep ontological level, be illegal. But he may be the first president to abandon the pretense that the law matters at all.
+
+I joined E.J. Dionne and Robert Siegel on an episode of The Opinions. In the latest episode of my movie podcast with John Ganz, we covered John Frankenheimer’s 1998 film “Ronin.” And if you are reading this in New York City, I’ll be speaking on citizenship and the Constitution at N.Y.U. on Nov. 11. You can register for the event here.
+
+Now Reading
+
+President Luiz Inácio Lula da Silva’s victory speech, delivered after his comeback victory over Flavio Bolsonaro in the recent election in Brazil.
+
+Dana El Kurd on the Palestinian Authority for Dissent.
+
+Quinta Jurecic on the limits of Trump’s efforts to subvert the midterm elections, for The Atlantic.
+
+William H. McRaven on American power for Foreign Affairs magazine.
+
+Nahal Toosi on the world’s struggle to understand, and contain, Trump, for Politico magazine.
+
+Photo of the Week
+
+The final resting place of Frederick Douglass in Rochester, N.Y. I took this during a visit over the summer.
+
+Now Eating: Carrot-Orange Olive Oil Cake
+
+I made this cake last weekend for a get-together, and it was a big hit. It is extremely easy to put together, and you might already have all the ingredients you need. A few recommendations. If you can, grind whole cardamom for a stronger flavor and aroma. The recipe doesn’t call for it, but you should steam the carrots before blending them; that way you won’t need a high-powered blender to get a smooth mixture. And as always for a cake like this, you’ll want to use the best olive oil you can get your hands on. Recipe from NYT Cooking.
+
+Ingredients
+
+- Nonstick cooking spray or butter, for greasing
+- 1 ⅓ cups/175 grams all-purpose flour
+- 1 tablespoon baking powder
+- 1 teaspoon ground cardamom
+- 1 teaspoon kosher salt (such as Diamond Crystal)
+- ¼ teaspoon baking soda
+- 5 medium carrots (about 10 ounces/300 grams), peeled and roughly chopped (about 2 cups)
+- 1 cup/210 grams extra-virgin olive oil
+- 1 cup/200 grams granulated sugar
+- 2 large eggs, at room temperature
+- 1 orange, zested and juiced (¼ cup juice)
+- Powdered sugar, to serve
+
+Directions
+
+Arrange a rack in the center of the oven. Heat the oven to 375 degrees. Grease a 9-inch springform pan, cake pan or cast-iron skillet with nonstick spray or butter, and line the bottom and sides with parchment paper.
+
+In a large bowl, whisk the flour, baking powder, cardamom, salt and baking soda together. Make a well in the middle and set aside.
+
+In a blender, combine the carrots, olive oil, granulated sugar, eggs, orange zest and orange juice; blend until smooth. Pour into the middle of the well of the dry ingredients. Starting in the center, use a whisk to slowly incorporate the flour mixture until there is no visible flour.
+
+Pour the batter into the prepared pan. Lower the oven temperature to 350 degrees and immediately place the cake onto the middle rack. Bake for 35 to 45 minutes, until the center comes out clean when tested with a toothpick.
+
+Let the cake cool on a wire rack for about 1 hour, then remove from the pan. Before serving, dust with powdered sugar.
+
+================================================================================
+democrats-populist-working-class.html
+Source: PreloadedData  Paragraphs: 15  Words: 1267/1323
+================================================================================
+
+SUMMARY
+
+In the waning days of the midterm election campaign, Republicans have finally stumbled on a closing message: defending the honor of the Cheesecake Factory. Trump ran against Big Tech in 2020, when he saw it as an ally of Democrats, but he was less interested in curbing the industry’s power than co-opting it. Democrats should remember his words when they retake power.
+
+ARTICLE
+
+Republicans Tried to Turn the Cheesecake Factory Against Democrats. It Flopped.
+It’s become screamingly obvious who represents billionaires and unchecked plutocratic power.
+By Michelle Goldberg
+Published 2026-10-31 11:00 UTC
+https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html
+
+In the waning days of the midterm election campaign, Republicans have finally stumbled on a closing message: defending the honor of the Cheesecake Factory.
+
+Last week, Barack Obama made a viral crack about Donald Trump’s renovations: “He’s got the White House looking like Saddam Hussein opened a Cheesecake Factory.” Conservatives feigned outrage on behalf of the humble American volk for whom the Cheesecake Factory is the height of sophistication. Fox Business interviewed the centimillionaire Treasury secretary, Scott Bessent, after lunch at the restaurant; he sniffed, “I would tell the Martha’s Vineyard set to give it a try.” (His Massachusetts beach house, which he sold for a couple of million dollars in 2012, was in Provincetown.) The Wall Street Journal suggested that Democrats had shot themselves in the foot in their quest to win back “the working man in Middle America.” The White House posted a list of Trump’s “accomplishments” in the style of a Cheesecake Factory menu.
+
+Republicans have been trying to brand Democrats as the party of out-of-touch elitists since at least the 1960s, but this time, it felt particularly forced and desperate. After all, it’s become screamingly obvious which party represents billionaires and unchecked plutocratic power.
+
+On the stump this week, an increasingly disinhibited Trump scoffed at the idea of “suffering at the pump” while boasting that high oil prices have been a windfall for the energy industry. Elon Musk, the richest person on earth, is almost single-handedly funding the Texas Senate candidate Ken Paxton’s campaign. Susan Collins ran a closing ad in which a retired broadcaster seemed to mock her Democratic opponent, Troy Jackson, for being a logger, saying, “We’re not talking about buying a cord of wood here; we’re sending someone to the U.S. Senate.”
+
+Meanwhile, Democrats all over the country are running against the ultrarich. “The biggest divide in this country is not left versus right,” the Texas Senate candidate James Talarico says on the campaign trail. “It’s top versus bottom.” In the Michigan Senate race, Abdul El-Sayed is a political protégé of Bernie Sanders who accuses his opponent, Mike Rogers, of being bought by corporations. Former Senator Sherrod Brown of Ohio, defeated with the help of crypto dollars two years ago, may regain his seat thanks in part to widespread fury at data centers and the tech billionaires behind them.
+
+If Democrats win big on Tuesday after running such populist campaigns, it will be more than a victory over Trump. It will be an opportunity for them to once again develop an image as the champion of working people against predatory elites. That, in turn, could realign American politics. But it will happen only if Democrats can resist the entreaties of the tech donors and lobbyists who, having realized that going all in on MAGA was a bad bet, will now spend big to rebuild bridges to the center left.
+
+For decades now, American politics has been shaped by two very different conceptions of class. Liberals tend to view class as a primarily economic distinction: a millionaire car dealer in the Midwest has a class advantage over a Brooklyn adjunct professor on food stamps. Conservatives, by contrast, are more likely to understand class as a matter of taste, culture and education. They’ve long seen America as riven between what some called a “new class” of intellectuals, professionals and bureaucrats and an alliance of capitalists and traditionalist blue-collar workers. “The simple truth is that the professional classes of our modern bureaucratized societies are engaged in a class struggle with the business community for status and power,” wrote Irving Kristol, godfather of neoconservatism, in 1972. (He very much sided with the beleaguered businessmen.)
+
+Neoconservatism fell out of fashion, but Kristol’s ideas about class didn’t. If anything, as the two parties sorted by education, they became a kind of cultural common sense. Obama, who was still paying off student debt in his 40s, was tagged as an elitist, while Trump, who loves to brag about his wealth, was not.
+
+The 2024 election was a triumph for the right’s conception of class politics, with Trump making gains with low-income voters while Kamala Harris won those earning over $200,000 a year. In surveys and focus groups, voters described Democrats as elitist and condescending. When the Democratic firm Navigator Research polled swing districts after the last election, 56 percent of respondents said the party didn’t look out for working people, and a majority said Democrats didn’t share their values. The road to winning back working-class voters looked difficult and uncertain.
+
+Trump, by abandoning all restraint in his kleptocratic smash-and-grab, has made it easier. In a September poll from The New York Times and Siena University, voters identified Republicans as the “elitist” party by 10 points. The Times quoted a 40-year-old who’d voted for Trump two years earlier: “The people that are ‘in with him,’ who look or act a certain way, are the ones that are going to be given an opportunity.”
+
+Few things have laid bare the president’s essential elitism like his alliance with America’s tech oligarchs. Trump ran against Big Tech in 2020, when he saw it as an ally of Democrats, but he was less interested in curbing the industry’s power than co-opting it. Now that he’s done that, tying Silicon Valley’s fortunes to his own, he can’t countenance criticism of it. He’s attempted, absurdly, to rebrand A.I. as “super intelligence,” and said that communities that reject data centers risk becoming “backwards and poor.”
+
+Silicon Valley was once seen as a bastion of liberalism, but a recent Politico poll found that voters across the political spectrum now associate it with the Republican Party. At the same time, Big Tech — and particularly A.I. and data centers — has rarely been more reviled. This summer, a leaked memo from the National Republican Senatorial Committee called data centers “a sleeper issue for the entire election cycle” and warned that public fury about them could cost the Republican Jon Husted his Senate seat in Ohio.
+
+Rob Flaherty, former head of digital strategy for Joe Biden, is a founder of Tomorrow Together, a new super PAC that goes after Republicans for their ties to the A.I. industry. He shared polling his group commissioned about A.I. and data centers in several swing districts. In Pennsylvania’s Eighth District, held by a Republican, Rob Bresnahan, 51 percent of respondents feel strongly unfavorably toward data centers. Only 5 percent feel strongly favorably. Voters see A.I., Flaherty told me, as “these guys sitting in a room somewhere cooking up technology that’s going to make your life worse, making you pay for it, and buying off the government to do it.”
+
+Now that Democrats seem likely to retake at least one house of Congress, tech companies are rushing to hire Democratic lobbyists. Given the enormous resources Silicon Valley kingpins wield, some Democrats might be tempted to seek a rapprochement with the industry. “I worry that Democrats are going to say, ‘We need to rebuild our alliances with tech,’ and miss the opportunity that’s in front of their face here,” said Flaherty. That would be a terrible mistake. The opportunity before Democrats is about more than being on the right side of a winning issue. Democrats have a unique chance, after decades of culture wars, to wrest the mantle of populism from Republicans and thus change the terrain on which American elections are fought.
+
+“They are unanimous in their hate for me — and I welcome their hatred,” Franklin Delano Roosevelt said in 1936 about monopolists, speculators and war profiteers. Democrats should remember his words when they retake power. A good enemy is a terrible thing to waste.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+gerrymandering-colonization-gilded-age.html
+Source: PreloadedData  Paragraphs: 24  Words: 1547/1659
+================================================================================
+
+SUMMARY
+
+To colonize elections, political machines needed mobile voters. Years later, as Jim Crow squelched African Americans’ voting rights in the South, Republicans political bosses in the North cooked up a scheme to put “wheels on the suffrage” by relocating Black voters to places like Indiana and Connecticut to help their party win there. Political machines gathered colonized voters wherever they could.
+
+ARTICLE
+
+Why Manipulate the Lines When You Can Just Move People Around?
+Gerrymandering, Gilded Age-style.
+By Jon Grinspan
+Published 2026-10-31 11:00 UTC
+https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html
+
+The 2026 election cycle has seen heated redistricting battles — fought through legislatures, referendums and courts — as both parties vie to craft favorable election maps. But what if American history contained another way for politicians to pick their voters? A way so audacious that it hasn’t really been tried for a century, a weapon blunter than gerrymandering, a move so blatant that it calls into question the meaning of representative democracy itself?
+
+What if, instead of moving the map to fit the voters, politicians moved voters to fit the map?
+
+Party bosses worked this scheme throughout the 19th century: rounding up drifters and drunkards, registering them at flophouses in swing districts and herding them to the polls on Election Day. Cunning politicos realized that by relocating just a few thousand voters, they could sway races, elect presidents, shape a nation of millions. Americans called it colonization — a fitting name in an era when political machines settled empires not overseas but in Manhattan or Sheboygan, Wisc.
+
+After importing a crew of Mexican citizens to vote in his South Texas stronghold, the political boss Jimmy B. Wells borrowed a cattleman’s metaphor, bragging, “With my corral, I hold the balance of power.”
+
+Political machines held that power for decades. Colonization is as striking for its staying power as its outlandishness, a wildly undemocratic scheme practiced from the 1830s into the 1900s. Many Americans just shrugged at the sneakiness of the bosses, even as good-government reformers, like The Chicago Eagle, shouted, “THERE IS NO REASON WHATEVER WHY THEY SHOULD BE TOLERATED.”
+
+Then, after a lifetime of toleration, Americans significantly reformed voting in the early 20th century, closing the loopholes that allowed colonization to succeed. What had seemed like a permanent flaw in our democracy was killed so decisively that it sounds made up today. Perhaps there’s a lesson here, as many look beyond the 2026 midterms and see a future of endless electoral shenanigans.
+
+Colonizing elections worked because it exploited the peculiar development of democracy in America. In the 1800s, the United States was a highly mobile nation hurtling toward modernity and also a novel experiment in popular participation. The result was both a reckless gamble with self-government and a hothouse for crooked creativity.
+
+To colonize elections, political machines needed mobile voters. And 19-century America teemed with down-and-outers willing to move into some flophouse, “fattening” — in the words of a disgusted Buffalo observer — “on beer and bad whiskey until they have cast their votes.”
+
+Over 32 million immigrants came to the United States between 1840 and 1920, the equivalent of shipping the entire Civil War-era populace into the country. Big cities and industrial towns filled with footloose bachelors and bachelorettes until there were as many single men in 1890 as today. Large numbers were experiencing relatively new phenomena like unemployment and homelessness. Modern industrial capitalism left many struggling laborers with one asset to barter: their votes.
+
+And America’s unique geography created a political marketplace. Instead of developing a central metropolis — a London or a Paris — political power peppered an East Coast of medium-size cities. In 1860, 20 of the 30 largest cities in America lay within a day’s train ride, helping to swing the votes of eight separate states. Parties developed a political shell game, relocating voters from Brooklyn to Boston to Baltimore.
+
+Even within states and cities, a dense schedule of year-round local races meant elections could be decided by importing mobile voters to a new ward or precinct.
+
+Western states, eager to attract residents, allowed recent arrivals (and sometimes noncitizens) to vote after spending a few days in town. Rural regions proved just as willing to trade voters as big cites. Bitter politics heated it all. Kansas elections became a sudden draw before the Civil War, as thousands of pro-slavery Missourians and antislavery New Englanders flooded in to decide whether the territory would allow slavery. Home to 3,000 eligible residents, Kansas saw 6,000 votes cast in the 1855 territory elections in March.
+
+Years later, as Jim Crow squelched African Americans’ voting rights in the South, Republicans political bosses in the North cooked up a scheme to put “wheels on the suffrage” by relocating Black voters to places like Indiana and Connecticut to help their party win there.
+
+But colonization worked best when it was hardly noticed, exploiting the tiny margins deciding the closest elections in U.S. history. James Garfield won the popular vote for president in 1880 by 1,898 votes. Just 1,149 ballots in New York made Grover Cleveland president in 1884. A few boardinghouses in Manhattan and Philadelphia could swing the nation’s most populous states and, with them, a fifth of the nation’s electoral votes. It would be like winning California, Texas and Florida today, all for the price of beds, beer and bologna.
+
+Filling wards with temporary voters required incredible logistical power. Suppressing the vote took bigots and shotguns, but moving the vote meant housing, feeding and registering thousands. It took, in the words of an 1869 congressional inquiry into frauds in New York City, “a systematic plan of gigantic proportions, stealthily prearranged and boldly executed.” Boss Tweed won his power by orchestrating that systematic plan. A half dozen Bowery thugs actually registered to vote at Tweed’s Lower East Side address.
+
+Political machines gathered colonized voters wherever they could. In Chicago, they slept on saloons’ sawdust floors. In Texas, they were fed barbecue. In Detroit, Congress found a Democratic leader providing his colonists with bouts of free whiskey “five or six times a day.” Voter registries show colonizers packing 152 men into a single New York address in 1868 and 230 voters in a small Greenwich Village hotel in 1902. The striking, six-foot-tall, Irish-born Katie Hicks ran a string of boardinghouses favored by African Americans in the West Village. In the early 1900s, authorities accused Hicks of marching her boarders to vote Republican en masse, waving a giant American flag.
+
+The result blended political campaigning, social engineering and organized crime. In Coney Island, a Democratic political machine imported out-of-work Manhattan actors and housed them in off-season beachside hotels until the 1888 presidential election, feeding them cheap seafood. Think of the arithmetic that scam required of John Y. McKane, Coney Island’s party boss: combining a pool of bored men with vacant blocks of windswept November resorts, to swing an election and manufacture political power.
+
+Around 1900, reformers realized that those boardinghouse bosses were colonization’s weakness. Cities had gained new regulatory controls over how people lived. Hygiene codes allowed inspectors to end what the Municipal Voters’ League denounced as the practice of colonized voters “sleeping like hogs on the filthy floors” of Chicago’s saloons. Shouting “Hobo rule must go,” Illinois legislators made it illegal to lodge more than six guests in a single room. Undercover investigators busted Manhattan landlords packing flophouses. New Jersey and other states stiffened registration laws, demanding that voters provide an exhaustive list of relatives and landlords in order to register.
+
+To kill colonization, reformers tied voting rights to permanent addresses. In doing so, they also entrenched the political power of middle-class homeowners. It fit the more settled 20th-century electorate. Yet it has made registering to vote a challenge to this day, a holdover from the forgotten fight over a long-dead electoral scheme.
+
+High mobility and close competition made colonization possible throughout the long Gilded Age. This dirty trick helps us understand what it meant to live in a developing democracy of rootless wanderers, cheap housing and enterprising bosses who knew their wards so intimately that they could say which brothel had extra beds. Colonization’s improvisatory chutzpah turned a weakness into a strength, seeing cities packed with homeless drifters as mobile political assets.
+
+Modern gerrymandering fits our 21st-century problems, in many cases the opposite of those that gave rise to colonization in the 1800s. Falling geographic mobility, the sorting of the parties into easily mapped blocs and the shrinking number of competitive districts make it easier to move boundaries rather than people. If colonization exploited Gilded Age disruption, contemporary redistricting relies on America’s growing inertia.
+
+But one thing is familiar from the 19th century: the dread that our democracy is becoming so permanently gamed that it leaves voters no role. Just as we worry about this “gerrymandering doom loop” today, deep in the Gilded Age the dour editor E.L. Godkin warned that there was “little prospect of escape” from America’s political “doom.” And where contemporary Americans feel a generalized hopelessness about reform, the British scholar James Bryce pointed to a “fatalism of the multitude” corroding Americans in the 1880s, certain that their democracy was beyond fixing.
+
+And yet that doomed American electorate managed to rally against, reform and kill off a cartoonishly undemocratic practice. It would be facile to suggest that we could borrow their specific tricks today; but history tells us that it can be done, that it has been done.
+
+It just wasn’t done once and for all. New bosses arose, dreaming up new schemes. America’s hazy political past is rich with frauds you never imagined, as well as solutions no one saw coming. Each political maneuver charted the contours of its society. Taken together, the development of our democracy looks less like a singular revolution 250 years ago and more like an endless challenge to its citizens, demanding vigilance and a deep historical memory.
+
+Jon Grinspan is a curator of political history at the Smithsonian’s National Museum of American History and the author of “The Age of Acrimony: How Americans Fought to Fix Their Democracy, 1865-1915” and “Wide Awake: The Forgotten Force That Elected Lincoln and Spurred the Civil War.”
+
+Source photograph by Thomas Pajot via Getty Images.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
+corruption-midterms.html
+Source: PreloadedData  Paragraphs: 30  Words: 1063/1066
+================================================================================
+
+SUMMARY
+
+He cast his vote early, in Clearwater, Fla., against every Republican on the ballot, including Representative Anna Paulina Luna, who has been depicted by her opponent as emblematic of a party rife with self-enrichment and cronyism under the leadership of President Trump. Republicans, too, including Ms. Luna, are seeking to capitalize on corruption as a campaign theme. For Jeff Davis, a Republican retiree, corruption was a bank shot in his congressional choice; he said he had voted against Ms. Luna because she supports Mr. Trump, who he believes is corrupt.
+
+ARTICLE
+
+Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.
+Voters have shrugged off accusations of corruption for years, believing all politicians are corrupt, but thanks to President Trump’s unpopularity and growing wealth, the issue is breaking through.
+By David Ovalle and Emily Cochrane
+Published 2026-10-31 09:00 UTC
+https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html
+
+Like many Americans, Michael Nave has a hunch that politicians of both parties enrich themselves while the working class struggles to make ends meet.
+
+But on Wednesday, Mr. Nave, a Republican, decided the party in power has become too corrupt. He cast his vote early, in Clearwater, Fla., against every Republican on the ballot, including Representative Anna Paulina Luna, who has been depicted by her opponent as emblematic of a party rife with self-enrichment and cronyism under the leadership of President Trump.
+
+“Trump said he would drain the swamp, and he’s become the swamp,” said Mr. Nave, 61, of Dunedin, Fla.
+
+Allegations of corruption in Washington are nothing new in political campaigns. They are usually shrugged off by voters who figure all politicians are equally guilty, whether they be Democrats such as former Senator Bob Menendez of New Jersey or Republicans like former Representative George Santos of New York. But Democratic efforts to bolster the issue this year may be resonating amid a drumbeat of stories about Mr. Trump’s staggering increase in wealth and the billionaire and corporate elites who have supported him.
+
+Some recent polls have shown corruption has risen to the top of issues that voters say they care about most, fueled by a withering distrust in government and a sense of opacity in Washington.
+
+“How can you always trust what’s behind a closed door?” asked Karen Jarrett, 58, who lives in Tennessee, a quick drive from the state line with Mississippi. She added, “People’s eyes are wide open now.”
+
+But such sentiments may go only so far amid greater worries about inflation, war and personal security.
+
+“It didn’t click with me,” Juan Pino, 51, a cook in Florida, said of corruption. He voted straight Democratic because, he said, he always votes that way.
+
+Democrats are certainly trying to drive home the issue by tying politicians’ self-enrichment and insider trading to the soaring cost of living. Republicans, too, including Ms. Luna, are seeking to capitalize on corruption as a campaign theme.
+
+And for some voters, it seems to be sinking in more than ever.
+
+“It’s more out in the open now,” said Steve Wiegard, 46, who works with a fire safety company in Olive Branch, Miss. “I think about it every day.”
+
+The word has become a constant refrain in campaign ads from both parties, even if the definition of corruption has at times been stretched. A political action committee supporting Democrats this week launched the latest corruption-themed attack ads, including one highlighting stock trades by Representative Victoria Spartz of Indiana and her family, which the ad says accompanied “policies that make life more expensive” for voters.
+
+A committee supporting Republicans this month launched an ad labeling Troy Jackson, the Democrat challenging Senator Susan Collins of Maine, “too corrupt” for the state because his son is a lobbyist.
+
+Corruption now seems to include secretive nondisclosure agreements struck with data centers, the war in Iran, even the gerrymandering of Black-majority districts after the Supreme Court weakened the Voting Rights Act.
+
+“We have politicians trying to pick the voters instead of voters picking the politicians,” said Chaz Molder, the Democratic mayor of Columbia, Tenn., and a House candidate who saw his home drawn out of the Middle Tennessee district where he was running. “That is corrupt.”
+
+The most recent entrant: Democratic efforts to clog Alaska’s four-person ranked-choice ballot with candidates who could siphon votes from the incumbent Republican senator, Dan Sullivan, including one challenger named Dan Sullivan.
+
+In the Tampa Bay region of Florida, corruption has emerged as central to the race between Ms. Luna and Leela Gray, a Democrat and retired Army brigadier general. Voters in the newly redrawn district overwhelmingly supported Mr. Trump in 2024, but Democrats hope to flip the seat by tying Ms. Luna to the president and portraying her as a glamorous partygoer, currying favor with wealthy donors.
+
+One ad for Ms. Gray called Ms. Luna “part of the problem in D.C., including the culture of corruption,” highlighting allegations in the media that she gave insider information to a Republican influencer who then placed a bet on a political prediction market.
+
+Ms. Luna has denied the report, sent a cease-and-desist letter to her opponent’s campaign over the ad and noted a Justice Department letter that confirmed she is not under investigation. In turn, Ms. Luna has sought to portray Ms. Gray as compromised because she owns stock in Big Pharma, companies building data centers and big banks buying up single-family homes.
+
+In an interview, Ms. Luna said she has led the fight on corruption by seeking to restrict stock trading by members of Congress. “The only reason this is a national discussion is because I forced it,” Ms. Luna said.
+
+In interviews at early voting sites with more than two dozen voters in Ms. Luna’s district west of Tampa, most agreed corruption is a problem in both parties, but many shrugged off relentless attacks as par for the course.
+
+James Shively, the owner of a landscaping company, said both parties were untrustworthy. He voted Republican because, he said, “Democrats are socialists.” Jonathan Castro, a human resources specialist with no party affiliation, voted for Democrats because he believes Trump’s immigration enforcement policies are too draconian.
+
+Neither said his vote hinged on corruption.
+
+For Jeff Davis, a Republican retiree, corruption was a bank shot in his congressional choice; he said he had voted against Ms. Luna because she supports Mr. Trump, who he believes is corrupt.
+
+Marc Bachyrycz, a personal trainer with no party affiliation, cast his ballot for Ms. Luna because like him, she is an Air Force veteran. He also appreciated that while in office, she tried to crack down on congressional stock trading.
+
+“No party is without fault, but at least she’s trying to do something,” Mr. Bachyrycz said.
+
+For some voters, the issue is breaking through, even if it’s not decisive.
+
+“I know insider trading has always gone on, but I think now it’s way worse,” said April Robinson, 52, an independent who voted along with her husband for Ms. Gray. “They are purposefully manipulating the markets.”
+
+To others, the tried-and-true of their preferred party still holds sway. Joelle Eden, 57, a former Democrat who switched parties a decade ago, voted Republican because she believes the party prioritizes public safety and border control.
+
+“I just want to make sure the country is safe,” Ms. Eden said.
+
+Curt Anderson and Anastasia Economides contributed reporting.
+
+================================================================================
+law-firms-trump-voting.html
+Source: PreloadedData  Paragraphs: 34  Words: 1280/1286
+================================================================================
+
+SUMMARY
+
+Whenever Norm Eisen, a leader of the legal resistance against President Trump, wanted to try to hold Mr. Trump accountable over the last decade, one of his first calls was to Brad Karp, the chairman of the white shoe law firm Paul Weiss. The void left by Paul Weiss is only a sliver of the impact of the deals the nine firms made with Mr. Trump early in his second term. Few of the nine firms are publicly involved in the major legal efforts to check Mr. Trump and his administration’s attempts to meddle, a review of public documents and interviews with democracy advocates, election lawyers and voting rights litigators shows.
+
+ARTICLE
+
+As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines
+None of the firms that struck deals to avoid crippling executive orders are publicly involved in the major legal efforts to check the Trump administration’s attempts to meddle in the midterm elections, a review by The New York Times shows.
+By Michael S. Schmidt and Jim Rutenberg
+Published 2026-10-31 09:02 UTC
+https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html
+
+Whenever Norm Eisen, a leader of the legal resistance against President Trump, wanted to try to hold Mr. Trump accountable over the last decade, one of his first calls was to Brad Karp, the chairman of the white shoe law firm Paul Weiss.
+
+Without hesitation, Mr. Karp would give Mr. Eisen free legal counsel on how to best oppose Mr. Trump, and would then deploy the firm’s vast legal muscle — at no cost — to help.
+
+“He was one of the greatest champions of voting and civil rights — and for democracy — in the country, and to have someone like that advising you, resourcing you and fighting for you was indispensable,” Mr. Eisen said.
+
+Now, as Mr. Eisen prepares to lead a coalition that has vowed to stop Mr. Trump if he tries to interfere in the midterm elections, Paul Weiss, one of nine firms to strike deals with the administration to avoid crippling executive orders, is largely on the sidelines, according to Mr. Eisen and a lawyer with direct knowledge of the matter.
+
+The void left by Paul Weiss is only a sliver of the impact of the deals the nine firms made with Mr. Trump early in his second term. In exchange, they pledged to do nearly a billion dollars in free legal work to causes Mr. Trump champions, casting doubt on whether they would be willing to stand up to the president.
+
+Measuring the consequences of the deals is difficult, but the lead-up to the midterm elections offers new clues. Few of the nine firms are publicly involved in the major legal efforts to check Mr. Trump and his administration’s attempts to meddle, a review of public documents and interviews with democracy advocates, election lawyers and voting rights litigators shows.
+
+The absence of the firms has raised serious worries about whether the legal profession is equipped to respond to the administration, which has already begun to file litigation intended to sow confusion about the outcome of the election. But lawyers like Mr. Eisen say that they are just as prepared and point to a string of recent court victories as evidence of their prowess.
+
+Some of the firms have scrubbed their websites of their storied histories working on voting rights cases. At one firm that made a deal with Mr. Trump, several lawyers are quietly volunteering to help voting rights causes, hoping that their bosses do not find out, according to a lawyer at one of the firms who spoke on the condition of anonymity.
+
+The chilling effect, the interviews show, has extended to several of the top 100 firms in the United States that did not cut deals with Mr. Trump. Fearing being targeted, they have also avoided politically sensitive cases, according to interviews.
+
+So many of them — including ones that have made deals with Mr. Trump and those that have not — have declined to help one longtime civil rights group, the Advancement Project, that it has started an internal tracker to stay on top of all the firms declining to team up on cases.
+
+“I’ve been told, ‘We don’t do civil rights work involving the administration anymore,’ and, ‘We don’t do voting rights work anymore,’’’ said John Powers, the legal director at the Advancement Project, which often litigates voting rights cases by joining with better-financed private firms.
+
+Most recently, when the Advancement Project filed suit with the N.A.A.C.P. against aspects of the Justice Department’s election-monitoring plans this fall, it had to set out on its own without a private partner. (On Friday, Mr. Powers said that it had received a new offer of help.)
+
+“It’s been a sea change,” Mr. Powers said.
+
+In some cases, Mr. Powers added, partners at firms working with the Advancement Project pulled back their support, dropped out entirely or agreed only to help on the condition that they not be named publicly.
+
+“All too often we’re having to find workarounds because we don’t have the support,” he said.
+
+Mr. Powers would not name the firms because he was hoping the private support would return in the future, he said.
+
+“The pendulum is going to swing,” he predicted.
+
+Law firms have played a key role since the civil rights movement in checking the federal government, even though suing the government over voting and civil rights cases typically pays far less compared with representing corporations. But the chance to work on those issues pro bono became a persuasive recruiting tool for firms. It served as evidence that incoming associates could not only make a lot of money assisting companies and wealthy people, but also do good.
+
+During elections in recent decades, associates and partners have volunteered to be stationed in swing states where they could quickly initiate legal challenges on Election Day or if there was a contested counting of the results. Firms have pledged to represent poll workers while also bringing complex legal challenges against states encroaching on voting rights.
+
+Paul Weiss repeatedly promoted its role in a landmark 1965 voting rights case. Dozens of articles and news releases on its website laid out its work during the Trump era on voting rights and election law.
+
+“We remain steadfast in our commitment, supporting recent voting rights actions in several courts nationally as counsel of record,” the firm wrote on its website on a page dedicated to its pro bono election rights work.
+
+But some time after Paul Weiss, which donated more money to Democrats in 2024 than any other firm, struck the deal with Mr. Trump in March 2025, the page for voting rights was taken down, along with 30 other pages related to its work on the subject.
+
+A search of the firm’s website for the words “voting” and “voting rights” returns just two results.
+
+Paul Weiss and seven other firms did not respond to questions asking for examples of voting rights cases or other matters the firm is working on in opposing the administration. (One of the firms that made a deal with Mr. Trump — Cadwalader, Wickersham & Taft — merged with another firm.)
+
+Mr. Trump’s norm-breaking use of power during his first term, like child separation at the border, led many firms to use their pro bono hours to oppose the administration. His attempts to interfere with the 2020 election only established more fodder.
+
+But the postures of the firms changed during Mr. Trump’s second term.
+
+During Mr. Trump’s first term, firms deployed their resources to oppose Mr. Trump because they faced no cost for doing so, financially or politically.
+
+But now firms see those cases as liabilities for their profits.
+
+In their place, lawyers like Mr. Eisen have helped establish a network of lawyers across the country. It includes pro-democracy groups, legal nonprofits, public interest law firms and a few of the most high-profile firms, like WilmerHale, that fought back when Mr. Trump targeted them with executive orders.
+
+Mr. Eisen, who leads the Democracy Defenders Fund, said that while the group of lawyers may be different, the quality of the legal work remains. He added that he had more than enough lawyers to counter Mr. Trump in court.
+
+“We have not seen a single time in the past 20 months in which I did not have the resources,” he said. “The muscle is still there.”
+
+Even if Paul Weiss or any of the firms that made deals with Mr. Trump wanted to help, Mr. Eisen said, he and his clients would not trust that they would zealously represent them, given the leverage Mr. Trump continues to hold.
+
+At the same time, Mr. Eisen acknowledged, the attempts to hold Mr. Trump accountable could use Mr. Karp, his expertise and the army of lawyers he used to deploy.
+
+“I miss Brad,” he said.
+
+Aric Toler contributed reporting. Alain Delaquérière and Seamus Hughes contributed research.
+
+================================================================================
+susan-collins-maine-senate-election.html
+Source: PreloadedData  Paragraphs: 67  Words: 2285/2301
+================================================================================
+
+SUMMARY
+
+Jordan Wood, a Democrat from Lewiston, Maine, was the first person to announce a 2026 campaign challenge to Senator Susan Collins, and he made a priority of winning the endorsement of the mayor of his hometown. Ms. Collins had helped with the finances for all of them. “Susan Collins delivered $33 million for Knox County …”
+
+ARTICLE
+
+Susan Collins Is Always Keeping Score
+The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.
+By Michael Kruse and Lisa Lerer
+Published 2026-10-31 14:29 UTC
+https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html
+
+Jordan Wood, a Democrat from Lewiston, Maine, was the first person to announce a 2026 campaign challenge to Senator Susan Collins, and he made a priority of winning the endorsement of the mayor of his hometown. He met with Mayor Carl Sheline, a fellow Democrat, in his office and over drinks at a local Italian restaurant. They had a series of phone calls. But ultimately Mr. Sheline declined to back him.
+
+Ms. Collins, the longtime Republican incumbent, was not in the room, at the bar, or on the line.
+
+But she had made her presence known.
+
+Mr. Sheline had various reasons for withholding his support, he said in an interview. Among them, he acknowledged, were a housing project, a food distribution center, and a mill museum in Lewiston. Ms. Collins had helped with the finances for all of them.
+
+“It’s just an environment of possible retribution,” Mr. Wood said. “It is that fear she instills.”
+
+Over nearly 30 years, Ms. Collins, a self-styled moderate in a familiar Maine mold, has cultivated a public persona as a workhorse and a fastidious maestro of constituent services and pork-barrel disbursements, using her Washington know-how to get her constituents what they need.
+
+But for just as long, her detractors say, she has managed to mostly mask another reality. “The gentlewoman from Maine,” as her colleagues say on the Senate floor, is a formidable power broker who can play a fierce brand of politics with a how-dare-you air. According to more than 40 interviews with Republicans and Democrats in Maine politics, former staff, colleagues and longtime observers, Ms. Collins has wielded power not so much as a Yankee Republican but as a shrewd machine politician.
+
+“It’s almost like Tammany Hall,” said Amy Fried, a retired political scientist from the University of Maine. “You’re going to get this benefit here if you vote for me.”
+
+Lance Dutson, a Republican strategist and former aide to Ms. Collins, did not disagree.
+
+“That’s exactly what it is,” he said. “She’s openly discussing the fact that Maine is going to be set back if she’s not in that position,” he added. “It puts people in the position of very clearly understanding that voting against her is a vote against their own well-being.”
+
+Ms. Collins’s staff stresses that she has worked to bring money back to all communities in Maine — regardless of whether they support her.
+
+Annie Clark, a longtime aide to Ms. Collins, provided The New York Times an exhaustive list of projects, from Orono and Ogunquit to Belfast and Blue Hill, for which the senator had secured funding since 2021. The senator got $234 million for 96 projects in Cumberland and Knox counties — the only two counties she lost in 2020. In Portland, where she received just 21 percent of the vote: $51.2 million for 28 projects.
+
+“Senator Collins has been extraordinarily effective,” said Blake Kernen, a spokeswoman for Ms. Collins. “She works tirelessly to deliver results for the state, meets with thousands of Mainers every year, and she secures billions of dollars for communities in all of Maine’s 16 counties whether they vote for her or not.”
+
+Ms. Collins, 73, the chair of the Senate Appropriations Committee, is running for re-election this fall the way she always has — no clickbait TikTok posts or big, rah-rah rallies, but a relentless focus on stops in small towns where she has brought home federal dollars for boat landings, emergency operations centers and wastewater treatment facilities.
+
+At her campaign events, supporters hold signs that underscore the point she is trying to make: “Thank You, Susan.”
+
+In debates this month with her Democratic opponent, Troy Jackson, a former logger and Maine Senate president, Ms. Collins was unsubtle about the crux of the deal.
+
+“In the past five years I’ve secured $1.5 billion for properties all over the state,” she said.
+
+She was even more blunt in a radio interview this week, citing 672 projects that she had secured across the state, including 45 new fire stations.
+
+“All that goes away,” she said, “if Troy were to be elected.”
+
+‘I have a lot of power’
+
+Her whole life has been a lesson in the accrual and use of power.
+
+Ms. Collins was born and raised in Caribou in Aroostook County, the state’s most northern terrain. The Collinses didn’t just own and run the local lumber company and hardware store. They were politicos too.
+
+“My parents,” Ms. Collins told The New York Times this past summer, “both served as mayor of Caribou. My father was in the State Senate, my grandfather, great-grandfather served in the state legislature.”
+
+Her parents were supporters of William S. Cohen when he ran for Congress in 1972 and beyond, and Ms. Collins was a driver and an intern for Mr. Cohen when she was in college at St. Lawrence University in Canton, N.Y. After she graduated, she was hired as an aide and was on his staff for a dozen years, known by her colleagues and peers as a meticulous note-taker and over-preparer.
+
+She ran for governor in 1994 when she was 41 and lost. She ran for Senate in 1996 and won. She said she would serve no more than two terms but then ran for re-election in 2002, 2008, 2014 and 2020.
+
+Over the course of her three decades in the Senate, drafting off the renown of her cordial, consensus-building Maine forebears like Mr. Cohen and Senator George Mitchell, Ms. Collins has emphasized her image as the last of a vanishing breed. She has bucked her party, and in particular President Trump, more than enough to frustrate many Republicans — albeit not nearly enough to satisfy most Democrats.
+
+“I’m consistently sought out by both sides for cosponsorship of bills,” she told The Times in her first year in the Senate. “I have a lot of power — I like that.”
+
+Behind closed doors, though, she long has had a reputation as a lone wolf.
+
+Her relationship with Olympia Snowe, the Republican who was elected to the Senate from Maine two years before Ms. Collins and served three terms, was marked by rivalries and perceived slights, according to former aides to Maine lawmakers on Capitol Hill. Publicly, they issued joint statements and often voted together. Privately, the relationship was far more fraught, as is sometimes the case when a state is represented by two senators of the same party.
+
+“She was just hypersensitive to Olympia getting more credit than she was,” said Kurt Bardella, a former press secretary for Ms. Snowe.
+
+“It was very machine-politicky: ‘I am owed a certain level of stature and respect,’” Mr. Bardella recalled.
+
+Ms. Collins has a bristly relationship with Angus King, the independent junior senator from Maine, who defeated her in the governor’s race in 1994 and succeeded Ms. Snowe in 2013. While they exchange occasional text messages, the two haven’t spoken in months, according to people familiar with their communications who spoke on the condition of anonymity to discuss private matters. They last texted Oct. 12, according to Ms. Clark. Aides in Mr. King’s office often are instructed to let Ms. Collins get the lion’s share of the credit, they said, if that’s what it takes to get a policy initiative accomplished.
+
+When Mr. Wood announced his candidacy for Senate, he thought he knew what he needed to know about Ms. Collins. His campaign quickly became a window into what he did not know.
+
+Elected Democrats and political donors, Mr. Wood said, told him Ms. Collins reviewed the lists of who gives more than $1,000 to whom — and kept score.
+
+“People told me they could not give me money because they knew she would look at the report,” he said. “Democrats.”
+
+Ms. Clark, the spokeswoman for Ms. Collins, said the senator does not review such lists.
+
+Ultimately, Mr. Wood’s fledgling campaign was overwhelmed by the unexpected rise of Graham Platner, whose subsequent fall precipitated Mr. Jackson’s selection as the Democratic nominee. Still, he got an eye-opening tutorial in the sway of his state’s senior senator.
+
+Last November, when he ended his Senate campaign and switched to run instead for Maine’s Second Congressional District, Mr. Wood couldn’t help but notice the difference.
+
+This time, Mr. Sheline, the Lewiston mayor, endorsed him right away.
+
+‘We should be thankful’
+
+This month, politicking her way through the annual fall fair in Fryeburg, Maine, Ms. Collins walked from a cattle auction to a livestock barn, putting up with out-of-town press asking her questions about the president while trying to steer clear of manure.
+
+“I know you don’t like me,” she told one reporter, “but don’t make me walk through shit.”
+
+She quickly changed the subject — to $38 million in federal aid for heating oil.
+
+“I was delighted,” she said, “that I was successful in expediting the funding.”
+
+That matters a lot, said Mr. Dutson, the senator’s former aide.
+
+“Federal money is incredibly important up here,” he said. “The choice a lot of people are facing right now is: OK, well, I can listen to the noise out of Washington or what my party tells me to do — or I can support the lady who got me a new fire truck in my 500-person town.”
+
+In the past few weeks in Maine, as Mr. Jackson has campaigned in front of large, loud crowds alongside progressive megastars such as Senator Bernie Sanders of Vermont and Representative Alexandria Ocasio-Cortez of New York, Ms. Collins has brandished a shovel at a groundbreaking at a boat landing in Orrington and attended a grand opening of a wastewater facility in Windham.
+
+And in the stretch run of the race, people all over the state have received targeted text messages from her campaign.
+
+“Susan Collins delivered $33 million for Knox County …”
+
+“Susan Collins has delivered nearly $59 million for the City of Bangor …”
+
+“Susan Collins is delivering real results across Kennebec County — 50 projects totaling more than $109.3 million …”
+
+Her supporters say it’s why they trust her and one of the main reasons she should be re-elected.
+
+“What she produces is real — it’s tactile,” said Chris Gardner, the executive director of the Eastport Port Authority, who has appeared in an ad for Ms. Collins. “We should be thankful.”
+
+Kevin Raye, a former Maine Senate president and Ms. Snowe’s former longtime chief of staff, is an anti-Trump former Republican who is now an independent — “rooting,” he said, for Democrats to take control of Congress. “But I’m in the Collins camp,” Mr. Raye said, citing her record of bipartisanship. “The thought of replacing her with a reliable partisan vote, no matter the party,” he said, “is so the wrong direction for America.”
+
+But the calculation, her critics counter, is more complicated. Her vote to advance Mr. Trump’s big domestic policy bill before she ultimately voted against it, her initial votes against setting congressional limits to military actions in Iran followed by eventual votes to do just that — all of it costs her constituents, they say, contributing to cuts to health care and higher prices for fuel, food and more. Many remain furious about her vote to put Brett Kavanaugh on the Supreme Court, a move that ultimately led to the end of Roe v. Wade.
+
+“She’s very good at cutting ribbons,” said Betsy Sweet, a Democrat who ran unsuccessfully for governor in 2018 and for Senate in 2020 against Ms. Collins. “She’s also really good at cutting your health care.”
+
+Moreover, as she works to fend off her challenger in a tough year for Republicans, Ms. Collins’s sharp political style has been apparent not just to political insiders but to voters as well.
+
+In a recent interview with Politico, Ms. Collins was startlingly cutting about her opponent.
+
+“I’m not going to bring up the fact that the mother of his two children is his second cousin,” she said. “I don’t know whether people know that or not.” They did now.
+
+“This is a Susan people haven’t seen,” said Tony Payne, the executive director of the Republican Party of Maine in the 1970s who became an independent after the rise of Mr. Trump and a longtime critic of Ms. Collins. “This is the peeling off of the veneer.”
+
+Last week, the Senate Leadership Fund, the main super PAC backing the Republican Party’s candidates, aired a radio ad about Mr. Jackson with a crude jingle alluding to the relationship. After it had made the rounds, Ms. Collins told reporters she “had nothing to do with that ad,” saying it should be removed from the air.
+
+This week, Ms. Collins’s campaign has been airing a TV ad that many in Maine considered elitist. “We’re not talking about a cord of wood here, we’re talking about the U.S. Senate, and Troy doesn’t have the tools he needs to be effective,” Bill Green, a well-known, retired local sportscaster, says in the ad.
+
+“For more than 30 years, Susan Collins has carefully concealed her intrinsic arrogance,” Sam Patten wrote in a post on social media castigating the ad. (Mr. Patten, a former aide to Ms. Collins, pleaded guilty during the first Trump administration to failing to register as a foreign agent.)
+
+“She’s very smart, and she works very hard,” Mr. Patten told The Times. “There’s an arrogance in everyone in Washington,” he added, “but she never showed it before. She’s always been careful not to.”
+
+Ted O’Meara, a former aide to Ms. Snowe who also worked for Mr. Cohen alongside Ms. Collins and managed Eliot Cutler’s campaigns for governor in 2010 and 2014, described it as a sense of entitlement. “The sense that there’s nobody else that can do this job but me or do it as well as me,” he said.
+
+He stopped himself.
+
+“Is this on the record?” he asked.
+
+It was.
+
+“She’ll be pissed,” he said.
+
+Kitty Bennett contributed research. Tim Balk contributed reporting from Fryeburg, Maine, and Esmé E. Deprez from Caribou and Casco, Maine.
+
+================================================================================
+strong-core-workout.html
+Source: PreloadedData  Paragraphs: 15  Words: 942/1056
+================================================================================
+
+SUMMARY
+
+You don’t need to put in hours at the gym to build a strong, stable core. Engage your core as you use your left hand to lift the dumbbell across your body to the left side. Engage your core as you drop down to a forearm plank, leading with your right hand.
+
+ARTICLE
+
+For a Stronger Core, You Only Need 10 Minutes
+Strengthening your midsection doesn’t have to take long, but it can have serious benefits.
+By Jen Murphy and Theodore Tae
+Published 2026-10-31 09:01 UTC
+https://www.nytimes.com/2026/10/31/well/move/strong-core-workout.html
+
+You don’t need to put in hours at the gym to build a strong, stable core.
+
+“When it comes to training the core, quality trumps quantity,” said Joel Sanders, director of performance at EXOS, a sports training center in Phoenix. “No one needs to do 100 crunches or feel a burn. Ten to 12 minutes of core work can do the trick.”
+
+The core, which includes muscles along your back, the sides of your body and into your pelvis, has two main functions: to protect your spine by creating stability and to help transfer power from your lower body to your upper body. Exercises where you hold a position or do slow, controlled movements improve stability, while dynamic, full-body exercises such as rotational medicine ball slams help build power.
+
+The core is “the epicenter of strength,” Mr. Sanders said. “All movement, from a lift to a lunge to a golf or tennis swing, is tied to the core.”
+
+If you’re a new exerciser, you should approach your “core hygiene,” as Mr. Sanders calls it, from a 360-degree perspective — doing movements that hit the front, back and sides of your body, he said.
+
+If you focus on good form, you don’t need to do more than six to 10 reps — or less than 30 seconds — of each exercise, he added. The reason, in part, is that your core is already getting worked by many daily activities, even sitting (with good posture). Also, since it’s made up of so many small muscles, you don’t need to train it with the same volume as the glutes or quads.
+
+Doing too many repetitions can also lead to injuries, said Karl Erickson, a performance specialist at the Mayo Clinic in Rochester, Minn. Because your core — and particularly the deeper parts of it — acts like a corset for the spine, helping you maintain good posture, it’s particularly important to focus on form. When those muscles are fatigued, the spine can go from steal beam to wet noodle, Mr. Sanders said.
+
+This core workout can be performed either as a standalone routine or as a warm-up before a workout, “to preheat the oven,” he said.
+
+Overview
+
+Time: 10 to 12 minutes
+
+Intensity: Medium
+
+What You’ll Need
+
+- A mat
+- A light to medium-weight dumbbell
+
+Dumbbell Suitcase March
+
+Purpose: Strengthens the abdominals, side muscles and glutes, as well as the shoulders and forearms
+
+Time: 30 seconds
+
+Pick up a weight and hold it in one hand, by your side. Keep your spine tall and your shoulders and hips square as you march in place, bringing your knees to hip height. Repeat with your other hand. To make it more challenging, hold the weight above your head with a straight arm.
+
+Flutter Kicks
+
+Purpose: Strengthens the abdominals, particularly the deep core and hip flexors
+
+Time: 30 seconds
+
+Lie face up with your legs straight and feet flexed. Place both hands either behind your head or palms down on either side of your hips for support. Draw your belly button toward your spine and use your abdominal muscles to lift your legs. Lift your legs, ideally three to six inches off the floor, but if you struggle to do that while keeping your back flat into the floor, it’s easier to lift them higher. Now flutter your legs, lifting your left, then your right and repeat.
+
+Hip Rainbows
+
+Purpose: Strengthens the abdominals, side muscles and shoulder stabilizers
+
+Time: 30 seconds
+
+Start in a forearm plank position with your elbows under your shoulders, and your knees, hips and torso in a straight line. Squeeze your glutes and engage your abdominals. Drop your right hip toward the floor, twisting your body to the right. Imagine drawing a rainbow with your hips as you bring your left hip up and over, then drop it toward the floor. Repeat for 30 seconds.
+
+Beast Hold
+
+Purpose: Strengthens the abdominals, side muscles and shoulder stabilizers
+
+Time: 30 seconds
+
+Start in a tabletop position, with your hands below your shoulders, your knees on the floor beneath your hips and your back flat. Engage your core as you lift and hover your knees one to three inches off the ground. The lower they are, the more difficult the exercise will be. Hold for 30 seconds. Bring your knees to the ground if you need a rest.
+
+Plank Pull-Throughs
+
+Purpose: Strengthens the abdominals, side muscles and shoulder stabilizers, shoulders, upper back
+
+Time: 30 seconds
+
+Start in a high plank pose with your hands directly under your shoulders and a dumbbell placed behind your right hand. If this is too hard, put your knees on the ground. Engage your core as you use your left hand to lift the dumbbell across your body to the left side. Do not let your body twist or your hips dip. Imagine balancing a cup of hot coffee on your back as you repeat, side to side, for 30 seconds. A wider stance with your feet will provide more stability.
+
+Short-Lever Side Plank and Leg Lift
+
+Purpose: Strengthens the side muscles, abdominals, glutes and shoulders
+
+Time: 30 seconds per side
+
+Start in a modified side plank: Place your right forearm on the floor and bend your right knee at a 90-degree angle, tucking your heel behind you. Keep your hips stacked as you extend your top leg. Your foot can rest on the floor for balance and your left hand can rest on your top hip or over your belly. Raise your hips off the ground, supporting yourself on right leg. Engage your core as you lift your leg just above hip level, then lower it so the inside of your foot taps the ground. Repeat for 30 seconds, then switch sides.
+
+Plank Walk-Ups
+
+Purpose: Strengthens the deep abdominals, particularly the deep core, shoulder stabilizers and deep back muscles
+
+Time: 30 seconds
+
+Start in a high plank pose with your hands directly under your shoulders. If this is too hard, put your knees on the ground. Engage your core as you drop down to a forearm plank, leading with your right hand. Press back up to plank pose, first straightening your right arm, then your left. One the next round, drop down and press up with your left side first. Continue alternating sides. If you are in a full plank, don’t let your hips rotate or sag.
+
+On-set trainer: Cadence Dubus
 
 ================================================================================
 best-movies-amazon-prime.html
@@ -46444,4 +47534,633 @@ In recent weeks, top Democrats in the House and the Senate have proposed legisla
 Those moves are in line with what lawmakers are hearing from voters.
 
 A New York Times/Siena national poll conducted in May found that 74 percent of Democratic voters opposed providing additional economic and military support to Israel. A Pew Research Center poll in April found that eight in 10 Democrats and Democratic-leaning independents had an unfavorable view of Israel.
+
+================================================================================
+midterms-elections-trump.html
+Source: RenderedHtml  Paragraphs: 290  Words: 10533
+================================================================================
+
+SUMMARY
+
+Dr. Abdul El-Sayed, the Democratic Senate nominee, said Saturday that his former primary rival, Representative Haley Stevens, should not come to a Detroit church service he was planning to attend Sunday. The growing tensions between Dr. El-Sayed, a progressive, and Ms. Stevens, the more moderate representative he beat in the primary, have clouded whether the Democrats would appear at a party unity event planned for Sunday in Detroit. Dr. El-Sayed said the primary was over.
+
+ARTICLE
+
+Midterm Elections Live Updates: Democratic Discord Intensifies in Michigan Senate Race
+Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, said Representative Haley Stevens, his former primary rival, should not attend Sunday’s party unity event in Detroit.
+By Lisa Lerer, James C. McKinley Jr., Tim Balk, Reid J. Epstein, Shawn Hubler, Alan Feuer, Ken Fountain, Sabrina Tavernise, Ruth Igielnik, Ilana Arougheti, Patricia Mazzei, Evan Gorelick, Emily Davies, Reis Thebault, Rebecca Noble, Anna Griffin, Kaley Johnson, Leah McBride Mensching, Michael Kruse, Emily Schwing and Tim Balk and Robert Draper
+Published 2026-10-31 12:00 UTC
+https://www.nytimes.com/live/2026/10/31/us/midterms-elections-trump
+
+Latest
+
+Here’s the latest.
+
+As candidates on Saturday barnstormed to make their final case in a midterm election that will decide control of Congress, a feud among top Democrats in Michigan escalated and took center stage, throwing new doubt into a race that could determine which party controls the Senate.
+
+Dr. Abdul El-Sayed, the Democratic Senate nominee, said Saturday that his former primary rival, Representative Haley Stevens, should not come to a Detroit church service he was planning to attend Sunday. The event, which is also expected to include Representative James E. Clyburn of South Carolina, had been billed as a Democratic unity gathering.
+
+“I don’t want any distractions,” Dr. El-Sayed told reporters after a campaign rally in Sterling Heights, a Macomb County suburb. “It seems as though other folks are more interested in making this race about things that it’s not about.”
+
+The growing tensions between Dr. El-Sayed, a progressive, and Ms. Stevens, the more moderate representative he beat in the primary, have clouded whether the Democrats would appear at a party unity event planned for Sunday in Detroit. The fault line between them has been differing stances on U.S. support for Israel.
+
+That disagreement has taken on an outsize importance at a time when strategists on both sides say that Democrats are within striking distance of winning a slim majority in the Senate. They must flip at least four seats and retain all of their own to regain control of the upper chamber, and Michigan is seen as the best opportunity for Republicans to pick up a seat.
+
+Dr. El-Sayed and his Republican opponent, Mike Rogers, were campaigning four miles apart in Macomb County, Mich., on the final Saturday before Election Day, as both parties fanned across the country in a late attempt to drive turnout and persuade undecided voters.
+
+On Friday, Ms. Stevens had demanded in an open letter that Dr. El-Sayed disavow a political ad from a left-wing political group suggesting U.S. support for Israel was a reason for high prices, which she said was antisemitic. That afternoon, Dr. El-Sayed fired back, accusing Ms. Stevens of “relitigating a primary that ended three months ago.”
+
+Ms. Stevens has in recent weeks done a series of interviews criticizing Dr. El-Sayed for his policies toward Israel and his refusal to fully disavow the advertisement.
+
+Asked on Saturday if he would condemn the ad, Dr. El-Sayed replied: “I’ve already been clear that that ad was not made by me, and I do not agree with the contents of that ad.”
+
+Here’s what else we’re covering:
+
+El-Sayed does not want to talk about Stevens. Everyone else does.
+
+Dr. Abdul El-Sayed had just finished his stump speech, complete with jokes about his name and exhortations to “show just how big we are” by turning out voters on Election Day. Then he walked into a room full of reporters wanting to ask about the one topic he wished not to discuss.
+
+Representative Haley Stevens.
+
+The first question came from a local reporter, who asked if Dr. El-Sayed believed Ms. Stevens, the congresswoman he defeated in the Senate primary who has been on a media tour criticizing his views on Israel, was trying to damage his campaign.
+
+“That is not a question for me,” Dr. El-Sayed said, with a laugh that seemed to be a response to the crude term, including the word “rat,” that the questioner used to describe political sabotage.
+
+The next question: Would Dr. El-Sayed do as Ms. Stevens demanded and disavow an online advertisement produced by one of Dr. El-Sayed’s allies blaming U.S. policy toward Israel for the price of groceries and health care?
+
+Dr. El-Sayed was no longer amused.
+
+“I’ve already been clear that that ad was not made by me, and I do not agree with the contents of that ad,” he said.
+
+He did not wish to talk more about Ms. Stevens. If the next question was about her or the ad she wished he’d disavow, Dr. El-Sayed said he would stop taking questions and walk out.
+
+Throughout the 12 minutes he spoke with reporters, Dr. El-Sayed never said Ms. Stevens’s name. Once he referred to her as “the congresswoman.”
+
+He fielded a few questions about the Detroit church service he planned to attend Sunday with Representative James E. Clyburn of South Carolina and his Republican opponent, former Representative Mike Rogers.
+
+But soon he got back to Ms. Stevens.
+
+Why, he was asked, shouldn’t he address the issues she raised, which are also of concern to some Michigan voters? Dr. El-Sayed said the primary was over.
+
+“We had a primary, right? And the outcomes of the primary are what they were,” he said. “I understand that some folks are upset about that. I get it. But I’m here trying to beat Mike Rogers.”
+
+Then: Did he still want Ms. Stevens to come to church with him Sunday, as his campaign first alerted Thursday and as she said Friday that she would?
+
+Dr. El-Sayed said he did not want “distractions.” Ms. Stevens, he said, “wanted to talk about other things” beyond his campaign’s core themes.
+
+Translation: She wants to talk about Israel and he does not.
+
+Finally, Dr. El-Sayed was asked a version of the first question. Had Ms. Stevens hurt the Democratic ticket by speaking out against his campaign?
+
+He said she does not matter, and that he does not think much about her.
+
+“It’s not really of relevance to Michigan voters. Most people don’t care about this,” he said. “I just don’t spend much of my time thinking about these sort of personality issues. Like, I have much respect to the congresswoman. We had a hard-fought primary. That primary ended in August. I’m focused now on beating Mike Rogers.”
+
+Newsom issues a warning to California judges about election interference.
+
+Gov. Gavin Newsom on Saturday warned the state’s top judges that the Trump administration may try to seize midterm election ballots as a legal battle continued over unproven federal claims that noncitizens are voting in huge numbers in California.
+
+“I have grave concerns federal agents will seek search warrants to seize ballots and ballot materials before the election results are certified,” the governor wrote in an extraordinary “alert” to the four U.S. District Courts that cover California.
+
+He added: “Indeed, the only reason to do so would be to interfere in a State’s lawful counting of ballots and certifying the results of the election.”
+
+The warning came as the Trump administration is also claiming that there are more than 20,000 California voters who are “likely noncitizens" — an assertion that state election officials have firmly rejected.
+
+On Saturday, data scientists analyzing that list of voters said in a court filing that it contains thousands of errors.
+
+Mr. Newsom’s concerns about the seizure of voting machines or ballots are not unfounded.
+
+In January, federal agents executed a search warrant at an election center in Fulton County, Ga., hauling away boxes of ballots in an effort to discredit Mr. Trump’s defeat in the 2020 election. The warrant in Fulton County was approved by a federal magistrate judge even though it was based on a series of debunked conspiracy theories about the contentious 2020 presidential race.
+
+Ever since, election officials have worried that the Justice Department might try something similar in different jurisdictions, especially during the highly fraught days after the midterm elections.
+
+Those concerns have not been assuaged, as Mr. Trump himself has warned that the country’s voting machines are vulnerable to foreign meddling. The president has also said that he regretted not seizing voting machines after the 2020 election.
+
+Mr. Newsom is not the only public figure who has expressed concern that the Trump administration might resort to seizing ballots or voting machines.
+
+On Tuesday, two former federal judges issued an unusual public statement to their working colleagues, warning them to use extreme caution before taking the “uniquely serious” step of granting prosecutors a warrant for seizures.
+
+“Unlike the execution of a search warrant for contraband such as drugs or for the records of a criminal enterprise, executing a search warrant for ballots or voting machines before an election is certified would cause irreparable harm to a vital public process: our elections,” the former judges, J. Michael Luttig and Nancy Gertner, wrote.
+
+Mr. Newsom’s letter to the judges was issued on the same day two data scientists from University of California, Los Angeles, released their findings of an analysis of the list of the 20,000 registered voters in California the Trump administration has claimed are not eligible to vote because they are not citizens.
+
+The analysis — contained in court papers filed in district court in Washington by immigration advocates — found that more than 40 percent of the people on the list do not appear on the California state voter rolls. The analysis also found that the list contained thousands of people who appear to be citizens.
+
+The scientists conducted their study by comparing the government’s list of suspected noncitizens with lists of people who had obtained citizenship. They did so with the help of the Coalition for Humane Immigrant Rights of Los Angeles, a major California nonprofit colloquially known as CHIRLA.
+
+The administration sued California seeking to force state officials to set aside any ballots cast by the 20,000 voters. But a federal appeals court has twice shot down that effort, saying it would rob the state of its authority to administer the election and violate the “plain text” of the Constitution. In between that court’s rulings, a district court in Los Angeles also rejected the administration’s request.
+
+In his letter, Mr. Newsom wrote that, while he was not aware of any such pending application, “the tactics and rhetoric federal officials are using strongly suggest that, having lost repeatedly in federal civil proceedings thus far, they will quickly pivot to the criminal forum.”
+
+The letter included a nonpartisan guide for evaluating search warrant applications that the judges could distribute to lower level federal magistrates.
+
+Women voters are the silent Democratic majority.
+
+In the scramble to understand where America’s head is politically this election season, the focus has been on the working class, on Hispanics and on young men. But the country’s single biggest demographic group — women — is still the main driver of voting and in this election is looking more Democratic than ever.
+
+Women have been the backbone of the Democratic base for decades and vote overwhelmingly for Democrats most years.
+
+In 2022, support dipped slightly, when 48 percent of women chose Democrats and 41 percent supported Republicans. But this year, support looks set to return to more typical results, with 56 percent of women saying they prefer Democratic candidates, compared with 37 percent who say they prefer Republican ones, according to New York Times/Siena University surveys.
+
+Women are a potent political force because they vote at higher rates than men.
+
+And this year, they are bringing a lot of energy to volunteer and get-out-the-vote efforts.
+
+Lynda Hoving, a retired appraiser and longtime volunteer for the Democratic Party in Kent County, Mich., has been sending postcards and working the phones for Democrats.
+
+She watched as her West Michigan county, home to Gerald Ford and a tradition of Republicanism, went from solidly red in the 1970s, when she and her husband moved there, to reliably blue in more recent political cycles.
+
+“I was always trying to turn something from red to purple,” said Ms. Hoving, who spent years in Grand Rapids stuffing envelopes, door-knocking and making spreadsheets. “It has been my goal for my whole political life.” She said it was disproportionately the women in the county who “kept the balls rolling” for the slow, tedious work of local politics.
+
+Now 73, she said she still reminded everyone to vote during election season, including, most recently, her orthodontist, who told her he had voted for Trump but was not happy with the way things had turned out.
+
+But she didn’t get to try to pitch him on Democrats.
+
+“Then they put the plastic in my mouth, and I couldn’t talk anymore,” she said. “That’s one way to force a Democrat to listen.”
+
+Pat Smithson, 69, of Lenexa, Kan., has volunteered so much for Adam Hamilton, the Democratic candidate for U.S. Senate in Kansas, that he called out her name when he walked into a campaign event on Saturday morning. She had brought cinnamon rolls freshly baked by her daughter.
+
+Ms. Smithson, a retired fund-raiser, has been calling voters all over Kansas since June and said that even her daughter, a Republican who voted for Donald Trump in 2024, planned to vote for Mr. Hamilton, too. “She listened to him on TV,” Ms. Smithson said. “She watches me volunteer, setting the example.”
+
+Some of the shift away from Republicans among women in recent years has been driven by Donald Trump.
+
+Annette Hunt, 58, who works in finance and lives in Dallas, grew up in a staunchly Republican family in East Texas.
+
+“Reagan was almost like a God in our house,” she said.
+
+She said she voted straight ticket Republican for most of her life. Then came Mr. Trump.
+
+She thought he would be “like Ross Perot — a businessman who shook up the Republican Party a bit,” but she couldn’t bring herself to vote for him, so she wrote in her father, who died that year. She has always regretted it, and ever since has voted Democratic to “stop the current agenda of the Republican Party.”
+
+Last Saturday, she voted early for James Talarico, the Democratic candidate for U.S. Senate in Texas. She said she did not feel at home in the Democratic Party either, despite voting for their candidates for the past 10 years.
+
+“I’m a person without a party,” she said.
+
+Jeanne Russell, 77, who owns a farm on Verona Island, Maine, said she grew up in a Republican household but was shaped by the politics that defined her young adulthood and ended up a liberal.
+
+“I was a child of the ’60s and ’70s,” she said. “I was aware of the injustices in the country. It bothered me. So I’ve always been a Democrat.”
+
+She said she has never missed an election.
+
+El-Sayed’s campaign doesn’t want Haley Stevens to join him at Sunday’s event in Detroit.
+
+Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, said Saturday that he did not want Representative Haley Stevens, his former primary rival, to join him at a party unity event in Detroit on Sunday.
+
+“I don’t want any distractions,” Dr. El-Sayed told reporters after a campaign rally in Sterling Heights, Mich., outside Detroit. He added, “It seems as though other folks are more interested in making this race about things that it’s not about.”
+
+Ms. Stevens and Dr. El-Sayed, who have been publicly quarreling for days, were initially expected to attend the Sunday event together, part of an effort by Representatives Debbie Dingell of Michigan and James E. Clyburn of South Carolina to broker a peace between the feuding Democrats on the eve of a critical election.
+
+It was not immediately clear if Ms. Stevens would abide by Dr. El-Sayed’s request that she stay away from the event.
+
+Ms. Stevens, a centrist who lost to the progressive Dr. El-Sayed by less than a percentage point in a bitter August primary, had said late Friday that she had not been told that she was unwelcome at the event. She did not immediately respond to a request for comment on Saturday.
+
+Mr. Clyburn said Saturday that he had “no idea” if Ms. Stevens would attend. An adviser to Mr. Clyburn, Antjuan Seawright, said Ms. Stevens was still invited, and rejected any notion that Dr. El-Sayed could pull her invitation.
+
+“This is not Abdul’s event,” Mr. Seawright said Saturday afternoon, adding, “The invitation still stands.”
+
+Ms. Dingell, who had said Friday that she had secured the participation of Dr. El-Sayed and Ms. Stevens at the event, did not immediately respond to a request for comment Saturday.
+
+Politico previously reported that Dr. El-Sayed’s campaign did not want Ms. Stevens at its events.
+
+Dr. El-Sayed did not say at the rally in Sterling Heights whether his campaign had relayed the request directly to Ms. Stevens.
+
+A schedule for the Sunday event, at a church in the North End of Detroit, said that speakers would include Mr. Clyburn, Dr. El-Sayed and Mayor Mary Sheffield of Detroit. Their remarks were set to be followed by a march to the offices of the Detroit Election Department, the schedule said.
+
+Ms. Stevens was not listed as a speaker, though there was no indication she had ever been expected to deliver remarks.
+
+Opinion polls show that Dr. El-Sayed and Mike Rogers, the Republican Senate nominee in Michigan, are locked in a tight race that could determine control of the Senate.
+
+Ms. Stevens and Dr. El-Sayed differ over their positions on Israel. Ms. Stevens is a strong supporter of the country, and Dr. El-Sayed is a fierce critic.
+
+Their unusual clash has become a flashpoint in Democrats’ broader debate about Israel, and some Democrats are anxious that infighting in the final days of the race will damage Dr. El-Sayed’s chances.
+
+His relationship with Ms. Stevens was not always so tense. Ms. Stevens quickly endorsed Dr. El-Sayed after the primary, pledging to campaign with him, and they appeared together at a unity breakfast two days after the primary.
+
+But they have not been seen together in the final stretch of the race, and Ms. Stevens made a series of recent appearances on cable TV in which she criticized Dr. El-Sayed’s outreach to Black and Jewish voters, two groups that Mr. Rogers has aggressively courted.
+
+Ms. Stevens said in an interview Friday that she had been set off by a moment in a debate this month in which Dr. El-Sayed declined to answer a question about whether Iran or Israel posed a greater threat to the United States.
+
+On Wednesday, Ms. Stevens said she would not campaign with Dr. El-Sayed again before the election, and her fiancé, Jason Turkish, a Jewish Democrat, said he was backing Mr. Rogers, citing Dr. El-Sayed’s positions on Israel.
+
+Ms. Dingell, frustrated by the intraparty conflict, said she reached out to the warring Democrats and Mr. Clyburn, one of the highest-ranking African Americans in Congress, and asked them to appear together. By Thursday night, Ms. Stevens was saying that she would join Dr. El-Sayed at the event on Sunday.
+
+But the efforts to make peace crumbled Friday, after Ms. Stevens issued a statement calling on Dr. El-Sayed to apologize for comments he had made about Israel and to denounce an ad from an outside group that suggests U.S. aid to Israel was making life in America more expensive. (The ad shows a shopper telling a man not to buy eggs because “we have to set that $7 aside for killing Palestinians.”)
+
+Dr. El-Sayed responded to Ms. Stevens’s statement with a statement of his own saying that she seemed “intent on relitigating a primary that ended three months ago.” He called on her to “focus on the task at hand.”
+
+On Saturday, Dr. El-Sayed told reporters that he did “not agree with the contents” of the ad from the outside group. But he also said she wanted to “talk about” issues that he did not want to focus on in the final days of the campaign.
+
+As of Friday, Mr. Turkish said he planned to attend the church service.
+
+On Saturday afternoon, he said he wanted to spend Sunday “however my fiancé, Haley, wants to spend her day.”
+
+But, he added, he did not know if that would include the service.
+
+‘Poop water’ churns a local election in parched Arizona.
+
+A ritzy Arizona enclave is facing water cuts, and the most divisive idea to offset them begins with millions of gallons of sewage. Call it affluent effluent.
+
+The plan — which involves rigorously treating and purifying wastewater, then routing it straight to residential taps — has long been seen as critical for the future of Scottsdale, a city heavily reliant on the dwindling flow of the Colorado River.
+
+But in recent months, Scottsdale’s wastewater recycling program has been sucked into a bitter political dispute, and its fate could hinge on the outcome of the city’s elections on Tuesday.
+
+The Scottsdale City Council, where two seats are up for grabs, is nominally nonpartisan, but this year’s race may change the balance of power on water issues. Two candidates, both running on a right-wing platform, deride wastewater recycling as an unproven experiment. They call it “toilet to tap” or “poop water.”
+
+A third challenger, who is backed by Democratic groups, argues that the science behind wastewater recycling is robust, citing expert support for a technology considered safe and reliable. His opponents, he says, are capitalizing on residents’ fears of contamination and downplaying the seriousness of Scottsdale’s looming water crisis.
+
+“They’re using buzzwords and scare tactics,” Raoul Zubia, a retired banker, said of his conservative opponents, Michelle Ugenti-Rita, a former state senator, and Barry Graham, an incumbent council member.
+
+The dispute offers a colorful preview of the ways water is becoming increasingly politicized as scarcity forces local officials across the West to make difficult decisions and embrace unconventional solutions.
+
+Scottsdale, a city of 240,000 northeast of Phoenix, is famous for its green golf courses and red rock peaks. It is an upscale destination for bachelorette parties and bar crawls, spas and shopping malls. But in wonkier circles, the city is also known as a leader in water treatment and engineering.
+
+Nearly all American drinking water comes from lakes, rivers, reservoirs or underground aquifers. But Scottsdale Water, a city-operated utility, has been purifying wastewater for decades through a process with many steps and even more syllables — ozonation, membrane ultrafiltration, reverse osmosis, ultraviolet photolysis. Scientists say the resulting product is among the cleanest water in the world.
+
+The city currently sends much of the recycled water to about two dozen golf courses, which use it for irrigation. It pumps the remainder into an aquifer, where it is eventually drawn out as drinking water, a longstanding process known as indirect potable reuse.
+
+City leaders wanted to go further, skipping the aquifer and mixing purified water with other sources before delivering it to residential taps. That’s known as direct potable reuse.
+
+Only a few direct potable reuse facilities operate around the world, but more are in the works. Scottsdale’s would have been Arizona’s first.
+
+But in June, with the state updating regulations and the issue turning partisan, the City Council froze funding for the project, even as neighboring Phoenix pushed forward.
+
+Supporters were dismayed.
+
+“You cannot choose ‘no water’ because you have unfounded fears about water quality,” said Kathryn Sorensen, a water policy expert at Arizona State University.
+
+Ms. Ugenti-Rita would be the program’s most vocal critic if elected. The idea is “disgusting,” she said, and she is worried recycled water could make residents sick. She has also balked at the cost of infrastructure upgrades, which city staff recently estimated at more than $160 million.
+
+“There’s a lot at stake,” Ms. Ugenti-Rita said. “We don’t want to be the next Flint, Mich. I don’t want short or long-term health effects. We have a reputation to consider.”
+
+Mudslinging reached its peak ahead of the summer primary election, when Ms. Ugenti-Rita appeared in a social media video with the MAGA-aligned comedian Rob Schneider.
+
+Mr. Schneider, who was in the “The Waterboy” and lives in Scottsdale, held a cup of liquid the color of a milky latte while criticizing “toilet to tap.” He referred to one of Ms. Ugenti-Rita’s primary opponents, Solange Whitehead, as “Sewage Solange.”
+
+Ms. Whitehead, who grew up wanting to be a sewage engineer, was unfazed.
+
+“I was pretty flattered,” Ms. Whitehead said as she sipped a pale ale made with Scottsdale’s recycled wastewater, part of a campaign to help the public overcome the “ick factor.”
+
+Ms. Whitehead, an incumbent council member who ran on water issues, finished first in the July primary, securing another term on the board and avoiding a runoff on Tuesday. She said she was concerned that her opponents’ rhetoric will turn residents against a critical technology.
+
+“When you rile up people against something, it spreads,” Ms. Whitehead said. “This is not a good time to politicize and to try to create distrust.”
+
+At Scottsdale Water’s sprawling campus, Thyra Ryden-Diaz, the utility’s interim director, defended the wastewater recycling program and said sending treated water directly to taps would not differ much from what the city was already doing.
+
+“All water is recycled,” Ms. Ryden-Diaz said. “I don’t think that people remember their third-grade water cycle graph.”
+
+Still, she said, it would not be a panacea for Scottsdale because the city already reuses so much of its wastewater, and unless facilities are upgraded, there will not be much left to send to taps.
+
+Scottsdale is not running out of water anytime soon, but surveys show Arizonans are concerned that state leaders aren’t doing enough to save their most precious resource. Max Vega, a 40-year-old who works in the mining industry, is one of them.
+
+Drinking recycled wastewater “may disturb some people,” he said on a recent evening after walking his dog at a large Scottsdale desert preserve. “But if you do it the right way, under safe regulations, then so be it.”
+
+For others, the idea is a harder sell. Corlan and Becky Fawcett, who were visiting Scottsdale for a conference, said knowing wastewater ran from their hotel faucet would not stop them from returning.
+
+“But it might make me want to buy my water when I get here,” Mr. Fawcett said.
+
+The couple, who live in Utah, another water-strapped state reliant on the Colorado River, acknowledged that such technology might someday come to their hometown.
+
+“What’s the alternative?” Ms. Fawcett asked. “What’s the other option?”
+
+Democrats file suit over closed polling places in rural Alaska.
+
+As a Justice Department lawsuit challenging the presence of two U.S. Senate candidates named Dan Sullivan on the Alaska ballot plays out, Democrats have filed a lawsuit in Alaska accusing election officials of failing to properly operate at least 18 rural polling locations.
+
+The complaint, filed Friday afternoon in Anchorage Superior Court, warns that several thousand voters across remote, predominantly Alaska Native communities face disenfranchisement in a state where elections are routinely decided by a few thousand or even a few hundred votes.
+
+Given Alaska’s vast geography and the logistical hurdles voters in remote areas encounter, state law allows any qualified voter to request an absentee ballot and establishes an in-person absentee and early voting window beginning 15 days before Election Day.
+
+In remote communities, the state relies on agreements with local municipal and tribal offices to host and staff sites where residents can cast absentee ballots in person.
+
+The Democrats’ lawsuit alleges that state-advertised absentee-in-person voting sites across 18 rural communities either failed to open, opened late, maintained irregular hours or lacked ballots altogether. In some communities, local workers reportedly resigned without replacements, while others had not received ballots or were unaware they were supposed to host voting.
+
+According to the complaint, some voters traveled to their designated voting location “by boat or by plane” only to be turned away.
+
+State Senator Bill Wielechowski wrote the elections division earlier this month, noting the 18 precincts that hadn’t opened and asking for help.
+
+In her response this week, the Alaska elections director, Carol Beecher, said 12 of the 18 sites had confirmed they were open, three had declined to open, and state officials were still trying to contact the remaining three. She emphasized the role local partners are supposed to play in rural voting, suggesting blame for the confusion about where and when to vote rested largely in the villages rather than the state elections office.
+
+Some 82 percent of Alaska communities are not accessible by road, and the state elections office routinely struggles to ensure residents in farther-flung places can vote, with ballots sometimes arriving too late to be counted or polling sites never opening.
+
+This time around, Democrats want the state elections office to make sure all remote polling sites are open and stay open until polls close at 8 p.m. on Election Day. They also want the state to pay their attorney fees.
+
+Susan Collins has delivered millions of dollars to Maine, but people say it’s best to avoid making her angry.
+
+Jordan Wood, a Democrat from Lewiston, Maine, was the first person to announce a 2026 campaign challenge to Senator Susan Collins, and he made a priority of winning the endorsement of the mayor of his hometown. He met with Mayor Carl Sheline, a fellow Democrat, in his office and over drinks at a local Italian restaurant. They had a series of phone calls. But ultimately Mr. Sheline declined to back him.
+
+Ms. Collins, the longtime Republican incumbent, was not in the room, at the bar, or on the line.
+
+But she had made her presence known.
+
+Mr. Sheline had various reasons for withholding his support, he said in an interview. Among them, he acknowledged, were a housing project, a food distribution center, and a mill museum in Lewiston. Ms. Collins had helped with the finances for all of them.
+
+“It’s just an environment of possible retribution,” Mr. Wood said. “It is that fear she instills.”
+
+Over nearly 30 years, Ms. Collins, a self-styled moderate in a familiar Maine mold, has cultivated a public persona as a workhorse and a fastidious maestro of constituent services and pork-barrel disbursements, using her Washington know-how to get her constituents what they need.
+
+But for just as long, her detractors say, she has managed to mostly mask another reality. “The gentlewoman from Maine,” as her colleagues say on the Senate floor, is a formidable power broker who can play a fierce brand of politics with a how-dare-you air. According to more than 40 interviews with Republicans and Democrats in Maine politics, former staff, colleagues and longtime observers, Ms. Collins has wielded power not so much as a Yankee Republican but as a shrewd machine politician.
+
+“It’s almost like Tammany Hall,” said Amy Fried, a retired political scientist from the University of Maine. “You’re going to get this benefit here if you vote for me.”
+
+Lance Dutson, a Republican strategist and former aide to Ms. Collins, did not disagree.
+
+“That’s exactly what it is,” he said. “She’s openly discussing the fact that Maine is going to be set back if she’s not in that position,” he added. “It puts people in the position of very clearly understanding that voting against her is a vote against their own well-being.”
+
+Ms. Collins’s staff stresses that she has worked to bring money back to all communities in Maine — regardless of whether they support her.
+
+Annie Clark, a longtime aide to Ms. Collins, provided The New York Times an exhaustive list of projects, from Orono and Ogunquit to Belfast and Blue Hill, for which the senator had secured funding since 2021. The senator got $234 million for 96 projects in Cumberland and Knox counties — the only two counties she lost in 2020. In Portland, where she received just 21 percent of the vote: $51.2 million for 28 projects.
+
+“Senator Collins has been extraordinarily effective,” said Blake Kernen, a spokeswoman for Ms. Collins. “She works tirelessly to deliver results for the state, meets with thousands of Mainers every year, and she secures billions of dollars for communities in all of Maine’s 16 counties whether they vote for her or not.”
+
+Ms. Collins, 73, the chair of the Senate Appropriations Committee, is running for re-election this fall the way she always has — no clickbait TikTok posts or big, rah-rah rallies, but a relentless focus on stops in small towns where she has brought home federal dollars for boat landings, emergency operations centers and wastewater treatment facilities.
+
+At her campaign events, supporters hold signs that underscore the point she is trying to make: “Thank You, Susan.”
+
+In debates this month with her Democratic opponent, Troy Jackson, a former logger and Maine Senate president, Ms. Collins was unsubtle about the crux of the deal.
+
+“In the past five years I’ve secured $1.5 billion for properties all over the state,” she said.
+
+She was even more blunt in a radio interview this week, citing 672 projects that she had secured across the state, including 45 new fire stations.
+
+“All that goes away,” she said, “if Troy were to be elected.”
+
+‘I have a lot of power’
+
+Her whole life has been a lesson in the accrual and use of power.
+
+Ms. Collins was born and raised in Caribou in Aroostook County, the state’s most northern terrain. The Collinses didn’t just own and run the local lumber company and hardware store. They were politicos too.
+
+“My parents,” Ms. Collins told The New York Times this past summer, “both served as mayor of Caribou. My father was in the State Senate, my grandfather, great-grandfather served in the state legislature.”
+
+Her parents were supporters of William S. Cohen when he ran for Congress in 1972 and beyond, and Ms. Collins was a driver and an intern for Mr. Cohen when she was in college at St. Lawrence University in Canton, N.Y. After she graduated, she was hired as an aide and was on his staff for a dozen years, known by her colleagues and peers as a meticulous note-taker and over-preparer.
+
+She ran for governor in 1994 when she was 41 and lost. She ran for Senate in 1996 and won. She said she would serve no more than two terms but then ran for re-election in 2002, 2008, 2014 and 2020.
+
+Over the course of her three decades in the Senate, drafting off the renown of her cordial, consensus-building Maine forebears like Mr. Cohen and Senator George Mitchell, Ms. Collins has emphasized her image as the last of a vanishing breed. She has bucked her party, and in particular President Trump, more than enough to frustrate many Republicans — albeit not nearly enough to satisfy most Democrats.
+
+“I’m consistently sought out by both sides for cosponsorship of bills,” she told The Times in her first year in the Senate. “I have a lot of power — I like that.”
+
+Behind closed doors, though, she long has had a reputation as a lone wolf.
+
+Her relationship with Olympia Snowe, the Republican who was elected to the Senate from Maine two years before Ms. Collins and served three terms, was marked by rivalries and perceived slights, according to former aides to Maine lawmakers on Capitol Hill. Publicly, they issued joint statements and often voted together. Privately, the relationship was far more fraught, as is sometimes the case when a state is represented by two senators of the same party.
+
+“She was just hypersensitive to Olympia getting more credit than she was,” said Kurt Bardella, a former press secretary for Ms. Snowe.
+
+“It was very machine-politicky: ‘I am owed a certain level of stature and respect,’” Mr. Bardella recalled.
+
+Ms. Collins has a bristly relationship with Angus King, the independent junior senator from Maine, who defeated her in the governor’s race in 1994 and succeeded Ms. Snowe in 2013. While they exchange occasional text messages, the two haven’t spoken in months, according to people familiar with their communications who spoke on the condition of anonymity to discuss private matters. They last texted Oct. 12, according to Ms. Clark. Aides in Mr. King’s office often are instructed to let Ms. Collins get the lion’s share of the credit, they said, if that’s what it takes to get a policy initiative accomplished.
+
+When Mr. Wood announced his candidacy for Senate, he thought he knew what he needed to know about Ms. Collins. His campaign quickly became a window into what he did not know.
+
+Elected Democrats and political donors, Mr. Wood said, told him Ms. Collins reviewed the lists of who gives more than $1,000 to whom — and kept score.
+
+“People told me they could not give me money because they knew she would look at the report,” he said. “Democrats.”
+
+Ms. Clark, the spokeswoman for Ms. Collins, said the senator does not review such lists.
+
+Ultimately, Mr. Wood’s fledgling campaign was overwhelmed by the unexpected rise of Graham Platner, whose subsequent fall precipitated Mr. Jackson’s selection as the Democratic nominee. Still, he got an eye-opening tutorial in the sway of his state’s senior senator.
+
+Last November, when he ended his Senate campaign and switched to run instead for Maine’s Second Congressional District, Mr. Wood couldn’t help but notice the difference.
+
+This time, Mr. Sheline, the Lewiston mayor, endorsed him right away.
+
+‘We should be thankful’
+
+This month, politicking her way through the annual fall fair in Fryeburg, Maine, Ms. Collins walked from a cattle auction to a livestock barn, putting up with out-of-town press asking her questions about the president while trying to steer clear of manure.
+
+“I know you don’t like me,” she told one reporter, “but don’t make me walk through shit.”
+
+She quickly changed the subject — to $38 million in federal aid for heating oil.
+
+“I was delighted,” she said, “that I was successful in expediting the funding.”
+
+That matters a lot, said Mr. Dutson, the senator’s former aide.
+
+“Federal money is incredibly important up here,” he said. “The choice a lot of people are facing right now is: OK, well, I can listen to the noise out of Washington or what my party tells me to do — or I can support the lady who got me a new fire truck in my 500-person town.”
+
+In the past few weeks in Maine, as Mr. Jackson has campaigned in front of large, loud crowds alongside progressive megastars such as Senator Bernie Sanders of Vermont and Representative Alexandria Ocasio-Cortez of New York, Ms. Collins has brandished a shovel at a groundbreaking at a boat landing in Orrington and attended a grand opening of a wastewater facility in Windham.
+
+And in the stretch run of the race, people all over the state have received targeted text messages from her campaign.
+
+“Susan Collins delivered $33 million for Knox County …”
+
+“Susan Collins has delivered nearly $59 million for the City of Bangor …”
+
+“Susan Collins is delivering real results across Kennebec County — 50 projects totaling more than $109.3 million …”
+
+Her supporters say it’s why they trust her and one of the main reasons she should be re-elected.
+
+“What she produces is real — it’s tactile,” said Chris Gardner, the executive director of the Eastport Port Authority, who has appeared in an ad for Ms. Collins. “We should be thankful.”
+
+Kevin Raye, a former Maine Senate president and Ms. Snowe’s former longtime chief of staff, is an anti-Trump former Republican who is now an independent — “rooting,” he said, for Democrats to take control of Congress. “But I’m in the Collins camp,” Mr. Raye said, citing her record of bipartisanship. “The thought of replacing her with a reliable partisan vote, no matter the party,” he said, “is so the wrong direction for America.”
+
+But the calculation, her critics counter, is more complicated. Her vote to advance Mr. Trump’s big domestic policy bill before she ultimately voted against it, her initial votes against setting congressional limits to military actions in Iran followed by eventual votes to do just that — all of it costs her constituents, they say, contributing to cuts to health care and higher prices for fuel, food and more. Many remain furious about her vote to put Brett Kavanaugh on the Supreme Court, a move that ultimately led to the end of Roe v. Wade.
+
+“She’s very good at cutting ribbons,” said Betsy Sweet, a Democrat who ran unsuccessfully for governor in 2018 and for Senate in 2020 against Ms. Collins. “She’s also really good at cutting your health care.”
+
+Moreover, as she works to fend off her challenger in a tough year for Republicans, Ms. Collins’s sharp political style has been apparent not just to political insiders but to voters as well.
+
+In a recent interview with Politico, Ms. Collins was startlingly cutting about her opponent.
+
+“I’m not going to bring up the fact that the mother of his two children is his second cousin,” she said. “I don’t know whether people know that or not.” They did now.
+
+“This is a Susan people haven’t seen,” said Tony Payne, the executive director of the Republican Party of Maine in the 1970s who became an independent after the rise of Mr. Trump and a longtime critic of Ms. Collins. “This is the peeling off of the veneer.”
+
+Last week, the Senate Leadership Fund, the main super PAC backing the Republican Party’s candidates, aired a radio ad about Mr. Jackson with a crude jingle alluding to the relationship. After it had made the rounds, Ms. Collins told reporters she “had nothing to do with that ad,” saying it should be removed from the air.
+
+This week, Ms. Collins’s campaign has been airing a TV ad that many in Maine considered elitist. “We’re not talking about a cord of wood here, we’re talking about the U.S. Senate, and Troy doesn’t have the tools he needs to be effective,” Bill Green, a well-known, retired local sportscaster, says in the ad.
+
+“For more than 30 years, Susan Collins has carefully concealed her intrinsic arrogance,” Sam Patten wrote in a post on social media castigating the ad. (Mr. Patten, a former aide to Ms. Collins, pleaded guilty during the first Trump administration to failing to register as a foreign agent.)
+
+“She’s very smart, and she works very hard,” Mr. Patten told The Times. “There’s an arrogance in everyone in Washington,” he added, “but she never showed it before. She’s always been careful not to.”
+
+Ted O’Meara, a former aide to Ms. Snowe who also worked for Mr. Cohen alongside Ms. Collins and managed Eliot Cutler’s campaigns for governor in 2010 and 2014, described it as a sense of entitlement. “The sense that there’s nobody else that can do this job but me or do it as well as me,” he said.
+
+He stopped himself.
+
+“Is this on the record?” he asked.
+
+It was.
+
+“She’ll be pissed,” he said.
+
+Advocacy groups are suing to stop Trump officials’ efforts to set aside ballots in Washington State.
+
+Immigrant advocacy groups in Washington State filed suit late Friday night seeking to bar the Trump administration from forcing state election officials to set aside ballots from nearly 400 residents the administration believes may not be citizens.
+
+The lawsuit, filed in Federal District Court in Seattle, was the latest legal move taken to stave off pressure from the White House to stop noncitizens from voting — even though the administration has often been wrong about whether registered voters are citizens.
+
+The suit in Seattle came in response to a letter that federal prosecutors sent on Monday to Washington’s secretary of state, Steve Hobbs, demanding that he instruct election officials not to accept ballots from the 400 people until federal agencies could determine their citizenship.
+
+Days later, Trent McCotter, the No. 2 official in the Justice Department, followed up with a second letter reminding Mr. Hobbs that mishandling ballots is a federal crime.
+
+The suit from the advocacy groups took issue with both the accuracy of the list of voters sent to Mr. Hobbs and what it characterized as veiled threats of prosecution by senior Justice Department officials.
+
+“Defendants’ list is not evidence of anything,” the suit maintained, “and their deeply chilling threats of federal penalty for election officials and others who fail to conform to their demands are baseless.”
+
+Washington is not the only state that has faced heavy pressure from the Trump administration to set aside ballots from voters deemed to be ineligible because of their citizenship.
+
+The administration sued California state officials, seeking to force them to set aside the ballots of more than 20,000 registered voters it said were noncitizens. That move was blocked for the second time on Friday by a federal appeals court, which determined that granting the government’s request would have undermined California’s authority over its election procedures and violated the “plain text” of the Constitution.
+
+In a parallel effort, the Justice Department has issued a flurry of subpoenas to California state election officials in a widening criminal investigation seeking to prove its unsubstantiated claims that thousands of noncitizens are on California’s voter rolls.
+
+But, in a major setback to the administration, a federal judge in San Francisco issued a ruling late on Friday blocking the Justice Department from threatening to prosecute state and local election officials who do not comply with its directives on handling ballots.
+
+The ruling, by Judge Trina L. Thompson, ordered the department not to “threaten, intimidate or coerce state or local elections officials or workers to demand that they halt processing the ballots” based on the government’s suspicion that the voters might be noncitizens. She has scheduled a hearing for Monday.
+
+Here’s why Haley Stevens can’t stop talking about Abdul El-Sayed.
+
+Representative Haley Stevens of Michigan stood up from her dining table, where the tuna fish and matzo ball soup sat half-eaten, and let loose about the moment she grew disillusioned with Dr. Abdul El-Sayed.
+
+It happened this month, during her state’s first Senate debate between Dr. El-Sayed, who defeated her in a bitter Democratic primary in August, and former Representative Mike Rogers, the Republican nominee. Dr. El-Sayed, an outspoken critic of Israel, was asked if Iran or Israel posed a greater threat to the United States. He dodged the question, calling it a “ridiculous hypothetical.”
+
+This was unacceptable to Ms. Stevens.
+
+“He’s a good speaker,” she said during the lunchtime interview on Friday at her home in Birmingham, Mich., raising her voice and rising from the table. “He’s an orator. He is gifted. Then how does that happen? Come on!”
+
+Since the debate, Ms. Stevens has sat for a procession of cable television interviews that have been increasingly critical of Dr. El-Sayed, her endorsement of him becoming shakier by the day. Their hug at a party unity brunch in August has faded into distant memory.
+
+On Friday, Ms. Stevens announced that she would attend a Sunday church service in Detroit with Dr. El-Sayed, a peace offering brokered by Representatives Debbie Dingell of Michigan and James E. Clyburn of South Carolina. But Ms. Stevens’s statement came with a caveat: a demand that Dr. El-Sayed publicly disavow an ad that one of his allies posted online. She called the ad antisemitic because it blamed U.S. support for Israel for high grocery prices.
+
+On Friday, Dr. El-Sayed pushed back.
+
+In a blistering statement, he offered a reminder that he beat her in August and an assertion that “Congresswoman Stevens seems intent on relitigating a primary that ended three months ago.”
+
+Whether their planned joint appearance on Sunday will go ahead seems up in the air.
+
+Ms. Stevens said late Friday that she was not sure if the church event was still happening, or even if she was still invited. She said that no one from Dr. El-Sayed’s team had called her on Friday. She also said she had not retracted her endorsement of him and did not plan to.
+
+“I haven’t had time to digest this,” she said. She added, “I don’t think this is a melodrama.”
+
+Some other Michigan Democrats have been baffled by Ms. Stevens’s unsupportive media tour in the final days of the campaign, with Dr. El-Sayed serving as a key chess piece in the party’s push to take back the Senate. Polls show Dr. El-Sayed in a close race with Mr. Rogers. To win the chamber, Democrats need to retain Democratic-held Senate seats like Michigan’s and flip at least four states held by Republicans.
+
+“I have no idea what the hell Haley Stevens is doing,” Mallory McMorrow, a state senator who also ran for the U.S. Senate in Michigan and dropped out a month before the primary, said on CNN on Friday. “This is a moment where we have to recognize the stakes.”
+
+Dr. El-Sayed’s campaign declined to discuss Ms. Stevens’s commentary.
+
+Ms. Stevens’s growing criticism of Dr. El-Sayed serves as a stark sign of just how fiercely resistant some moderate Democrats and Jewish voters remain to his candidacy.
+
+Several times in the interviews, she returned to her anger over the online ad, made by Rebellion PAC, a left-wing group that backed Dr. El-Sayed, and his refusal to publicly disavow it. The El-Sayed campaign has said it did not make and is not responsible for the ad.
+
+“Maybe it’s how you fund-raise, maybe it is what you want people to believe, but the reality is that we are not going to say that the cost of groceries is because of Jews and the Jewish state,” Ms. Stevens said. “We’re not going to say we don’t have health care because of Jews and the Jewish state.”
+
+Ms. Stevens is not Jewish but has always been a pro-Israel Democrat. She attended a Jewish sleep-away camp as a teenager and now represents suburban Oakland County, which is home to a large segment of Michigan’s Jewish population. Tensions over Israel dominated her primary with Dr. El-Sayed, when the American Israel Public Affairs Committee’s main super PAC spent at least $30 million backing her campaign.
+
+She also now has a partner who may feel even more strongly about the issue than she does.
+
+Her fiancé, Jason Turkish, a Jewish lawyer who has raised money for both Democrats and Republicans, has gone even further than she has in criticizing Dr. El-Sayed. He publicly endorsed Mr. Rogers and appeared at a campaign event with him on Wednesday.
+
+Ms. Stevens said that in anticipation of her wedding next summer to Mr. Turkish, she had met with a rabbi to discuss the possibility of converting to Judaism.
+
+Over lunch and in two subsequent phone calls, including one with both her and Mr. Turkish, Ms. Stevens said she felt compelled to speak out for Jewish constituents who are scared of the prospect of Dr. El-Sayed in the Senate.
+
+“There’s people who are hurt and worried about a bunch of different things,” she said. “They’re making sacrifices because of affordability. Someone in the Jewish community said, — six months ago, it was during the primary — safety is our affordability issue because of attacks on Jewish elected officials’ homes, attacks to their lives, attacks on the synagogues.”
+
+Ms. Stevens repeated her assertion that she supported all Democrats running, including Dr. El-Sayed, and that she planned to vote for him. But asked if she wanted him to win, she was more circumspect.
+
+“I think he’s going to win,” she replied.
+
+Asked again if she wanted Dr. El-Sayed win, she dodged again.
+
+“I don’t know why you’d ask me that,” she said.
+
+Pressed one more time about her public criticism of Dr. El-Sayed, she offered a little more.
+
+“I ran for a Democratic nomination, intent in understanding that I wanted a Democrat to win,” she said. “We sat down for a long period of time, Abdul and I did, in the first quarter of ’25, before we both decided to run, making that commitment to each other, so of course.”
+
+It was not a ringing endorsement.
+
+But while Mr. Rogers has welcomed Ms. Stevens’s supporters, she said he had not called her.
+
+Then there is the matter of Mr. Turkish.
+
+Even as Ms. Stevens had lunch with a New York Times reporter, Mr. Turkish was sitting for his own interview live with TMZ. He said Ms. Stevens would pull her support from Dr. El-Sayed if he did not soon disavow the grocery prices ad.
+
+“I don’t think she’s going to be supporting Abdul El-Sayed very much longer,” Mr. Turkish told TMZ.
+
+After his comments aired, Ms. Stevens invited the Times reporter to call her back, and this time she had Mr. Turkish on the line.
+
+She said that her fiancé had not caused her to change her positions on Israel or Dr. El-Sayed.
+
+“I think I’ve changed his opinion,” she said. “He goes, ‘You’re more Jewish than me.’”
+
+In the interview, Mr. Turkish said he had expected Dr. El-Sayed to “move to the middle” on Israel after the primary. He called Dr. El-Sayed’s response to the debate question about Iran and Israel “the tipping point for me” and declared that his own safety would be in jeopardy if Dr. El-Sayed were elected to the Senate.
+
+“I think I’d be less safe on this planet if Abdul El-Sayed is the senator, if he is insisting on sticking to the current program,” Mr. Turkish said. “He is so unwelcoming to people who have reasonable anxieties about Jews being scapegoated once again, as they have been for thousands of years, that the idea that he will steer not just U.S. policy, but foreign policy globally, it makes me extremely, extremely anxious.”
+
+Mr. Turkish said he believed Ms. Stevens, 43, still had a bright future in politics.
+
+“I know there’s going to be other opportunities,” he said. “I think she can run for the United States Senate again if she wants to.”
+
+Though he is a veteran fund-raiser and an accomplished lawyer, Mr. Turkish had not been a sought-after political surrogate. His endorsement had never made news before now.
+
+But he said he felt compelled to make a public endorsement for Mr. Rogers and appear with him at a campaign event because he did not want his public image to be a late-night TV sendup of him and Ms. Stevens.
+
+“My friends and family members are asking me what I’m doing,” Mr. Turkish said. “I think they wanted to hear more from me than what they got off of two spoofed appearances on ‘The Tonight Show.’”
+
+James Talarico makes a final pitch to Texans: ‘You are my slingshot.’
+
+James Talarico, the Democratic candidate for U.S. Senate in Texas, invoked the mythological grandness of his native state when he told a crowd in El Paso this week, “Our musicians are so iconic, they only need one name: Willie. Beyoncé. Selena.”
+
+Improbable as it might seem, the once-obscure 37-year-old state representative and former middle-school teacher with the choirboy face has entered an elite pantheon himself.
+
+A little more than a year after Mr. Talarico began his candidacy, he has become a marquee political persona, and not just in Texas. His race, which could become the most expensive in the history of nonpresidential campaigns, may well decide which party controls the Senate.
+
+The Democratic candidate’s celebrity has thrown Republicans into a panic, prompting the world’s richest man, Elon Musk, to donate an unheard-of $158 million to groups that support Mr. Talarico’s G.O.P. opponent and the state attorney general, Ken Paxton.
+
+A smooth orator and prolific fund-raiser, Mr. Talarico has cast his upstart campaign in biblical terms. He is David, the corrupt political system exemplified by Mr. Paxton is Goliath and in whatever city he happens to be in, he declares, “You are my slingshot.” He has run a largely mistake-free campaign, although the flu took him off the trail for nine days.
+
+He has consistently drawn overflow crowds, many of whom wear T-shirts declaring themselves to be “Talafreakos,” first deployed by Mr. Paxton as a term of derision. Last Tuesday, an estimated 4,000 people turned out in Lubbock — an extraordinary number for a Democrat in the ruby-red city — while Mr. Paxton was campaigning with President Trump less than three miles down the road.
+
+In Texas, these count as remarkable feats for a Democrat. But because it is Texas, such accomplishments may still not be enough for victory.
+
+“I think James has at most a 50 percent chance of winning,” said Luke Warford, the chairman of the Travis County Democratic Party. “Which, look, in Texas, that’s phenomenal. If you told me a year ago a Democrat would have a coin-flip chance of winning, I’d be doing backflips.”
+
+People close to Mr. Talarico’s campaign privately echoed Mr. Warford’s assessment of the race. A New York Times/Siena University poll in September and a CNN/SSRS poll conducted Oct. 20 to 27 showed Mr. Talarico ahead by 6 percentage points, but other recent public surveys show him either tied with Mr. Paxton or within the margin of error with a 2-point lead. The candidate’s internal polls match those tighter surveys, people close to Mr. Talarico said, and may not be fully capturing the sentiments of rural conservative voters who support Mr. Trump.
+
+There is plentiful evidence the race could go either way. During the homestretch of Mr. Talarico’s campaign, from deep-blue regions (San Antonio, Laredo, the Rio Grande Valley and El Paso) to steadfastly Republican terrain (Midland and Lubbock), Mr. Talarico’s bursting-to-capacity crowds made it possible to imagine that he could flip a statewide race for the first time in decades. Just as ubiquitous were signs his efforts could fall short.
+
+A major obstacle facing Mr. Talarico is the avalanche of attack ads funded by Mr. Musk, in which the candidate is portrayed as a far-left extremist. At a stop one afternoon at the Bexar County Democratic Party headquarters in San Antonio, Mr. Talarico assured volunteers that their door-knocking work would surmount Mr. Musk’s efforts, saying, “The political science is very clear: TV ads don’t make much of a difference.”
+
+But three days later, one of Mr. Talarico’s supporters who attended the Lubbock event, Rebecca Murrow, begged to differ when a reporter asked whether the attack ads were having an impact among people she knew. “Oh, you better believe they are,” she said.
+
+A friend standing next to her, Luke Anderson, concurred, citing his mother as one example of a person who could not bring herself to support Mr. Talarico after viewing the ads.
+
+Still, Ms. Morrow added, “It makes me proud to be supporting someone who’s trying to change their minds, no matter how hard it is.”
+
+‘One of Y’all’
+
+Mr. Talarico’s barnstorming tour, “Clear Eyes, Full Hearts,” is named after part of the motto of the film and TV series “Friday Night Lights,” about Texas high school football. The candidate frequently recites the lyrics of Lyle Lovett, the Texas singer-songwriter. His omnipresent footwear is not-too-shiny Lucchese cowboy boots, primarily made in El Paso. In short, Mr. Talarico has made one thing abundantly clear in every campaign appearance: He really wants you to know that he’s a Texan.
+
+Flashing his Lone Star credentials as an eighth-generation native son is a tacit acknowledgment that the pale and slightly built pastor-in-training does not personify the Texas swagger the way the state’s political titans of yesteryear did, among them former Presidents Lyndon B. Johnson and George W. Bush and former Govs. Ann Richards and Rick Perry. (As it happens, Mr. Paxton was born in North Dakota and spent some of his youth in California, though his party does not seem to hold that against him.)
+
+The “I’m one of y’all” references also constitute a self-normalizing effort to make up for what Mr. Talarico now terms “cringey” remarks he uttered several years ago about God being “nonbinary” and his belief that there are six biological sexes.
+
+While those earlier statements live on in attack ads, Mr. Talarico has provided little in the way of new material for his opponent’s ad makers. He is self-disciplined, stays on script and comes off as more the seminary student he once was than the kind of fire-breathing populist fashionable in the Trump era. He wears the same youthful, Texas business casual uniform every day: a tailored blazer, a crisp white dress shirt, jeans and those cowboy boots.
+
+Although he talks to the local media, of late he has declined most interviews with the national press, including The New York Times, on the grounds that those engagements are less likely to win votes. He travels aboard his “Talarico for Texas” R.V. with a small inner circle of young aides rather than outside political consultants. At events, his volunteers distribute signs that have his name on one side and “Love Thy Neighbor” on the other.
+
+Projecting himself as a conciliator has helped win support from more than two dozen current or former state Republican officeholders, not to mention two relatives of Mr. Bush: his brother Neil and his daughter Barbara. A source close to Mr. Talarico’s campaign confirmed that members of the family had reached out and that the candidate has been in touch with them. That said, the Bush name no longer means what it used to in Texas, and it remains to be seen if Mr. Talarico’s throwback appeal for a kinder, gentler political culture can prevail amid a pugilistic zeitgeist.
+
+In Hostile Territory
+
+Mr. Talarico’s trip to Lubbock pointed to the subtext of his campaign. No matter what the polls say, in Texas the underdog is by nature the Democrat. Mr. Talarico does not have the luxury of focusing his efforts on the deep-blue urban areas of the state. He is obliged to find votes everywhere he can, even in hostile territory.
+
+In both Midland and Lubbock, Mr. Talarico’s advance staff had to scramble to find bigger places that would accommodate his crowds, then made sure to post those images on social media. Talafreakos living outside Texas contrasted what they saw with Mr. Paxton’s lackluster gatherings and asked the inevitable question: With these crowds, how can we possibly lose?
+
+Few if any of the roughly 600 Midland Democrats standing in line for Mr. Talarico’s event suffered any such illusions. “Our Talarico lawn sign is the only one for blocks around,” said Linda Jordan, 78, a Democrat. “The neighbors don’t talk to us much.”
+
+Tamara, a 43-year-old Midland Democrat who declined to give her last name, said of her neighbors that “there’s no changing their minds” and that her energies were instead focused on persuading her husband to vote for Mr. Talarico. She suspected, she said, that he had voted for Mr. Trump in 2024, though “he still won’t tell me.”
+
+Mr. Talarico’s allies acknowledge that for him to win, he will need to maximize turnout in Latino-heavy communities. But Democratic Party officials said in interviews that while knocking on doors in both San Antonio and El Paso, they encountered abiding loyalty to Mr. Trump and an aversion to Mr. Talarico, particularly among Latino men. In downtown Lubbock this week, a long line of the president’s supporters waiting to get into a Trump rally included numerous Latino men, many of them wearing “Make America Great Again” caps.
+
+Mr. Talarico’s surrogates are now couching their sense of urgency about the Latino vote in comic appeals.
+
+In San Antonio, the actress Eva Longoria exclaimed: “Tell everyone! Tell your ex-boyfriend!” In El Paso, the city’s congresswoman, Veronica Escobar, beseeched a group of volunteer canvassers, “By all means, harass your family and your friends.”
+
+In the end, people close to Mr. Talarico acknowledge that though Mr. Trump’s popularity has waned in Texas over the past two years, enough of his supporters remain to determine the outcome in Mr. Paxton’s favor, assuming they choose to back him.
+
+In a last-ditch effort to split Republican loyalties, the Talarico campaign recently authorized the state party to send out mailers featuring a quote from a Texas woman: “I voted for Trump, but I cannot vote for Ken Paxton.”
+
+Standing in line while awaiting Mr. Talarico’s arrival in Midland, Javier Soto, 59, said his father was among the many Texans who had supported Mr. Trump throughout the years. “But he says it’s time for a change,” Mr. Soto said.
 

@@ -1,0 +1,110 @@
+================================================================================
+heat-battery-thermal-energy-storage.html
+Source: PreloadedData  Paragraphs: 44  Words: 1681/1685
+================================================================================
+
+SUMMARY
+
+Most big batteries store electricity and discharge it as needed, and they have already revolutionized power grids and ushered in an era of electric vehicles. But this battery array, built over the past year by a start-up called Antora Energy, stores large amounts of blistering heat. Only a smattering of these large heat batteries exist today.
+
+ARTICLE
+
+A New Kind of Battery Is Taking Off. This One Stores Blistering Heat.
+Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.
+By Brad Plumer
+Published 2026-10-29 09:00 UTC
+https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html
+
+Nestled in the cornfields of eastern South Dakota, a new type of battery is running, and some companies are betting the idea could transform the global energy system.
+
+Most big batteries store electricity and discharge it as needed, and they have already revolutionized power grids and ushered in an era of electric vehicles. But this battery array, built over the past year by a start-up called Antora Energy, stores large amounts of blistering heat.
+
+To charge up, Antora draws surplus electricity from nearby wind farms that would otherwise go to waste, using it to heat carbon blocks to as much as 4,352 degrees Fahrenheit. The blocks stay hot for days, releasing heat on demand to produce steam for a nearby biofuel refinery, replacing the need to burn natural gas and coal.
+
+Only a smattering of these large heat batteries exist today. But experts say the technology, also known as thermal storage, has the potential to unlock vast amounts of low-cost clean energy.
+
+“We want this to be a global energy solution,” said Justin Briggs, a co-founder and chief operating officer of Antora, which is based in San Jose, Calif. “We want to be able to provide cheap, reliable energy anywhere in the world.”
+
+Interest in energy storage has soared in recent years, partly because of the rapid growth of wind and solar power. While those technologies can generate electricity cheaply, they are intermittent and often produce power when it’s not needed, like on gusty nights. That means periodic gluts of low-cost energy, if anyone can figure out how to harness it.
+
+Storing that energy as heat has advantages.
+
+Industries and factories need tremendous amounts of heat and steam for everything from frying potato chips to smelting iron ore. They usually burn coal or natural gas to generate high temperatures, which creates more planet-warming greenhouse gases than all of the world’s cars combined. Heat batteries could offer a cleaner option.
+
+Nearly a dozen start-ups have emerged with their own ideas for thermal storage. Rondo Energy, based in Alameda, Calif., uses superheated bricks. Others are using ceramic bricks, crushed rocks or dirt.
+
+Plenty of obstacles loom. Companies have to prove they can scale up and that their materials won’t degrade under extreme temperatures. In many regions, regulations make it difficult for heat batteries to take advantage of inexpensive renewable power.
+
+Yet some analysts say the technology has significant potential, even if climate concerns have faded from the political agenda. The U.S.-led war with Iran has disrupted global supplies of natural gas, leaving many industries seeking alternative energy sources. Some thermal storage companies, including Antora and Rondo, are considering ways to use heat batteries to fuel data centers as tech giants scramble for power.
+
+“It’s an incredibly promising technology,” said Jeffrey Rissman, senior director of industry at Energy Innovation, a nonpartisan research organization. “I struggle to envision a clean industrial future and a clean grid without a role for thermal storage.”
+
+An early test
+
+Just outside of Big Stone City, S.D., POET, one of the world’s largest biofuels producers, owns an ethanol refinery. Each day, roughly 150 trucks rumble in with thousands of bushels of corn that get crushed, heated and distilled into fuel for cars.
+
+That distillation process requires a steady supply of steam, roughly 350 degrees Fahrenheit. For years, the company burned tremendous quantities of natural gas, enough to power tens of thousands of homes each day, in three massive boilers to generate that heat. It also used waste steam from a coal-burning power plant next door.
+
+That’s quickly changing.
+
+On a bright September day, workers were putting the finishing touches on Antora’s heat battery, which sits across the street from the ethanol plant and started piping over hot steam earlier this year.
+
+South Dakota is a good place to try the technology because there’s a surplus of cheap electricity here — at times. Wind turbines generate 60 percent of the state’s power, but often, bottlenecks on transmission lines mean those electrons have nowhere to go. During breezy periods, wholesale electricity prices can sink to near zero, and grid operators sometimes have to shut off turbines that are not needed.
+
+In a control room, Antora’s employees monitor local grid conditions. When prices drop low enough, the batteries start charging. When prices rise, charging stops. That’s key to making the economics work.
+
+“We take electricity when it’s abundant and inexpensive and when no one else needs it,” said Mr. Briggs, who co-founded the company in 2018. “We wanted to make sure that we were never going to add extra strain to the grid.”
+
+That electricity powers large resistance heaters similar to those found in toasters, which heat hundreds of carbon blocks in steel-encased modules the size of shipping containers. The carbon blocks glow white-hot at high temperatures, transferring energy to a circulating fluid that’s used to generate steam.
+
+Antora’s battery charges faster than it releases heat and, once fully charged, can provide a constant flow of steam for 100 hours, even through a long lull in wind power.
+
+POET has been pleased with the results so far and plans to switch off its gas boilers nearly year-round. The cost of the steam it gets from Antora is competitive with buying natural gas, the company said. POET also gets an extra benefit: By reducing greenhouse gas emissions, the company qualifies for a bigger federal tax credit for low-carbon biofuels.
+
+“It’s been a good partnership,” said Jeff Lautt, the company’s president and chief operating officer. “So much so that we would be open to doing it again at another location if it makes sense.”
+
+While thermal storage may have climate benefits, it has attracted bipartisan support. When Antora’s project came online, South Dakota’s Republican governor and senators praised it. Many conservatives like the idea of round-the-clock power that relies on domestic materials. The carbon blocks can be manufactured from byproducts of petroleum and coal production and, unlike many battery types, don’t rely on Chinese components.
+
+“It’s more than a niche technology,” said Peter Lake, who until recently was senior director of power for the Trump administration’s National Energy Dominance Council. “There’s an elegance and simplicity to it.”
+
+Antora recently announced a deal to provide a thermal battery to another ethanol refinery in Kansas, owned by Pratt Energy. But the batteries could supply heat for a wide range of processes, from paper pulping to cement making, not just for biofuels, Mr. Briggs said.
+
+“Almost every major industry has a steam system like this that you can just plug into,” he said.
+
+The need for heat
+
+Rival projects are popping up quickly.
+
+Rondo Energy, a major competitor, uses renewable energy to heat firebricks to as much as 2,732 degrees Fahrenheit. The start-up is already providing steam to a biofuels plant in California and a cement factory in Thailand; an upcoming project will tap daytime solar power to supply heat to a brewery in Portugal owned by Heineken.
+
+Eric Trusiewicz, Rondo’s chief executive, says that thermal storage looks increasingly attractive financially because of the falling cost of renewables and recent disruptions to oil and gas markets caused by wars in Ukraine and the Middle East.
+
+“As a general philosophy, we don’t try to sell anywhere unless we’re substantially less expensive than fossil fuels,” Mr. Trusiewicz said. “Five years ago, that was a limited number of places. Now, that’s become a very large part of the world.”
+
+If they hope to compete with gas, the batteries need to be dirt-cheap. Antora aims to speed production by making modules in a factory and trucking them to project sites for fast installation. The company says it built the South Dakota project, one of the largest battery arrays on the planet, in under a year.
+
+“Now we have to prove we can do this at global scale,” Mr. Briggs said.
+
+One recent study from the National Laboratory of the Rockies estimated that thermal storage could potentially outcompete natural gas in many places and eventually supply up to one-third of America’s industrial heat needs if battery costs keep declining.
+
+That would be significant for climate change, since industrial heat accounts for roughly 10 percent of planet-warming greenhouse gases, more than cars or airplanes.
+
+“Industrial heat hasn’t really received a lot of attention to date,” said Melissa Hulting, director for industrial decarbonization at the Center for Climate and Energy Solutions, a nonprofit organization. “Thermal batteries could be a real game-changer.”
+
+That study did identify a major catch, however.
+
+In many parts of the country, it can be difficult for heat batteries to charge only when electricity is plentiful and cheap, because local rules don’t allow retail prices to vary by the hour. In South Dakota, Antora spent long hours negotiating a new rate structure with the local utility, Otter Tail Power. But reworking the rules across hundreds of different utilities and grid regions could take time.
+
+“There’s an inertia challenge to overcome,” said Matt Schuerger, a former member of the Minnesota Public Utilities Commission. “As you often see with new innovations, many of these rules were written before thermal batteries came along.”
+
+A data center frenzy
+
+Some investors have recently been exploring heat batteries to power the energy-hungry data centers needed for artificial intelligence.
+
+Tech companies are racing to get electricity wherever they can, particularly from sources like natural gas that generate power at all hours. Yet wait lists for gas generators can stretch for years.
+
+Antora and Rondo say they could use steam from heat batteries to run simple steam turbines that are easier to get and produce steady power for data centers. This sounds inefficient — turning electricity into heat and then back into electricity — but analysts say it can make sense if the batteries can be installed quickly.
+
+In July, Antora raised $550 million, and some of its investors said the potential to power data centers was particularly alluring.
+
+“Industrial heat is a big opportunity, but this data center opportunity is massive,” said Joe Fath, a partner and head of growth at Eclipse, which helped to lead Antora’s funding round. “I think it’s most likely over time going to be the bigger driver.”
