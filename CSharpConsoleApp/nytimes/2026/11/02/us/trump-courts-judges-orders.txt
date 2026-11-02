@@ -1,0 +1,144 @@
+================================================================================
+trump-courts-judges-orders.html
+Source: PreloadedData  Paragraphs: 61  Words: 2804/2803
+================================================================================
+
+SUMMARY
+
+Since President Trump returned to office nearly two years ago, courts have frequently ordered his administration to pause or halt aggressive actions after they drew legal challenges. But again and again, his executive branch has skirted judicial constraints through delayed, contested or incomplete compliance, all while Mr. Trump has attacked judges appointed by presidents of both parties. “The word ‘contempt’ clearly applies to what Trump and some of his people have been saying about the courts,” said Michael McConnell, a Stanford law professor and retired Republican-appointed appeals court judge.
+
+ARTICLE
+
+Trump Skirts Court Commands as Distrust Between Branches Spirals
+Repeated compliance disputes and personal attacks on judges are straining relations between the executive branch and the judiciary.
+By Charlie Savage
+Published 2026-11-02 10:02 UTC
+https://www.nytimes.com/2026/11/02/us/trump-courts-judges-orders.html
+
+Since President Trump returned to office nearly two years ago, courts have frequently ordered his administration to pause or halt aggressive actions after they drew legal challenges. But again and again, his executive branch has skirted judicial constraints through delayed, contested or incomplete compliance, all while Mr. Trump has attacked judges appointed by presidents of both parties.
+
+An examination of confrontations across the country shows a widening breakdown in trust between the executive branch and the federal judiciary. Judges increasingly greet Justice Department representations with skepticism. Administration officials, meanwhile, have treated courts with disdain — accusing judges of bias and seeking their removal. In an extraordinary step, the administration recently filed a misconduct complaint against nearly every active district judge in Minnesota.
+
+The result has been a poisoning of the relations between the branches to such a degree that it is now straining the judiciary’s ability to serve as a check on executive power, as Mr. Trump approaches the second half of his term.
+
+Some conflicts have been relatively straightforward, involving findings by courts that the executive branch failed to comply with binding orders — though typically without clear evidence that officials understood themselves to be deliberately violating judicial commands.
+
+Others have been more complex and less clear-cut. Judges and the administration have fought over interpretations of specific judicial commands and failures by officials to live up to assurances they made to courts without explicit written orders. Sometimes, the executive branch has gotten around the courts by coming up with a new legal rationale for a policy that a judge said was not authorized by the authority officials initially cited.
+
+Taken as a whole, the constant friction has undercut the reach of judicial authority as a check and balance on executive power and undermined the interbranch comity and trust that has traditionally helped keep the American system of government functional.
+
+“The word ‘contempt’ clearly applies to what Trump and some of his people have been saying about the courts,” said Michael McConnell, a Stanford law professor and retired Republican-appointed appeals court judge. “The judges have become skeptical and certainly are no longer giving the Justice Department the benefit of the doubt.”
+
+The interbranch tensions have gained urgency as election-related cases reach the courts ahead of this week’s midterms. The cases include a court order blocking Mr. Trump’s plan to bar the Postal Service from delivering certain mail ballots and multiple pending requests for judicial orders barring the administration from sending armed federal agents to polling places.
+
+In a statement, Lauren Bis, a White House spokeswoman, said the Trump administration “has always, and will continue to follow all court orders.”
+
+“Lower courts have engaged in an unprecedented number of lawless injunctions seeking to obstruct President Trump’s agenda that the American people elected him to enact,” she continued, “but with well over 25 Supreme Court victories, President Trump’s policies have been consistently upheld as lawful.”
+
+All modern administrations have sometimes bristled at judicial setbacks. President George W. Bush said he disagreed with a 2008 ruling about Guantánamo detainee rights but would abide by it. President Barack Obama criticized a campaign-finance decision in his 2010 State of the Union, with justices seated before him. President Joseph R. Biden Jr. in 2023 said he thought the court got the law wrong when it blocked his student-loan forgiveness program, and he vowed to try again under a different authority.
+
+Part of what makes the second Trump administration different is the sheer volume of Mr. Trump’s confrontations with the courts. They also come as the administration has destroyed the traditional principle that the White House should play no role in directing law enforcement investigative and charging decisions in specific cases.
+
+In some cases, skeptical judges have dismissed high-profile indictments and quashed investigative subpoenas, including at times finding that the Justice Department had improper motivations. And judges have increasingly been concluding that the department has been misrepresenting facts in civil litigation hearings and filings.
+
+In a recent Duke Law Journal article, two University of Michigan law professors, Daniel T. Deacon and Leah M. Litman, dubbed the administration’s pattern of using evasive tactics to deflect limits imposed by the courts style as “legalistic noncompliance.” And that behavior inside courtrooms has been coupled with venomous personal rhetoric about judges out of court.
+
+Compounding the stakes, other legal checks on Mr. Trump have weakened since his first term. The Supreme Court in 2024 declared that presidents have broad immunity for crimes committed with official powers.
+
+Mr. Trump has installed in key executive branch legal positions loyalists who were vetted as being less likely to raise objections to his ideas than even very conservative and political appointed lawyers sometimes were in his first term, and he has forbidden dissent by government lawyers. With Republicans controlling both chambers, and with the departure of some Republicans who occasionally challenged Mr. Trump in his first term, Congress has so far rarely constrained him.
+
+That has left the courts as a principal obstacle to parts of his agenda — and a recurring target of his wrath.
+
+Failing to Obey Orders
+
+Before becoming vice president, JD Vance repeatedly argued that presidents could and should ignore court orders they regarded as infringements on their rightful executive powers. Soon after taking office in early 2025, he declared on social media that “judges aren’t allowed to control the executive’s legitimate power.”
+
+To date, however, the second Trump administration has not declared that it has intentionally violated a binding order. Instead, it has disputed the meaning of orders, challenged judges’ authority to issue them or attributed failures to comply to mistakes and overwhelmed systems.
+
+In February, for example, a Justice Department lawyer filed a report in which she identified 52 court orders in New Jersey that the government had violated after reviewing 547 immigration actions. The violations included transferring detainees out of state despite a no-removal directive and missing deadlines to present detainees for a bond hearing. The department stressed there was no evidence that any of the failures were intentional.
+
+Similarly, when the administration flooded Minneapolis with immigration agents for a major crackdown, Patrick J. Schiltz, a Bush appointee who was then the chief judge, found that the government had violated 210 orders in 143 immigration cases in the first two months of 2026. Low-level government lawyers told courts those failures, too, were unintentional, reflecting a system overwhelmed by the volume of arrests and litigation.
+
+For the judges, however, the repeated failures raised a more fundamental issue: The executive branch had dispatched more than 3,000 immigration agents to the city without ensuring there would be adequate lawyerly resources to deal with the predictable surge of habeas cases.
+
+The Justice Department responded to the criticism by attacking the judges themselves. A month ago, it filed a misconduct complaint against nearly every active federal district judge in Minnesota for publicly warning, in New York Times interviews, that the administration’s systematic failure to obey the orders during the surge had jeopardized the rule of law.
+
+The complaint singled out Judge Schiltz, whom it accused of having “publicly taken sides on the political issue of immigration enforcement.” The department this month also moved to disqualify him and another district judge from immigration-related cases.
+
+“I not only have the right to speak out when I find the rule of law threatened — whether that be by negligence, inattention, incompetence, poor planning, or by conscious violation — I have a duty to do so,” Judge Schiltz said at a recent law school conference.
+
+In July, Judge Maame Ewusi-Mensah Frimpong in the Central District of California, a Biden appointee, held an array of Trump administration officials in civil contempt for failing to comply with a discovery order to provide work messages exchanged by immigration agents on personal phones. The texts were sought by plaintiffs in a class-action lawsuit concerning the immigration crackdown in Los Angeles last year.
+
+She imposed a $500-a-day fine, which the administration — which is contesting the contempt ruling — has been paying ever since. The payments do not come out of individual officials’ pockets, limiting their coercive effect.
+
+Other failures have been short-lived, and followed by belated compliance after lawyers returned to court.
+
+In September, Judge Timothy J. Kelly in the District of Columbia, a Trump appointee, blocked Mr. Trump from banning reporters from CNN, MS NOW and Politico from the White House. Journalists from the outlets were nevertheless denied entry for hours, regaining access only after lawyers filed a notice of noncompliance.
+
+Breaching Oral Understandings
+
+Some of the sharpest disputes have concerned instances when judges have delivered oral directives instead of or before issuing formal written orders. Traditionally, the government routinely obeys oral commands and even expressions of judicial expectations — but the Trump administration has contested their status.
+
+In March 2025, Mr. Trump invoked an 18th-century wartime deportation law to send planeloads of people accused of belonging to a Venezuelan gang to a notorious Salvadoran prison without an opportunity to contest their identities and removals in court.
+
+The American Civil Liberties Union sued on their behalf, and Judge James E. Boasberg, an Obama appointee who is the chief Federal District Court judge in the District of Columbia, told the administration during a hearing that they should turn any planes around so migrants aboard could receive hearings.
+
+He also said he would issue a formal written order so there would be no confusion and did so about an hour later. While it forbade removals from the United States, it did not mention planes already in the air.
+
+In fact, two planes of migrants were mid-flight, and the administration did not return them, instead allowing them to fly on to El Salvador and complete the transfer. Administration lawyers later argued that “an oral directive is not enforceable as an injunction,” and that the narrower written order superseded the oral directive. Judge Boasberg rejected that argument.
+
+A former Justice Department lawyer later told Congress that during planning for the deportations, Emil Bove III, a senior Trump appointee, had said that if a court enjoined the removals, the department “would need to consider telling the courts ‘fuck you’ and ignore any such order.” Mr. Bove, whom Mr. Trump has since appointed as an appellate judge, denied it.
+
+Judge Boasberg sought to hold contempt proceedings and establish who made the key decisions and what they knew at the time. But an appellate panel with two Trump appointees voted 2-1 to shut them down. The full appeals court is now weighing whether to let Judge Boasberg hold his inquiry, meaning the issue remains unresolved — some 20 months later.
+
+During the dispute, Mr. Trump attacked Judge Boasberg as a “radical Left Lunatic of a Judge, a troublemaker and agitator,” calling for his impeachment. Chief Justice John G. Roberts Jr., a Bush appointee, rebuked Mr. Trump, writing: “Impeachment is not an appropriate response to disagreement concerning a judicial decision.”
+
+A recent confrontation over Mr. Trump’s plans to remake a century-old public golf course in Washington followed a similar cycle of seeming understandings being breached, followed by judicial anger and accusations of bias.
+
+A preservation group and two local golfers sued in February, arguing that the government was bypassing required reviews. Justice Department lawyers told Judge Ana Reyes, a Biden appointee, that the redesign remained conceptual and promised adequate advance notice before major work began. Relying on those assurances, she held off on an injunction.
+
+Then, at 4:55 p.m. on Oct. 9, the Friday before a holiday weekend, the administration filed notice that it intended to clear as many as 529 trees for what it styled as “maintenance activities.” Workers began cutting the next morning, removing hundreds of trees before Judge Reyes intervened.
+
+During a four-hour emergency hearing, she excoriated the government, saying it had lost “all of its credibility.” The Justice Department sought her recusal, citing her heated remarks as intemperate. She refused to step aside, and Mr. Trump called her a “crazed lunatic” on social media while declaring that the renovation did not need approval and that work would begin “IMMEDIATELY!”
+
+That still-ongoing dispute — Judge Reyes on Oct. 30 ordered a formal inquiry into whether Trump administration lawyers made material misrepresentations to the court — illustrated an escalating tension. Traditionally, courts routinely have depended on Justice Department lawyers’ assurances, deferring to their factual representations, a practice known as the presumption of regularity.
+
+But courts around the country are increasingly finding that the word of Justice Department lawyers in the second Trump administration is not reliable.
+
+In February, for example, Judge Christine P. O’Hearn, a Biden appointee in New Jersey, required sworn affidavits from officials with firsthand knowledge about the transfer of an immigration detainee, writing that the presumption previously afforded to the executive branch “has been undeniably eroded.” She added that the court would “no longer blindly accept statements of fact” from the government.
+
+And in May, when Judge Mary S. McElroy, a Trump appointee in Rhode Island, quashed an administration subpoena for transgender children’s medical records, she approvingly cited a similar rebuke by another judge in Oregon, who had said the Justice Department could no longer be taken at its word, given how the department had withheld and misrepresented salient information in the case.
+
+“D.O.J. has proven unworthy of this trust at every point in this case,” Judge McElroy wrote.
+
+But the frequency with which judges of both parties are finding the Trump Justice Department to be unworthy of trust is contributing to a downward cycle. It creates pressure on judges to issue more detailed restrictions and to demand more evidence — steps the administration may then portray as unwarranted interference.
+
+The cycle has also been exacerbated by an administration tactic of sometimes narrowly interpreting its obligations under court orders.
+
+That tactic was central to the case of Kilmar Armando Abrego Garcia, whom the government mistakenly repatriated to El Salvador last year despite an immigration judge’s order barring his removal to his home country.
+
+After the Supreme Court directed the government to “facilitate” his return, the administration argued that it needed only to let him back in if he showed up at the border, not to seek his release from El Salvador.
+
+A federal appeals court rejected that interpretation as “not well taken.” Writing for the court, Judge J. Harvie Wilkinson III, a Reagan appointee, warned that the branches were increasingly coming “too close to grinding irrevocably against one another in a conflict that promises to diminish both.”
+
+“The respect that courts must accord the Executive must be reciprocated by the Executive’s respect for the courts,” he added. “Too often today this has not been the case, as calls for impeachment of judges for decisions the Executive disfavors and exhortations to disregard court orders sadly illustrate.”
+
+Under such pressure, the administration eventually retrieved Mr. Abrego Garcia from El Salvador.
+
+Exploiting Loopholes
+
+In other cases, the administration has found ways around court action blocking its policies by pursuing the same policies using alternative legal rationales.
+
+In early 2025, the White House ordered a broad spending freeze, prompting agencies to withhold foreign aid and domestic grants. Recipients sued, and judges blocked the White House’s directive. But Trump political appointees at agencies invoked other legal authorities to keep withholding the funds, saying they were making independent decisions rather than carrying out the blocked directives.
+
+Such disputes are inherently ambiguous. Presidents of both parties have tried similar gambits when blocked by the courts. But the Trump administration has been particularly aggressive in pressing forward rather than acquiescing to apparent court defeats.
+
+When the Supreme Court struck down Mr. Trump’s novel use of an emergency powers law to impose tariffs in February, he attacked the justices who voted against him as “a disgrace,” “incompetent” and an “embarrassment to their families.” Mr. Vance called the 6-3 ruling “lawlessness from the court, plain and simple.” Within hours, Mr. Trump imposed a 10 percent global tariff, citing a different legal authority, also novel. The move prompted renewed litigation over whether he could lawfully impose such import taxes.
+
+While appeals of adverse rulings are a normal part of litigation, the second Trump administration has been unusually aggressive in appealing.
+
+The administration has started making routine use of the Supreme Court’s once-rare emergency docket, appealing district court orders before litigation has had a chance to play out at an unprecedented rate, according to data compiled by Stephen I. Vladeck, a Georgetown University law professor.
+
+Professor Vladeck, who is also the author of a forthcoming Harvard Law Review article documenting the confrontational dynamic between the judiciary and the executive branch under the second Trump administration, said the pattern was damaging both institutions — undermining the credibility of the Justice Department and the courts’ neutral, above-the-fray image.
+
+Professor Vladeck said that in the long term, the tensions risked “eroding trust in our institutions, when those institutions depend in lots of ways, big and small, on the very trust that is now in jeopardy.”

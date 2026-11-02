@@ -1,0 +1,120 @@
+================================================================================
+animals-mysteries-research.html
+Source: PreloadedData  Paragraphs: 41  Words: 1828/1869
+================================================================================
+
+SUMMARY
+
+Scientists know that all snakes descend from a reptile that lived about 160 million years ago. “We need to make sure that we’re not modifying the behavior of the animals, so that we can really capture what their natural sleep patterns might be,” she said. “The defenses these animals evolved to cope with flight may also help them age more slowly,” said Katia Renault, a Ph.D. student at Harvard who studies longevity in birds and mammals.
+
+ARTICLE
+
+Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries
+There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10.
+By Emily Anthes and Stella Raine Chu
+Published 2026-11-02 10:00 UTC
+https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html
+
+Why did snakes lose their legs?
+
+Scientists know that all snakes descend from a reptile that lived about 160 million years ago. But that ancestor had four legs. What rendered those limbs unnecessary?
+
+Some scientists contend that being limbless gave early snakes an advantage — a leg up, as it were — on land, by helping them thrive in narrow, underground tunnels. Others propose that elongated bodies evolved for swimming in the water.
+
+Fossils highlight the debate. In 2015, researchers examined X-ray models of the inner ear of an animal closely related to the ancestor of modern-day snakes. The anatomy suggested that these ancestors lived underground. But fossils of primitive snakes with developed hind legs have also been found in marine limestone, suggesting that the first snakes may have lived underwater.
+
+“It’s hard to tell what exact conditions drove the evolution of this body plan,” said Tiago Simões, an evolutionary biologist at Princeton.
+
+Why do sloths leave their trees to poop?
+
+Three-toed sloths spend most of their lives hidden high in the rainforest canopy. But about once a week, they make their deliberate way down to the forest floor to complete a singular mission: the evacuation of their bowels.
+
+The pit stop comes at great personal cost. “It takes them a lot of energy to get down there, and it makes them more vulnerable to predation,” said Roland Kays, a zoologist at the North Carolina Museum of Natural Sciences.
+
+Some experts have suggested that the sloths might be fertilizing their favorite trees or leaving chemical messages for each other. Or maybe the habit is linked to the tiny, specialized organisms — moths, green algae — that inhabit a sloth’s fur. Once the sloths are on the ground, the moths emerge and lay their eggs in the animals’ feces. The moths might be benefiting the sloths by foster the growth of the algae, which might be serving as a nutritional supplement for the sloths, or giving their fur a green tint that improves their camouflage.
+
+But these theories lack convincing evidence, Dr. Kays said. “There’s nothing that’s been put out that to me sounds like it could be the real answer,” he said. “It’s just so puzzling.”
+
+How do monarchs find their way?
+
+Every year, millions of monarch butterflies undertake a 3,000-mile journey across North America to the warm forests of central Mexico, where they spend the winter. As they return north, they lay their eggs and, eventually, die, passing the baton to the next generation to finish the circuit. It takes about four generations to complete the entire round-trip journey.
+
+“It’s like a relay race,” said Patrick Guerra, a neuroecologist who studies how animals respond to contemporary environmental changes.
+
+Which makes it all the more remarkable that, every winter, the monarchs seem to return to the same groves, or even the exact same trees, that their ancestors used.
+
+Scientists have identified some of their navigation strategies. Their internal circadian clocks track the movement of the sun, which informs their flight direction. And they can orient themselves using Earth’s magnetic field, especially on cloudy days. But how multiple generations of monarchs manage to find their way back to the exact same trees, year after year, remains a complete mystery.
+
+“There’s no cultural transmission,” Dr. Guerra said. “No one tells them what to do. Everything that they’re able to do is innate.
+
+How do sperm whales hunt giant squid?
+
+Sperm whales regularly feast on giant squid, the enormous, elusive cephalopods that haunt the deep ocean. But no one has ever seen these behemoths do battle.
+
+“It is a black box,” said Nicholas Pyenson, the curator of fossil marine mammals at the Smithsonian National Museum of Natural History. “This is not like lions on the Serengeti eating prey, which has been documented ad nauseam.”
+
+The two species appear to be locked in an evolutionary arms race. The whales use their powerful biological sonar to scan wide swaths of ocean, while the squid possesses huge eyes, which may help them spot an approaching whale. Some squid, at least, seem to put up a fight; many sperm whales bear telltale scars from suction cups.
+
+But do the whales hunt alone or in tandem? What kinds of evasive maneuvers are the squid capable of? How exactly do the whales capture and ingest them? “I could go on for a half an hour about all of the ways in which we don’t know what’s going on down there,” said Shane Gero, a whale biologist with Project CETI and Carleton University, in Ottawa.
+
+Why do some frogs turn blue?
+
+Contrary to the lament of one very famous frog, it’s relatively easy being green. This common frog complexion, which is caused by the layering of blue and yellow pigments in the skin, helps the amphibians blend into their surroundings.
+
+But on rare occasions, nature produces bright blue frogs, which don’t seem to produce yellow pigment properly. “There’s something funny going on in that yellow layer,” said Rayna Bell, curator of herpetology at the California Academy of Sciences. “Beyond that, everything else is questions.”
+
+Genetic mutations probably explain many cases, but the exact mechanisms are poorly understood. Environmental factors, including certain dietary deficiencies and chemical pollutants, could play a role, too. In some cases, spending a few weeks in fresh, clean water is enough to turn a rare, wild-caught blue frog into a bog-standard green one.
+
+The rarity of the phenomenon makes it hard to pin down the biological mechanism, and there may be more than one. “It could be different in different individuals,” Dr. Bell said.
+
+Why don’t seals need more sleep?
+
+How would you feel on four hours of sleep? How about three? So little sleep can be detrimental to our cognitive functions. But apparently not those of the elephant seal.
+
+During their monthslong oceanic journeys, the seals, a pinniped, sleep just two hours a day. And they get that sleep in 10-minute intervals, during which they drift down into the depths of the ocean in what is known as a “sleep spiral.”
+
+How they get by is poorly understood. Studying sleep in wild animals is challenging, said Jessica Kendall-Bar, a marine biologist at the Scripps Institution of Oceanography. “We need to make sure that we’re not modifying the behavior of the animals, so that we can really capture what their natural sleep patterns might be,” she said.
+
+And what counts as good sleep? “They could be bobbing at the surface worried about predators,” Dr. Kendall-Bar said. “Not all sleep is created equal.”
+
+Why do flying animals live longer?
+
+Body size and life span tend to be correlated in animals; the smaller the species, the shorter its life. But birds generally live at least twice as long as nonflying mammals of the same size. Bats, the only mammals capable of true flight, also live roughly 3.5 times longer than terrestrial mammals of the same size.
+
+That could be because flying helps animals evade predators. And when a population faces fewer of these external risks — and has more individuals surviving into adulthood and old age — natural selection may begin to favor animals with bodies that remain in tiptop shape for years.
+
+The physiological demands of flight might also have put evolutionary pressure on birds and bats to develop mechanisms for minimizing cellular damage and stress. “The defenses these animals evolved to cope with flight may also help them age more slowly,” said Katia Renault, a Ph.D. student at Harvard who studies longevity in birds and mammals.
+
+Why is tool use so rare in the animal kingdom?
+
+The alarm you use to wake up, the toothbrush that cleans your teeth, the shoes that you wear — tools like these make our lives easier. Some other animals, like chimpanzees and crows, have caught on to the usefulness of tools. Why haven’t more species joined them?
+
+“It’s a complicated answer,” said Alice Auersperg, a cognitive biologist at the University of Veterinary Medicine Vienna. Tool use requires an animal not only to form a relationship between their body and an object, but then to use that relationship to interact with their environment with an end goal in mind, often gaining access to food.
+
+Chimpanzees, for example, are adept tool users. “These animals, if triggered artificially, can innovate tool use and are fairly talented at it,” said Dr. Auersperg, who has also documented a cow named Veronika using a broom to scratch her back.
+
+A tendency to use tools isn’t just genetic. In the wild, New Caledonian crows can fashion hooked sticks from small twigs to extract insects from tight spaces, for example. But other closely related crow species don’t exhibit the same ability.
+
+Environment may help explain some differences. Some animals may be more likely to opt for foods that don’t need to be extracted with tools. In contrast, animals in geographically isolated environments may face less predation and competition but fewer resources — and a greater need to innovate with tools.
+
+Why is the elephant brain so weird?
+
+The cerebellum, the brain structure that coordinates movement, punches above its weight. In many mammals, including humans, the structure accounts for just 10 percent of the brain’s volume but roughly 80 percent of its neurons.
+
+In African elephants, the figure is even more astonishing: the large, lumbering mammals somehow manage to pack 97.5 percent of their 257 billion neurons into the cerebellum. “Elephants are an outlier,” said Louis Lefebvre, who studies animal learning and behavior at McGill University.
+
+This enlarged cerebellum may have evolved to help elephants control and process information from their trunks. “They have this appendage in the middle of their face that can move in infinite degrees of freedom,” said Paul Manger, a comparative neuroanatomist at the University of the Witwatersrand in South Africa.
+
+A neuron-rich cerebellum might also help enable the motor control necessary for elephants’ complex vocalizations or underpin some other aspect of elephant intelligence. The cerebellum has extensive connections to brain regions involved in higher-level cognitive functions. “Maybe that has a bigger role to play in cognition than we thought,” Dr. Lefebvre said.
+
+How do deer antlers “remember” old injuries?
+
+Every year, deer shed their antlers. And every year, they grow back — somehow, amazingly, bearing the marks of injuries suffered by the previous set of antlers.
+
+“Not only does the system need to figure out where the damage was, it then needs to store that information for months,” said Michael Levin, a biologist at Tufts University. “Then, when the new growth comes out, it needs to communicate information to be read by the bone cells.”
+
+Researchers don’t know where this information is stored. But Dr. Levin is trying to understand the phenomenon by studying planarian flatworms. They are known for their extraordinary regenerative abilities; chop one into several pieces, and each will grow a head and tail.
+
+Eventually, scientists hope to apply what they learn to humans. “If we have the ability to tell cells what to build and when to stop,” Dr. Levin said, “most problems in biomedicine would go away.”
+
+Some of the questions above were proposed by: Elinor Karlsson, Noah Connally, Auke-Florian Hiemstra, Shane Gero, Alice Auersperg and Louis Lefebvre.

@@ -1,0 +1,110 @@
+================================================================================
+animals-grief-death.html
+Source: PreloadedData  Paragraphs: 43  Words: 1847/1867
+================================================================================
+
+SUMMARY
+
+But whether animals experience grief — a complex, often long-lasting psychological and biological response to loss — remains an open question. (Bereaved pet owners might project their own grief onto their surviving animals.) But even if they don’t, she added, animals don’t necessarily need to understand death in order to feel grief.
+
+ARTICLE
+
+Do Animals Grieve?
+The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.
+By Emily Anthes
+Published 2026-11-02 10:02 UTC
+https://www.nytimes.com/2026/11/02/science/animals-grief-death.html
+
+Coyotes are not obvious romantics. Their habit of stalking across the landscape alone has earned them a reputation as solitary creatures — and not particularly popular ones, with a public image that ranges from troublesome nuisance to dangerous predator.
+
+But they are deeply loyal mates. They remain with their partners for life, grooming each other, sharing food and raising pups together. “Basically, until death do us part,” said Sara Freeman, a neuroscientist at Utah State University.
+
+In her airy, third-floor laboratory, Dr. Freeman is trying to understand how coyote couples forge these bonds — and what happens when they are broken.
+
+“This is a widowed brain,” she said, pulling a few foil-wrapped packages from an ultracold freezer one morning in August. Each held a block of brain tissue, collected from a female coyote who had outlived her mate.
+
+A student began shaving the frozen tissue into paper-thin slices, using the tip of a small paintbrush to nudge each translucent cross-section onto a glass slide. Later, the researchers would examine the samples, looking for neurological signs of “what we would call a grief state,” Dr. Freeman said.
+
+The study remains in early stages, and it could take years to find clear answers. But the project is one of many in the young field of comparative thanatology, an interdisciplinary effort to unpack how animals respond to — and what they might understand about — death.
+
+Evocative anecdotes abound. In 1972, Jane Goodall watched as a chimp named Flint stopped eating and socializing after the death of his mother, Flo; he died, weeks later, near the spot where her body had once lain. In 2003, African elephants were seen repeatedly returning to the body of a fallen matriarch, periodically prodding her with their trunks. In 2018, an orca named Tahlequah spent at least 17 days swimming with the body of her dead calf.
+
+But whether animals experience grief — a complex, often long-lasting psychological and biological response to loss — remains an open question. “It’s definitely one of those great mysteries,” said Jennifer Vonk, a comparative cognitive psychologist at Oakland University. “And a challenge for scientists.”
+
+Animal deaths are often unpredictable and unseen, especially in the wild. And grief is a complex and loaded concept; it’s easy to project our human experiences onto other creatures and impossible to truly get inside their heads.
+
+Scientists are trying anyway. “The field is ripe for development,” said André Gonçalves, a comparative cognitive scientist at the Indianapolis Zoological Society. “I mean, mortality is kind of a big deal, right?”
+
+Overcoming the doubts
+
+For decades, many scientists maintained that grief was unique to humans. Researchers who dared to suggest otherwise, armed with anecdotes about animals like Flint, were accused of committing the sin of anthropomorphism — viewing animals through a human-centered lens — and of venturing beyond the available data.
+
+In 2008, an elderly chimpanzee named Pansy unwittingly provided compelling new data. When she died at a British wildlife park, two overhead cameras captured the reactions of her three chimpanzee companions. In the minutes before Pansy died, the other chimps gently groomed and caressed her.
+
+After Pansy took her last breaths, her daughter spent hours beside her body. The other adult female spent an unusually long time grooming her own son. All three chimps slept fitfully that night. And when they awoke, they picked some stray bits of straw from Pansy’s body, then watched quietly as keepers carried her away.
+
+“The chimpanzees seemed to know that this was a momentous event,” said James Anderson, a primatologist at Kyoto University.
+
+In 2010, Dr. Anderson and his colleagues published a detailed analysis of the footage, noting that the behaviors of the surviving chimps were “strikingly reminiscent of human responses to peaceful death.”
+
+“We propose that chimpanzees’ awareness of death has been underestimated,” they added.
+
+The Pansy paper seemed to embolden other researchers to write up their own observations of animal responses to death. Soon, scientists were designing new research projects and looking for patterns in the growing pile of case studies.
+
+“It kind of started snowballing,” said Susana Monsó, a philosopher of animal minds at the National University of Distance Education in Madrid and the author of “Playing Possum: How Animals Understand Death.”
+
+What counts as bereavement?
+
+There is no magic formula for determining whether an animal’s behavior qualifies as grief, said Barbara J. King, an anthropologist at William & Mary and the author of “How Animals Grieve.” But changes in daily routines and “species-specific signals of deep sorrow” are among the indicators that animals might be in mourning, Dr. King said.
+
+Many studies document behaviors that seem to fit the bill. Apes, monkeys, dolphins and whales sometimes carry the corpses of their young for days or weeks. Some bereaved macaque mothers become isolated and withdrawn, receiving less grooming and initiating fewer hugs. Giraffes stand vigil over fallen calves; elephants touch the bones of their dead. Dogs, cats and horses sometimes seem to lose interest in food after the death of animal (or human) companions, owners have reported.
+
+Whether these behaviors are signs of sorrow is open to interpretation, and reports from animal caretakers are not always reliable. (Bereaved pet owners might project their own grief onto their surviving animals.) But to Dr. King, there are more than enough credible reports to be convincing. “Grief is not a ‘human’ behavior, by which I mean it’s not a human-only behavior,” she said.
+
+Other scientists are more circumspect. “I would really like there to be strong evidence of grief,” said Alecia Carter, an evolutionary anthropologist at University College London. “But I just personally haven’t found very much.”
+
+Even a behavior like clinging to a corpse is not necessarily easy to interpret. In a 2021 meta-analysis, Dr. Carter and her colleagues found that primate mothers were more likely to carry infants who had died from “nontraumatic” causes, like disease, than from accidents or attacks, which often leave more obvious injuries. The behavior was also more common among young mothers than older ones.
+
+One possible explanation? Primate mothers are most likely to carry dead infants when they don’t fully recognize that they are dead. That’s just a hypothesis, and even Dr. Carter doesn’t find it to be entirely convincing. But it highlights the need to be cautious when drawing conclusions about what’s driving animal behavior.
+
+How loss affects the brain
+
+While anthropologists and zoologists document animal behavior, neuroscientists are peering into the brain. Many are focused on monogamous species that form strong pair bonds, like prairie voles and California mice, simulating death by permanently separating animals from their mates.
+
+This kind of romantic rupture can produce signs of anxiety and what scientists call behavioral despair. After losing their partners, male prairie voles are quicker to abandon their attempts to escape from cylinders full of water, for example. Such losses also activate the brain’s stress circuits and disrupts the signaling pathways for oxytocin, a hormone that facilitates bonding. In a small early analysis of three widowed coyotes, Dr. Freeman of Utah State found that changes to the brain’s stress pathways might begin within days and last for over a year.
+
+Breaking individual bonds can have effects distinct from those of general isolation. One recent study found that after losing a mate, California mice showed signs of heightened brain inflammation. Un-bonded mice housed alone did not.
+
+“An animal that has never had a partner is biologically different from an animal that had a partner and lost their relationship,” said Erica Glasper, a behavioral neuroscientist at Ohio State University who led the research.
+
+Some of these findings have tantalizing parallels in humans. For example, losing a spouse seems to promote inflammation in people, an effect that becomes more pronounced as grief severity increases.
+
+Still, Dr. Glasper is reluctant to say that the mice are in mourning. “Our data tell us that the loss does matter to the animal,” she said. “It can’t really tell us how they feel. We can’t ask the mouse whether it’s longing for its partner.”
+
+That’s a critical question, said Zoe Donaldson, a behavioral neuroscientist at the University of Colorado Boulder. “Yearning is what differentiates grief from depression,” she said.
+
+Some emerging research, from Dr. Donaldson and others, suggests that voles might yearn for missing mates. Dopamine, which plays a crucial role in motivation, seems to drive a vole’s desire for its partner. The hormone spikes when voles are seeking out their mates or anticipating reuniting with them. And several studies suggest that a five- to seven-day separation may increase a vole’s to reunite with its partner and amplify dopamine signaling in the brain.
+
+Dr. Donaldson, who said she had initially been dismissive of the idea that the monogamous rodents could mourn, now believes that prairie voles experience “something akin to grief.”
+
+While scientists tend to be cautious, the public has embraced the idea of animal grief. In a survey of 1,000 Australian adults, 90 percent said that some animals could grieve and 23 percent said that all of them could. Among those who believed that animals could mourn, 18 percent attributed grief to ants; 10 percent to prawns.
+
+“People have incredibly intense emotions around this when I talk about my research,” Dr. Donaldson said. “Like, ‘I can’t believe you’re taking away their partners.’”
+
+‘A richer lived experience’
+
+Animals don’t need to understand abstract concepts like nonexistence in order to know something important about death, some experts argue.
+
+Dr. Monsó, the philosopher of animal minds, has outlined a “minimal concept of death,” which requires understanding just two essential concepts: nonfunctionality, or the idea that dead animals don’t do things that living ones do, and irreversibility, “which is the idea that unlike asleep individuals, dead individuals don’t go back to doing things,” she said.
+
+In a new study, Dr. Monsó and her colleagues found that Goffin’s cockatoos, brainy birds that are known to be talented tool users, could distinguish between permanently broken, or “dead,” tools and those that were only temporarily out of commission.
+
+The findings suggest that the birds may have “some of the cognitive prerequisites” for understanding death, Dr. Monsó said. But even if they don’t, she added, animals don’t necessarily need to understand death in order to feel grief.
+
+Dr. Gonçalves of the Indianapolis Zoological Society agreed. Three-year-olds don’t fully comprehend death, he noted, but few people would question whether they’re capable of mourning a dead parent. “We readily attribute them with grief,” he said.
+
+In some ways, the debate over animal grief has become a semantic one. The loss of a close companion can cause emotional distress in animals, scientists agreed. At issue was whether that distress could be called grief.
+
+“There’s part of me, as an animal behaviorist, that definitely hesitates a little bit,” Dr. Freeman said. “You can’t just say animals grieve and then not stand behind it with data.”
+
+But there’s plenty of reason to believe that animals can mourn, she said, and as the data come in, she would rather err in the direction of assuming that their sorrow is real: “It offers the opportunity to give them credit, perhaps, for a richer lived experience than we often ascribe to wild animals.”

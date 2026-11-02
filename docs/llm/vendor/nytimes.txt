@@ -45425,6 +45425,237 @@ Methodology
 The Times collected thousands of Mr. Trump’s speeches, interviews, social media posts and schedules using data from Roll Call’s Factba.se from 2015 through late October this year. To quantify Mr. Trump’s use of all-or-nothing language and swearwords, we measured basic word frequency statistics across Mr. Trump’s presidential terms and campaign periods. To identify confusing and rambling passages of text, we used the A.I. model Claude Opus 5.5 to score more than 6,500 passages of Mr. Trump’s speeches with detailed instructions based on our previous reporting analyzing Mr. Trump’s use of rambling and profane language. We counted a speech passage as incoherent if it scored at least a seven out of 10 with this rubric, which was informed by manual review of hundreds of passages and an evaluation to ensure a high bar of accuracy.
 
 ================================================================================
+snake-catcher-bangkok-thailand.html
+Source: PreloadedData  Paragraphs: 30  Words: 1348/1350
+================================================================================
+
+SUMMARY
+
+Once you see a snake in Bangkok, the snakiest capital in the world, you see snakes everywhere. There are also, as Pinyo Pukpinyo knows, a lot of actual snakes. Mr. Pinyo has way too many snakes.
+
+ARTICLE
+
+He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.
+Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.
+By Hannah Beech and Lauren DeCicca
+Published 2026-11-01 04:01 UTC
+https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html
+
+Once you see a snake in Bangkok, the snakiest capital in the world, you see snakes everywhere. Loops of electrical wire look like snakes. Gas pump hoses look like snakes. Vines, green and vibrant, look like snakes.
+
+There are also, as Pinyo Pukpinyo knows, a lot of actual snakes. In Bangkok each year, about 30,000 snakes are caught by fire and rescue personnel. On an average half-day shift, Mr. Pinyo, the top snake catcher in Thailand’s capital, wrangles more than 20 snakes, the reptiles secreted in sewers, curled in flowerpots and toilets, enmeshed in recycling, and pressed against branches ready to snack on geckoes and tree shrews.
+
+He catches cobras, pythons, kraits and pit vipers. Those are the scary snakes. Harmless species, at least to humans, include tree snakes, rat snakes, kukris and sunbeams.
+
+Mr. Pinyo, 56, who joined Bangkok’s fire department at 18 only to discover that firefighters here do a lot more snake catching than firefighting, wants one thing known above all else: He does not kill the snakes he catches.
+
+Part of it is his Buddhist faith. But mostly it’s that it’s not the snakes’ fault that we humans have spread our urban jungle into actual jungle. It’s not the snakes’ fault that Bangkok floods during the monsoons, drowning their cozy habitats and forcing them to swim past malls and condominiums.
+
+“They deserve to return to nature,” Mr. Pinyo said. “They only bite when they’re forced to defend themselves.”
+
+This principled ban on snake extermination has left Mr. Pinyo with a problem, one that has multiplied in the months since his Bang Khen fire station in northeastern Bangkok, now under renovation, moved to a few prefab structures squeezed under an elevated monorail.
+
+Mr. Pinyo has way too many snakes.
+
+He is not sure how many, but it’s more than 200. Or it could be 300. It’s definitely 70 cobras. At least. In his concrete cavern of a fire station, the sun blocked by the Skytrain’s tracks, nearly every tub, every water bottle, every sack, every plastic container that might otherwise hold shoes or bedsheets, is home to a snake, sometimes multiple snakes. Some of the pythons measure 15 feet long.
+
+Every few months, Mr. Pinyo drives out of Bangkok and unloads a horror movie tangle of snakes in a national park or forest. Then he starts again, catching and collecting snakes until it’s time for another rural pilgrimage.
+
+Feeding all of these snakes costs about $300 a month, money that comes out of Mr. Pinyo’s pocket. His wife and daughter do not like snakes. His father, who died this year, was so upset by all of the venomous snakes that he refused to visit Mr. Pinyo when he was hospitalized with the inevitable snakebite. But snakes, Mr. Pinyo says, chose him. It is his karma.
+
+“My father used to say that I’m stubborn, like a cobra,” Mr. Pinyo said. “Maybe it’s true. I had to learn everything myself and stick to it because no one taught me how to catch snakes.”
+
+Mr. Pinyo’s father, a hotel limousine driver, wanted his son to land a stable government job, and Mr. Pinyo passed the police examination. But a chronic shortage of firefighters meant he was assigned to that career instead. His starting base salary was less than $100 a month. (He now makes about $1,500.) He admits he was terrified when dispatched, without any training, to catch his first python, armed only with a stick with a hook at the end.
+
+“I wanted to catch bad guys like in the movies, not catch snakes,” he told me.
+
+He learned fast on the job. He studied books like “The Manual of Practical Management of Snake Bites and Animal Toxin Injury.” Along the way, he discovered that as much as he liked divining the personalities of snakes — the way a cobra mimics a human’s movement or the way a baby python practices its bite — what he really enjoyed was the reaction of humans newly relieved of snakes in their homes or offices.
+
+“They offer me many prayers and good wishes,” Mr. Pinyo said. “It’s better than what money can buy.”
+
+Like a doctor at a dinner party burdened with the ailments of fellow guests, Mr. Pinyo is constantly called upon for his expertise. Luckily, he is generous. I shared my snake stories. In 2019, I had put a Post-it note on the door of my home office in Bangkok, warning the boys not to bother me because I was on a call. My husband had done the same. Our younger son, then 9, rapped anyway.
+
+“Mama,” he said, “I’m sorry, but there’s a pit viper in the dining room.”
+
+Our son was right: There was a snake in our living room, a flash of fluorescent green. I disregarded my husband’s Post-it note, and he grabbed a bucket and pasta tongs. The snake, though, exited onto the balcony on its own.
+
+I showed Mr. Pinyo a photograph of my husband, armed with the tongs, ready to tackle the snake. He praised my husband’s choice of tool, but said our son had been wrong. It was not a pit viper. There was no streak of red near the tail.
+
+“Only a tree snake,” he said. “No danger.”
+
+Last month, Mr. Pinyo and his deputy snake catchers conducted a training at a Mövenpick hotel in Bangkok, the lobby carpet plush and the garden lush. Like anywhere in Bangkok, there were snakes, and everyone, from the concierge and duty manager to spa therapist and room cleaner, needed to be prepared.
+
+The firefighters had brought 50 live snakes with them, and believable scenarios unfolded in the underground garage. Let’s say there’s a small cobra and all you have is a small water bottle.
+
+With differing levels of terror, the hotel workers caught small cobras in small water bottles. They caught medium-size cobras in medium-size water bottles. They simulated a situation in which a snake lurks in the shower and all there is to work with is a towel. (“Please don’t open your towel and scare the snake,” Mr. Pinyo joked.) The workers took turns as impromptu matadors, gently laying the towels on cobras with their hoods raised, ready to strike.
+
+By the end, it felt perfectly natural to think that we could all be snake catchers. My colleague Muktita Suhartono had refused to touch a snake, but under Mr. Pinyo’s supervision, she coolly decanted a golden cobra into a plastic bottle, screwing on the lid after checking that the animal’s head was nowhere near the spout.
+
+Still, there’s a reason there are snake professionals. Mr. Pinyo has been hospitalized four times for near deadly snakebites, the last time for two months. He insists he can’t even remember how many times he’s been bitten in total.
+
+I mentioned that my husband was bitten by a pit viper last year. After an emergency room stay, he was on crutches for weeks. Mr. Pinyo made a sympathetic noise, but then said he never seeks medical care for something as trifling as a pit viper bite. Yet a younger colleague of his became functionally paralyzed after a cobra bite during a training not so different from the one we attended.
+
+One day in October, Mr. Pinyo sat on a plastic stool underneath the train tracks at the makeshift fire station. Occasionally, a sack shifted ominously. A hiss or rattle emanated from a box. Then the calls came: a snake in a pile of recycling, a snake in a hollow bathroom door, a snake at a medical clinic. We pulled up to the clinic, where young people were standing on a ramp at the entrance. They scattered when Mr. Pinyo asked if this was the place with the snake under the ramp.
+
+He pulled up the ramp to find a reticulated python twisted into a misshapen pretzel. The python went into a sack, and we drove back to the fire station, with one more snake to feed and release into the wild.
+
+“Circle of life,” Mr. Pinyo said, his fingers forming a loose loop like a python at rest.
+
+Muktita Suhartono contributed reporting.
+
+================================================================================
+iran-war-gulf-economies.html
+Source: PreloadedData  Paragraphs: 25  Words: 989/994
+================================================================================
+
+SUMMARY
+
+Riyadh Air, Saudi Arabia’s aspiring luxury carrier, is busing international passengers to and from an alternate airport four and a half hours from its hub, which was damaged in strikes. Economic growth across the Gulf Cooperation Council, a regional bloc of Arab states, will tumble by 5 percent this year, according to the International Monetary Fund. Pipelines that allow Saudi Arabia, as well as the United Arab Emirates, to bypass the Strait of Hormuz have helped keep oil flowing, as has an extensive operation run by the U.S. military to shield vessels in the strait.
+
+ARTICLE
+
+Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal
+States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.
+By Humza Jilani
+Published 2026-11-02 10:02 UTC
+https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html
+
+Riyadh Air, Saudi Arabia’s aspiring luxury carrier, is busing international passengers to and from an alternate airport four and a half hours from its hub, which was damaged in strikes.
+
+The marquee Saudi investment conference has been postponed to next year.
+
+The headquarters of the state-owned oil giant Saudi Aramco was struck, as was a critical pipeline. Ships running the gantlet in the vital Strait of Hormuz are still in Iran’s cross-hairs and catching fire from missile and drone attacks. It is a particularly tense time right now, with a heightened risk of escalation of the war.
+
+Throughout the Gulf, the war in Iran, now at the start of its ninth month, and the conflict that has erupted in Yemen are taxing the region’s ability to conduct business as normal.
+
+This week could bring a fresh test. The energy conference ADIPEC, featuring executives and government ministers from around the world, began in Abu Dhabi on Monday. At least one prominent industry leader, Darren Woods, the chief executive of Exxon Mobil, decided not to attend because of security concerns in the region, according to a person familiar with his thinking who was not authorized to speak to the media.
+
+The event’s organizers said in a statement that “high-level participation is very strong” but did not comment on the reasons for Mr. Woods’s withdrawal.
+
+Economic growth across the Gulf Cooperation Council, a regional bloc of Arab states, will tumble by 5 percent this year, according to the International Monetary Fund. Kuwait, Bahrain and Qatar are expected to suffer double-digit contractions, linked to their near-total dependence on the besieged Strait of Hormuz to sell their energy products to the world.
+
+On Sunday, the Saudi government said the kingdom’s economy shrank 3.8 percent from a year earlier in the three months that ended in September. The strongest force behind the decline by far was a 20.4 percent plunge in oil activity.
+
+It could be worse. Pipelines that allow Saudi Arabia, as well as the United Arab Emirates, to bypass the Strait of Hormuz have helped keep oil flowing, as has an extensive operation run by the U.S. military to shield vessels in the strait.
+
+But the fighting, the longer it goes on, is imperiling the two states’ ability to recast themselves as oases of stability in a volatile region and build up economic sectors like tourism and technology.
+
+Government budgets going forward are expected to put higher priorities on resilience projects. That means spending more money on rerouting pipelines or boosting military spending.
+
+Traffic at Dubai International Airport, the world’s busiest hub, remains below last year’s levels, as some international carriers continue to suspend operations to the region.
+
+“Beyond hydrocarbons, tourism, including aviation and hospitality, and real estate have been hit by the confidence shock and remain exposed to prolonged uncertainty about the possibility of re-escalation,” Aurelian Mali, vice president for Moody’s Ratings in Dubai, said in an email.
+
+“Protracted uncertainty and permanently elevated risk perceptions could damage some countries’ non-oil economic models, built on security, safety and macroeconomic stability,” he said.
+
+The one economy expected to expand this year is Oman, the Gulf monarchy with the longest Arabian Sea coastline and thus less dependent on the Strait of Hormuz. Growth is forecast to jump to over 4 percent this year, compared with 2.4 percent in 2025, according to the I.M.F., with Oman benefiting from higher oil prices and its ability to ship products without major disruptions.
+
+But officials elsewhere are racing to build up their buffers to prepare for new rounds of conflict — and keep exports and investments flowing.
+
+In the Emirates, the government, which has almost $3 trillion in sovereign assets, has vowed to bring the country’s dependence on the Strait of Hormuz to “zero,” scaling up investments in alternative ports and pipelines.
+
+The war has even imperiled some of the region’s huge artificial intelligence ambitions, a key plank of the Gulf states’ plans to diversify away from oil. Last year, Qatar, Saudi Arabia and the Emirates announced A.I.-related investment plans of $120 billion. The states have courted some of Silicon Valley’s biggest tech companies to set up data centers in their deserts.
+
+The Emirates used the energy conference on Monday to showcase its A.I. ambitions. Sam Altman, the chief executive of OpenAI, signed four agreements with Abu Dhabi-based companies, including one to deploy the company’s latest business-focused A.I. system at the Abu Dhabi National Oil Company.
+
+But now there are also discussions to spread out the locations of planned data centers and even to build some facilities underground, safe from missiles and drones. Data centers in the Emirates and Bahrain were struck by Iranian drone swarms early in the war.
+
+So far, major investors are still placing bets on the region’s long-term potential.
+
+Last week, Apollo Global Management announced that it was taking a 10 percent stake in Mubadala Capital, the alternative asset management arm of a $385 billion sovereign fund in Abu Dhabi. And Investcorp, a Bahrain-based asset manager, joined a consortium of Saudi investors to buy a local fire safety and equipment company.
+
+The Boston-based private equity company Advent last month joined other financial entities to set up shop in Abu Dhabi.
+
+Many analysts expect the region’s economy to snap back next year. The I.M.F.’s latest forecasts, issued last month, call for almost across-the-board growth in 2027, including 7.9 percent in Saudi Arabia and 18.8 percent in Qatar. Those predictions assume that hostilities will taper off enough to allow a return to prewar conditions in the energy sector next year. Still, the fund said the economic fallout was “highly uncertain” because of the myriad ways the war has eroded trust in the region and caused political balances to shift.
+
+“I think the short- versus long-term question is the crux of the issue,” said Tim Callen, a former International Monetary Fund official in Saudi Arabia who is now a visiting fellow at the Arab Gulf States Institute in Washington.
+
+Rebecca F. Elliott contributed reporting from New York.
+
+================================================================================
+after-71-years-and-a-lot-of-ex…ds-autopia-goes-electric.html
+Source: PreloadedData  Paragraphs: 33  Words: 1075/1075
+================================================================================
+
+SUMMARY
+
+So now, after 71 years, Autopia is going electric. At Disney World in Orlando, Fla., an Autopia facsimile is called Tomorrowland Speedway, and still features gas-powered engines, with no known plans to go electric. As for what’s next in Tomorrowland, Mr. Menotti said he would still be a fan, even if Autopia is all electric.
+
+ARTICLE
+
+After 71 Years and a Lot of Exhaust, Disneyland’s Autopia Goes Electric
+The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s.
+By David Gelles
+Published 2026-11-02 10:02 UTC
+https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html
+
+In 1955, Walt Disney’s vision of the cutting edge came in the form of 40 candy-colored miniature cars that allowed pint-size drivers to push a real gas pedal and steer around a track at the Anaheim theme park.
+
+Autopia, a focal point of the Tomorrowland section of Disneyland, mirrored the real-life love affair that Americans were having with the automobile. Work would soon begin on the interstate highway system, suburbs were expanding, car sales were skyrocketing and the future felt like a shiny coupe, windows down, speeding along an open road.
+
+But Mr. Disney’s midcentury vision of the future has run up against today’s environmental reality. Autopia, the only surviving original attraction at Tomorrowland, is in violation of California’s stringent emissions regulations.
+
+So now, after 71 years, Autopia is going electric.
+
+The cars currently run on 8.5 horsepower Honda four-stroke engines like those typically used to run generators or industrial pressure washers. They are loud and belch exhaust for up to 16 hours a day. The result is a microclimate of smog hovering over Tomorrowland, a section of the park that includes rides like Space Mountain and Buzz Lightyear Astro Blasters.
+
+Sometime next year, the gasoline powered engines will be phased out and Autopia will join the age of E.V.s.
+
+Disney arrived at this decision after the powerful California Air Resources Board issued a notice of violation against the company in 2024, stating that it had not obtained the proper emissions certification for the Autopia cars.
+
+In a settlement between Disney and the state, the company paid $56,250 and agreed “to retire the gas-engine powered Autopia fleet” by early 2027. Disney declined multiple requests for comment, and declined to permit The Times to take photos or videos inside Disneyland for this article.
+
+Bob Gurr, who designed the attraction for Walt Disney, said the move was overdue.
+
+“For 26 years, I’ve been arguing, ‘When are you going to do anything to get rid of that gasoline?’” said Mr. Gurr, 94, in a phone call from his home in Los Angeles. “The dirtiest place on Earth is the Autopia attraction at Disneyland in the city of Anaheim.”
+
+After the interview, Mr. Gurr’s representative asked to retract it, saying Disney had requested Mr. Gurr stop doing interviews about the ride he designed. Mr. Gurr did not ask for the interview to be off the record, or not to be published.
+
+Autopia has been running more or less interrupted since Walt Disney christened the park in 1955. Different designs and sponsors, including Honda, Chevron and Richfield Oil, have come and gone. By 1971, the company said some 47,756,550 people had taken a spin on the track. At that pace, total ridership today may have now eclipsed 210 million people.
+
+An anachronism in a world of fully immersive high-tech rides, riding Autopia is not unlike strapping a lawn mower to one’s head. It is a jerky, stinky, noisy ride.
+
+Adriel Ceja, an Angelino who was visiting the park with his wife on a recent day, said the ride seemed outdated.
+
+“It would be more modern and feel better for Tomorrowland if it was an electric car,” he said.
+
+Other Disney parks have featured similar rides over the years, including gas-powered versions in Tokyo and Paris, and an electric version in Hong Kong that closed in 2016. At Disney World in Orlando, Fla., an Autopia facsimile is called Tomorrowland Speedway, and still features gas-powered engines, with no known plans to go electric.
+
+But in California, the state with the most E.V.s on the road, Autopia is finally saying goodbye to the internal combustion engine.
+
+Mr. Gurr said that earlier this year, executives from Disney invited him to a facility and showed him a model of the new Autopia. The track will be electrified, he said, which would obviate the need for each car to have its own battery.
+
+“It will be electric, but not the conventional idea of a battery in a car,” Mr. Gurr said. “It’s very different.”
+
+Mr. Gurr said he was told that Honda would continue as the sponsor, but Honda declined to discuss its plans.
+
+“Our current sponsorship agreement with Disneyland Resort runs through early 2027,” Matt Howells, a Honda spokesman, said in an email. “Discussions regarding the future of the partnership and sponsorship of the Autopia attraction are currently ongoing.”
+
+Like other carmakers, Honda is scaling back its E.V. sales in the United States, after Republicans in Congress ended federal subsidies designed to increase electric vehicle sales, and amid the Trump administration’s efforts to promote gas-powered cars.
+
+Honda’s only all electric model currently on the market, the Prologue, is set to be discontinued next month, and the company has not announced a new E.V. for the U.S. market.
+
+Like many Disney rides, Autopia has inspired legions of ardent fans. Chief among them is Peter Menotti, who first encountered the ride as a boy and was immediately transfixed.
+
+“I don’t know how to describe it, man,” said Mr. Menotti, a 59-year-old Disney superfan who runs a 3-D printing company in Los Angeles, recalling his first ride. “It’s just this feeling as a kid that I’m empowered, I’ve got a car, I can drive, I’m growing up.”
+
+In 2001, Mr. Menotti bought a decommissioned Autopia car and spent $65,000 refurbishing it.
+
+A friend who worked at Disney smuggled out original schematics for the car, which allowed Mr. Menotti to create a meticulous restoration, replete with a 3-D-printed steering wheel and a suspension system that allows him to navigate speed bumps.
+
+One crucial difference: the speed of the cars at Disneyland tops out at six miles per hour, while Mr. Menotti’s roadster can travel at up to 18 m.p.h.
+
+Mr. Menotti keeps his Autopia car covered in a tarp in the garage of his home near the Los Angeles International Airport, taking it out for the occasional drive.
+
+On a recent afternoon, he revved up the motor and sped through his neighborhood with a reporter in the passenger seat.
+
+“That’s part of the magic,” he said as fumes filled the air. “It’s that gas smell that takes you back. Without that buh-buh-buh-buh-buh sound, it’s just not the same.”
+
+As for what’s next in Tomorrowland, Mr. Menotti said he would still be a fan, even if Autopia is all electric.
+
+“Would I like it to stay the way it is? Yes,” he said. “But they’ve got to do what they’ve got to do. I mean, we’re moving into the future.”
+
+================================================================================
 identity-politics-economy-class.html
 Source: PreloadedData  Paragraphs: 37  Words: 1997/2023
 ================================================================================
@@ -45520,6 +45751,238 @@ And Trump himself continues to practice the oldest version of identity politics.
 For many reasons, we are not living in the post-racial moment that some Americans thought the Obama presidency heralded. But we seem much less invested in counting how many people in each group can push their way into the upper echelon. When millions of Americans are still waiting for someone to address their material needs, they are demanding far more than symbols.
 
 Jia Lynn Yang is a senior Times writer and the author of “One Mighty and Irresistible Tide,” a book about American immigration in the 20th century.
+
+================================================================================
+animals-grief-death.html
+Source: PreloadedData  Paragraphs: 43  Words: 1847/1867
+================================================================================
+
+SUMMARY
+
+But whether animals experience grief — a complex, often long-lasting psychological and biological response to loss — remains an open question. (Bereaved pet owners might project their own grief onto their surviving animals.) But even if they don’t, she added, animals don’t necessarily need to understand death in order to feel grief.
+
+ARTICLE
+
+Do Animals Grieve?
+The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.
+By Emily Anthes
+Published 2026-11-02 10:02 UTC
+https://www.nytimes.com/2026/11/02/science/animals-grief-death.html
+
+Coyotes are not obvious romantics. Their habit of stalking across the landscape alone has earned them a reputation as solitary creatures — and not particularly popular ones, with a public image that ranges from troublesome nuisance to dangerous predator.
+
+But they are deeply loyal mates. They remain with their partners for life, grooming each other, sharing food and raising pups together. “Basically, until death do us part,” said Sara Freeman, a neuroscientist at Utah State University.
+
+In her airy, third-floor laboratory, Dr. Freeman is trying to understand how coyote couples forge these bonds — and what happens when they are broken.
+
+“This is a widowed brain,” she said, pulling a few foil-wrapped packages from an ultracold freezer one morning in August. Each held a block of brain tissue, collected from a female coyote who had outlived her mate.
+
+A student began shaving the frozen tissue into paper-thin slices, using the tip of a small paintbrush to nudge each translucent cross-section onto a glass slide. Later, the researchers would examine the samples, looking for neurological signs of “what we would call a grief state,” Dr. Freeman said.
+
+The study remains in early stages, and it could take years to find clear answers. But the project is one of many in the young field of comparative thanatology, an interdisciplinary effort to unpack how animals respond to — and what they might understand about — death.
+
+Evocative anecdotes abound. In 1972, Jane Goodall watched as a chimp named Flint stopped eating and socializing after the death of his mother, Flo; he died, weeks later, near the spot where her body had once lain. In 2003, African elephants were seen repeatedly returning to the body of a fallen matriarch, periodically prodding her with their trunks. In 2018, an orca named Tahlequah spent at least 17 days swimming with the body of her dead calf.
+
+But whether animals experience grief — a complex, often long-lasting psychological and biological response to loss — remains an open question. “It’s definitely one of those great mysteries,” said Jennifer Vonk, a comparative cognitive psychologist at Oakland University. “And a challenge for scientists.”
+
+Animal deaths are often unpredictable and unseen, especially in the wild. And grief is a complex and loaded concept; it’s easy to project our human experiences onto other creatures and impossible to truly get inside their heads.
+
+Scientists are trying anyway. “The field is ripe for development,” said André Gonçalves, a comparative cognitive scientist at the Indianapolis Zoological Society. “I mean, mortality is kind of a big deal, right?”
+
+Overcoming the doubts
+
+For decades, many scientists maintained that grief was unique to humans. Researchers who dared to suggest otherwise, armed with anecdotes about animals like Flint, were accused of committing the sin of anthropomorphism — viewing animals through a human-centered lens — and of venturing beyond the available data.
+
+In 2008, an elderly chimpanzee named Pansy unwittingly provided compelling new data. When she died at a British wildlife park, two overhead cameras captured the reactions of her three chimpanzee companions. In the minutes before Pansy died, the other chimps gently groomed and caressed her.
+
+After Pansy took her last breaths, her daughter spent hours beside her body. The other adult female spent an unusually long time grooming her own son. All three chimps slept fitfully that night. And when they awoke, they picked some stray bits of straw from Pansy’s body, then watched quietly as keepers carried her away.
+
+“The chimpanzees seemed to know that this was a momentous event,” said James Anderson, a primatologist at Kyoto University.
+
+In 2010, Dr. Anderson and his colleagues published a detailed analysis of the footage, noting that the behaviors of the surviving chimps were “strikingly reminiscent of human responses to peaceful death.”
+
+“We propose that chimpanzees’ awareness of death has been underestimated,” they added.
+
+The Pansy paper seemed to embolden other researchers to write up their own observations of animal responses to death. Soon, scientists were designing new research projects and looking for patterns in the growing pile of case studies.
+
+“It kind of started snowballing,” said Susana Monsó, a philosopher of animal minds at the National University of Distance Education in Madrid and the author of “Playing Possum: How Animals Understand Death.”
+
+What counts as bereavement?
+
+There is no magic formula for determining whether an animal’s behavior qualifies as grief, said Barbara J. King, an anthropologist at William & Mary and the author of “How Animals Grieve.” But changes in daily routines and “species-specific signals of deep sorrow” are among the indicators that animals might be in mourning, Dr. King said.
+
+Many studies document behaviors that seem to fit the bill. Apes, monkeys, dolphins and whales sometimes carry the corpses of their young for days or weeks. Some bereaved macaque mothers become isolated and withdrawn, receiving less grooming and initiating fewer hugs. Giraffes stand vigil over fallen calves; elephants touch the bones of their dead. Dogs, cats and horses sometimes seem to lose interest in food after the death of animal (or human) companions, owners have reported.
+
+Whether these behaviors are signs of sorrow is open to interpretation, and reports from animal caretakers are not always reliable. (Bereaved pet owners might project their own grief onto their surviving animals.) But to Dr. King, there are more than enough credible reports to be convincing. “Grief is not a ‘human’ behavior, by which I mean it’s not a human-only behavior,” she said.
+
+Other scientists are more circumspect. “I would really like there to be strong evidence of grief,” said Alecia Carter, an evolutionary anthropologist at University College London. “But I just personally haven’t found very much.”
+
+Even a behavior like clinging to a corpse is not necessarily easy to interpret. In a 2021 meta-analysis, Dr. Carter and her colleagues found that primate mothers were more likely to carry infants who had died from “nontraumatic” causes, like disease, than from accidents or attacks, which often leave more obvious injuries. The behavior was also more common among young mothers than older ones.
+
+One possible explanation? Primate mothers are most likely to carry dead infants when they don’t fully recognize that they are dead. That’s just a hypothesis, and even Dr. Carter doesn’t find it to be entirely convincing. But it highlights the need to be cautious when drawing conclusions about what’s driving animal behavior.
+
+How loss affects the brain
+
+While anthropologists and zoologists document animal behavior, neuroscientists are peering into the brain. Many are focused on monogamous species that form strong pair bonds, like prairie voles and California mice, simulating death by permanently separating animals from their mates.
+
+This kind of romantic rupture can produce signs of anxiety and what scientists call behavioral despair. After losing their partners, male prairie voles are quicker to abandon their attempts to escape from cylinders full of water, for example. Such losses also activate the brain’s stress circuits and disrupts the signaling pathways for oxytocin, a hormone that facilitates bonding. In a small early analysis of three widowed coyotes, Dr. Freeman of Utah State found that changes to the brain’s stress pathways might begin within days and last for over a year.
+
+Breaking individual bonds can have effects distinct from those of general isolation. One recent study found that after losing a mate, California mice showed signs of heightened brain inflammation. Un-bonded mice housed alone did not.
+
+“An animal that has never had a partner is biologically different from an animal that had a partner and lost their relationship,” said Erica Glasper, a behavioral neuroscientist at Ohio State University who led the research.
+
+Some of these findings have tantalizing parallels in humans. For example, losing a spouse seems to promote inflammation in people, an effect that becomes more pronounced as grief severity increases.
+
+Still, Dr. Glasper is reluctant to say that the mice are in mourning. “Our data tell us that the loss does matter to the animal,” she said. “It can’t really tell us how they feel. We can’t ask the mouse whether it’s longing for its partner.”
+
+That’s a critical question, said Zoe Donaldson, a behavioral neuroscientist at the University of Colorado Boulder. “Yearning is what differentiates grief from depression,” she said.
+
+Some emerging research, from Dr. Donaldson and others, suggests that voles might yearn for missing mates. Dopamine, which plays a crucial role in motivation, seems to drive a vole’s desire for its partner. The hormone spikes when voles are seeking out their mates or anticipating reuniting with them. And several studies suggest that a five- to seven-day separation may increase a vole’s to reunite with its partner and amplify dopamine signaling in the brain.
+
+Dr. Donaldson, who said she had initially been dismissive of the idea that the monogamous rodents could mourn, now believes that prairie voles experience “something akin to grief.”
+
+While scientists tend to be cautious, the public has embraced the idea of animal grief. In a survey of 1,000 Australian adults, 90 percent said that some animals could grieve and 23 percent said that all of them could. Among those who believed that animals could mourn, 18 percent attributed grief to ants; 10 percent to prawns.
+
+“People have incredibly intense emotions around this when I talk about my research,” Dr. Donaldson said. “Like, ‘I can’t believe you’re taking away their partners.’”
+
+‘A richer lived experience’
+
+Animals don’t need to understand abstract concepts like nonexistence in order to know something important about death, some experts argue.
+
+Dr. Monsó, the philosopher of animal minds, has outlined a “minimal concept of death,” which requires understanding just two essential concepts: nonfunctionality, or the idea that dead animals don’t do things that living ones do, and irreversibility, “which is the idea that unlike asleep individuals, dead individuals don’t go back to doing things,” she said.
+
+In a new study, Dr. Monsó and her colleagues found that Goffin’s cockatoos, brainy birds that are known to be talented tool users, could distinguish between permanently broken, or “dead,” tools and those that were only temporarily out of commission.
+
+The findings suggest that the birds may have “some of the cognitive prerequisites” for understanding death, Dr. Monsó said. But even if they don’t, she added, animals don’t necessarily need to understand death in order to feel grief.
+
+Dr. Gonçalves of the Indianapolis Zoological Society agreed. Three-year-olds don’t fully comprehend death, he noted, but few people would question whether they’re capable of mourning a dead parent. “We readily attribute them with grief,” he said.
+
+In some ways, the debate over animal grief has become a semantic one. The loss of a close companion can cause emotional distress in animals, scientists agreed. At issue was whether that distress could be called grief.
+
+“There’s part of me, as an animal behaviorist, that definitely hesitates a little bit,” Dr. Freeman said. “You can’t just say animals grieve and then not stand behind it with data.”
+
+But there’s plenty of reason to believe that animals can mourn, she said, and as the data come in, she would rather err in the direction of assuming that their sorrow is real: “It offers the opportunity to give them credit, perhaps, for a richer lived experience than we often ascribe to wild animals.”
+
+================================================================================
+animals-mysteries-research.html
+Source: PreloadedData  Paragraphs: 41  Words: 1828/1869
+================================================================================
+
+SUMMARY
+
+Scientists know that all snakes descend from a reptile that lived about 160 million years ago. “We need to make sure that we’re not modifying the behavior of the animals, so that we can really capture what their natural sleep patterns might be,” she said. “The defenses these animals evolved to cope with flight may also help them age more slowly,” said Katia Renault, a Ph.D. student at Harvard who studies longevity in birds and mammals.
+
+ARTICLE
+
+Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries
+There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10.
+By Emily Anthes and Stella Raine Chu
+Published 2026-11-02 10:00 UTC
+https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html
+
+Why did snakes lose their legs?
+
+Scientists know that all snakes descend from a reptile that lived about 160 million years ago. But that ancestor had four legs. What rendered those limbs unnecessary?
+
+Some scientists contend that being limbless gave early snakes an advantage — a leg up, as it were — on land, by helping them thrive in narrow, underground tunnels. Others propose that elongated bodies evolved for swimming in the water.
+
+Fossils highlight the debate. In 2015, researchers examined X-ray models of the inner ear of an animal closely related to the ancestor of modern-day snakes. The anatomy suggested that these ancestors lived underground. But fossils of primitive snakes with developed hind legs have also been found in marine limestone, suggesting that the first snakes may have lived underwater.
+
+“It’s hard to tell what exact conditions drove the evolution of this body plan,” said Tiago Simões, an evolutionary biologist at Princeton.
+
+Why do sloths leave their trees to poop?
+
+Three-toed sloths spend most of their lives hidden high in the rainforest canopy. But about once a week, they make their deliberate way down to the forest floor to complete a singular mission: the evacuation of their bowels.
+
+The pit stop comes at great personal cost. “It takes them a lot of energy to get down there, and it makes them more vulnerable to predation,” said Roland Kays, a zoologist at the North Carolina Museum of Natural Sciences.
+
+Some experts have suggested that the sloths might be fertilizing their favorite trees or leaving chemical messages for each other. Or maybe the habit is linked to the tiny, specialized organisms — moths, green algae — that inhabit a sloth’s fur. Once the sloths are on the ground, the moths emerge and lay their eggs in the animals’ feces. The moths might be benefiting the sloths by foster the growth of the algae, which might be serving as a nutritional supplement for the sloths, or giving their fur a green tint that improves their camouflage.
+
+But these theories lack convincing evidence, Dr. Kays said. “There’s nothing that’s been put out that to me sounds like it could be the real answer,” he said. “It’s just so puzzling.”
+
+How do monarchs find their way?
+
+Every year, millions of monarch butterflies undertake a 3,000-mile journey across North America to the warm forests of central Mexico, where they spend the winter. As they return north, they lay their eggs and, eventually, die, passing the baton to the next generation to finish the circuit. It takes about four generations to complete the entire round-trip journey.
+
+“It’s like a relay race,” said Patrick Guerra, a neuroecologist who studies how animals respond to contemporary environmental changes.
+
+Which makes it all the more remarkable that, every winter, the monarchs seem to return to the same groves, or even the exact same trees, that their ancestors used.
+
+Scientists have identified some of their navigation strategies. Their internal circadian clocks track the movement of the sun, which informs their flight direction. And they can orient themselves using Earth’s magnetic field, especially on cloudy days. But how multiple generations of monarchs manage to find their way back to the exact same trees, year after year, remains a complete mystery.
+
+“There’s no cultural transmission,” Dr. Guerra said. “No one tells them what to do. Everything that they’re able to do is innate.
+
+How do sperm whales hunt giant squid?
+
+Sperm whales regularly feast on giant squid, the enormous, elusive cephalopods that haunt the deep ocean. But no one has ever seen these behemoths do battle.
+
+“It is a black box,” said Nicholas Pyenson, the curator of fossil marine mammals at the Smithsonian National Museum of Natural History. “This is not like lions on the Serengeti eating prey, which has been documented ad nauseam.”
+
+The two species appear to be locked in an evolutionary arms race. The whales use their powerful biological sonar to scan wide swaths of ocean, while the squid possesses huge eyes, which may help them spot an approaching whale. Some squid, at least, seem to put up a fight; many sperm whales bear telltale scars from suction cups.
+
+But do the whales hunt alone or in tandem? What kinds of evasive maneuvers are the squid capable of? How exactly do the whales capture and ingest them? “I could go on for a half an hour about all of the ways in which we don’t know what’s going on down there,” said Shane Gero, a whale biologist with Project CETI and Carleton University, in Ottawa.
+
+Why do some frogs turn blue?
+
+Contrary to the lament of one very famous frog, it’s relatively easy being green. This common frog complexion, which is caused by the layering of blue and yellow pigments in the skin, helps the amphibians blend into their surroundings.
+
+But on rare occasions, nature produces bright blue frogs, which don’t seem to produce yellow pigment properly. “There’s something funny going on in that yellow layer,” said Rayna Bell, curator of herpetology at the California Academy of Sciences. “Beyond that, everything else is questions.”
+
+Genetic mutations probably explain many cases, but the exact mechanisms are poorly understood. Environmental factors, including certain dietary deficiencies and chemical pollutants, could play a role, too. In some cases, spending a few weeks in fresh, clean water is enough to turn a rare, wild-caught blue frog into a bog-standard green one.
+
+The rarity of the phenomenon makes it hard to pin down the biological mechanism, and there may be more than one. “It could be different in different individuals,” Dr. Bell said.
+
+Why don’t seals need more sleep?
+
+How would you feel on four hours of sleep? How about three? So little sleep can be detrimental to our cognitive functions. But apparently not those of the elephant seal.
+
+During their monthslong oceanic journeys, the seals, a pinniped, sleep just two hours a day. And they get that sleep in 10-minute intervals, during which they drift down into the depths of the ocean in what is known as a “sleep spiral.”
+
+How they get by is poorly understood. Studying sleep in wild animals is challenging, said Jessica Kendall-Bar, a marine biologist at the Scripps Institution of Oceanography. “We need to make sure that we’re not modifying the behavior of the animals, so that we can really capture what their natural sleep patterns might be,” she said.
+
+And what counts as good sleep? “They could be bobbing at the surface worried about predators,” Dr. Kendall-Bar said. “Not all sleep is created equal.”
+
+Why do flying animals live longer?
+
+Body size and life span tend to be correlated in animals; the smaller the species, the shorter its life. But birds generally live at least twice as long as nonflying mammals of the same size. Bats, the only mammals capable of true flight, also live roughly 3.5 times longer than terrestrial mammals of the same size.
+
+That could be because flying helps animals evade predators. And when a population faces fewer of these external risks — and has more individuals surviving into adulthood and old age — natural selection may begin to favor animals with bodies that remain in tiptop shape for years.
+
+The physiological demands of flight might also have put evolutionary pressure on birds and bats to develop mechanisms for minimizing cellular damage and stress. “The defenses these animals evolved to cope with flight may also help them age more slowly,” said Katia Renault, a Ph.D. student at Harvard who studies longevity in birds and mammals.
+
+Why is tool use so rare in the animal kingdom?
+
+The alarm you use to wake up, the toothbrush that cleans your teeth, the shoes that you wear — tools like these make our lives easier. Some other animals, like chimpanzees and crows, have caught on to the usefulness of tools. Why haven’t more species joined them?
+
+“It’s a complicated answer,” said Alice Auersperg, a cognitive biologist at the University of Veterinary Medicine Vienna. Tool use requires an animal not only to form a relationship between their body and an object, but then to use that relationship to interact with their environment with an end goal in mind, often gaining access to food.
+
+Chimpanzees, for example, are adept tool users. “These animals, if triggered artificially, can innovate tool use and are fairly talented at it,” said Dr. Auersperg, who has also documented a cow named Veronika using a broom to scratch her back.
+
+A tendency to use tools isn’t just genetic. In the wild, New Caledonian crows can fashion hooked sticks from small twigs to extract insects from tight spaces, for example. But other closely related crow species don’t exhibit the same ability.
+
+Environment may help explain some differences. Some animals may be more likely to opt for foods that don’t need to be extracted with tools. In contrast, animals in geographically isolated environments may face less predation and competition but fewer resources — and a greater need to innovate with tools.
+
+Why is the elephant brain so weird?
+
+The cerebellum, the brain structure that coordinates movement, punches above its weight. In many mammals, including humans, the structure accounts for just 10 percent of the brain’s volume but roughly 80 percent of its neurons.
+
+In African elephants, the figure is even more astonishing: the large, lumbering mammals somehow manage to pack 97.5 percent of their 257 billion neurons into the cerebellum. “Elephants are an outlier,” said Louis Lefebvre, who studies animal learning and behavior at McGill University.
+
+This enlarged cerebellum may have evolved to help elephants control and process information from their trunks. “They have this appendage in the middle of their face that can move in infinite degrees of freedom,” said Paul Manger, a comparative neuroanatomist at the University of the Witwatersrand in South Africa.
+
+A neuron-rich cerebellum might also help enable the motor control necessary for elephants’ complex vocalizations or underpin some other aspect of elephant intelligence. The cerebellum has extensive connections to brain regions involved in higher-level cognitive functions. “Maybe that has a bigger role to play in cognition than we thought,” Dr. Lefebvre said.
+
+How do deer antlers “remember” old injuries?
+
+Every year, deer shed their antlers. And every year, they grow back — somehow, amazingly, bearing the marks of injuries suffered by the previous set of antlers.
+
+“Not only does the system need to figure out where the damage was, it then needs to store that information for months,” said Michael Levin, a biologist at Tufts University. “Then, when the new growth comes out, it needs to communicate information to be read by the bone cells.”
+
+Researchers don’t know where this information is stored. But Dr. Levin is trying to understand the phenomenon by studying planarian flatworms. They are known for their extraordinary regenerative abilities; chop one into several pieces, and each will grow a head and tail.
+
+Eventually, scientists hope to apply what they learn to humans. “If we have the ability to tell cells what to build and when to stop,” Dr. Levin said, “most problems in biomedicine would go away.”
+
+Some of the questions above were proposed by: Elinor Karlsson, Noah Connally, Auke-Florian Hiemstra, Shane Gero, Alice Auersperg and Louis Lefebvre.
 
 ================================================================================
 congress-races-midterms.html
@@ -45718,6 +46181,226 @@ In Michigan, Speaker Mike Johnson spoke at length about his distrust of the poll
 “I can’t find a Republican anywhere who’s responding to polls right now,” he said as he campaigned for Mr. Rogers. “I’m telling you, we are going to shock them on Tuesday.”
 
 Reporting was contributed by Tyler Pager from Dubuque, Iowa, Emily Davies from Geneva, Ohio, Benjamin Oreskes from New York City, Reid J. Epstein from Sterling Heights, Mich., and Leah McBride Mensching from Ames, Iowa.
+
+================================================================================
+trump-courts-judges-orders.html
+Source: PreloadedData  Paragraphs: 61  Words: 2804/2803
+================================================================================
+
+SUMMARY
+
+Since President Trump returned to office nearly two years ago, courts have frequently ordered his administration to pause or halt aggressive actions after they drew legal challenges. But again and again, his executive branch has skirted judicial constraints through delayed, contested or incomplete compliance, all while Mr. Trump has attacked judges appointed by presidents of both parties. “The word ‘contempt’ clearly applies to what Trump and some of his people have been saying about the courts,” said Michael McConnell, a Stanford law professor and retired Republican-appointed appeals court judge.
+
+ARTICLE
+
+Trump Skirts Court Commands as Distrust Between Branches Spirals
+Repeated compliance disputes and personal attacks on judges are straining relations between the executive branch and the judiciary.
+By Charlie Savage
+Published 2026-11-02 10:02 UTC
+https://www.nytimes.com/2026/11/02/us/trump-courts-judges-orders.html
+
+Since President Trump returned to office nearly two years ago, courts have frequently ordered his administration to pause or halt aggressive actions after they drew legal challenges. But again and again, his executive branch has skirted judicial constraints through delayed, contested or incomplete compliance, all while Mr. Trump has attacked judges appointed by presidents of both parties.
+
+An examination of confrontations across the country shows a widening breakdown in trust between the executive branch and the federal judiciary. Judges increasingly greet Justice Department representations with skepticism. Administration officials, meanwhile, have treated courts with disdain — accusing judges of bias and seeking their removal. In an extraordinary step, the administration recently filed a misconduct complaint against nearly every active district judge in Minnesota.
+
+The result has been a poisoning of the relations between the branches to such a degree that it is now straining the judiciary’s ability to serve as a check on executive power, as Mr. Trump approaches the second half of his term.
+
+Some conflicts have been relatively straightforward, involving findings by courts that the executive branch failed to comply with binding orders — though typically without clear evidence that officials understood themselves to be deliberately violating judicial commands.
+
+Others have been more complex and less clear-cut. Judges and the administration have fought over interpretations of specific judicial commands and failures by officials to live up to assurances they made to courts without explicit written orders. Sometimes, the executive branch has gotten around the courts by coming up with a new legal rationale for a policy that a judge said was not authorized by the authority officials initially cited.
+
+Taken as a whole, the constant friction has undercut the reach of judicial authority as a check and balance on executive power and undermined the interbranch comity and trust that has traditionally helped keep the American system of government functional.
+
+“The word ‘contempt’ clearly applies to what Trump and some of his people have been saying about the courts,” said Michael McConnell, a Stanford law professor and retired Republican-appointed appeals court judge. “The judges have become skeptical and certainly are no longer giving the Justice Department the benefit of the doubt.”
+
+The interbranch tensions have gained urgency as election-related cases reach the courts ahead of this week’s midterms. The cases include a court order blocking Mr. Trump’s plan to bar the Postal Service from delivering certain mail ballots and multiple pending requests for judicial orders barring the administration from sending armed federal agents to polling places.
+
+In a statement, Lauren Bis, a White House spokeswoman, said the Trump administration “has always, and will continue to follow all court orders.”
+
+“Lower courts have engaged in an unprecedented number of lawless injunctions seeking to obstruct President Trump’s agenda that the American people elected him to enact,” she continued, “but with well over 25 Supreme Court victories, President Trump’s policies have been consistently upheld as lawful.”
+
+All modern administrations have sometimes bristled at judicial setbacks. President George W. Bush said he disagreed with a 2008 ruling about Guantánamo detainee rights but would abide by it. President Barack Obama criticized a campaign-finance decision in his 2010 State of the Union, with justices seated before him. President Joseph R. Biden Jr. in 2023 said he thought the court got the law wrong when it blocked his student-loan forgiveness program, and he vowed to try again under a different authority.
+
+Part of what makes the second Trump administration different is the sheer volume of Mr. Trump’s confrontations with the courts. They also come as the administration has destroyed the traditional principle that the White House should play no role in directing law enforcement investigative and charging decisions in specific cases.
+
+In some cases, skeptical judges have dismissed high-profile indictments and quashed investigative subpoenas, including at times finding that the Justice Department had improper motivations. And judges have increasingly been concluding that the department has been misrepresenting facts in civil litigation hearings and filings.
+
+In a recent Duke Law Journal article, two University of Michigan law professors, Daniel T. Deacon and Leah M. Litman, dubbed the administration’s pattern of using evasive tactics to deflect limits imposed by the courts style as “legalistic noncompliance.” And that behavior inside courtrooms has been coupled with venomous personal rhetoric about judges out of court.
+
+Compounding the stakes, other legal checks on Mr. Trump have weakened since his first term. The Supreme Court in 2024 declared that presidents have broad immunity for crimes committed with official powers.
+
+Mr. Trump has installed in key executive branch legal positions loyalists who were vetted as being less likely to raise objections to his ideas than even very conservative and political appointed lawyers sometimes were in his first term, and he has forbidden dissent by government lawyers. With Republicans controlling both chambers, and with the departure of some Republicans who occasionally challenged Mr. Trump in his first term, Congress has so far rarely constrained him.
+
+That has left the courts as a principal obstacle to parts of his agenda — and a recurring target of his wrath.
+
+Failing to Obey Orders
+
+Before becoming vice president, JD Vance repeatedly argued that presidents could and should ignore court orders they regarded as infringements on their rightful executive powers. Soon after taking office in early 2025, he declared on social media that “judges aren’t allowed to control the executive’s legitimate power.”
+
+To date, however, the second Trump administration has not declared that it has intentionally violated a binding order. Instead, it has disputed the meaning of orders, challenged judges’ authority to issue them or attributed failures to comply to mistakes and overwhelmed systems.
+
+In February, for example, a Justice Department lawyer filed a report in which she identified 52 court orders in New Jersey that the government had violated after reviewing 547 immigration actions. The violations included transferring detainees out of state despite a no-removal directive and missing deadlines to present detainees for a bond hearing. The department stressed there was no evidence that any of the failures were intentional.
+
+Similarly, when the administration flooded Minneapolis with immigration agents for a major crackdown, Patrick J. Schiltz, a Bush appointee who was then the chief judge, found that the government had violated 210 orders in 143 immigration cases in the first two months of 2026. Low-level government lawyers told courts those failures, too, were unintentional, reflecting a system overwhelmed by the volume of arrests and litigation.
+
+For the judges, however, the repeated failures raised a more fundamental issue: The executive branch had dispatched more than 3,000 immigration agents to the city without ensuring there would be adequate lawyerly resources to deal with the predictable surge of habeas cases.
+
+The Justice Department responded to the criticism by attacking the judges themselves. A month ago, it filed a misconduct complaint against nearly every active federal district judge in Minnesota for publicly warning, in New York Times interviews, that the administration’s systematic failure to obey the orders during the surge had jeopardized the rule of law.
+
+The complaint singled out Judge Schiltz, whom it accused of having “publicly taken sides on the political issue of immigration enforcement.” The department this month also moved to disqualify him and another district judge from immigration-related cases.
+
+“I not only have the right to speak out when I find the rule of law threatened — whether that be by negligence, inattention, incompetence, poor planning, or by conscious violation — I have a duty to do so,” Judge Schiltz said at a recent law school conference.
+
+In July, Judge Maame Ewusi-Mensah Frimpong in the Central District of California, a Biden appointee, held an array of Trump administration officials in civil contempt for failing to comply with a discovery order to provide work messages exchanged by immigration agents on personal phones. The texts were sought by plaintiffs in a class-action lawsuit concerning the immigration crackdown in Los Angeles last year.
+
+She imposed a $500-a-day fine, which the administration — which is contesting the contempt ruling — has been paying ever since. The payments do not come out of individual officials’ pockets, limiting their coercive effect.
+
+Other failures have been short-lived, and followed by belated compliance after lawyers returned to court.
+
+In September, Judge Timothy J. Kelly in the District of Columbia, a Trump appointee, blocked Mr. Trump from banning reporters from CNN, MS NOW and Politico from the White House. Journalists from the outlets were nevertheless denied entry for hours, regaining access only after lawyers filed a notice of noncompliance.
+
+Breaching Oral Understandings
+
+Some of the sharpest disputes have concerned instances when judges have delivered oral directives instead of or before issuing formal written orders. Traditionally, the government routinely obeys oral commands and even expressions of judicial expectations — but the Trump administration has contested their status.
+
+In March 2025, Mr. Trump invoked an 18th-century wartime deportation law to send planeloads of people accused of belonging to a Venezuelan gang to a notorious Salvadoran prison without an opportunity to contest their identities and removals in court.
+
+The American Civil Liberties Union sued on their behalf, and Judge James E. Boasberg, an Obama appointee who is the chief Federal District Court judge in the District of Columbia, told the administration during a hearing that they should turn any planes around so migrants aboard could receive hearings.
+
+He also said he would issue a formal written order so there would be no confusion and did so about an hour later. While it forbade removals from the United States, it did not mention planes already in the air.
+
+In fact, two planes of migrants were mid-flight, and the administration did not return them, instead allowing them to fly on to El Salvador and complete the transfer. Administration lawyers later argued that “an oral directive is not enforceable as an injunction,” and that the narrower written order superseded the oral directive. Judge Boasberg rejected that argument.
+
+A former Justice Department lawyer later told Congress that during planning for the deportations, Emil Bove III, a senior Trump appointee, had said that if a court enjoined the removals, the department “would need to consider telling the courts ‘fuck you’ and ignore any such order.” Mr. Bove, whom Mr. Trump has since appointed as an appellate judge, denied it.
+
+Judge Boasberg sought to hold contempt proceedings and establish who made the key decisions and what they knew at the time. But an appellate panel with two Trump appointees voted 2-1 to shut them down. The full appeals court is now weighing whether to let Judge Boasberg hold his inquiry, meaning the issue remains unresolved — some 20 months later.
+
+During the dispute, Mr. Trump attacked Judge Boasberg as a “radical Left Lunatic of a Judge, a troublemaker and agitator,” calling for his impeachment. Chief Justice John G. Roberts Jr., a Bush appointee, rebuked Mr. Trump, writing: “Impeachment is not an appropriate response to disagreement concerning a judicial decision.”
+
+A recent confrontation over Mr. Trump’s plans to remake a century-old public golf course in Washington followed a similar cycle of seeming understandings being breached, followed by judicial anger and accusations of bias.
+
+A preservation group and two local golfers sued in February, arguing that the government was bypassing required reviews. Justice Department lawyers told Judge Ana Reyes, a Biden appointee, that the redesign remained conceptual and promised adequate advance notice before major work began. Relying on those assurances, she held off on an injunction.
+
+Then, at 4:55 p.m. on Oct. 9, the Friday before a holiday weekend, the administration filed notice that it intended to clear as many as 529 trees for what it styled as “maintenance activities.” Workers began cutting the next morning, removing hundreds of trees before Judge Reyes intervened.
+
+During a four-hour emergency hearing, she excoriated the government, saying it had lost “all of its credibility.” The Justice Department sought her recusal, citing her heated remarks as intemperate. She refused to step aside, and Mr. Trump called her a “crazed lunatic” on social media while declaring that the renovation did not need approval and that work would begin “IMMEDIATELY!”
+
+That still-ongoing dispute — Judge Reyes on Oct. 30 ordered a formal inquiry into whether Trump administration lawyers made material misrepresentations to the court — illustrated an escalating tension. Traditionally, courts routinely have depended on Justice Department lawyers’ assurances, deferring to their factual representations, a practice known as the presumption of regularity.
+
+But courts around the country are increasingly finding that the word of Justice Department lawyers in the second Trump administration is not reliable.
+
+In February, for example, Judge Christine P. O’Hearn, a Biden appointee in New Jersey, required sworn affidavits from officials with firsthand knowledge about the transfer of an immigration detainee, writing that the presumption previously afforded to the executive branch “has been undeniably eroded.” She added that the court would “no longer blindly accept statements of fact” from the government.
+
+And in May, when Judge Mary S. McElroy, a Trump appointee in Rhode Island, quashed an administration subpoena for transgender children’s medical records, she approvingly cited a similar rebuke by another judge in Oregon, who had said the Justice Department could no longer be taken at its word, given how the department had withheld and misrepresented salient information in the case.
+
+“D.O.J. has proven unworthy of this trust at every point in this case,” Judge McElroy wrote.
+
+But the frequency with which judges of both parties are finding the Trump Justice Department to be unworthy of trust is contributing to a downward cycle. It creates pressure on judges to issue more detailed restrictions and to demand more evidence — steps the administration may then portray as unwarranted interference.
+
+The cycle has also been exacerbated by an administration tactic of sometimes narrowly interpreting its obligations under court orders.
+
+That tactic was central to the case of Kilmar Armando Abrego Garcia, whom the government mistakenly repatriated to El Salvador last year despite an immigration judge’s order barring his removal to his home country.
+
+After the Supreme Court directed the government to “facilitate” his return, the administration argued that it needed only to let him back in if he showed up at the border, not to seek his release from El Salvador.
+
+A federal appeals court rejected that interpretation as “not well taken.” Writing for the court, Judge J. Harvie Wilkinson III, a Reagan appointee, warned that the branches were increasingly coming “too close to grinding irrevocably against one another in a conflict that promises to diminish both.”
+
+“The respect that courts must accord the Executive must be reciprocated by the Executive’s respect for the courts,” he added. “Too often today this has not been the case, as calls for impeachment of judges for decisions the Executive disfavors and exhortations to disregard court orders sadly illustrate.”
+
+Under such pressure, the administration eventually retrieved Mr. Abrego Garcia from El Salvador.
+
+Exploiting Loopholes
+
+In other cases, the administration has found ways around court action blocking its policies by pursuing the same policies using alternative legal rationales.
+
+In early 2025, the White House ordered a broad spending freeze, prompting agencies to withhold foreign aid and domestic grants. Recipients sued, and judges blocked the White House’s directive. But Trump political appointees at agencies invoked other legal authorities to keep withholding the funds, saying they were making independent decisions rather than carrying out the blocked directives.
+
+Such disputes are inherently ambiguous. Presidents of both parties have tried similar gambits when blocked by the courts. But the Trump administration has been particularly aggressive in pressing forward rather than acquiescing to apparent court defeats.
+
+When the Supreme Court struck down Mr. Trump’s novel use of an emergency powers law to impose tariffs in February, he attacked the justices who voted against him as “a disgrace,” “incompetent” and an “embarrassment to their families.” Mr. Vance called the 6-3 ruling “lawlessness from the court, plain and simple.” Within hours, Mr. Trump imposed a 10 percent global tariff, citing a different legal authority, also novel. The move prompted renewed litigation over whether he could lawfully impose such import taxes.
+
+While appeals of adverse rulings are a normal part of litigation, the second Trump administration has been unusually aggressive in appealing.
+
+The administration has started making routine use of the Supreme Court’s once-rare emergency docket, appealing district court orders before litigation has had a chance to play out at an unprecedented rate, according to data compiled by Stephen I. Vladeck, a Georgetown University law professor.
+
+Professor Vladeck, who is also the author of a forthcoming Harvard Law Review article documenting the confrontational dynamic between the judiciary and the executive branch under the second Trump administration, said the pattern was damaging both institutions — undermining the credibility of the Justice Department and the courts’ neutral, above-the-fray image.
+
+Professor Vladeck said that in the long term, the tensions risked “eroding trust in our institutions, when those institutions depend in lots of ways, big and small, on the very trust that is now in jeopardy.”
+
+================================================================================
+israel-election-prime-minister.html
+Source: PreloadedData  Paragraphs: 28  Words: 1192/1197
+================================================================================
+
+SUMMARY
+
+This week, Israeli party leaders will trickle into the residence of President Isaac Herzog to officially recommend their pick for Israel’s next prime minister following the inconclusive election last Tuesday. Most party leaders are expected to back either Prime Minister Benjamin Netanyahu, the longtime right-wing leader, or his main center-right rival, Gadi Eisenkot. But to form a government without Mr. Netanyahu, Mr. Eisenkot would most likely have to lean on the Arab parties, in particular the relatively pragmatic Raam party, which got eight seats.
+
+ARTICLE
+
+Israel Turns to Next Big Question: Who Gets a Shot at Being Prime Minister?
+Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.
+By Aaron Boxerman
+Published 2026-11-02 10:30 UTC
+https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html
+
+This week, Israeli party leaders will trickle into the residence of President Isaac Herzog to officially recommend their pick for Israel’s next prime minister following the inconclusive election last Tuesday.
+
+In livestreamed meetings to begin on Wednesday, politicians from 11 parties, including those representing secular liberals, ultra-Orthodox Jews and Arab voters, will make a pitch to Mr. Herzog. He will then bestow the mandate to build a coalition on whichever candidate he deems the most viable, who will have up to six weeks to form a government.
+
+Most party leaders are expected to back either Prime Minister Benjamin Netanyahu, the longtime right-wing leader, or his main center-right rival, Gadi Eisenkot. Neither man won a clear 61-seat majority in balloting for the 120-member Parliament, most likely meaning that weeks or months of negotiations among the parties and elected lawmakers lie ahead.
+
+Behind the scenes, politicians are weighing the path forward and wrangling for the upper hand. No one emerged from the election with a decisive victory, leaving Mr. Netanyahu, Mr. Eisenkot and the rest trying to cajole and squeeze opponents and would-be allies alike.
+
+“It’s a game of chicken,” said Nevo Cohen, a political strategist who ran the 2022 election campaign for the far-right national security minister, Itamar Ben-Gvir.
+
+Mr. Netanyahu has long exercised a tight grip over his bloc of conservative and religious parties. But some could always bolt — potentially ultra-Orthodox or more moderate right-wingers in his own Likud faction — in exchange for influence in an Eisenkot-led government, political analysts said.
+
+Mr. Eisenkot could also look to form a government by relying on Arab parties that have long sat on the sidelines of Israeli politics, or by partnering with Mr. Netanyahu to form a unity government. Either option would be tricky because some of his allies promised on the campaign trail never to work with Mr. Netanyahu, or with Arab lawmakers to form a government.
+
+On Monday, Avigdor Liberman, a key figure in the opposition bloc, said he would recommend Mr. Eisenkot for prime minister. But he reiterated his longstanding vow not to share power with Mr. Netanyahu or serve in a minority government with Arab parties, further complicating matters for Mr. Eisenkot.
+
+All the parties “are checking their internal situation to see how much room they have to maneuver,” said Lior Chorev, a political strategist who worked on former Prime Minister Naftali Bennett’s campaign, which picked up 12 seats in Parliament last week. “They want to know how far they can go.”
+
+After the last election in 2022, Mr. Netanyahu swept to power with a 64-seat majority, allowing him to establish the most far-right government in Israel’s history. This time, the calculations are considerably more complex. Mr. Netanyahu and his allies’ majority dropped to 53 seats in Parliament, while Mr. Eisenkot’s opposition bloc garnered 48 seats.
+
+Surging turnout among Israel’s Arab citizens also helped deliver a historic 19 seats to the two main Arab-led parties, turning them into potential kingmakers.
+
+An Israeli opposition official, who spoke on the condition of anonymity to discuss private negotiations, said that party leaders were feeling out one another’s red lines. These leaders were also drawing up legislative plans for when Israel’s Parliament, the Knesset, is sworn in this week, the official said.
+
+The coalition talks will be extraordinarily sensitive because they could easily collapse, sending Israel back to another round of elections, said Izhar Shay, a former centrist lawmaker. So in making deals or concessions, politicians need to be cognizant of how that might play with their voters, should they find themselves back at polling stations quicker than expected.
+
+“The parties are negotiating — but in reality, they’re still campaigning, because this might turn into an election campaign in just a few months,” said Mr. Shay. “So they’re being cautious about what they say, because it could hurt them in elections which might be in four months, rather than four years.”
+
+Mr. Eisenkot has at least three paths to power. He could try to pick off some of Mr. Netanyahu’s allies; he could form a unity government with the prime minister he swore to oust; or he could lean on the Arab bloc — and risk splitting his base.
+
+Some of Mr. Eisenkot’s supporters say that joining with Mr. Netanyahu — although many detest the prime minister — might make the most sense, since it would keep ultra-Orthodox and Arab parties out of power.
+
+But Mr. Netanyahu is a famously slippery partner, and he has walked away from political agreements before when they no longer served him.
+
+In 2020, a unity government between Mr. Netanyahu and Benny Gantz, a centrist opposition leader, collapsed after less than a year of power sharing. Under their coalition agreement, Mr. Netanyahu was supposed to yield the prime minister’s seat to Mr. Gantz, but he instead dissolved the Knesset and called new elections.
+
+“We thought we were doing the right thing, and in the end Netanyahu cheated us,” said Mr. Shay, a lawmaker in Mr. Gantz’s party at the time.
+
+But to form a government without Mr. Netanyahu, Mr. Eisenkot would most likely have to lean on the Arab parties, in particular the relatively pragmatic Raam party, which got eight seats. The Joint List, which netted 11 seats, is unlikely to join his governing coalition, but it could block a no-confidence vote against it in the Knesset, allowing him to form a “minority government” with fewer than 61 seats.
+
+Since last week, Mr. Netanyahu has claimed that Arab citizens were “stealing the election.” His Likud party has alleged, without providing proof, that the results were subject to widespread tampering. Election officials have repeatedly said there was no evidence of systematic interference in the vote.
+
+Analysts say Mr. Netanyahu’s racially charged campaign aims at further discrediting any attempt by Mr. Eisenkot to engage Arab parties as partners.
+
+“That’s the only scenario that Netanyahu is afraid of, so he’s trying to do things that will make a minority government impossible,” said Michael Koplow, an expert at the Israel Policy Forum, a research group.
+
+An incident that surfaced Thursday gave Mr. Netanyahu an opening to cast doubt on the legitimacy of the high Arab vote.
+
+Noam Sohlberg, the Supreme Court justice overseeing the country’s elections committee, said in a letter that he had seen intelligence indicating potential “improper influence through foreign funding” in the elections. He did not elaborate or provide evidence and said he “could not attest to the veracity of the suspicions.” He nevertheless sent a letter authorizing the head of Shin Bet, Israel’s domestic security agency, to investigate.
+
+The Likud party quickly issued a statement saying that the Arab parties had “stolen the elections in Israel.” The party incorrectly cited Mr. Sohlberg’s letter to Shin Bet, falsely saying it had reported that “foreign officials have bribed voters on behalf of the Arab parties.”
+
+Three days later, Mr. Sohlberg issued a clarification, saying that there was no reason to “doubt the votes cast by Arab citizens.” But the claim that Arab parties had tainted the elections had already become a right-wing talking point.
+
+On Sunday, the Likud party again denounced the results of the vote, saying that a “black cloud” was hovering over the election.
+
+Heedo Abu Laban contributed reporting from Modiin, Israel.
 
 ================================================================================
 best-movies-amazon-prime.html
@@ -47235,6 +47918,97 @@ Alissa Quart is the editorial director of the Economic Hardship Reporting Projec
 Featured photographs by Tim Davis, a photographer and educator based in Tivoli, N.Y. His book “Normaltown” was published by Fall Line Press. Inset photographs by Anh Nguyen, a photographer based in Brooklyn and a New York Times Opinion photo editing fellow.
 
 Produced by Meher Ahmad, Ana Becker, Rebecca Chew and Jessie Wender. Additional development by Adam Ferriss.
+
+================================================================================
+trump-administration-court-orders-deflect.html
+Source: RenderedHtml  Paragraphs: 30  Words: 844
+================================================================================
+
+SUMMARY
+
+Here’s a look at some of the ways Mr. Trump and his administration have sidestepped judicial commands: A court blocks an action by the administration. A court orders the administration to act.
+
+ARTICLE
+
+7 Ways Trump Deflects the Courts
+President Trump and his administration have repeatedly sidestepped court limits in his second term. Here’s how they do it.
+By Charlie Savage
+Published 2026-11-02 10:03 UTC
+https://www.nytimes.com/interactive/2026/11/02/us/trump-administration-court-orders-deflect.html
+
+The federal government has repeatedly blunted the impact of court-imposed limits in President Trump’s second term. The executive branch has violated or delayed compliance with orders, typically insisting it was unintentional; disputed interpretations of rulings; and crafted alternative legal justifications to press forward with blocked policies, among other maneuvers.
+
+Here’s a look at some of the ways Mr. Trump and his administration have sidestepped judicial commands:
+
+1 Violate orders but insist it’s unintentional
+
+A court orders an immigration detainee kept in state or presented for a bond hearing.
+
+The administration transfers that person out of state or fails to meet the hearing deadline, but says it was a mistake rather than deliberate defiance.
+
+Tobay Robles v. Noem
+
+On Jan. 14, a judge ordered the government to either bring a man detained in its immigration crackdown in Minnesota to a bond hearing or release him — within seven days. The government missed that deadline and many others in similar cases. The judge later identified about 200 violations of court orders over two months stemming from the crackdown. Government lawyers repeatedly cited a lack of resources to keep up with the volume of cases the operation was generating.
+
+2 Delay complying
+
+A court blocks an action by the administration.
+
+Administration officials delay compliance.
+
+CNN et al v. Trump
+
+On Sept. 24, 2026, a judge ordered White House personnel to let reporters from CNN, MS NOW and Politico back onto the grounds, blocking Mr. Trump’s order barring the news organizations over their reporting. The Secret Service continued to block them for hours, not allowing them access until their lawyer filed a notice of noncompliance with the court.
+
+3 Interpret orders narrowly
+
+A court orders the administration to act.
+
+Administration officials construe their obligations narrowly, limiting what they say they must do to comply.
+
+Abrego Garcia v. Noem
+
+On April 10, 2025, the Supreme Court unanimously ordered the administration to “facilitate” the return of Kilmar Abrego Garcia, a migrant who had been deported to El Salvador despite an immigration judge previously ordering that he not be sent there. The administration interpreted the court’s order to mean that it would need to admit Mr. Abrego Garcia to the United States should he reach the border — not take steps to secure his release from a Salvadoran prison and return him.
+
+4 Adopt alternative rationales
+
+A court blocks an action, rejecting the administration’s claimed legal authority.
+
+The administration keeps pursuing the same or similar policy citing a different claimed legal basis, prompting fresh litigation.
+
+Learning Resources, Inc. v. Trump
+
+On Feb. 20, 2026, the Supreme Court ruled that Mr. Trump could not invoke a 1977 emergency powers law — which did not mention tariffs — to unilaterally impose sweeping import taxes. Hours later, Mr. Trump invoked an aggressive interpretation of a different law to impose a 10 percent global tariff, prompting a new legal fight.
+
+5 Fail to follow through on verbal assurances
+
+The administration’s lawyers offer the court assurances, forestalling a formal order.
+
+The administration acts in ways the court considers inconsistent with those assurances.
+
+D.C. Preservation League v. National Park Service
+
+Portraying plans to overhaul a public golf course in Washington as preliminary, government lawyers promised to notify a judge before any major work began. Trusting the assurance meant she would have an adequate opportunity to examine the legality of any work before it began, the judge declined to order the administration not to start its project. The government then abruptly filed a notice at 4:55 p.m. on the Friday before a holiday weekend that it planned to clear as many as 529 trees for what it styled as “maintenance activities,” and workers cut down hundreds of trees the next day before she weighed in and stopped it.
+
+6 Argue the court exceeded its authority or its directive was not binding
+
+A judge directs the government to act in a specific way.
+
+The administration does otherwise, arguing that the directive was not binding or exceeded the court’s authority.
+
+J.G.G. v. Trump
+
+In March 2025, a judge verbally commanded the government to turn around planes carrying people accused of being Venezuelan gang members to a notorious Salvadoran prison because they had not been given due-process hearings. The judge then issued a written order barring removals under the wartime deportation law invoked by Mr. Trump. The administration nevertheless completed the transfer, later arguing that the oral order was not binding and that the planes were in international airspace and so beyond the court’s jurisdiction.
+
+7 Violate an order and absorb fines imposed as a penalty
+
+A judge imposes a civil contempt fine for noncompliance.
+
+The administration pays the fine with public funds, shielding individual officials from the cost.
+
+Perdomo v. Mullin
+
+The Department of Homeland Security failed to comply with a court’s discovery order to copy work messages on ICE agents’ personal phones for a class-action lawsuit challenging practices in a crackdown in Los Angeles. A judge then held officials in contempt and imposed a $500-a-day fine. The administration, which is contesting the ruling, has been paying the fines for months using government funds.
 
 ================================================================================
 dubai-flight-tel-aviv-israel-pilots.html

@@ -1,0 +1,90 @@
+================================================================================
+trump-administration-court-orders-deflect.html
+Source: RenderedHtml  Paragraphs: 30  Words: 844
+================================================================================
+
+SUMMARY
+
+Here’s a look at some of the ways Mr. Trump and his administration have sidestepped judicial commands: A court blocks an action by the administration. A court orders the administration to act.
+
+ARTICLE
+
+7 Ways Trump Deflects the Courts
+President Trump and his administration have repeatedly sidestepped court limits in his second term. Here’s how they do it.
+By Charlie Savage
+Published 2026-11-02 10:03 UTC
+https://www.nytimes.com/interactive/2026/11/02/us/trump-administration-court-orders-deflect.html
+
+The federal government has repeatedly blunted the impact of court-imposed limits in President Trump’s second term. The executive branch has violated or delayed compliance with orders, typically insisting it was unintentional; disputed interpretations of rulings; and crafted alternative legal justifications to press forward with blocked policies, among other maneuvers.
+
+Here’s a look at some of the ways Mr. Trump and his administration have sidestepped judicial commands:
+
+1 Violate orders but insist it’s unintentional
+
+A court orders an immigration detainee kept in state or presented for a bond hearing.
+
+The administration transfers that person out of state or fails to meet the hearing deadline, but says it was a mistake rather than deliberate defiance.
+
+Tobay Robles v. Noem
+
+On Jan. 14, a judge ordered the government to either bring a man detained in its immigration crackdown in Minnesota to a bond hearing or release him — within seven days. The government missed that deadline and many others in similar cases. The judge later identified about 200 violations of court orders over two months stemming from the crackdown. Government lawyers repeatedly cited a lack of resources to keep up with the volume of cases the operation was generating.
+
+2 Delay complying
+
+A court blocks an action by the administration.
+
+Administration officials delay compliance.
+
+CNN et al v. Trump
+
+On Sept. 24, 2026, a judge ordered White House personnel to let reporters from CNN, MS NOW and Politico back onto the grounds, blocking Mr. Trump’s order barring the news organizations over their reporting. The Secret Service continued to block them for hours, not allowing them access until their lawyer filed a notice of noncompliance with the court.
+
+3 Interpret orders narrowly
+
+A court orders the administration to act.
+
+Administration officials construe their obligations narrowly, limiting what they say they must do to comply.
+
+Abrego Garcia v. Noem
+
+On April 10, 2025, the Supreme Court unanimously ordered the administration to “facilitate” the return of Kilmar Abrego Garcia, a migrant who had been deported to El Salvador despite an immigration judge previously ordering that he not be sent there. The administration interpreted the court’s order to mean that it would need to admit Mr. Abrego Garcia to the United States should he reach the border — not take steps to secure his release from a Salvadoran prison and return him.
+
+4 Adopt alternative rationales
+
+A court blocks an action, rejecting the administration’s claimed legal authority.
+
+The administration keeps pursuing the same or similar policy citing a different claimed legal basis, prompting fresh litigation.
+
+Learning Resources, Inc. v. Trump
+
+On Feb. 20, 2026, the Supreme Court ruled that Mr. Trump could not invoke a 1977 emergency powers law — which did not mention tariffs — to unilaterally impose sweeping import taxes. Hours later, Mr. Trump invoked an aggressive interpretation of a different law to impose a 10 percent global tariff, prompting a new legal fight.
+
+5 Fail to follow through on verbal assurances
+
+The administration’s lawyers offer the court assurances, forestalling a formal order.
+
+The administration acts in ways the court considers inconsistent with those assurances.
+
+D.C. Preservation League v. National Park Service
+
+Portraying plans to overhaul a public golf course in Washington as preliminary, government lawyers promised to notify a judge before any major work began. Trusting the assurance meant she would have an adequate opportunity to examine the legality of any work before it began, the judge declined to order the administration not to start its project. The government then abruptly filed a notice at 4:55 p.m. on the Friday before a holiday weekend that it planned to clear as many as 529 trees for what it styled as “maintenance activities,” and workers cut down hundreds of trees the next day before she weighed in and stopped it.
+
+6 Argue the court exceeded its authority or its directive was not binding
+
+A judge directs the government to act in a specific way.
+
+The administration does otherwise, arguing that the directive was not binding or exceeded the court’s authority.
+
+J.G.G. v. Trump
+
+In March 2025, a judge verbally commanded the government to turn around planes carrying people accused of being Venezuelan gang members to a notorious Salvadoran prison because they had not been given due-process hearings. The judge then issued a written order barring removals under the wartime deportation law invoked by Mr. Trump. The administration nevertheless completed the transfer, later arguing that the oral order was not binding and that the planes were in international airspace and so beyond the court’s jurisdiction.
+
+7 Violate an order and absorb fines imposed as a penalty
+
+A judge imposes a civil contempt fine for noncompliance.
+
+The administration pays the fine with public funds, shielding individual officials from the cost.
+
+Perdomo v. Mullin
+
+The Department of Homeland Security failed to comply with a court’s discovery order to copy work messages on ICE agents’ personal phones for a class-action lawsuit challenging practices in a crackdown in Los Angeles. A judge then held officials in contempt and imposed a $500-a-day fine. The administration, which is contesting the ruling, has been paying the fines for months using government funds.
