@@ -41396,6 +41396,119 @@ That government now faces the possibility that it may be brought down by an elec
 Heedo Abu Laban contributed reporting from Lod, Israel.
 
 ================================================================================
+polls-midterm-election.html
+Source: PreloadedData  Paragraphs: 48  Words: 2563/2567
+================================================================================
+
+SUMMARY
+
+When I was Politics editor of The Times in 2018, polls indicated that Democrats were likely to ride a wave of anti-Trump energy to win big in the midterm elections. Are polls overestimating the Democrats’ chances? They work on our Times/Siena Poll, which is widely considered to be one of the most accurate polls in U.S. politics, and Nate recently explored the question of polls and Democrats’ chances in his newsletter, The Tilt.
+
+ARTICLE
+
+Are Polls Overstating Democrats’ Midterm Leads? Times Pollsters Weigh In.
+Members of the team behind the Times/Siena Poll on what the data show, how they’ve improved their methodology and what it means to be “right.”
+By Patrick Healy, Nate Cohn and William P. Davis
+Published 2026-10-28 09:05 UTC
+https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html
+
+When I was Politics editor of The Times in 2018, polls indicated that Democrats were likely to ride a wave of anti-Trump energy to win big in the midterm elections. Democrats went on to capture control of the House of Representatives, but Republicans did better than expected in a couple of red states — Missouri and Indiana — and increased their Senate majority.
+
+Now we face another midterm election with President Trump in office, and polls again favor the Democrats, including in the House. Recent New York Times/Siena polls also show the party with a slight edge to flip the Senate. But that may come down once more to Senate races in red states like Texas, Ohio and Kansas.
+
+Are polls overestimating the Democrats’ chances? What are we doing to accurately capture support for candidates? I’ve been thinking about these questions in my current role focusing on reader trust in The Times. For instance, we published a poll in October showing a healthy lead for James Talarico, the Democratic nominee for Senate in Texas. Many other polls also show Talarico leading. Given the base-line partisanship of Texas and voters’ track record of electing Republicans there, regardless of headwinds, I wondered whether readers would trust our polls or question their credibility.
+
+I recently spoke about polling and the midterms with Nate Cohn, our chief political analyst, and William P. Davis, who leads our Election Analytics department. They work on our Times/Siena Poll, which is widely considered to be one of the most accurate polls in U.S. politics, and Nate recently explored the question of polls and Democrats’ chances in his newsletter, The Tilt. Our interview has been edited and condensed.
+
+Let’s start with a point-blank question. Should people trust these polls showing Democrats running ahead or neck-and-neck in red states?
+
+NATE COHN: You can trust them to a degree. You can trust the polls to usually be in the ballpark, but you can’t trust them to be exactly “right.” Polls are inherently imprecise and subject to many sources of error.
+
+So if by “trust” you mean “assume that the leading candidate will win,” then the answer is “no.” The polls have been wrong by this standard before and they will be wrong again. But if trust means “rely on the polls as the best source of information on the electorate, even if an inexact one,” then the answer is yes.
+
+WILLIAM P. DAVIS: There are a lot of indicators pointing in the same direction this year — polls of specific races, President Trump’s approval rating, the fact that Republican candidates in deep-red states are distancing themselves from the president, the expectation that Democrats have a turnout advantage in midterm elections, etc.
+
+The question becomes: How good of a year will it be for Democrats? Polls suggest a pretty good one. But whether the national results swing eight or 10 or 12 points to the left from 2024 will make a material difference in whether or not Democrats are able to take the Senate, and polls can’t guarantee that level of precision.
+
+But some people read a Times poll headline saying so-and-so is ahead and take that to the bank. What do you say to people who see our Senate polls and regard them as predictions for Election Day?
+
+WILL: Polls measure public opinion at a specific point in time. If people are still making up their minds, or late-breaking information upends a race, any prior poll will miss it. Polls can help us understand which races are close, and why; we won’t know until the results are in how they will shake out.
+
+As rigorous as our polls are, I’m a little skeptical that a Democratic Senate candidate will win in Texas, given historical candidate performance there. What’s your pushback on that?
+
+NATE: I’d say that you shouldn’t be quite so skeptical. Over the Trump era, Texas Republicans have become dependent on elevated levels of support from Hispanic voters. Without them, Texas is highly competitive, as Republicans have lost enormous support among white voters in the state’s highly educated suburbs. Every available piece of evidence — from our polls to on-the-ground reporting — suggests that the G.O.P.’s gains among this group have evaporated.
+
+For good measure, the G.O.P. has nominated a candidate — Ken Paxton — who has been investigated, indicted and impeached. Add in a hostile national political environment for Republicans, and I don’t think there would be anything surprising about a Democratic win in Texas. Nearly every nonpartisan poll since at least Labor Day has shown Talarico ahead.
+
+WILL: It’s reasonable, even good, to be skeptical. But people also have a false memory of Texas polls in the past. Most polls did not show Beto O’Rourke ahead in the 2018 Senate race against Ted Cruz. Our Times/Siena poll of that race had O’Rourke down eight points, and he actually only lost by 2.5 points, so we underestimated him a bit in that race. This year’s race is still pretty close, but it’s undeniable that Talarico is doing better there in polls than any Democrat in recent history.
+
+I raised the question earlier of reader trust in polls. Readers have asked me if we’re “sure” that our Texas polling is right and whether we would kill the poll if we weren’t sure. How do you see that? And do we ever not publish polls that we’ve conducted?
+
+NATE: It might seem strange, but it’s pretty important that we publish every survey result. We’ve never withheld a Times/Siena poll result. Many smart election analysts would have never imagined Trump winning in 2016, would have never imagined that Democrats could have avoided a “red wave” in 2022, or would have never believed Trump could surge among young and nonwhite voters in 2024 — if it weren’t for polls raising it as a real possibility.
+
+And if The Times had withheld positive polls for Trump in 2016, we would have been accused of bias.
+
+NATE: Yes. We would absolutely be accused of cherry-picking polls that fit a partisan bias or, even worse, in order to fit or construct a partisan narrative.
+
+Of course, there are sometimes good reasons to wonder whether our poll is in the ballpark. That’s especially true when there’s a lot of other polling or our reporting shows something different. When we get an outlier like that, we can be cautious about the result in our write-up.
+
+Even when the poll does appear to be a true outlier, it doesn’t mean it’s wrong. In 2022, I downplayed the result of a poll in Kansas’s Third District, which showed the Democrat Sharice Davids ahead by 14 points. This seemed totally bonkers. The race was considered a true tossup, with both parties spending millions of dollars. One Democratic pollster called the result “cray” and sent the laughing-while-crying emoji. In a very rare move, the Democratic campaign even disputed the result: “I don’t know what model The Times is using but this is going to be a very tight race. Our polls show it’s a true tossup at this point.”
+
+In the end, Davids won by 12 points. I still get flack for downplaying the result.
+
+Even modest polling errors in the past have underestimated Republican strength. Why is that, and what have we done to account for it?
+
+WILL: Poll error from years when Donald Trump has been on the ballot are top of mind for most people, and with good reason. The chief theory for why polls have missed relates to who polls have a hard time reaching: low-education voters who don’t vote as regularly. If those voters overwhelmingly favor one candidate over another, and if polls don’t reach enough of these voters, that can add up to the sorts of issues many pollsters saw in 2016.
+
+At the Times/Siena Poll, we put a lot of effort into reaching these voters, in part by placing more calls to voters who are less likely to respond. That ends up costing us a lot more money, but it pays off: In 2024, we saw early on that Trump was building a lead with these voters.
+
+And we are continually reviewing how our poll performs and making improvements. In 2024, we made a change to keep in our poll results respondents who hang up mid-survey. This year, we made significant changes to how we weight our polls, with the goal being to better account for the types of people we have a hard time reaching.
+
+Do we know how to poll Democrats better than we know how to poll Republicans?
+
+NATE: Not necessarily. When polls underestimate Republicans, it’s entirely possible that Democrats contribute to the problem. Imagine, for instance, if the “resistance” Democrats are much likelier to take a poll than a working class registered Democrat who sometimes votes for Trump.
+
+What else have we learned from past polls, and what are we doing differently this year?
+
+NATE: The thing that we’ve learned over the last decade — and that the industry as a whole has learned — is that even a perfectly designed survey will probably underrepresent Trump’s supporters.
+
+As Will mentioned, we’ve adopted a new method for “weighting,” the technique pollsters use to give more weight to underrepresented groups. The new approach lets us leverage the rich data we have on our survey respondents while weighting the poll to more thoroughly represent the population. This approach improved our past polls when we took the data from our old surveys and applied the new weighting approach. It would have especially helped in the white working-class states where polls have erred in the past, but that’s no guarantee of better results in this cycle or the future.
+
+WILL: There are serious challenges to making sure you have the right methodology, that you’re reaching a representative group, that your weighting is correcting for the things that matter most. We sweat every one of those decisions.
+
+And there are other ways to mess up beyond the methodology of the poll. The specific wording of questions is difficult to get right. Our colleague Ruth Igielnik leads our questionnaire development process, and we often spend weeks refining the specific language we use. But we sometimes realize after scrutinizing the results, reviewing recordings of calls, calling back voters and comparing our results to other polls that we didn’t quite get it right.
+
+One example was in 2023, when we found that more than 20 percent of voters in the presidential battlegrounds said they would support Robert F. Kennedy Jr. for president. We had a lot of reasons to believe that number was way too high: We compared our numbers to what others were finding, we looked at what respondents supporting Kennedy said in other questions, and we had a theory about what caused the issue.
+
+We still released the results, but we worked hard to place it in the proper context when we wrote our story about the finding. It was uncomfortable for us, to somewhat disavow our own finding. But we thought it revealed something about how unpopular Trump and Biden were, and we tried to explain that. And a few months later, we conducted an experiment to try to prove out our theory of why we got such a flawed result. Our theory was proved correct, and we wrote that up, too, to try to help readers better understand how polling works.
+
+We reported the other day that a fake polling firm had deceived The Times and other polling aggregators with several phony poll results. They said they were trying to “demonstrate the vulnerabilities” in the political polling field. Size this up — what did they prove and what did they not?
+
+WILL: It’s worth noting that the “polls” put out by this group, which went by Wedgewood Polls, had no bearing on our own Times/Siena polls. They appeared in our poll trackers but did not receive prominence in our coverage.
+
+Wedgewood certainly proved that we’re not perfect. But they claimed that The Times and others had included their polls without vetting them, and that’s not true. The Times vets all new pollsters, asking a series of questions designed to determine whether a group is attempting to field representative polls, learn where their funding comes from.
+
+This process has weeded out untrustworthy pollsters. But Wedgewood deceived us — as they appear to have deceived others who asked similar questions or even gave them money. It’s not clear to me that their true goal was to demonstrate vulnerabilities. We are putting a lot of thought into how we could have found these issues out earlier.
+
+One thing the episode highlighted is the way that newer pollsters can attract attention. The group was able to quickly gain traction, in part by claiming to be associated with another polling group and in part by polling some races that had little polling.
+
+It’s gotten evermore expensive to field a high-quality poll and ever-cheaper to field a low-quality one. And A.I. is making it easier than ever to fake things. The Times/Siena Poll is one of a few pollsters left with the resources to both put a focus on quality and poll many of the key races each election. Increasingly, pollsters are having to choose between one or the other.
+
+Last question. If Election Day results are materially different than our polling suggests, is the polling worth the risk to our credibility?
+
+WILL: In the end, I will regard how well we did as journalists by how well our coverage reflected what ended up happening.
+
+If Democrats do really poorly, we should do some soul searching about both our methods and the questions we asked, as we would for any other story we got wrong.
+
+If Democrats do well but fail to take the Senate, I would ask myself how well our coverage prepared readers for that possibility. I hope the answer is that it prepared them well, because we’re constantly talking about how to ensure our coverage prepares people for this scenario. I would also ask how well our poll questions helped us understand and explain why these races were so close.
+
+Similarly, if Democrats do much better than expected, I would ask myself how well we understood the circumstances that caused so many Trump voters to either stay home or switch to Democrats.
+
+NATE: Polling isn’t like a lot of the other journalism at The Times. Most of the report is about facts. If Peter Baker says that Trump’s going to Illinois tomorrow, that’s a fact. A poll is not a fact. It’s a best measurement. There’s no guarantee that a “best” measurement is good enough — whether in terms of The Times’s credibility or whether it improves our understanding of politics. Historically, there have absolutely been elections when it didn’t feel like polling passed that test. The 2016 election is the easiest example; there will be another election like it again.
+
+That said, readers come to The Times to understand American politics, which includes an understanding of public opinion during an election. For better or worse, polling is really the only quantitative measure of the attitudes of the electorate. There just isn’t an alternative. The polls will still drive the political conversation, even if The Times doesn’t conduct any of its own polling. Campaigns run on polls. Our coverage would inevitably be affected by the polls that others are conducting. If that’s going to be the case, it’s probably better that we’re conducting our own.
+
+================================================================================
 kalshi-teens-wager-sports.html
 Source: PreloadedData  Paragraphs: 19  Words: 1357/1358
 ================================================================================
@@ -43593,6 +43706,95 @@ The Times is committed to publishing a diversity of letters to the editor. We’
 Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
 
 ================================================================================
+you-can-see-everything-elizabeth-holmes-nathan-fielder.html
+Source: PreloadedData  Paragraphs: 33  Words: 1581/1667
+================================================================================
+
+SUMMARY
+
+Over opening weekend, someone posted on X: “Imagine how weird it would be to watch ‘You Can See Everything’ with Amy Chozick.” It was wild to watch the disgraced Theranos founder Elizabeth Holmes and her life partner, Billy Evans, reading the lengthy profile of Ms. Holmes that I wrote for The New York Times on a laptop, seemingly just as it was published, in 2023. At one point, Mr. Evans reads a quote from Ms. Holmes about her depiction by actors in film and TV — “They’re not playing me.
+
+ARTICLE
+
+I’m in ‘You Can See Everything.’ Here’s My Side of the Story.
+I’m in ‘You Can See Everything.’ Here’s my side of the story.
+By Amy Chozick
+Published 2026-10-30 09:03 UTC
+https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html
+
+Over opening weekend, someone posted on X: “Imagine how weird it would be to watch ‘You Can See Everything’ with Amy Chozick.”
+
+Let me tell you how weird.
+
+It was wild to watch the disgraced Theranos founder Elizabeth Holmes and her life partner, Billy Evans, reading the lengthy profile of Ms. Holmes that I wrote for The New York Times on a laptop, seemingly just as it was published, in 2023. At one point, Mr. Evans reads a quote from Ms. Holmes about her depiction by actors in film and TV — “They’re not playing me. They’re playing a character I created.” — and says it doesn’t sound like something she would say. He suggests Ms. Holmes must instead have said, “They’re not playing me. They’re playing a character they created.” She agreed.
+
+I had no idea that a central theme of the film would revolve around this disputed quote, which essentially opens and closes the movie.
+
+“You Can See Everything,” a Nathan Fielder and Lance Oppenheim documentary, is, as one review put it, “an existential vortex, challenging the concept of truth.” It might not even be, by some overly strict definitions, a documentary.
+
+It is quite funny. I howled laughing at the uncomfortable weirdness of the depictions of the couple that Mr. Fielder and Mr. Oppenheim constructed. Ms. Holmes and Mr. Evans appeared to have let the filmmakers see everything, even showing Mr. Evans taking a shower. But when I saw the film, I kept thinking: Where is the nanny?
+
+She was nowhere to be seen. Without her, the couple comes off as harried multitasking parents, Ms. Holmes literally rocking the baby with one foot.
+
+I met Vanessa, the Salvadoran woman who was sometimes on hand to help care for their toddler and newborn, because I also spent several days inside the couple’s canary-yellow rental home in Del Mar, Calif. My article was published on May 7, 2023, 23 days before Ms. Holmes went to prison after being found guilty of fraud at her once-hot blood-testing-device company.
+
+We went to the zoo and for tacos and smoothies. They even offered to let me stay with them. I declined. And by the looks of the bed they dusted off for Mr. Fielder, I think I made the right call.
+
+I left in March. Mr. Fielder and his crew arrived in April. I was struck by the film’s opening text that said Ms. Holmes hadn’t spoken publicly in seven years, since my profile was published shortly after Mr. Fielder and his crew arrived.
+
+Ms. Holmes and Mr. Evans seemed convinced that the longer you spend with them, in the cozy kitchen, playing with the kids, walking the dog on the beach, the more you’d be hypnotized, too. How could you not be? For them, access was a conduit to a type of exoneration. They are salespeople. Their humanity is what they now had to sell.
+
+It’s why the couple extended so much access for my Times profile, hoping it would help reshape Ms. Holmes’s image and garner sympathy. Then the story came out.
+
+Half the internet and many of my former Times colleagues derided the story as a puff piece. I was relentlessly trolled online by people who thought I was too easy on her. Ms. Holmes and Mr. Evans, meanwhile, apparently thought I’d been too hard on them.
+
+So they might as well embrace Mr. Fielder and — as is explored in the documentary — ask for a cut of the film’s profits.
+
+My time in Mr. Fielder’s vortex began in June 2025, when he reached out saying he’d love to “pick your brain” off the record. He’d also spent time with Ms. Holmes before she went to prison — we’d just missed each other — and was working on a documentary. I promised not to tell anyone about the project.
+
+We spoke a couple of times, comparing notes about our surreal experiences with Ms. Holmes. We’d so nearly overlapped that she’d worn the same camel sweater. It almost felt like a support group. It’s a pretty small circle of people who understand the dizzying experience of sitting in that canary-yellow house by the Pacific, watching Ms. Holmes nurse her baby days before reporting to prison. We’d both stared into those unblinking eyes. Both offered her Kleenex when she cried. Mr. Evans offered us both breakfast. We both felt ourselves getting swept up by Ms. Holmes’s quiet magnetism.
+
+I’d left the house thinking I had better check my wallet. Mr. Fielder seemed to be similarly conflicted.
+
+I wasn’t particularly familiar with Mr. Fielder’s work, but I wanted to be helpful. I tentatively agreed to appear on camera. Why not? He seems like a mensch! I mentioned this to a friend, a rabid Fielder fan who also happens to work in communications. His advice: “ABORT! ABORT!”
+
+I told Mr. Fielder I actually didn’t feel comfortable being on camera. I apologized and wished him luck. He was disappointed. He laid on the guilt (fair). He’d already rented the camera package and had a crew traveling my way as we spoke. He promised he’d make it “very fun and easy.” I felt bad. I wanted to help a nice Canadian man make his documentary. I asked my friend what to do. His response: “LEAVE TOWN!”
+
+I have to admit, I ghosted Mr. Fielder. As it turns out, ghosting Nathan Fielder is hard to do. He is unusually likable, persistent and persuasive — winningly awkward, as he seems to be on camera — and there’s something that makes you want to help him.
+
+Then, in February 2026, Mr. Fielder contacted me again. He wanted help to “clarify a little thing.” Ah, yes, a little thing. Ms. Holmes, he explained, said I’d misquoted her.
+
+In the film, after reading the quote, the couple call their P.R. team. And sure enough, back in 2023, I had heard from one of her publicists who explained that Ms. Holmes’s recollection of our conversation differed from what was published. Would I double-check the quote? At the time, I reviewed my notes with my editors, who stood by the reporting. Mr. Evans sent The Times an 80-second audio clip, but it didn’t contain the disputed exchange. We heard nothing further and considered the matter resolved. (I’ve explained the full backstory here.)
+
+It surprised me, because Ms. Holmes and I had spoken so much about the persona she created at Theranos. When I showed up at the rental house, she looked and sounded like a completely different person from the girl boss people remembered. What was with the James Earl Jones inflection? The Steve Jobs turtlenecks? The red lipstick?
+
+In my profile, Ms. Holmes explained that having founded Theranos at 19, she’d created a public persona to be taken seriously in business.
+
+Now, three years later, Mr. Fielder was asking about that quote. I informed my old editor, who advised that I not reply. Instead, we referred Mr. Fielder’s inquiry to The Times’s public relations department, standard practice when a published article is being challenged.
+
+When the documentary premiered at the Telluride Film Festival, I heard from friends who told me that my Times article was in the movie.
+
+I sent several requests to A24, the film’s studio, asking to see it. It felt as if every culture writer and midlevel executive in Hollywood had seen the movie and was asking me about it. I heard about a big screening in Los Angeles. They said it was at capacity. A spokeswoman at a firm helping A24 offered “to assist with a ticket to a local theater” when it opened. (“No spoilers.”)
+
+I texted Mr. Fielder to see if he could help. (Canadian mensch and all.) He said he’d try, and then reminded me that I never did answer his question about the disputed “character I created” quote (single-tear emoji). And somehow I felt guilty all over again. I apologized. I told him I knew it was too late, but to call me if he wanted me to explain.
+
+I finally saw “You Can See Everything” as God and A24 intended at a 4:30 p.m. showing on opening day at the Landmark Theaters Sunset in Los Angeles.
+
+I spit-laughed at the scene of Mr. Fielder sitting on the second floor of Beer Authority across the street from the New York Times building, eating nachos and trying to track me down. I haven’t worked on staff at the paper since 2022. I live in Los Angeles and write screenplays now. But hey, I appreciate a good establishing shot.
+
+The documentary’s postscript says Mr. Fielder eventually got in touch with me, and that I stood by my story but didn’t provide evidence supporting the quote. That’s not exactly what happened. I never discussed the disputed quote with Mr. Fielder. I referred his inquiry to The Times, which has stood by the reporting.
+
+I don’t know what Ms. Holmes told Mr. Fielder that didn’t make the cut, but the tone of their conversations on camera is different from my memory of how she and I interacted. With me, our talks felt very much mother-to-mother. After Theranos imploded, Ms. Holmes told me that she finally felt free: “I began my life again.” I remember thinking that she sounded a lot like someone who had finally broken out of a cult and been deprogrammed.
+
+But then I remembered that Ms. Holmes had been running the cult. It was her vortex all along, and thanks to Mr. Fielder and Mr. Oppenheim, we all get to experience it.
+
+Amy Chozick, a former New York Times reporter, is a screenwriter and an author based in Los Angeles. Her debut novel, “With Friends Like You,” was published in July.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+
+================================================================================
 minnesota-prison-homeland-security.html
 Source: PreloadedData  Paragraphs: 18  Words: 745/747
 ================================================================================
@@ -43745,6 +43947,59 @@ In a text message, one senior Congolese official said the government was in regu
 Earlier this year, Mr. Mildon signed a contract worth more than $50 million to build a drone base in Kisangani, in eastern Congo, to help counter Rwanda-backed M23 rebels, two officials said. But there has been little progress on building the base, and the military’s effort against the M23 has made little progress.
 
 The government of Congo declined to provide comment on the record for this article.
+
+================================================================================
+rififi-anxiety-insomnia-tb-treatment-rifampin.html
+Source: PreloadedData  Paragraphs: 16  Words: 1445/1445
+================================================================================
+
+SUMMARY
+
+For much of her adult life, the woman struggled with anxiety and depression, but it never affected her sleep. She found a case report of a man on an antidepressant who had the same drastic worsening of anxiety, depression and insomnia when he took rifampin. Her depression and anxiety are well controlled by her antidepressant, now that there isn’t another drug messing with its effectiveness.
+
+ARTICLE
+
+She Was Racked With Anxiety and Crushed by Insomnia. Finally She Understood Why.
+The woman’s symptoms were common, but the cause was not.
+By Lisa Sanders, M.D.
+Published 2026-10-30 09:02 UTC
+https://www.nytimes.com/2026/10/30/well/rififi-anxiety-insomnia-tb-treatment-rifampin.html
+
+The 35-year-old woman’s eyes snapped open; her heart pounded. Her chest was tight, and she gasped for air as a terrible and familiar sense of panic spread through her. She checked the clock: 3 a.m. She tried the breathing exercises that she had to practice so often lately. They never really helped, but they distracted her from her terror. It had been a few months since she was able to get a good night’s sleep. And she was so very tired.
+
+For much of her adult life, the woman struggled with anxiety and depression, but it never affected her sleep. Between talk therapy and antidepressants, she had it mostly under control. Then it flared that spring, around the time she started a new position at her company. Change was hard, her psychiatrist reminded her as she tried a couple of new medications to help get through the transition. Nothing seemed to help. She started having panic attacks that seemed to come on randomly, without any triggering stressors. Even at night. In the predawn hours, she would wake up in a pool of sweat, heart pounding. The days were no better. In addition to the fatigue from not sleeping, she was in a constant state of dread and anxiety. She couldn’t focus. She was an engineer, and thinking clearly was essential to her job.
+
+She asked her psychiatrist week after week where this might be coming from. Certainly, there were stressors. In her new position, she had a continuing conflict with a colleague. And she had some medical problems. Two years earlier, a case of Covid had caused a flare-up of her Behcet’s disease, a rare autoimmune condition that had been quiet for the 13 years since her diagnosis. After months of debilitating joint pain and extreme stiffness, she agreed to start an immune-suppressing medication to tamp down the antibodies causing the disease. It helped with the pain, but suppressing her immune system put her at risk for tuberculosis — and sure enough, she tested positive for it a year after starting on the medication.
+
+A chest X-ray did not show any sign of an active TB infection, and that was a relief. But unless she was treated, there was a good chance that her latent TB would become active. Four months on a drug called rifampin would kill the TB bacterium before that could happen. So that summer, she added it to her new regimen of medications. The drug turned her urine and tears an orange color, a side effect she had been warned about.
+
+In the Grips of Anxiety
+
+That spring and summer, her psychiatrist suggested a slew of medications: for sleep, for anxiety, even for bipolar disorder. But panic and dread remained her constant companions.
+
+She requested and was granted a leave of absence from work and checked herself into the closest mental-health facility she could find. It was in Arizona, nearly seven hours away from her home in Los Alamos, N.M. Doctors there changed her antidepressants and had her in daily therapy sessions to help her develop strategies to manage the anxiety. Despite all this, she started having suicidal thoughts. When her insurance ran out after 30 days, the doctors were reluctant to discharge her, but she couldn’t pay to stay and didn’t think their treatments helped.
+
+Her aunt lived in the next town over and was an important source of support, but she too was overwhelmed by the woman’s anxious days and panicked nights. Her brother lived in Seattle and invited her to stay with him and his family, so the woman’s aunt drove her there. But the change of scenery didn’t help. She felt supported by her family, but her depression deepened. She cried every day. Her world seemed dark. Her chest felt so tight that it seemed like work just to breathe. The suicidal thoughts were overwhelming, and she started to think more about how to end her life.
+
+When she asked her aunt to take her to Switzerland, which has permissive laws around assisted suicide, her family insisted that she go to the nearby University of Washington Harborview Medical Center to be taken care of by the psychiatric teams there. In the emergency room, she was evaluated by the medicine team. When they didn’t find a cardiac cause of her chest pain, she was seen by a psychiatry resident and his attending doctor. One of them asked her if she was considering suicide. Not at that moment, she told them, but she did admit that she didn’t want to continue to live if she had to feel this way. She told the team she suspected that this sudden worsening of her anxiety and depression was caused by some undiagnosed physical disorder. She wondered about an endocrine issue and had read that Behcet’s could cause psychiatric symptoms. Could that be what was driving these terrible feelings?
+
+She was admitted to the psychiatric unit for further evaluation. The team considered the possibility that her depression had a medical cause, but she’d had lots of tests looking for this in New Mexico and nothing was found. Still, they asked their rheumatologist to see her and help them understand if this debilitating mood change could be a result of her Behcet’s, which can cause neuropsychiatric symptoms. After seeing the patient and reviewing her records, the rheumatologist thought it unlikely. In her experience, neuropsychiatric forms of Behcet’s were characterized by an acute onset of psychosis or confusion, not the subacute worsening of existing anxiety and depression.
+
+The Troublemaker
+
+On her second day in the hospital, the pharmacologist, who was part of the team caring for her, asked a question: How long had she been on the rifampin? The past three and a half months, she told him. She was due to stop after she had completed four months of treatment for her latent TB.
+
+The doctor looked thoughtful. Then he explained that rifampin ramps up the machinery in the liver that breaks down some drugs, including antidepressants. And increasing the speed with which a drug is eliminated will reduce its effectiveness. A dose of an antidepressant that might have worked well before starting rifampin will suddenly not be sufficient. The timing of the rifampin matched up well with the onset of the woman’s worsening psychiatric symptoms.
+
+The team seemed surprised by this. They had not seen many people on rifampin, and they certainly didn’t know this about the drug. But they were reluctant to cut short the treatment. TB was at least as great a danger as depression and anxiety. So they increased the dose of her antidepressant instead, saying they would monitor her mood until she finished her course of the anti-TB treatment.
+
+The next 10 days were brutal. She went to talk therapy. She worked with the therapists on improving her strategies for managing her anxiety and depression. But she didn’t feel better. When she stopped the rifampin, there was no instant change. But over the next week, the grip of anxiety began to loosen. The perpetual sensation of fight or flight eased, and she was able to see the possibility of recovery. While she didn’t feel completely herself, she no longer felt that everything was impossible. She was even able to imagine once again doing the things she loved.
+
+Once at home, the patient looked on the internet to see what she could find out about this drug that had brought her down so low. She found a case report of a man on an antidepressant who had the same drastic worsening of anxiety, depression and insomnia when he took rifampin. That gave her a little hope, but she knew it would take a while to fully recover. The type of antidepressant she was taking could take weeks to start working. But over the next month, she did start to feel better. Almost like her old self.
+
+Rifampin is derived from a bacterium called Amycolatopsis rifamycinica, whose antibacterial properties were first identified in 1957. This bacterium was named after the lead character in a popular French gangster movie called “Rififi,” which became a slang term for “trouble.” It turned out to be a very good name indeed. There are now over 800 medications that are known to be altered when administered with rifampin.
+
+It has been a year since the patient was hospitalized. Her depression and anxiety are well controlled by her antidepressant, now that there isn’t another drug messing with its effectiveness. She hasn’t gone back to work yet. She’s not eager to go back to a job that gave her so much agita. She is taking her time, enjoying the opportunity to look around and figure out what’s next.
 
 ================================================================================
 rebecca-bennett-nj-house-race.html
@@ -44635,6 +44890,149 @@ Senator Mitch McConnell, Republican of Kentucky and the former majority leader, 
 Mr. McConnell has also appeared to experience medical issues at the Capitol and in Kentucky, freezing during appearances and needing to be escorted away by his aides.
 
 ================================================================================
+el-sayed-stevens-meltdown-michigan-democrats.html
+Source: PreloadedData  Paragraphs: 59  Words: 2074/2074
+================================================================================
+
+SUMMARY
+
+The last straw for Representative Haley Stevens came Saturday afternoon. By last Wednesday, Ms. Stevens said she would not be campaigning with Dr. El-Sayed. Would Ms. Stevens even be there?
+
+ARTICLE
+
+Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan
+The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making.
+By Reid J. Epstein and Tim Balk
+Published 2026-11-02 01:57 UTC
+https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html
+
+The last straw for Representative Haley Stevens came Saturday afternoon.
+
+She was on the cusp of appearing at a unity event with Dr. Abdul El-Sayed, who defeated her in a summer primary and became Michigan’s Democratic Senate nominee. Several powerful intermediaries had been trying to broker peace between the former rivals, who were sparring over Dr. El-Sayed’s strong criticisms of Israel.
+
+But after Ms. Stevens issued a hostile statement Friday morning calling upon Dr. El-Sayed to condemn an ad made by a supportive PAC and make other concessions, he stepped before reporters and said what his campaign had been signaling privately: He no longer wanted Ms. Stevens to join him at a Detroit church on Sunday.
+
+It was one thing not to be welcomed by Dr. El-Sayed’s Senate campaign. It was quite another for him to say so in public.
+
+So Ms. Stevens on Sunday did what she had been telling everyone she would not do. She endorsed former Representative Mike Rogers, Dr. El-Sayed’s Republican opponent in a race critical to control of the Senate.
+
+“Abdul made very clear that I was not welcome in his campaign, that he didn’t need me there, that he didn’t want me there,” Ms. Stevens said while standing next to Mr. Rogers outside a Black church in Detroit, where they had just attended the Sunday service. “I did endorse the Democratic nominee, and he chose to close this campaign by saying I wasn’t welcome. I’ve never been invited to a campaign event. That’s fine. You know, he’s busy. He’s running all around.”
+
+Ms. Stevens’s extraordinary declaration and church appearance with Mr. Rogers were a stunning denouement of her weekslong feud with Dr. El-Sayed, who narrowly defeated her in the Michigan Senate primary in August. Throughout their evident tension this fall, she insisted she was a team player and a good Democrat who would grit her teeth and back Dr. El-Sayed while working hard for other party members on the ticket.
+
+Their dispute is deeply personal, involving slights between two mercurial millennial politicians of sizable egos quick to take offense.
+
+Dr. El-Sayed, supremely confident, did not wish to give an inch to a defeated rival. Ms. Stevens, still absorbing her primary loss, eventually felt scorned by his campaign’s failure to include her in events or reach out to her for her views and embarrassed to be told to stay away.
+
+But the breach also represents a major fissure coursing through the Democratic Party about what its relationship with Israel and Jewish donors should be. Dr. El-Sayed, if he wins on Tuesday and enters the Senate in January, would be the most anti-Israel U.S. senator since the formation of the Jewish state 78 years ago.
+
+For now, the collapse of the Stevens-El-Sayed alliance has created an embarrassing and potentially costly drama for Democrats in a race that holds Republicans’ best chance of flipping a Senate seat. Ms. Stevens faced a swift backlash on Sunday from her party, which was caught off-guard by her defection.
+
+“It’s just really unfortunate given the stakes that this has turned into such a spectacle because of one person,” said Lonnie Scott, a veteran Michigan Democratic operative. “It is definitely not ideal that we’d be talking about Haley Stevens three days out from an election.”
+
+This account of their split is based on interviews with more than a dozen people involved in or briefed on talks with Dr. El-Sayed’s camp and Ms. Stevens’s team, some of whom spoke on the condition of anonymity to describe private conversations, as well as public remarks from Dr. El-Sayed, Ms. Stevens and Mr. Rogers.
+
+A Unity Breakfast, and Then Nothing More
+
+Days after Dr. El-Sayed won a bitter primary race against Ms. Stevens in August that centered on disagreements over Israel, they appeared together at a unity breakfast. Ms. Stevens gave him a hug. And that was about it.
+
+Since then, Dr. El-Sayed’s campaign hired a handful of Ms. Stevens’s campaign staff members, but he had next to no communication with her, according to Ms. Stevens and two others with knowledge of their relationship. She was never invited to campaign with him, nor were her thoughts solicited about how to proceed.
+
+At times, other Democrats tried to include her in the campaign.
+
+In mid-September, Ray Wert, whose wife, Mallory McMorrow, had ran in the Democratic Senate primary but finished a distant third, texted Ms. Stevens. He had a request.
+
+Mr. Wert, who is active in Democratic circles, wanted to publish an opinion essay in Ms. Stevens’s name attacking Mr. Rogers in a Jewish news outlet.
+
+Ms. Stevens was initially receptive, according to screenshots of texts Mr. Wert provided to The New York Times.
+
+“I really like what you wrote,” she messaged to Mr. Wert on Sept. 20.
+
+Mr. Wert replied, “I hope I captured your voice.”
+
+“You did,” she replied. “So nice.”
+
+In late September, Ms. Stevens was suggesting edits to the essay over text. But something seemed to change at the end of the month.
+
+“Pls hold for now,” she wrote on Sept. 30, without elaborating. “I love you all but cannot move forward with this right now.”
+
+At the root of the disagreement between Ms. Stevens and Dr. El-Sayed was U.S. policy on Israel. Dr. El-Sayed has emerged as one of the Democratic Party’s leading critics of Israel. Ms. Stevens, who is not Jewish, once said “I see Israel in my dreams” at a Hanukkah service. The American Israel Public Affairs Committee, which supported her in the primary, spent at least $30 million attacking Dr. El-Sayed during the primary and began spending more starting in October.
+
+Ms. Stevens’s fiancé is Jewish and is an AIPAC donor. She said in an interview on Friday that she is considering converting to Judaism.
+
+The El-Sayed campaign believed no amount of acquiescence to Ms. Stevens would be sufficient, according to one of his campaign officials. So when she began to issue demands late last month that he disavow an ally’s online ad that she viewed as antisemitic, Dr. El-Sayed at first did not budge. She became increasingly critical of him in her cable television appearances. He tried to ignore her.
+
+By last Wednesday, Ms. Stevens said she would not be campaigning with Dr. El-Sayed. That day, her fiancé, Jason Turkish, endorsed Mr. Rogers. He said that Dr. El-Sayed would make the world less safe for Jews, and that he hoped Ms. Stevens would run for the Senate again in the future.
+
+Representative James E. Clyburn of South Carolina, a Democratic power broker and mentor to Ms. Stevens in the House, was privately growing nervous that Ms. Stevens might pull her support from Dr. El-Sayed and back Mr. Rogers.
+
+In the eyes of some Democrats, it was time for an intervention.
+
+On Thursday, Representative Debbie Dingell, the dean of the Michigan Democratic House delegation, sought to make peace. She arranged for Mr. Clyburn to invite both Ms. Stevens and Dr. El-Sayed to church on Sunday. Neither Ms. Stevens nor Dr. El-Sayed could refuse. Ms. Stevens looked up to Mr. Clyburn as a leader. Dr. El-Sayed needed a big turnout from Black voters. On Thursday, Ms. Stevens said she had been asked to participate in a “souls to the polls” event and would be there.
+
+From Signs of Peace to All-Out War
+
+Ms. Stevens had one condition. She wanted Dr. El-Sayed to disavow an ad produced by a PAC that backed him, saying it was antisemitic because it blamed U.S. support for Israel for high grocery prices.
+
+On Friday morning, she released a lengthy statement that abruptly reignited tensions. She said that she had learned that Dr. El-Sayed planned to condemn the ad and called on him to apologize for comments he had made about Israel, as well as to take down an ad from his campaign featuring Tucker Carlson.
+
+She said in an interview at her home later on Friday that she had been given a promise that Dr. El-Sayed would denounce the ad. She would not say who made that promise.
+
+Dr. El-Sayed did not directly address Ms. Stevens’s public demands on Friday. But he was clearly fed up. He released a statement saying Ms. Stevens “seems intent on relitigating a primary that ended three months ago.”
+
+Then came Saturday.
+
+By the afternoon, Dr. El-Sayed was getting peppered with reporters’ questions about Ms. Stevens. He condemned the ad she objected to. But he also issued a stern warning: He did not want Ms. Stevens to appear with him on Sunday.
+
+“I don’t want any distractions,” Dr. El-Sayed told reporters after a rally outside Detroit. He added, “It seems as though other folks are more interested in making this race about things that it’s not about.”
+
+An aide helped Ms. Stevens craft a statement of her appreciation for his stance against the ad. It did not mention his public disinvitation. As late as Saturday evening, Ms. Stevens told allies that she was still behind Dr. El-Sayed and planned to lie low through the weekend.
+
+‘Blindsided’
+
+Democrats were on edge Sunday morning, with uncertainty hanging over the unity event later in the day. Would Ms. Stevens even be there? Would there be some kind of confrontation? Or maybe another peace offering?
+
+There were positive signs the night before. Around 6 p.m. Saturday, former Gov. James Blanchard of Michigan, a Democrat, received a message from Ms. Stevens asking him to join her at the service with Dr. El-Sayed and Mr. Clyburn.
+
+And about 10 p.m., Representative Jamie Raskin, a Maryland Democrat, spoke with Ms. Stevens and pressed her on whether she was still behind Dr. El-Sayed.
+
+“I just want to be very clear about that: You’re supporting the whole ticket, including Abdul?” he asked her. She said yes.
+
+Mr. Raskin went on NBC’s “Meet the Press” Sunday morning and sought to assure viewers she was still on board.
+
+His information was out of date by the time he said it.
+
+On Sunday morning, Ms. Stevens woke up angry about being told not to come to church. She called Mr. Rogers and asked if they could attend church together, a gesture he immediately embraced, she later explained. She told none of her friends and allies in Democratic politics about her plans.
+
+They were all shocked to see her walk into the church with Mr. Rogers.
+
+The two sat together in the second pew through an hourlong church service. Ms. Stevens occasionally clapped and raised her arm in praise while Mr. Rogers smiled. During the service, she posted an online video announcing she was endorsing him. “I don’t belong in Abdul’s campaign,” she said.
+
+When the service was over Ms. Stevens and Mr. Rogers walked outside to greet a throng of reporters.
+
+“I woke up this morning, and I decided to go to church,” Ms. Stevens said. “I’m here with the person who I am voting for for United States Senate and that is Mike Rogers.”
+
+Mr. Raskin said he was “totally blindsided.”
+
+‘None of this matters’
+
+The blowback to Ms. Stevens was swift. Her congressional staff resigned en masse. Her onetime Democratic allies coordinated on group chats with the El-Sayed campaign about how they could be helpful and asked advice about what to post on social media. The Michigan Democratic Party chairman announced Ms. Stevens was kicked out of the party now and forever. Senator Chuck Schumer of New York, the Democratic minority leader, who privately backed Ms. Stevens in the primary, called it “a despicable betrayal.”
+
+“I’m disappointed, but I understand,” said Mr. Clyburn, referring to Ms. Stevens’s decision.
+
+Dr. El-Sayed brushed it off. “None of this matters,” he told reporters after attending the church service where he and Ms. Stevens were once scheduled to appear together.
+
+Later in the day, a poll from The New York Times and Siena University showed Dr. El-Sayed leading Mr. Rogers by 11 percentage points.
+
+Still, Republicans were gleeful for much of the day about the defection and the messy Democratic infighting. “Wow, this is BIG!” President Trump wrote on his social media site.
+
+Mr. Rogers, standing with Ms. Stevens after church in Detroit, declared himself “honored” to have her support and said it came as a surprise. He cited the Rev. Dr. Martin Luther King Jr. and suggested he was in a better position than he would have been had she won the primary.
+
+“I’m glad I’m not running against Haley Stevens today,” Mr. Rogers said.
+
+Then he and Ms. Stevens got into separate cars and drove away.
+
+================================================================================
 ocasio-cortez-dsa.html
 Source: PreloadedData  Paragraphs: 56  Words: 2215/2221
 ================================================================================
@@ -44770,6 +45168,152 @@ And with that she introduced Ms. Nixon, who recently joined the D.S.A.
 Benjamin Oreskes contributed reporting from New York City.
 
 ================================================================================
+times-siena-poll-governor.html
+Source: PreloadedData  Paragraphs: 16  Words: 538/538
+================================================================================
+
+SUMMARY
+
+The governor’s races in deep-red Kansas and Texas are effectively tied, while Democrats are ahead in Iowa, Alaska, Maine, Michigan and Ohio, according to the final New York Times/Siena polls before Tuesday’s midterm elections. The Democratic candidate also has a narrow edge in Kansas, a state that Mr. Trump won by 16 percentage points in 2024. Taken together, the polls underscore how a favorable political environment may be lifting up Democrats deep into Trump country — the polls also show advantages for Democrats in the Senate races, where they lead in five of the seven polled states and have a narrow edge in Alaska and Iowa.
+
+ARTICLE
+
+Democrats Are Leading or Tied in 7 Battleground Governor’s Races, Polls Find
+Strong performances underscore how a favorable political environment may be lifting up Democrats, new New York Times/Siena polls found.
+By Ruth Igielnik
+Published 2026-11-02 00:53 UTC
+https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html
+
+The governor’s races in deep-red Kansas and Texas are effectively tied, while Democrats are ahead in Iowa, Alaska, Maine, Michigan and Ohio, according to the final New York Times/Siena polls before Tuesday’s midterm elections.
+
+Amid deep frustration over the economy and an unpopular war in Iran, the results of the governor’s races are a signal of the political mood in the country.
+
+In Texas, Gov. Greg Abbott, in his bid for a fourth term, narrowly trails his Democratic challenger, Gina Hinojosa, 47 percent to 48 percent. If elected, Ms. Hinojosa would be the first Hispanic woman to serve as governor of the state.
+
+The Democratic candidate also has a narrow edge in Kansas, a state that Mr. Trump won by 16 percentage points in 2024. Cindy Holscher, a state representative and the Democratic nominee, is effectively tied with Ty Masterson, the president of the State Senate.
+
+And in Ohio, where the governor’s race has turned deeply negative, Amy Acton, the state’s former health director, has a six-point lead over Vivek Ramaswamy, the Republican nominee, who has spent the last few weeks of the campaign running an explosive ad featuring Ms. Acton’s estranged mother.
+
+Taken together, the polls underscore how a favorable political environment may be lifting up Democrats deep into Trump country — the polls also show advantages for Democrats in the Senate races, where they lead in five of the seven polled states and have a narrow edge in Alaska and Iowa.
+
+Across the seven states, six of which Mr. Trump won in 2024, the president’s approval rating stands at just 38 percent. Among his own voters, only half now say they strongly approve of his job performance.
+
+In Texas, even as Mr. Abbott is narrowly trailing, he is doing far better than Ken Paxton, the Republican candidate for the Senate. Mr. Paxton, who the poll found is viewed unfavorably by more than half of Texans, trails James Talarico, the Democratic nominee, by seven points.
+
+Other high-quality polls in recent weeks have largely found Mr. Abbott with the edge in that state.
+
+In Kansas, the tight race marks an improvement from last month for Ms. Holscher, when she trailed Mr. Masterson by five points in a Times/Siena poll.
+
+Ms. Holscher is now winning 10 percent of Republicans, and is ahead by 17 points among independents, perhaps buoyed by the candidacy of Adam Hamilton, a Democrat who is leading his Senate race in the state by five points.
+
+In Ohio, 8 percent of voters remain undecided. There is some evidence that Mr. Ramaswamy’s negative focus has turned off voters. Among those who made up their minds in late October, Ms. Acton has the edge.
+
+In the other four races, Democrats hold wide leads just days before the election.
+
+In Alaska, which uses ranked-choice voting, Jonathan Kreiss-Tompkins, the Democratic nominee, leads Bernadette Wilson, a conservative radio host, 54 percent to 46 percent.
+
+And in Iowa, Rob Sand, the Democratic state auditor, holds a eight-point lead over Zach Lahn, a Republican businessman and farmer.
+
+The widest leads are in Maine, where the Democrat Hannah Pingree has maintained a yawning 13-point lead over Bobby Charles, and in Michigan, where Jocelyn Benson, the Democratic secretary of state, leads John James by 13 points.
+
+================================================================================
+times-siena-poll-senate.html
+Source: PreloadedData  Paragraphs: 39  Words: 1554/1556
+================================================================================
+
+SUMMARY
+
+Democrats are ahead of Republicans in almost all of the seven battleground states that will determine which party controls the Senate, according to the final set of polls from The New York Times and Siena University before the midterm elections. The surveys found that Democrats hold sizable leads in Texas, which has not elected a Democrat to the Senate since 1988, and Kansas, which has not elected one since 1932. But the new polls found Democratic candidates ahead in five states that now have Republican senators and effectively tied in a sixth.
+
+ARTICLE
+
+Democrats Show Strength in Final Days of Race for the Senate, New Polls Find
+Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.
+By Shane Goldmacher and Ruth Igielnik
+Published 2026-11-02 00:53 UTC
+https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html
+
+Democrats are ahead of Republicans in almost all of the seven battleground states that will determine which party controls the Senate, according to the final set of polls from The New York Times and Siena University before the midterm elections.
+
+The surveys found that Democrats hold sizable leads in Texas, which has not elected a Democrat to the Senate since 1988, and Kansas, which has not elected one since 1932.
+
+To win a Senate majority, Democrats need to defend all the seats they currently hold and flip at least four seats that are currently held by Republicans. It has been seen as an uphill battle because many of the seats they need to win are in Republican strongholds.
+
+But the new polls found Democratic candidates ahead in five states that now have Republican senators and effectively tied in a sixth. They hold leads in Kansas, Maine, Ohio and Texas and a narrow edge in Alaska. They are effectively tied in Iowa.
+
+In Michigan, the lone top Senate battleground already held by Democrats, the poll found the Democratic candidate leading by double digits. (It was conducted before a Democratic feud erupted in Michigan this weekend.) The surveys did not include North Carolina, where polls have long found the Democrat leading and Republicans have pared back their campaign spending.
+
+Dissatisfaction with President Trump and frustration over his management of the economy are dragging down Republicans, according to the polls. Just 38 percent of likely voters approved of the president’s job performance in the seven states in the poll, a strikingly low figure given that Mr. Trump had won five of the states by double digits just two years ago.
+
+The newfound Democratic strength was powered by growing trust in the party to handle the economy — the key motivating issue for voters this year. Democrats hold a nine-point advantage on the cost of living across the battlegrounds, and they led on this crucial measure in every single state.
+
+If the polls are accurate and these trends hold, Democrats would win control of the Senate.
+
+But there were some reasons for Democratic concern: There are still some undecided voters, and voters who decided only in the last month favored Republicans by a nine-point margin.
+
+In the Senate race in Texas, James Talarico, a Democratic state legislator, held a seven-point edge over Ken Paxton, the Republican state attorney general, 50 percent to 43 percent among likely voters. Mr. Paxton had the worst image of any candidate included in the survey — by far.
+
+In Maine, Senator Susan Collins, the last remaining Republican senator in New England, is trailing in her re-election campaign behind Troy Jackson, a Democratic former state senator. Mr. Jackson leads 51 percent to 45 percent among likely voters.
+
+Polls are imperfect. Six years ago, Ms. Collins had trailed in every survey before the election — and she still won re-election comfortably.
+
+But the new polls revealed a series of flashing warning signs for Republicans — about both their candidates and the broader political environment.
+
+In every state but Maine, the Democratic Senate candidate was viewed more favorably than the Republican candidate.
+
+And likely voters were unhappy with the leadership of Mr. Trump across the board, and said that they believed Democrats would do a better job handling the cost of living and foreign wars and doing what is best for ordinary people.
+
+Mr. Trump has been barnstorming Republican states in a bid to re-energize his base in the final weeks before Election Day, but the polls suggest that enthusiasm for the president is slipping even within his party. In Ohio, where 82 percent of Republicans approve of the president, the share who approve “strongly” has fallen to 51 percent, down from 63 percent in June.
+
+And in a Times/Siena poll last week, the Senate race was tied in heavily Republican South Carolina.
+
+One key advantage for Democratic candidates is that they are leading with independent voters in every state surveyed. That includes Iowa, where Josh Turek, a Democratic state legislator, was effectively tied with Representative Ashley Hinson, the Republican nominee.
+
+The polls found that the Democratic resurgence was powered by a renewed strength among younger voters and Latinos, as well as the relative weakness Republicans have among the party’s base of white, working-class voters.
+
+Mr. Trump had made gains among Latino and younger voters in 2024. But this year, his party’s Senate candidates were winning only about one-quarter of younger voters and Latino voters.
+
+Crumbling trust in Republicans on the economy — and in Mr. Trump in particular — helps to explain how Democrats are competitive in a state like Kansas. Mr. Trump won Kansas by the widest margin of any of the seven states polled, and the state has not elected a Democratic senator for nearly a century. But diesel prices that rose after the Iran war, and the administration’s decision to drop import tariffs on foreign beef, have dismayed farmers.
+
+Adam Hamilton, the Democratic nominee and the pastor of the largest church in the state, leads Senator Roger Marshall, the Republican incumbent, 49 percent to 44 percent.
+
+Mr. Hamilton also has the support of 13 percent of Republicans, including James Gerety, 52, a retired National Guardsman living in Meriden, Kan., who said that he saw Mr. Hamilton as “a lot more genuine” than Mr. Marshall.
+
+“I had reservations at first, with him being a pastor,” said Mr. Gerety, a registered Republican who considers himself more of an independent. “I get squirrelly with religion being brought into politics. But Hamilton is trying to lower prices, to get us out of this war with Iran. He’s trying to bring inflation down.”
+
+Mr. Marshall has also faced criticism after The New York Times reported that he sued patients for unpaid medical debt, leading to arrests in some cases.
+
+The Times previously polled all seven states in September. The Democrats improved in six of the states in the final poll (Iowa, Kansas, Maine, Michigan, Ohio and Texas) and lost ground in only one (Alaska).
+
+White working-class voters have been the backbone of Mr. Trump’s coalition. In 2024, he won an estimated 66 percent of white voters without college degrees, according to exit polls and Times Voter Trends. Now, in these seven states, Republicans were winning just 56 percent of these voters.
+
+Blue-collar white voters have proved particularly hard to reach in polls, and polling error has previously been among the highest in that demographic, a large group in all seven states.
+
+In Michigan, the lone Senate seat in the survey currently held by a Democrat, the poll showed Dr. Abdul El-Sayed ahead by a wide 11 percentage points over Mike Rogers, a Republican former congressman, who narrowly lost a Senate run in 2024.
+
+Dr. El-Sayed, who has relished political combat in a way few other Democrats do, has performed especially well with men, a group that historically tilts Republican. He is running roughly even with the group, an improvement from September.
+
+But in the Democratic primary, polls overestimated Dr. El-Sayed’s strength. And he has been embroiled in a bitter public feud with his primary rival, Representative Haley Stevens, who endorsed Mr. Rogers on Sunday in a rare cross-partisan embrace that has given Republicans hope. Still, Dr. El-Sayed is ahead by a wide margin on every issue in the poll, including immigration, a traditional Republican strength.
+
+In Ohio, former Senator Sherrod Brown, a Democrat, leads Senator Jon Husted, a Republican, 49 percent to 44 percent in a race that has drawn half a billion dollars in spending, with Republicans spending $80 million more on ads, according to AdImpact, the ad-tracking service.
+
+In Maine, Mr. Jackson, the Democratic challenger, has improved his image since September, though he is still seen unfavorably overall. Critically, he is running in the most Democratic state on the battleground map, and he remains much more popular than Mr. Trump.
+
+In Texas, 49 percent of likely voters view Mr. Talarico favorably, while 39 percent view him unfavorably, giving him a 10-point-edge on favorability despite an enormous, very negative ad campaign against him funded chiefly by Elon Musk, the world’s richest person.
+
+Mr. Paxton, Mr. Talarico’s G.O.P. opponent, has seen his image decline in recent months. Fifty-four percent of likely voters there now view him unfavorably, while only 33 percent view him favorably.
+
+Rey Gonzales, a 62-year-old Republican living in Houston, said that he had been troubled by the allegations that led to Mr. Paxton’s impeachment and by reports that he had been unfaithful in his marriage. Mr. Gonzales, who says he voted for Mr. Trump in 2016 and 2020 but did not vote in 2024, says he plans to support Mr. Talarico purely out of dislike for Mr. Paxton.
+
+When asked what he liked about Mr. Talarico, his answer was succinct: “Nothing.”
+
+In Alaska, Mary Peltola, the former Democratic congresswoman challenging Senator Dan Sullivan, has faced criticism after a New York Times investigation found political operatives aligned with her recruited another candidate, Dan J. Sullivan, to run as a Republican in the race to try to pull votes away from the Republican incumbent.
+
+The poll was mostly completed before the release of the story. Even so, Ms. Peltola was the only Democrat in this set of polls to lose ground since an earlier Times/Siena poll. The poll found her with a narrow edge over Mr. Sullivan, 48 percent to 46 percent.
+
+Sophia June contributed reporting.
+
+================================================================================
 trump-speeches-rallies-age.html
 Source: PreloadedData  Paragraphs: 40  Words: 2343/2478
 ================================================================================
@@ -44879,6 +45423,301 @@ And yet, he went on, “when someday, there’ll be a time when I do the weave i
 Methodology
 
 The Times collected thousands of Mr. Trump’s speeches, interviews, social media posts and schedules using data from Roll Call’s Factba.se from 2015 through late October this year. To quantify Mr. Trump’s use of all-or-nothing language and swearwords, we measured basic word frequency statistics across Mr. Trump’s presidential terms and campaign periods. To identify confusing and rambling passages of text, we used the A.I. model Claude Opus 5.5 to score more than 6,500 passages of Mr. Trump’s speeches with detailed instructions based on our previous reporting analyzing Mr. Trump’s use of rambling and profane language. We counted a speech passage as incoherent if it scored at least a seven out of 10 with this rubric, which was informed by manual review of hundreds of passages and an evaluation to ensure a high bar of accuracy.
+
+================================================================================
+identity-politics-economy-class.html
+Source: PreloadedData  Paragraphs: 37  Words: 1997/2023
+================================================================================
+
+SUMMARY
+
+Now, the very notion of identity politics is in retreat. But identity politics are not going away. And that’s where identity politics come from.”
+
+ARTICLE
+
+Identity Politics Have Entered a New Phase
+Since Trump’s return, discussions of diversity have gone quiet. This year’s midterms have shown that Americans could be ready for something new.
+By Jia Lynn Yang
+Published 2026-11-02 10:03 UTC
+https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html
+
+Not so long ago, Gina Hinojosa’s campaign to be the next governor of Texas would most likely have focused on her potential to make history. If she manages to defeat Gov. Greg Abbott this week after a surprisingly competitive campaign, she would become the first Latina to lead the state. She would also be the first woman elected governor since 1990.
+
+And yet Hinojosa scarcely utters a word on race or gender — hers or anyone else’s — and insists she wants to steer clear of “culture wars.” Instead, she has risen in the polls with a disciplined message of economic populism.
+
+“Is this going to be a Texas that is by and for the people?” Hinojosa said at a recent rally. “Or is this a billionaire’s world and we just live here? That is the one fight. It is the one fight of this election. It is the fight in America. And it is the fight for Texas.”
+
+Whether or not Hinojosa wins, her campaign signifies a strong consensus in the Democratic Party this year: Race and gender are out. Class politics are back in.
+
+This is a strategy born of defeat. President Trump reclaimed the White House two years ago largely by promoting himself as the stronger steward of the economy. For Democrats, one of the most humiliating aspects of this loss was that the president nearly doubled his support among Black voters between 2020 and 2024, and he nearly came even with Kamala Harris among Hispanic voters. Asian Americans also shifted right, and Trump’s support among women held even.
+
+The return of Trump was the death knell for a presumption that had dominated American life since the 2010s — that identity was a stand-in for societal progress. Now, the very notion of identity politics is in retreat.
+
+Corporations and universities speak of diversity in whispers, if at all, for fear of attacks from the White House. In 2024, 98 percent of companies in the S&P 500 disclosed the ethnic and racial makeup of their boards. Last year, that figure fell to 66 percent.
+
+The Trump administration is attempting to undo an entire regime of civil rights protections, arguing that it divided the country and led to discrimination against white Americans. The White House has proposed ending questions in the census that ask for race, ethnicity or sexual orientation. “Dismantling the grievance industry, the oppressor-oppressed paradigm, identity politics, and other ideas that rend the national fabric is an essential cause,” Mike Gonzalez, a senior fellow at the conservative Heritage Foundation, wrote in City Journal.
+
+Even as Trump has decried liberal identity politics, the result of his second term has been a de facto promotion of white identity. The government has censored mentions of slavery at historic sites while restoring the names of Confederates to Army bases. It has prioritized the entry of white Afrikaners as refugees while trying to cut legal immigration from much of Africa.
+
+We are entering a strange interregnum on identity. While the right goes on the attack, there has been a sudden retrenchment in discussions of race and gender, with even Representative Alexandria Ocasio-Cortez of New York saying recently that “‘Woke 1’ was crazy.” But identity politics are not going away. In fact, they may be returning to their roots.
+
+The Rise of Representation
+
+Until recently, the importance of diversity seemed unassailable, at least in elite settings. Representation mattered, and counting was paramount. How many senators and Supreme Court justices are women? Did any Black, Latino or Asian Americans win Oscars this year? Does every expert panel at your A-list conference include at least one “person of color”?
+
+This is not exactly what those who originated the term “identity politics” imagined. In 1977, a group of Black feminists called the Combahee River Collective declared in a statement that their race and gender were integral to their politics — not because they hoped to join the country’s highest achievers, but because their identity gave them a singular view of America from the bottom of its class hierarchy. Then, as now, Black women are more likely to be impoverished.
+
+In this version of identity politics, the emphasis on race and gender would act as a corrective to an unequal society. It was all too easy for the feminist movement to focus on the interests of upper-class white women. If feminism included Black women, it would inevitably make bolder demands — a higher minimum wage or universal health care, for instance — that could improve the lives of all Americans.
+
+“We needed to have a place of our own,” Barbara Smith, a member of the group, said in an interview from the book “How We Get Free.” “We needed to have a place where we could define our political priorities and act upon them. And that’s where identity politics come from.”
+
+The country, however, was exhausted from years of bitterness over race and war. Cynicism about government, especially after Watergate, was running high. During the 1970s and 1980s, a new political culture from the right rose to power, in part by persuading many voters that their government was more devoted to minority groups than to them. Ronald Reagan warned of Americans who he said were bilking government programs — advancing the “welfare queen” stereotype — as conservatives laid the groundwork for cutting aid to the poor.
+
+With any chance of resurrecting a New Deal-style program foundering, another project of the liberal left found favor: winning the right for individuals to live and work as they wished.
+
+These goals focused on removing discrimination in workplaces and in colleges, aiming for a purer meritocracy. Women, Latinos, Black Americans, gay men and lesbians all would be welcomed into the circle of comfortable middle-class achievement. Of course, bias still existed. But compared with the 1960s, opportunities became more abundant, at least for the well-educated.
+
+This moment marked a pivotal shift for the Democratic Party, whose base became both more diverse and more professional-class.
+
+In the 1980s, the party also adopted a muted posture toward race. By refraining from sensitive subjects like affirmative action, Democrats hoped to win back white voters who were fleeing the party over its support for civil rights. The new strategy worked to some degree: Black leaders began winning elections in white-majority cities and states, achieving powerful milestones. In 1989, L. Douglas Wilder became the first African American to be elected governor, after winning in Virginia.
+
+At the same time, the party retreated from championing public programs aimed at helping the poor and the working class. Instead, party leaders like Bill Clinton embraced fiscal austerity and free trade policies that tended to favor the wealthy.
+
+Democratic support among Black Americans began to soften, according to Leah Wright Rigueur, a historian at Johns Hopkins University and author of “The Loneliness of the Black Republican.” The wealth gap between white and Black Americans stopped closing in the 1980s. Deindustrialization stripped towns across the country of well-paid union jobs.
+
+A seminal event like Barack Obama’s 2008 presidential campaign electrified Black voters. But such moments could also obscure a deeper discontent with the party itself, Rigueur said. “We’re distracted by the symbolism, which is important,” she said. “But we ignore Black voters’ very loud complaints about the relationship with the Democratic Party.”
+
+On the heels of Obama’s win, the 2010s marked a peak for representation politics. Every barrier suddenly seemed breakable — even the glass ceiling on the presidency. Hillary Clinton, running as the heir to Obama’s multiracial coalition, adopted the slogans “Stronger together” and “I’m with her,” unabashedly trumpeting diversity and identity.
+
+But when white working-class voters delivered Trump to the White House, many blamed the loss on identity politics. Bernie Sanders blasted his rival for failing to address the needs of the working class. “It’s not good enough for someone to say, ‘I’m a woman! Vote for me!’” Sanders said. Mark Lilla, a Columbia University professor, wrote a widely read piece in The New York Times calling for “the end of identity liberalism.”
+
+If anything, this sensibility was about to be supercharged.
+
+In the aftermath of the 2020 killing of George Floyd, the Democratic Party and much of corporate America rushed to demonstrate moral urgency. Human resource offices educated their employees on race. President Joseph R. Biden Jr. fulfilled his promise to put a Black woman on the Supreme Court by nominating Ketanji Brown Jackson. Karine Jean-Pierre was the first Black female White House press secretary, and also the first openly gay person in that role.
+
+These moments carried their own significance. But perhaps the more telling data point during Biden’s term was this: Between 2022 and 2025, the median net worth of Black households fell by 25 percent, while the fortunes of every other racial group improved.
+
+By the time Kamala Harris hurriedly ran for president in 2024, the party was determined to avoid the mistakes of the Clinton campaign. Harris underplayed her race and gender. Still, some supporters fell into familiar formations, organizing Zoom fund-raising calls with names like “White Women: Answer the Call” and “White Dudes for Harris.”
+
+In his second term, Trump easily notched his own “firsts,” for those who are still counting. Kash Patel is the first person who is not white to serve as F.B.I. director. Susie Wiles is the first female White House chief of staff. Usha Vance is the first Asian American second lady.
+
+Returning to the Origin
+
+If the influence of identity politics is indeed waning, it is quite likely because enough Americans have concluded that representation alone cannot feed the family or raise wages. Without addressing economic equality, the project became easy to dismiss as a preoccupation of the upper classes. When the public no longer trusts elites, it doesn’t tend to care what the elite class looks like.
+
+Even as this year’s Democrats replace identity politics with economic politics, race itself is hardly receding as an issue.
+
+Angie Nixon, a Florida Democratic candidate for the Senate, is a 42-year-old Black woman still paying off her student debt, who is running an unapologetically populist campaign focused on economics. But when Vice President JD Vance suggested that she does not “belong in America” because of her views, Nixon did not dodge the issue of race. “What’s frustrating at times is that we’re kind of used to it in the South — the disrespect, being Black people, the microaggressions, and the slights, the ‘Oh you speak so well’ or ‘You’re so articulate,’ the little slights here and there,” she said.
+
+Nixon is the underdog in her race, but her working-class persona is resonating around the country. A recent Wall Street Journal analysis showed that Nixon had become more popular on TikTok than any of the party’s more established figures.
+
+Figures like Nixon, win or lose, could presage a return to something closer to the original conception of identity politics — one that is focused on the working class, first and foremost, but without downplaying the often harsh realities of gender and race in America.
+
+After all, identity politics can only fade so much when awareness of racism itself remains high. A Gallup survey last summer showed that the perception that Black Americans suffer from widespread discrimination is as high as it was six years ago. The country received an education from moments like the Floyd video that it has not forgotten. Trump’s unfettered mass deportation campaign appears to be causing a backlash from Latino voters.
+
+And Trump himself continues to practice the oldest version of identity politics. In the final weeks of the midterms, he again called Somali immigrants “low-I.Q. people” and unleashed an extended Islamophobic rant against Abdul El-Sayed, a Senate candidate in Michigan who is Muslim.
+
+For many reasons, we are not living in the post-racial moment that some Americans thought the Obama presidency heralded. But we seem much less invested in counting how many people in each group can push their way into the upper echelon. When millions of Americans are still waiting for someone to address their material needs, they are demanding far more than symbols.
+
+Jia Lynn Yang is a senior Times writer and the author of “One Mighty and Irresistible Tide,” a book about American immigration in the 20th century.
+
+================================================================================
+congress-races-midterms.html
+Source: PreloadedData  Paragraphs: 34  Words: 1072/1082
+================================================================================
+
+SUMMARY
+
+The battle for the Senate remains tight, with polls slightly favoring Democrats in a set of much closer contests that could yield surprises and go well into election night or beyond (looking at you, Alaska). Much will depend on Election Day turnout, especially for Republicans, who have had a financial advantage throughout the campaign. Democrats lead Republicans in six of the seven battlegrounds that will determine Senate control, according to the final set of New York Times/Siena University polls released on Sunday.
+
+ARTICLE
+
+Who’s Winning the Race for Congress?
+We’re one day away from the midterms. Here’s the state of play.
+By Patricia Mazzei and Shane Goldmacher
+Published 2026-11-02 10:03 UTC
+https://www.nytimes.com/2026/11/02/us/politics/congress-races-midterms.html
+
+Time for some deep breaths: The midterm elections are one day away.
+
+Democrats appear well positioned to take control of the House. The battle for the Senate remains tight, with polls slightly favoring Democrats in a set of much closer contests that could yield surprises and go well into election night or beyond (looking at you, Alaska).
+
+Much will depend on Election Day turnout, especially for Republicans, who have had a financial advantage throughout the campaign. They have blanketed the airwaves and called and texted their loyal voters to prod them to the polls. Money often wins in American politics.
+
+Some fundamentals have not changed. The Senate battlegrounds are mostly in states that President Trump won in 2024. Many voters dislike or distrust the Democratic Party. The country remains deeply polarized.
+
+Gas prices are high. The Iran war is still going. Midterms tend to hurt the president’s political party, and Trump is more unpopular than he has ever been.
+
+Now, voters get their say.
+
+The Battle for the Senate
+
+Democrats lead Republicans in six of the seven battlegrounds that will determine Senate control, according to the final set of New York Times/Siena University polls released on Sunday.
+
+Democratic candidates are ahead in Kansas, Maine, Michigan, Ohio and Texas, and have a narrow edge in Alaska, the polls found. In Iowa, the seventh battleground, the candidates are effectively tied.
+
+Republicans currently hold all of those states except Michigan. Democrats need to keep all of their seats and flip at least four in Republican hands to win a Senate majority.
+
+The Democrats have a chance in these typical Republican strongholds because Trump and his party have lost the public’s trust on the year’s most salient issue: the economy. Across all seven states in the polls, Democrats had a nine-percentage-point advantage on the cost of living.
+
+Some voters remain undecided. One of the few positives in the polls for Republicans is that voters who decided in the last month favored Republicans.
+
+Still, only in one state, Maine, was the Republican candidate (Senator Susan Collins) viewed more favorably than the Democrat (Troy Jackson).
+
+One perennial question about polls is what if they’re wrong. But our own Nate Cohn crunched the numbers and reports, “Democrats lead by enough that they could win the Senate even if the polls underestimate Republicans by as much as they did in 2016 or 2020.”
+
+The Race for the House
+
+Democrats could win as many as 240 seats in the House, according to the final race ratings by the nonpartisan Cook Political Report. Such a large majority seemed like a long shot at the start of the election year. It would be Democrats’ largest majority since 2009.
+
+Getting there would require Democrats flipping 25 seats, including districts that Trump won comfortably just two years ago. Republicans have spent heavily to defend the seats they hold and compete in battleground districts.
+
+Among the races that the Cook report shifted in Democrats’ favor, citing Republican concerns about low turnout, was the North Carolina district held by Representative Richard Hudson, the chairman of House Republicans’ campaign arm.
+
+The Money
+
+The last three months of the campaign saw an influx of hundreds of millions of dollars, with megadonors playing an outsize role, according to a Times analysis using data from the media tracking firm AdImpact.
+
+The top 20 megadonors have put about $2 billion into federal races throughout the campaign. That amounts to roughly 15 percent of all money spent on political ads this year. Most megadonors lean Republican.
+
+It has been the most expensive midterm election since at least 2018, as measured by political advertising.
+
+Inside the Not-on-the-Air Wars
+
+The video spread quickly on X after it was posted by a local radio host. There was Senator Roger Marshall, the embattled Kansas Republican, defending his pursuit of medical debts as an obstetrician in a 60-second video that looked just like an ad.
+
+“I never had anyone arrested,” Marshall said looking straight into the camera.
+
+Why was this his campaign’s closing message? It turns out it wasn’t. Marshall went rogue, procuring his own film crew against his campaign leadership’s wishes. Read the full story.
+
+One Key Metric
+
+$11.6 billion.
+
+That is what total political advertising is expected to be by Election Day, according to AdImpact. About $5.6 billion of that is flowing to broadcast television, a figure even higher than the $5.3 billion spent on broadcast advertising in the 2024 presidential race.
+
+Top Talker
+
+A dizzying back-and-forth between Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, and Representative Haley Stevens, whom he defeated in the August primary, has consumed the final days of a race that could determine Senate control. An attempt to broker a peace between the two failed spectacularly, and the final split was months in the making.
+
+First, Stevens said she would not campaign with El-Sayed before Tuesday’s election, despite having pledged to vote for him. Her fiancé publicly endorsed El-Sayed’s Republican opponent, former Representative Mike Rogers, and campaigned with him.
+
+Then Stevens reversed course and said she would appear with El-Sayed at a church on Sunday. But she expected him to apologize for comments he had made about Israel and to disavow what she described as an antisemitic ad from an outside group.
+
+El-Sayed, a forceful critic of Israel, responded on Friday that Stevens seemed “intent on relitigating” the primary, which he won by less than a percentage point.
+
+Said Stevens, “I don’t think this is a melodrama.”
+
+On Saturday, El-Sayed said he did not want Stevens to join him after all. On Sunday, Stevens did go to church — but with Rogers. She then endorsed him. Her chief of staff and other aides resigned.
+
+One Poll Number
+
+62 percent.
+
+That’s the share of Texas likely voters who said in the latest Times/Siena poll that they had already voted. James Talarico, the Democratic Senate nominee, has a 10-percentage-point lead over Ken Paxton, the Republican, with the large share of Texans who have already cast their ballot: 53 percent to 43 percent.
+
+Quote of the Week
+
+“When I get to heaven one day, I am just going to choke Lindsey.”
+
+That was Senator Darline Graham, Republican of South Carolina, speaking to conservative radio hosts last Wednesday about her neck-and-neck race against Dr. Annie Andrews, the Democratic Senate nominee. The hosts asked Graham if she was angry at her brother, Lindsey Graham, who died in July, for “putting you in this situation.” (She laughed.)
+
+Produced by Leo Dominguez, Lazaro Gamio, Rumsey Taylor and Ashley Wu. Matt Zdun, Theodore Schleifer, Reid J. Epstein, Tim Balk, Katie Robertson, Ruth Igielnik and Emily Davies contributed reporting.
+
+================================================================================
+midterm-elections.html
+Source: PreloadedData  Paragraphs: 38  Words: 1504/1531
+================================================================================
+
+SUMMARY
+
+The tumultuous midterm campaign is barreling into its final full day, with both parties offering their closing arguments in a contest defined by economic anxiety, a backlash to the Iran war and disapproval of President Trump’s second-term agenda. While Democrats erupted over Ms. Stevens’s decision, the party’s candidates have tried to keep their focus on the three issues that have animated their campaigns for months: affordability, corruption and what they describe as the chaos of the Trump administration. As Democrats campaigned at tailgate parties, town-hall meetings and church services, they have centered their final arguments on Mr. Trump and his allies, arguing that Republican incumbents were enriching themselves while ordinary Americans struggled to make ends meet.
+
+ARTICLE
+
+The Parties Make Their Closing Arguments: ‘This Isn’t Just Red Versus Blue’
+Republicans, worried about losing control of Congress, are sending dire warnings about the opposing party. Democrats are trying to keep their focus on affordability, corruption and President Trump.
+By Lisa Lerer
+Published 2026-11-02 10:03 UTC
+https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html
+
+The tumultuous midterm campaign is barreling into its final full day, with both parties offering their closing arguments in a contest defined by economic anxiety, a backlash to the Iran war and disapproval of President Trump’s second-term agenda.
+
+Republicans, fearing deep losses across the country, have unleashed a flurry of attacks, casting their Democratic challengers as radical, dangerous and even anti-American. In Michigan, Republicans seized on a surprising last-minute endorsement of their nominee for the Senate, former Representative Mike Rogers, by Representative Haley Stevens, a moderate Democrat who lost during the primary race.
+
+While Democrats erupted over Ms. Stevens’s decision, the party’s candidates have tried to keep their focus on the three issues that have animated their campaigns for months: affordability, corruption and what they describe as the chaos of the Trump administration.
+
+As Democrats campaigned at tailgate parties, town-hall meetings and church services, they have centered their final arguments on Mr. Trump and his allies, arguing that Republican incumbents were enriching themselves while ordinary Americans struggled to make ends meet.
+
+In Houston on Saturday, James Talarico, the Democratic nominee for the Senate, railed against Ken Paxton, his Republican opponent, accusing him of being controlled by Elon Musk, the world’s richest person, who has injected more than $158 million into the race.
+
+“We have an affordability crisis because we have a corruption crisis,” Mr. Talarico told hundreds of supporters. “It’s why we can’t afford the basics in this economy, because the system has been rigged by billionaires and corrupt politicians like Ken Paxton.”
+
+Mr. Paxton, for his part, has cast Mr. Talarico, who is trying to become the first Democrat to win a statewide race in Texas in more than three decades, as a “radical” who wants to transform the state into a liberal haven.
+
+“This isn’t just red versus blue,” Mr. Paxton said on Friday at his own event in Houston. “It’s the America our founders gave us versus something they would never recognize.”
+
+Strategists in both parties say they believe Democrats will win control of the House, although they differ on how deep into Republican terrain the party’s victories might extend. Democrats have also grown more optimistic, though cautiously, about their chances of winning a Senate majority, even as their party must flip four Republican-held seats and keep all of its own to take control.
+
+The Senate map of contested races has significantly expanded since the start of the year, with traditionally conservative states including Kansas, Texas, Iowa, Alaska, Ohio and even South Carolina in play. All are states that Mr. Trump won by double digits just two years ago.
+
+Polls released on Sunday night from The New York Times and Siena University found Democratic candidates ahead in five states that now have Republican senators and effectively tied in a sixth. They hold leads in Kansas, Maine, Ohio and Texas and a narrow edge in Alaska. They are effectively tied in Iowa. Dr. Abdul El-Sayed, the Democratic nominee in Michigan, was leading by double digits in the state, the lone top Senate battleground already held by Democrats.
+
+Republicans have all but ceded the Senate races in North Carolina and Georgia, dropping their spending in those states and shifting resources to Kansas, Michigan, Ohio and South Carolina, according to data from AdImpact, a media tracking firm.
+
+Early voting across the country reflected the intensity of the election: More than 54 million voters had already cast ballots by Sunday afternoon, with some states that have competitive Senate races showing large increases, according to the University of Florida Election Lab.
+
+In the final weeks, Democrats have tried to capitalize on the discontent of constituencies that tilted toward Mr. Trump in 2024, including Latinos, young men, white working-class voters and rural Americans. Polling, focus groups and interviews indicate that those voters increasingly disapprove of Mr. Trump’s handling of the economy and are skeptical that his administration can bring the cost of living under control.
+
+“I’ve gone out there and said to Republicans, ‘Look, I understand why you voted for Trump, because he accurately identified the status quo was not working for the average person,” Josh Turek, the Democratic nominee for the Senate in Iowa, said as he campaigned at a tailgate party at Iowa State University in Ames. “Now they’re ready for a true common-sense prairie populist that’s actually going to make their lives better.”
+
+Republicans believe that their path to success — or, at least, staving off the worst — depends on driving their core supporters to the polls.
+
+Despite his low approval ratings, many in the party believe that the president remains their strongest surrogate. Mr. Trump announced plans to deliver a closing midterm election message on Monday at the Lincoln Memorial Reflecting Pool in Washington.
+
+On Sunday, Mr. Trump took his whirlwind rally tour to Dubuque, Iowa, and Salina, Kan., and reiterated his calls for supporters to pretend that he is on the ballot.
+
+In Dubuque, he spoke for more than two hours, spending much of the time talking about himself — his electoral margins, his intelligence and his stamina. He defended his stewardship of the economy, pointing to stock-market growth during his presidency, blaming his predecessor for high prices and calling the focus on affordability in the midterms a “hoax.”
+
+As he has for weeks, Mr. Trump “weaved” through his campaign pitch, oscillating between personal and nasty attacks on Democrats, commentary on his renovations of the White House and now-familiar digressions on the physiques of Republican candidates. In Iowa, he praised Representative Ashley Hinson, the party’s Senate nominee, for having lost weight.
+
+Earlier, the president celebrated Ms. Stevens’s endorsement of Mr. Rogers, calling it “fantastic.”
+
+“Nobody expected that, but it’s a smart thing to do because El-Sayed would destroy our country,” he told reporters.
+
+Ms. Stevens’s decision ignited a firestorm within her party, as Democratic leaders spanning the ideological spectrum condemned her move.
+
+“A despicable betrayal,” said Senator Chuck Schumer of New York, the minority leader, who privately backed Ms. Stevens in the primary. “The stakes are too high,” Representative Alexandria Ocasio-Cortez, who endorsed Dr. El-Sayed in the primary, said as she campaigned at a bar in Queens.
+
+For his part, Dr. El-Sayed downplayed the endorsement’s significance. “None of this matters,” he told reporters before quickly turning back to attacks on Mr. Rogers and Mr. Trump.
+
+The focus on Mr. Trump marks a shift from 2018, when Democrats won a significant number of seats during his first term. Then, the party’s candidates largely avoided putting the president at the center of their message in the closing days of the election, instead focusing on issues where they had more popular support, like health care.
+
+Now, many Republican and Democratic candidates are delivering closing pitches that cast their rivals as emblematic of the most unpopular parts of each party.
+
+In Ohio, where advertising spending has exceeded half a billion dollars, Senator Jon Husted, a Republican, focused on socialism, and former Senator Sherrod Brown, a Democrat, accused his opponent of corruption — a charge Mr. Husted denies.
+
+Mr. Husted has painted a picture of a state under Mr. Brown where borders are open to immigrants, sports are welcoming to transgender athletes, and language is policed to the point that Ohioans have to say “birthing person” instead of “woman.”
+
+“It’s common sense versus crazy,” Mr. Husted said at events last week across the Buckeye State.
+
+Mr. Brown, for his part, has depicted Mr. Husted as a tech shill beholden to special interests instead of the people of Ohio.
+
+“Ohio doesn’t have to accept this corruption,” Mr. Brown said at rally on Thursday. “Tell them we’re going to end this war. Tell them we’re going to end these tariffs. Tell them we’re going to clean up the corruption that’s all over our federal and state governments.”
+
+Republican candidates broadly found themselves on the defensive in the final weekend, with polls showing Democrats gaining ground in key races.
+
+In Kansas, Senator Roger Marshall, who is facing an unexpectedly close re-election race, closed his campaign with a video defending his treatment of patients as an obstetrician-gynecologist. His Democratic opponent, Adam Hamilton, has attacked the senator over a New York Times report that found Mr. Marshall had sued more than 700 patients over unpaid medical bills, with 81 later arrested for missing court dates.
+
+Mr. Marshall’s top advisers had urged him not to run such an ad, to avoid refocusing attention on a potential vulnerability in the final days of the race. Mr. Marshall, however, went rogue, The Times reported, arranging for his own film crew to shoot the spot and sending it to people outside the campaign. On Saturday evening, the video emerged on social media.
+
+“I never had anyone arrested,” he says in the video. “Not once.”
+
+In Michigan, Speaker Mike Johnson spoke at length about his distrust of the polls, expressing optimism that Republicans could defy expectations on Tuesday evening.
+
+“I can’t find a Republican anywhere who’s responding to polls right now,” he said as he campaigned for Mr. Rogers. “I’m telling you, we are going to shock them on Tuesday.”
+
+Reporting was contributed by Tyler Pager from Dubuque, Iowa, Emily Davies from Geneva, Ohio, Benjamin Oreskes from New York City, Reid J. Epstein from Sterling Heights, Mich., and Leah McBride Mensching from Ames, Iowa.
 
 ================================================================================
 best-movies-amazon-prime.html
