@@ -1,0 +1,68 @@
+================================================================================
+anthropic-ai-computing-power.html
+Source: PreloadedData  Paragraphs: 26  Words: 1149/1151
+================================================================================
+
+SUMMARY
+
+Their company, which was growing like a weed, was running out of computing power for artificial intelligence. The realization sent Anthropic on an all-out effort to obtain more computing power. Younger companies like Anthropic and OpenAI have to rely on others for computing power.
+
+ARTICLE
+
+Anthropic Is Racing to Obtain the A.I. Boom’s Most Vital Resource
+The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.
+By Sri Muppidi and Kalley Huang
+Published 2026-11-02 15:08 UTC
+https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html
+
+Late last year, Anthropic’s executives were in a bind. Their company, which was growing like a weed, was running out of computing power for artificial intelligence.
+
+The amount of computing power that was needed became a “cone of uncertainty,” Dario Amodei, Anthropic’s chief executive, said at The New York Times’s DealBook Summit in December. “Because the cone is so wide,” he added, “it’s hard to avoid making a mistake.”
+
+The realization sent Anthropic on an all-out effort to obtain more computing power. In the ensuing months, the San Francisco company embarked on a deal spree, according to 14 people with knowledge of the A.I. lab, investors and industry experts.
+
+Anthropic has since signed dozens of contracts with former cryptocurrency miners, data center start-ups, chipmakers and tech giants like Amazon, Google, Microsoft and SpaceX to secure enough computing power. It hired experts in data centers, which are the enormous computing sites powering A.I., and bought data center equipment to speed up construction. It met with developers and explored converting old coal plants and factories into data centers. And it considered deals for tiny amounts of computing power that could add up to what it needs.
+
+“Anthropic is gobbling up a lot of the capacity,” said Erik Bernhardsson, the chief executive of Modal, a New York company that sells computing power.
+
+Anthropic’s pursuit of computing power, some details of which have not been previously reported, is critical as it tries to lead in A.I. and conduct what could be the largest-ever initial public offering this month. The company needs computing power to develop cutting-edge A.I. models and to deliver products, like the Claude chatbot, to businesses and consumers. The resource is so vital that Anthropic spent more than 10 pages of its public offering prospectus detailing the stakes.
+
+“Our ability to remain at the frontier of A.I. capabilities is substantially dependent on our ability to secure compute at the scale required to sustain all our workloads,” the company wrote.
+
+In total, Anthropic has committed a whopping $895.4 billion through 2045 to computing power and chip deals that it largely cannot back out of, according to its prospectus. This year, it is expected to have more than 3.5 gigawatts of computing power, two people with knowledge of its plans said, or enough electricity to power all the homes in Chicago. Next year, it aims to double that amount, the people said.
+
+But its voracious demands are expensive, intensifying Anthropic’s need to go public in an offering that could raise $100 billion. It is also raising debt financing, including $63 billion last week, from Wall Street banks and private credit firms. Even so, Anthropic has warned that it may need to seek additional financing sooner than anticipated.
+
+While other A.I. companies also need computing power, giants like Amazon, Google, Microsoft and Meta have deep pockets and credit histories for buying chips and building data centers. Younger companies like Anthropic and OpenAI have to rely on others for computing power.
+
+Anthropic declined to comment on the record before its I.P.O.
+
+After Anthropic was founded in 2021, it turned to Amazon and Google, which agreed to invest a combined $6 billion in the start-up in 2023, for computing power. The company then spent much of that money on Amazon’s and Google’s cloud computing services.
+
+Tom Brown, Anthropic’s chief compute officer, spearheaded both deals, two people with knowledge of the company said. He also led efforts to diversify beyond Nvidia’s A.I. chips and use chips from Amazon, Google and Advanced Micro Devices, for more options.
+
+Finding enough computing power is “very clearly the bottleneck for all of our progress,” Mr. Brown said at a Group of 20 event in September. “We’re in a huge shortage of the power and labor needed to support the demand for A.I.,” he said.
+
+Last year, Anthropic’s A.I. coding tool, Claude Code, became a hit. But as it became popular, the company lacked computing power to meet demand and had to limit free use of its products and raise prices for some of them.
+
+So Anthropic embarked on its deal spree. It has committed $121.3 billion to computing power from Google, $110 billion with Amazon, $44.9 billion with Microsoft and $120.5 billion with SpaceX through 2036, according to its prospectus.
+
+Anthropic also started working with “neoclouds,” companies that provide computing power, including a $50 billion deal with one called Fluidstack and a $41.3 billion deal with another, Lambda. And it is working with former crypto miners like TeraWulf and Hut 8 to construct the data centers.
+
+Unlike Amazon and Microsoft, which are backlogged with demand for their computing power, neoclouds and former crypto miners have access to land and power for data centers and can bring computing power online sooner.
+
+For even more speed, Anthropic is helping to design the data centers that other companies will build and operate. It has added construction and supply chain experts, three people with knowledge of its plans said, and is buying chips directly from Nvidia, AMD and Broadcom for the computing sites. It is also buying cooling systems and other equipment for the chips so data center operators can install the components faster, two people said.
+
+“We operate as one team,” said Asher Genoot, Hut 8’s chief executive.
+
+Starting last year, Anthropic met with developers in Texas, Indiana and other states about building data centers, according to four people with knowledge of its plans. It has asked some developers about their permits and connection to the power grid, two of those people said.
+
+The efforts have faced hurdles. In one instance, Fluidstack pushed back against some Anthropic data center designs over concerns about power fluctuations that could cut off electricity and damage equipment, before reaching a solution, two people familiar with the situation said.
+
+In another instance, TeraWulf, which is building a data center for Anthropic in upstate New York, was competing for electricians with the owners of the Buffalo Bills’ football stadium. Anthropic and TeraWulf ultimately asked the local electricians’ union for names of traveling electricians from other areas, even though it would make the project more expensive, TeraWulf’s chief executive, Paul Prager, said.
+
+Anthropic has started considering sites with at least 200 megawatts, or enough electricity to power about 140,000 U.S. homes, according to three people familiar with the plans. That is less power than the company originally wanted but a faster way to get what it needs. It has since become open to data centers as small as 50 megawatts and would supplement the sites with power from batteries and natural gas, the three people said.
+
+John Tough, a managing partner of Energize Capital, which invests in data center technology, said Anthropic did not control the pipelines of computing power, so it might have to settle for building “gigawatts, megawatts at a time.”
+
+“The next best thing is to scavenge the world to figure out where there’s power lines,” he said.

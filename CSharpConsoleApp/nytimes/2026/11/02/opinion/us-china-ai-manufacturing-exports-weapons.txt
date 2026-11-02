@@ -1,0 +1,160 @@
+================================================================================
+us-china-ai-manufacturing-exports-weapons.html
+Source: PreloadedData  Paragraphs: 70  Words: 4499/4559
+================================================================================
+
+SUMMARY
+
+China is unlikely to have any of those in its regulatory scheme. Now let’s look at how A.I. is reshaping economic relations between China and the United States and the rest of the world. In the past, China was not a world leader in medicine.
+
+ARTICLE
+
+The Big Change Coming in U.S.-China Relations in the Age of A.I.
+China and the U.S. need mutually assured collaboration to quash the threat of A.I.-empowered bad actors, even while their economic differences sharpen.
+By Thomas L. Friedman
+Published 2026-11-02 06:00 UTC
+https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html
+
+At Beijing Capital International Airport, it is now required after landing to send carry-on bags through a scanner before leaving the arrivals building. As I approached the scanner belt with my bags, though, I saw a sign that I had never encountered before: Any passenger carrying a drone has to remove and declare it. A Chinese security officer pointed directly to the sign to confirm that I had no drones in my bag. I shook my head no. I don’t usually travel with a drone.
+
+That sign was not the only new thing I saw on this trip. It was one of many. Having traveled to China regularly since the early 1990s, I found this journey totally different for a very specific reason: It was my first visit to China in the full-blown age of artificial intelligence.
+
+As I end nine days in the country, having visited Beijing and Xiong’an as well as China’s tech hubs in Hangzhou, Ningbo and Shenzhen, it is very clear to me that the A.I. era is already reshaping the geopolitical and geoeconomic relationships between the United States and China in ways that are actually pulling our two countries closer together geopolitically, while exacerbating our trade differences.
+
+How so? Let’s go back to that drone sign at the Beijing airport. What is it telling us? It is telling us that while the United States and China are still economic and strategic rivals jostling for advantage, they both realize that there is now an intruder into their two-superpower marriage: the superempowered bad actor.
+
+I’m not talking about Chinese democracy advocates. I’m talking about agents of chaos — fraudsters, drug dealers, human traffickers, the kind of hackers who just stole $6.3 billion in cryptocurrency from Binance. I’m talking about bad individuals and small teams that can now arm themselves with off-the-shelf drones or A.I.-powered cyberweapons to wield the destructive force of a superpower all by themselves. And I am talking, even more important, about both American and Chinese A.I. models that are demonstrating greater and greater capacities to go rogue and become agents of mass disruption as they become increasingly self-directing, self-improving and self-preserving.
+
+Both countries are just beginning to wrestle with the mind shift this requires in how they relate to each other — even as they continue to reflexively take the opposite sides on wars from Gaza to Ukraine to Iran. A Chinese blogger friend put it to me candidly over dinner in Beijing last week: “We still have real differences over issues like Taiwan. But sometimes the U.S. and China don’t know what they are fighting about anymore,” he said. “It’s just a habit.”
+
+Well, it’s an obsolete habit that both nations must unlearn, and quickly, in the age of artificial intelligence, when global stability will increasingly require mutually assured collaboration between the world’s two A.I. superpowers.
+
+To be sure, our definition of disorder is often not the same as China’s. Any regulatory system embraced by the United States needs to protect democratic values, free expression and peaceful protest. China is unlikely to have any of those in its regulatory scheme. But a lot of overlap remains between our self-interests, which lies in preventing artificial intelligence from causing violent harm — to infrastructure, to individuals, to countries and even to our species. That is the kind of disorder that Washington and Beijing should be able to agree needs controlling. We need these basic rules more than ever because the next steps for A.I. involve, literally, walking — as in robots.
+
+I saw a demonstration at an A.I. robotics exhibition in Beijing where a Chinese humanoid robot replaced its own battery pack, lodged in its back. It just took a couple of minutes. As I stared at it doing this maneuver, I wondered: What happens when it also has autonomous intelligence?
+
+While the need for more collaboration against those trying to get the worst of their A.I. technologies may push Beijing and Washington closer together over time geopolitically, in geoeconomics the opposite is likely to happen.
+
+That is because A.I. is simultaneously superempowering something else: China’s manufacturing juggernaut. As of 2024, China already made almost a third of all manufactured goods sold in the world. What I saw on this trip, visiting some of China’s most advanced car companies and telecom manufacturers, is that A.I. is intensifying their efficiency and competitiveness even more.
+
+You can see it in trade statistics. China’s trade surplus in 2025 — exports over imports — was a staggering $1.19 trillion. That was a 20 percent increase from the year before. This year it is expected to grow to $1.3 trillion — a trade imbalance out of line with global economic output not seen by any country since the end of World War II, when the United States was the only major industrial economy standing!
+
+Trust me, you have not seen anything yet.
+
+Because while American companies are burning through billions investing in frontier A.I. models that are so advanced they’re humbling the best mathematicians, Chinese companies are focused on deploying cheap, “good enough,” open-weight A.I. models that could make its large lead in advanced manufacturing simply unbeatable. To put it differently, America is spending vast sums on frontier A.I. models that are already so powerful the latest versions are too dangerous to be released. China, by contrast, starts the A.I. era with such a dominant base of advance manufacturing facilities, it can reap immediate and broad gains from its smaller “good enough” A.I. models.
+
+When you combine this with China’s cowboy capitalism — scores of companies fiercely competing in every sector of the domestic economy — you get a pace of progress that is downright scary in some industries. At the Beijing Robot Industrial Park, where I saw that robot swapping out its own battery pack, another exhibit impressed me even more.
+
+It was two humanoid robots standing side by side. They were built by different Chinese companies to compete in the Beijing E-Town Humanoid Robot Half-Marathon race — 21 kilometers, or 13.1 miles. The first robot runner, which had a gold medal on a ribbon draped around its neck, won the 2025 race in two hours, 40 minutes and 42 seconds. The second robot runner, also sporting a gold ribbon, won the same race in April in 50 minutes and 26 seconds, beating what was then the human world record, 57 minutes and 20 seconds, held by Jacob Kiplimo.
+
+In a single year, Chinese advances in embodied artificial intelligence produced a robot marathon runner faster than the fastest human ever recorded. My Chinese guide pointed at the two robots and said: “Last year, this year. Next year — we’ll see.”
+
+We certainly will. Other than that, folks … nothing to worry about here.
+
+What follows is what I gleaned from dozens of conversations and company visits in China on how the age of A.I. is reshaping China and China-U.S. relations.
+
+Let me start with some good news.
+
+Six months ago, if you asked pretty much any A.I. expert if China and America would ever get together and agree on a set of guidelines to control their now increasingly dangerous A.I. models, the answer you would get is, “No way, no how” — with a special emphasis that China would never agree to such a thing. Think again.
+
+Right now, I would say that Beijing may actually be more eager to discuss A.I. guardrails than President Trump, who told the United Nations in September that the United States “rejects any attempt to construct a globalist scheme to control” A.I. — a theme he repeated after his summit with President Xi Jinping days later. Trump to the world: America’s frontier A.I. models are in the lead and I won’t collar them. Full stop. Get lost.
+
+At the opening session of the 2026 Global Governance Forum in Xiong’an, I had a discussion with Wang Yi, the Chinese foreign minister and Politburo member, and John Thornton, co-chair of the Asia Society board of trustees. I was struck by Wang’s clear message in support of multilateral A.I. safeguards.
+
+As Wang put it to us: The “leading nations in A.I., China and the United States, have both the capability and the responsibility to jointly develop and manage A.I. effectively, ensuring its development remains under human control and benefits the people. We must not only mitigate risks but also cooperate to jointly discuss globally applicable rules and standards” to make sure A.I.’s development stays under human control and for the benefit of people.
+
+Of course, China, like the United States, is building A.I. tools to enhance weapons to fight abroad and improve every tool in its domestic surveillance kit to control dissent at home. But Beijing also knows — as that no-drones-in-your-luggage sign at the airport indicated — that A.I. is a two-edged sword and can be used by a lot of bad actors. That is why when you talk to U.S. administration officials about what the Chinese are doing with us behind the scenes, you’ll get a complex answer.
+
+These officials have no illusions that Beijing would like to see more guardrails on America’s frontier models, because the United States is in the lead. But they will also tell you that China’s law enforcement agencies lately have become much more cooperative with their U.S. counterparts on combating cybercrime, fraud and money laundering — all of which A.I. is rapidly enhancing. The Chinese know that the open-weight A.I. models being distributed by Chinese companies are easier for software developers, including those that are bad actors, to adapt to specific, targeted applications than Silicon Valley’s frontier models.
+
+But don’t take my word for it. In September, the Chinese Communist Party’s top intelligence official, Chen Yixin, head of the Ministry of State Security, wrote in the journal China Cyberspace that emerging A.I. technologies were “directly threatening” China’s political, institutional and ideological security. Chen added: “Various hostile forces and individuals with ulterior motives abuse generative artificial intelligence technologies” to create rumors, spread misinformation and “incite confrontational sentiments at low cost and in large quantities.”
+
+Read those words: at low cost and in large quantities.
+
+Chen’s government has the world’s largest state-run facial recognition surveillance system, which can pluck a single person out of a huge crowd — what I call “the big acting small.” What Chen was saying is that he also knows that A.I. is a dual-use technology that is enabling the small to now act big. That is the essence of the huge change in the geophysics of the world — the spread of cheap, precision technologies, like drones and cyber-hacking tools, that are now supercharged by A.I. That new superempowered actor can be another nation or a single foreigner or one of your own citizens. Either way, it’s a big new problem in need of a big new answer.
+
+Which is why I was not surprised that while I was in China last week the government issued a draft of A.I. rules that would give the governing Communist Party new powers to track or restrict exports of some advanced Chinese systems. Why now? Maybe because, as The Times reported on Oct. 14, A.I. agents attributed to tests being run by the Chinese tech giant Tencent recently went rogue and tried to “bypass anti-robot protections on websites,” among other shenanigans. Yup, the Chinese have the same problems with their biggest A.I. models as we do, even if they are six months to a year behind in their capabilities.
+
+So, I am going to go out on a limb here: In the coming year, China and America will be seriously exploring collaborative controls on A.I. models. Because, as America’s frontier models reach the point of training themselves 100 percent through recursive self-improvement (without human direction) and as China’s open-weight models that learn off ours through distillation get strengthened in their wake, I predict that 2027 will be the year when both countries fully grasp what an amazing opportunity A.I. is for humanity — and what an unprecedented threat it is to humanity.
+
+This collaboration will be tricky for America. Because, unlike the U.S. government, the Chinese government of President Xi is worried not only about A.I.’s empowering criminals at home, but also about political opponents. Managing that complexity is precisely what makes U.S.-China relations in the age of A.I. different.
+
+Given all of these competing pulls, it may not be possible for the United States and China to come up with a shared system of A.I. guardrails as much as they might need to — at least not without a perfect A.I. storm. That is, a large-scale A.I.-driven event that is big enough to frighten both countries into collaborating on effective controls — but not so big as to end the world.
+
+I repeat: 2027 could be that year. Let’s hope the storm is perfect.
+
+Now let’s look at how A.I. is reshaping economic relations between China and the United States and the rest of the world. Every time I visit China, I come away more struck than from the trip before by the stark contrast in its economy. If China were a person, it would have the upper body of an Olympic weight lifter — rippling with muscles that represent its export-driven advanced manufacturing economy — and the lower body of an Olympic skier who just crashed into a mogul, broke his leg and can now only hobble on a crutch.
+
+That lower body represents a domestic Chinese economy that is still so weakened by the explosion of its large, quarter-century-long housing bubble — which ravaged its middle class and left hundreds of millions of people with mortgages that are underwater or with wiped-out savings — that many Chinese are holding tight to every yuan they can. The frenzied overbuilding of high-rise apartments with cheap money in the early 2000s got so crazy that, as the Times Beijing bureau chief, Keith Bradsher, wrote in February 2025, China now has “abundant housing for the country’s 1.4 billion people and enough empty apartments for another 300 million people.” Put another way, Bradsher said this past spring, China has enough empty apartments to house almost every person in America, which has a population of about 350 million.
+
+In short, China is an export giant and domestic consumption invalid. Unfortunately, the government, instead of injecting money into the domestic economy through improved pension programs, is doubling down on subsidies to build up its global lead in advanced manufacturing — and telling Chinese consumers to suck it up.
+
+Therein lies a huge problem for the global economy at the dawn of the A.I. revolution. Because what I saw on this trip is that the Olympic weight lifter part of the Chinese economy is now guzzling down protein shakes labeled A.I. and is becoming an even more dominating competitor in every advanced manufacturing realm — from socks to robots.
+
+Sure, American, European, Japanese and Korean manufacturers are also benefitting from A.I. enhancements. The problem is that China has so much more installed advanced manufacturing and therefore is going to reap outsized gains. Come along with me on my whirlwind tour of some major Chinese advanced manufacturers.
+
+On my visit to Alibaba headquarters in Hangzhou, Xiong Xiong, chief of staff to Alibaba’s co-founder and chairman, Joe Tsai, pointed out to me that in Formula 1 racing, you rarely overtake your competition on the straightaways. “You win in the turns,” he said, “because in the turns it is not how fast you go, it is how daring you are — how fast you brake and how you respond to my braking — and do you have the stability to control your car at high speed.”
+
+Well, one day we may look back at the years 2019 to 2023 as one of those turns and China came out of it now leading the pack on the straightaway. Two things happened in that period: Covid-19 and A.I. both exploded around the world. Because of Covid, virtually all American students and many American business executives left China. I was also not able to make my own annual trips.
+
+Here is one example of what happened while we were sleeping.
+
+When I visited China, before Covid, Xiaomi was a smartphone company. When I came back in 2023, it was also an electric car company. It put four wheels on its phone. But it didn’t stop there. When I visited its almost entirely roboticized car factory on the outskirts of Beijing last Monday, I found Xiaomi was a superconnected, A.I.-enabled E.V. company. My hosts noted how Xiaomi’s self-developed “multi-material performance simulation system” uses A.I. to quickly figure out what the company believes is the optimal alloy formula — from 10.16 million possibilities — to produce what it called “a perfect combination” of strength, resilience, stability and low carbon footprint for its newest vehicle bodies.
+
+Trump hates electric cars. What he has never understood is that China’s hypercompetitive E.V. industry birthed a powerful, deeply integrated supply chain of advanced battery technology, robotics, material science and, now, A.I. Today, any Chinese inventor or entrepreneur looking to manufacture absolutely anything can seamlessly leverage this hyper-efficient, foundational ecosystem to innovate better, faster and cheaper than most any global competitor. Global manufacturers used to say you had to be in China “to sell to China.” Now they say, you have to be in China and have access to its supply chains “to sell to the world.”
+
+You want to make shoes with electric rollers and flashing lights that sing the Chinese national anthem on the left shoe and the American national anthem on the right shoe? Someone here will have the parts and tools for you to do it in 24 hours.
+
+In Ningbo, I visited the Geely electric vehicle manufacturing plant. I watched an engineer use the company’s latest charging station to power up a car from Geely’s newest A.I. luxury E.V. brand, called the Lynk & Co, in eight-plus minutes with a charge that will last some 500 miles. That is not a typo — that is almost like filling up a tank of gas. “In the future, we intend to improve it further,” the Geely demonstration engineer laconically told me. Yes, I thought, I am sure you will.
+
+In Shenzhen, I toured Huawei Technologies’ assembly line for its newest Mate 90 smartphones. Zha Jun, who oversees Huawei’s research and development, explained that this line used to have 86 workers per shift — doing mostly manual inspections — and the rest of the work force was robots. It recently shrunk that number down to nine people by turning to A.I.-enabled image recognition systems.
+
+When I asked what kind of data center it used to run the A.I. systems, Zha said: “We have no need for a data center. Huawei can get all the A.I. benefits it needs for these kinds of manufacturing improvements using our own open-weight, domain-specific A.I. models with less than one billion parameters.” Those are the ones with circuitry that amounts to the size of a small suitcase. (Parameters are a measure of the connections and weights that an A.I. model uses to process information and are used as a general proxy for its complexity and capacity to learn.) These small A.I. models, Zha added, were “good enough” to make big improvements in manufacturing.
+
+“Good enough” A.I. was a phrase I heard at a lot of factories on this trip. It describes the improvements to businesses produced by the less-than-frontier A.I. models.
+
+“China and the U.S. are taking different directions when it comes to A.I.,” Ren Zhengfei, Huawei’s founder and chief executive, explained to me over tea at Huawei’s research campus in Shenzhen, one of many technology hubs where the company employs some 110,000 researchers, many of them engineers and scientists with advanced degrees. In the United States, Ren said, A.I. research revolves around “what does it mean to be human these days and what is the meaning of the world, and of God? In China, A.I. research is more practical” and is being deployed in big industries, like steel.
+
+“China produces one billion tons of steel a year,” Ren said, “so if that industry can achieve a 1 percent improvement by using A.I. to increase the efficiency in how it mixes the various chemicals that go into every single steel-making furnace,” the additional profits generated for a single furnace will exceed 10 million yuan ($1.5 million) per year. In the past, China was not a world leader in medicine. With the help of A.I., China is now able to strikingly accelerate its ability “to discover and produce new drugs” by rapidly testing different molecular combinations.
+
+He concluded: “That is why we call A.I. in the U.S. ‘Socrates A.I.’ and we name our approach ‘Lu Ban A.I.’” Lu Ban was a legendary ancient Chinese master carpenter and engineer.
+
+Now add one more increasingly important factor: rare earths, which in the age of A.I. will be more important than ever — not only for manufacturing but for running all the chips that go into every data center as well.
+
+My traveling partner on this trip has been Keith Bradsher, who will soon be coming out with a book, “The Race for Rare Earths: Why China Is Winning the Contest for the World’s Most Critical Resources.” The book traces how decade by decade, the United States and Europe lost their early leadership to China in these vital metals that go into cars, drones, wind turbines, fighter jets, smartphones, missiles, lasers, A.I. chips and practically every other high-tech invention you can think of over the past 40 years, including most consumer electronics.
+
+In 1964, Deng Xiaoping, later to become China’s paramount leader, visited the world’s biggest rare-earth deposit, in northern China. In 1973, he began planning for China’s rise in rare-earth technologies, and by the early 1990s he foresaw the geopolitical power of China’s tightening grip on rare earths, declaring: “The Middle East has oil. China has rare earths.”
+
+The United States and Europe are only now restarting a rare-earth industry — from the mines to the manufactured magnets — but will need at least five years and probably 10 to catch up, according to Bradsher’s book, which suggests ways to speed up the recovery. Meanwhile, Beijing has wielded its almost total control over the world’s supply of crucial rare earths to force the Trump administration and European Union to back down repeatedly on tariffs and to put heavy pressure on Japan not to support Taiwan.
+
+You add it all up and China’s dominance in global manufacturing is extraordinary. Jens Eskelund, the head of the European Union Chamber of Commerce in China, citing information from members, told me that 90 percent of global manufactured goods move in containers. The percentage of global container exports by China rose from 31.8 percent in 2019 to 37.5 percent in 2025, he said. “The rolling three-month average for the most recent months is now 40 percent,” he said. The reason? China’s manufacturing output rose 5.3 percent during the first eight months of this year, he said. (Meanwhile, China’s domestic retail sales increased only 0.4 percent year on year in August, he pointed out.)
+
+In 2019, China exported about 2.5 containers to Europe for every container shipped in the opposite direction, Eskelund told me. During the first eight months of 2026, the ratio widened to six containers moving from China to Europe for every one container moving from Europe to China.
+
+“I tell the Chinese: ‘Guys, trade becomes inherently volatile if you cannot point to value creation for both sides,’” Eskelund added. “China actually understands the world’s concerns. For China, though, the question is: Why should we accommodate these concerns when the world has not put up any serious resistance?”
+
+It is a good question. And one that prompts me to leave this trip with some free advice to China and America from someone who believes the world will be a more prosperous and stable place if people in both countries thrive.
+
+To China: You are going too far too fast too alone, and in the process you are creating too many economic relationships with too many developed and developing countries that are not win-win but win-lose. As a result of your domestic economic weakness, combined with your huge advantage in homegrown engineering talent, unparalleled manufacturing supply chains, the unrivaled work ethic of your people and your high savings rate plowed into the world’s best transportation and electricity infrastructure, China just can’t stop itself from making everything for everyone.
+
+I don’t know when, I don’t how, but the rest of the world will not let that happen — not when robots and A.I. are also creating steadily more worker layoffs. China is courting a real backlash. As Eskelund bluntly put it to me: “There is now a real risk we get into a trade war. We are not going to tolerate a world where China makes everything, and we just give museum tours.”
+
+To my fellow Americans (and our E.U. allies): China is not going to slow down in manufacturing as a favor to anyone. If we want to influence China’s geopolitics and geoeconomics in the age of A.I., we have to create the economic competitiveness that would compel it to do so. That requires the United States to be as serious as the people here are.
+
+In my view, the Chinese today are getting the best out of a bad system of government — by thinking long-term and executing on a plan to align their country with the economic trends of the 21st century.
+
+But one of the weaknesses of China’s system has been on dramatic display lately: the sudden disappearance and arrests of senior officials accused of corruption — so many that it could start to slow down the whole system here, if high-level bureaucrats fear making spending decisions that could land them in jail. Or as one Chinese economist put it to me, quoting a Chinese proverb: “If the water is too clear, there will be no fish.”
+
+And America? By doing no long-term thinking, appointing incompetent cabinet secretaries and having each new administration undo major initiatives of the previous one — like on clean energy — we’re getting the worst out of a good system.
+
+Just look around. Republicans are spending more than $200 million to elect a terrible man — an impeached Texas attorney general, Ken Paxton — to be Texas’ next senator. Trump is savaging America’s scientific research budget and driving away the most talented foreigners who want to come to America to work, study and invent. Trump gutted the electric car industry in favor of gas guzzlers, while Democrats did not think it was a bad idea to leave our southern border porous, which helped to get Trump re-elected.
+
+The only way we will restore some balance to the economic relationship between China and America (and between China and Europe) is not by begging Beijing but by rebuilding our leverage — by being serious again about our governance, by making cost-competitive products and by planning beyond next week and then executing on those plans.
+
+I know just what to call this strategy — I saw it on a red baseball cap the other day: “Make America Great Again.”
+
+If only we could start electing people who knew how.
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
