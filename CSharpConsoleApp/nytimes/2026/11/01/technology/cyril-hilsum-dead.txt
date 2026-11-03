@@ -1,0 +1,90 @@
+================================================================================
+cyril-hilsum-dead.html
+Source: PreloadedData  Paragraphs: 37  Words: 1234/1234
+================================================================================
+
+SUMMARY
+
+At the Royal Radar Establishment, a government research center, Dr. Hilsum led the team that developed crucial materials and technology for liquid crystal displays — the screens in flat-panel televisions, laptops and smartphones. Dr. Hilsum became known as “the father of liquid crystals,” according to The Times of London. Dr. Hilsum held more than 70 patents.
+
+ARTICLE
+
+That Giant HDTV That Fits in Your Living Room? Thank Cyril Hilsum.
+The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.
+By Michael S. Rosenwald
+Published 2026-11-01 10:00 UTC
+https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html
+
+In the beginning, televisions were barely smaller than Buicks. They weighed upward of 500 pounds. Finding a spot for them in the house was a challenge.
+
+“Since we got our television set,” a TV World reader wrote to the magazine in 1953, “we’ve had to change the arrangement of furniture in our living room, and we just can’t keep the piano.”
+
+In the 1960s, up to their antennas in complaints about these space- and power-hungry monstrosities, electronics executives and government regulators prodded scientists to find ways to shrink them. Defense officials joined in, hoping for smaller radar screens.
+
+At the center of this herculean effort was Cyril Hilsum, an exuberant British physicist with voluminous, untamed white hair whose striking resemblance to Albert Einstein wasn’t limited to appearance.
+
+“People say Einstein’s I.Q. was 155 or something, and I’d guess that Cyril’s was way higher than that,” J. Cliﬀ Jones, a physicist formerly affiliated with the University of Leeds in England, said in an interview. “I’m not saying Einstein wasn’t extremely important, but Cyril was that kind of man. He was that sharp.”
+
+At the Royal Radar Establishment, a government research center, Dr. Hilsum led the team that developed crucial materials and technology for liquid crystal displays — the screens in flat-panel televisions, laptops and smartphones.
+
+Dr. Hilsum died on Sept. 23 at an assisted-living facility in London, his family said. He was 101, having survived into his 11th decade by avoiding fresh vegetables and subsisting largely on TV dinners, chocolate and red wine.
+
+The son of street vendors in the gritty East End of London, Dr. Hilsum was an inventing machine. He developed semiconductors that are used in remote controls, automatic doors, burglar alarms and bar-code scanners.
+
+His work with radar technology led to the development of Claribel, a device used to detect the location of snipers in Northern Ireland, and he was also instrumental in developing radar speed detectors, which occasionally caught him exceeding the posted limits on highways.
+
+“He didn’t have a lot of time for theoretical physics or theoretical physicists,” his daughter Lindsey Hilsum, an author and foreign correspondent for TV news, said at his memorial service. “He was a materials scientist and an engineer. It was all about applications.”
+
+In the late 1960s, Dr. Hilsum was working on radar for the British government when his boss inquired whether there might be something he could do about the size of electronic screens.
+
+Radar displays and early TVs were behemoths because they used bulky cathode ray tubes (or CRTs) to beam images into thick, heavy sheets of glass. Wood cabinets housed and protected the finicky gear, turning these contraptions into unwieldy pieces of furniture.
+
+“The CRT,” Dr. Hilsum wrote in a 2010 article for Philosophical Transactions of the Royal Society A, “was becoming more and more exposed as a dinosaur.”
+
+At first, he wasn’t optimistic that anything could be done, but there was a new idea emerging — using liquid crystals to form images on a screen — that intrigued him.
+
+For one thing, the crystals would use a lower voltage than CRTs. But more important, they could fit into a thin film between two slim sheets of glass. Goodbye, tubes.
+
+The problem: Liquid crystals were stable only at high temperatures, and they dissolved quickly. No one would want to buy a new TV every few weeks.
+
+Dr. Hilsum assembled a team of scientists to tackle the issue. The story of what they did could fill a five-part television series, but if reduced to the length of a caption in TV Guide, it would read something like this: “Scientists create a new family of stable liquid crystals known as cyanobiphenyls.”
+
+The implications were immense.
+
+“The world had been trying hard to find a stable material, and suddenly we had it,” Dr. Hilsum said in a 2020 interview with the journal Archives of Information Technology.
+
+Digital watches arrived first, followed by pocket calculators, laptops, flat-screen televisions and, eventually, smartphones.
+
+Dr. Hilsum became known as “the father of liquid crystals,” according to The Times of London. In 1976, Queen Elizabeth II visited his lab and was photographed laughing as he tried to explain the technology to her.
+
+“There were a lot of people involved in this technology, but Cyril pushed it in the direction it needed to go, and changed the world,” Dr. Jones said. “You can now fit a massive HDTV in your living room. That all comes down to this key invention.”
+
+The second of three boys, Mr. Hilsum was born in London on May 17, 1925, to Benjamin and Ada (Goldstein) Hilsum, who sold flat hats, chocolate and chamois leathers at stalls in Petticoat Lane and on Portobello Road.
+
+His childhood was spartan and hardscrabble. “There was an outside loo, I can remember that,” he said in a 2002 oral history for the British Library. “We all slept, the three boys, in what seemed an enormous bed.”
+
+Clothes were handed down or inherited from cousins. There were no presents on holidays.
+
+“We played in the street,” he said. “We had fights. In general, I suppose it was like most families.”
+
+But Cyril wasn’t like most other children. At 3, he was already reading. For fun, he took his toys apart.
+
+“I wouldn’t interfere with electricity or anything like that,” he said. “But I would take toys to pieces, whether they were mine or other people’s.”
+
+After high school, he won a scholarship to attend University College London. “I don’t know that Mum ever took it in,” he said. “Dad was thrilled. I mean, essentially it’s what he would have wanted to do.”
+
+He studied math and physics, graduating in 1945, and received his doctorate in physics from the University of London in 1959.
+
+Asked in the oral history what makes a good physicist, Dr. Hilsum replied: “Curiosity, curiosity. Always, you have the kind of mind that you want to know the answer to questions. You see something and you think, ‘How does that work?’ or ‘What would make that work better?’”
+
+He said he had no interest in theoretical physics — not even the Higgs boson particle. “It would leave me completely flat,” he said. “I want things to work.”
+
+He married Betty Cooper, his co-star in a college production of “Pygmalion,” in 1947, and frequently bought her gadgets as gifts, which he proceeded to take apart. She died in 1987. After their daughter Karen Burt, an engineer, died in 1997, Dr. Hilsum established a scholarship in her name with the Women’s Engineering Society.
+
+In addition to his daughter Lindsey, Dr. Hilsum is survived by his partner, Anne Dell; a grandson; and his brother Charles, who is 103.
+
+Dr. Hilsum held more than 70 patents. He received his last when he was 97. The paperwork describes the invention as an “apparatus for, or methods of, measuring force, work, mechanical power or torque, specially adapted for specific purposes for measuring tension in flexible members, e.g. ropes, cables, wires, threads, belts or bands using electrical means using sensors inserted into the flexible member.”
+
+In plain English, it’s an ink with sensors that can conduct electricity. One possible use is in hospital beds, to track the movement of patients and prevent bedsores. Dr. Hilsum developed the idea in his kitchen, where he set up lab equipment and worked in a white coat.
+
+“You should always be concerned,” he once said, “with what you are doing that helps the community.”

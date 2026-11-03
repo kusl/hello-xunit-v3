@@ -1,0 +1,105 @@
+================================================================================
+jet-engines-ai-data-center-generators-boneyard.html
+Source: PreloadedData  Paragraphs: 43  Words: 1651/1651
+================================================================================
+
+SUMMARY
+
+But America’s soaring demand for electricity to power data centers is bringing them back to life. And data centers, desperate for power, are snapping them up. Companies supplying power for data centers, including those working with Google, say they will use ProEnergy turbines converted from jet engines, according to regulatory filings.
+
+ARTICLE
+
+Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers
+By Hiroko Tabuchi and Gabriela Bhaskar
+Published 2026-11-03 10:00 UTC
+https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html
+
+Across wide stretches of the sun-bleached Sonoran desert in Arizona, thousands of retired aircraft sit nose-to-tail in graveyards of metal known as boneyards.
+
+Many of their engines haven’t been fired up for years. But America’s soaring demand for electricity to power data centers is bringing them back to life.
+
+Several companies are racing to strip the engines out of old aircraft to convert them into electrical generators. And data centers, desperate for power, are snapping them up.
+
+“They’re getting creative,” said Bill Kleyman, chief executive of Apolo, an A.I. platform and infrastructure company. “Just a few years ago, a traditional data center would have been like, ‘Are you kidding me? This is ridiculous.’”
+
+Now, data center developers are obsessed with “speed to power,” Mr. Kleyman said. “It’s like, ‘How fast can you get me energy?’”
+
+President Trump, aware that the rapid construction of data centers has sparked concerns over rising electricity prices, has pressed center developers to generate their own power. “It was my idea,” he told reporters in August. “Data centers now are mandated by me that they build their own electricity, so they’re not taking it from the grid."
+
+Jet engines are a plentiful and untapped source. In January, the federal Energy Information Administration said that the engines from the 4,000 old military jets it parks at a single desert base in Tucson could create 40,000 megawatts of power. That’s more than the generation capacity of the entire state.
+
+But repurposed aircraft turbines tend to be less efficient and more polluting than engines designed for conventional gas-burning plants. And data centers need more jet-powered generators to produce the same amount of electricity.
+
+Elon Musk’s A.I. company, xAI, has installed eight converted turbines in Mississippi to power one of its massive data centers, according to permits with the state and satellite imagery, both reviewed by The New York Times. The generators have state permission to emit carbon monoxide at twice the rate of other turbines at the site. The permits also allow a 25 percent higher limit for pollutants known as volatile organic compounds. Both carbon monoxide and volatile organic compounds pose significant health risks.
+
+Environmentalists say that reusing older and less efficient jet engines is a step backward. Patrick Anderson, an attorney with the Southern Environmental Law Center, said electric generation — particularly for something as futuristic as A.I. — “should be getting cleaner over time, not dirtier.”
+
+His group has challenged Mississippi’s approval of xAI’s turbines. It says the manufacturer of the jet-powered generators has provided no guarantees or documents showing they meet emissions standards for pollutants like formaldehyde. It also accuses xAI of undercounting its projected emissions.
+
+The group, on behalf of the NAACP, also sued xAI this year for running a separate batch of gas generators without permits, and for exposing a predominantly Black community to air pollutants. More than 100,000 people live within five miles of xAI’s data-centers on the Mississippi-Tennessee border, according to 2020 census data.
+
+The manufacturer of xAI’s jet-powered generators, Missouri-based ProEnergy, was early to the business, repurposing a General Electric turbine commonly found in Boeing aircraft. Landon Tessmer, an executive at ProEnergy, told attendees at a conference in Denver in September that demand from data centers was outpacing demand from traditional utilities.
+
+Each turbine can produce 50 megawatts of electricity, he said, enough to power 15,000 homes. “If anybody’s ever flown on a Boeing 747,” Mr. Tessmer said, “it’s the exact same aircraft engine.”
+
+ProEnergy doesn’t name its customers. But state permits reviewed by the Times nationwide show that some of the biggest A.I. companies plan to use its turbines. Companies supplying power for data centers, including those working with Google, say they will use ProEnergy turbines converted from jet engines, according to regulatory filings.
+
+Neither xAI nor ProEnergy commented on the environmental concerns. Google said it has opted to wait for grid-connected power.
+
+Chips ‘piling up’
+
+For companies stuck on yearslong wait-lists to connect to electric grids or to acquire standard turbines, these units offer a quick fix.
+
+In February, Elon Musk expressed frustration with the difficulty of securing enough power to realize his A.I. ambitions. Electricity, not computer chips, had become the main bottleneck to A.I. development, he said on a podcast hosted by Dwarkesh Patel, a tech writer. “The chips are going to be piling up and not be able to be turned on,” he said.
+
+In an apparent effort to alleviate the supply crunch, Mr. Musk’s SpaceX acquired a maker of mobile gas turbines.
+
+Last year FTAI Aviation, a New York-based jet-engine leasing and repair company, launched a division that converts retired engines from Boeing 737 and Airbus A320 aircraft to power data centers. In July, an FTAI joint venture signed a $1.5 billion agreement to supply converted turbines to a data-center developer.
+
+FTAI’s president, David Moreno, said the company was retrofitting its Montreal facility with a production line for jet conversions. “Customers want units, now,” he said on a call with investors in April.
+
+Boom Supersonic, a start-up company initially focused on reviving supersonic passenger travel, is now also pivoting to use its jet engines for data centers.
+
+“It’s all about getting power as fast as possible,” regardless of cost or efficiency, said Audun Martinsen, an analyst at the energy research company Rystad Energy. With jet-powered units, “they can have a data center running in 24 months,” he said, versus waiting years for grid access.
+
+‘Engines are the first to come off’
+
+Pinal Airpark, about an hour’s drive from Davis-Monthan Air Force Base, is one of the world’s largest commercial aircraft reclamation facilities, storing nearly 300 aircraft on roughly 20,000 acres.
+
+And when retired planes end up there, “the engines are the first to come off,” said Lynell Merriman, a customer service manager at Pinal, as she zipped around the planes in her minivan. Much of her job involves taking clients to inspect and purchase reusable parts like engines and electronics. In many cases, the engines are more valuable than the entire airframe, she said.
+
+The conversion of a jet engine involves several steps.
+
+On a plane, the engine’s job is to push lots of air out the back, propelling the aircraft.
+
+To do that, air is sucked in by a huge fan at the front and compressed by a series of rotors. Then it is combined with jet fuel in the combustion chamber to rotate a central shaft that spins the front-facing fan, pulling in more air and starting the cycle again.
+
+Most of the air sucked in by the fan bypasses the engine core and gets shot out the back, creating thrust.
+
+To convert the engine, the outer shell and fan are removed. The combustion chamber is modified to burn natural gas. The central shaft is connected to a gear box and electrical generator instead of spinning a huge fan.
+
+“They take that high-speed flow and convert it into mechanical power,” said Guillermo Paniagua-Perez, professor in mechanical engineering at Purdue University.
+
+Unused planes end up parked at boneyards across the Southwest because the desert’s arid climate greatly reduces corrosion and weather damage, and the hard-baked soil helps support the heavy aircraft without extensive concrete paving. When Spirit ceased operations in May, nearly 100 of its aircraft were stored at Pinal.
+
+Previously, engines from retired aircraft were sold almost exclusively back into aviation for use in other planes or for parts. But in the past year, Pinal Airpark has had “a distinct uptick in inquiries from energy developers,” said Nikki Thomas, the business development manager at Ascent Aviation Services, which runs the facility.
+
+During a recent visit, the park was a hub of activity. Two excavators hacked away at an old airframe. Workers mounted two engines on the back of a flatbed trailer, ready to be hauled away.
+
+Pinal is now “on the front lines of a surging demand for aircraft engine cores driven by the data center and A.I. boom,” Ms. Merriman said.
+
+The speed at which jet engines can be quickly turned into generators “is the main consideration today,” said Professor Paniagua-Perez of Purdue. “But in a year or two, I think people will start caring more about fuel cost and efficiency,” he said. “Emissions will also become very important.”
+
+Concerns like these, however, don’t appear to be affecting demand.
+
+Over the past year, data centers “are gobbling them up,” said Doug Scroggins III, founder of Scroggins Aviation, a specialist company that trades used aircraft and aircraft parts.
+
+At ProEnergy, old engines enter a depot in Houston or in Sedalia, Missouri, where they are torn apart, cleaned, inspected and tested, according to the engine’s specifications. Engineers then modify the turbines so they can run on natural gas and diesel instead of jet fuel, which is costlier. They add electric generators, as well as air cooling to take into account higher ground temperatures. ProEnergy also says it adds pollution controls and casings to reduce noise.
+
+Scott Marchand, an aviation expert who runs the Pima Air and Space Museum, said repurposing aircraft engines isn’t new. Piston engines have been used as irrigation pumps, for example.
+
+But the use of converted jet engines as primary sources of power for a facility as gargantuan as an A.I. data center was unprecedented, he said. He also wondered how practical it really will be. “You’re going to have to have a monstrous array of engines that are really expensive to maintain, expensive to feed and generate an awful lot of heat themselves,” he said.
+
+Despite concerns like these, the Trump administration is encouraging rapid installation of generators of all kinds at data centers.
+
+A few months ago, in an extraordinary court intervention, the Trump administration sided with xAI against a legal challenge by environmentalists against the company’s generators, telling a judge that citizens’ groups shouldn’t be allowed to bring environmental lawsuits. In its filing, the administration said the lawsuit threatened national security by undermining Mr. Trump’s goal of “global A.I. dominance.”
