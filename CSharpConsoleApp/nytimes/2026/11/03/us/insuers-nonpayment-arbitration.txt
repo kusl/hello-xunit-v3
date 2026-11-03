@@ -1,0 +1,140 @@
+================================================================================
+insuers-nonpayment-arbitration.html
+Source: PreloadedData  Paragraphs: 60  Words: 2171/2169
+================================================================================
+
+SUMMARY
+
+Anthem, the major health insurer, covered dozens of those patients, but it has refused to pay $2.1 million it owes the company for their helicopter rides. Most large health insurers told The Times it is their policy not to pay awards if they believe the claim should never have qualified for the arbitration process, even when the arbitrator determined it to be eligible. A spokeswoman for the Centers for Medicare and Medicaid Services, which oversees the arbitration system, said the law always requires insurers to pay arbitration awards.
+
+ARTICLE
+
+Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care
+A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.
+By Margot Sanger-Katz and Sarah Kliff
+Published 2026-11-03 10:01 UTC
+https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html
+
+Over the past two years, Flight for Life has airlifted car crash victims, premature babies and adults struggling to breathe to hospitals across southeastern Wisconsin.
+
+Anthem, the major health insurer, covered dozens of those patients, but it has refused to pay $2.1 million it owes the company for their helicopter rides.
+
+The amounts due for each emergency medical flight range from $9,382 to $62,373. Anthem has historically paid its bills, but late last year it suddenly stopped.
+
+“It was like a faucet they just shut off,” said Flight for Life’s executive director, Leif Erickson.
+
+The insurer’s willful nonpayment is the latest in a cascade of unintended consequences brought about by a widely supported law that was intended to protect patients from surprise medical bills.
+
+The law, which took effect in 2022, calls for arbitrators to decide appropriate levels of reimbursement, and it has already triggered millions of disputes between medical care providers and insurers. Doctors have prevailed overwhelmingly, winning arbitration settlements that sometimes far exceeded the usual insurer rates.
+
+Now, fed up with what they consider unfair outcomes, insurers are fighting back by refusing to pay.
+
+The law, the No Surprises Act, was enacted with a large bipartisan majority to ensure patients never got excessive bills in situations, like emergencies, where they could not pick their doctors.
+
+The arbitration system set up by the law was supposed to resolve billing disputes when health care providers and insurers could not agree on a price: An arbitrator reviews a proposed dollar amount from each side and decides which one is most reasonable. Insurers are required to pay that amount within 30 days, and billing patients for anything beyond that is prohibited.
+
+Lawmakers expected the system to be used rarely and to produce reasonable payments. Instead, doctors and other health care providers have been swamping arbitrators with millions of claims, often for amounts that far exceed what is customarily paid for a service. And they have won the vast majority of their cases — sometimes receiving sums such as $440,000 for a breast reduction, $73,000 for an ankle X-ray, or $125,000 for assisting on prostate surgery.
+
+Insurers have sued doctors and lobbied Congress to change the law, contending that the large awards and lopsided results are driving up health insurance premiums.
+
+But with Washington moving slowly, they have adopted the strategy of simply declining to pay.
+
+Nearly 30 percent of arbitration awards has gone unpaid since 2024, according to an analysis of 400,000 such awards provided by a major medical billing firm that The New York Times reviewed.
+
+Anthem’s nonpayment rate was the highest by far, at 74 percent, but other large insurers, including Cigna, UnitedHealthcare and Aetna, have also declined to pay a significant portion.
+
+The standoff has created dysfunction and lawlessness in a system that a growing number of lawmakers and administration officials say needs to be changed.
+
+“The providers are succeeding in what feel like egregious award levels, and then the insurers are also doing some of this egregious behavior by not paying,” said Katie Keith, the director of Georgetown University’s Center for Health Policy and the Law. “But there’s not accountability on either side.”
+
+Health plans, including Anthem, criticize HaloMD, the company that provided The Times with payment data, for using business tactics that exploit the arbitration system and result in large payouts.Only one of the major insurers the Times contacted disputed the accuracy of the data. A Cigna spokeswoman said that a significantly smaller share went unpaid in 2026 than what the Halo data showed.
+
+Most large health insurers told The Times it is their policy not to pay awards if they believe the claim should never have qualified for the arbitration process, even when the arbitrator determined it to be eligible.
+
+In the case of Flight for Life, Anthem says it will not pay because it believes the medevac service violated the arbitration system’s complex procedural rules, an assessment Flight for Life disputes.
+
+Ariel Bayewitz, vice president of health economics at Elevance Health, Anthem’s parent company, said that the company “believes strongly” in paying eligible awards on time. But, he said, Anthem estimates that most claims that have moved through the arbitration system should have been found ineligible, because they either didn’t follow the rules or were for situations not covered under the consumer protection law.
+
+“More providers are submitting ineligible cases because ineligible cases aren’t being dismissed like they should be,” he said.
+
+Smaller health plans also have been withholding payments in cases where they think the award is unreasonable. Some even have form letters they send to doctors whose awards they won’t pay.
+
+“The determination is not merely high; it is legally defective,” says one such letter, from the New York insurer EmblemHealth, declining to pay an award 99 times its usual rate for a breast reconstruction.
+
+“Recently, we have observed a significant increase in very high-dollar claims, which we are actively reviewing and challenging as appropriate,” said Alex Gomez, a spokesman for the plan.
+
+A spokeswoman for the Centers for Medicare and Medicaid Services, which oversees the arbitration system, said the law always requires insurers to pay arbitration awards.
+
+Doctors and air ambulance companies have turned to the courts, filing hundreds of lawsuits to enforce the arbitrators’ decisions, but three federal appeals courts have ruled that the No Surprises Act does not include a right to sue.
+
+Stephen Ware, a professor of law at the University of Kansas, said that unlike most arbitration situations, the No Surprises Act does not explain how a ruling can be enforced. One appeals court decision suggested that the government could sue to force insurers to pay. So far, the Trump administration has not exercised such power.
+
+‘We Just Want to Get Paid’
+
+Doctors have said that the nonpayments make it hard to manage their practices. Some who have built their businesses around the arbitration system and its high payouts, have taken on debts to stay afloat.
+
+Dr. Jennifer Raley, a managing partner at Wake Emergency Physicians in North Carolina, said her practice had $1.2 million in outstanding awards. It won 1,032 arbitration cases in 2025, with an average award around four times what insurers typically pay.
+
+In January, it had to take out a line of credit to make payroll.
+
+“We just want to get paid what we need to pay the people who saw the patients,” she said. PHI, a national air ambulance company, recently closed a base in Red Bluff, Calif., a small city between Sacramento and the Oregon border.
+
+In an interview, PHI’s chief executive, Scott McCarty, cited $16.3 million in outstanding payments from Anthem as the cause of the closure.
+
+“The insurance companies cannot unilaterally decide to breach a federal law if they don’t like the end result,” Mr. McCarty said. “That’s essentially what they are doing.”
+
+Anthem spokeswoman Janey Kiryluik said that the insurer was “actively trying to bring PHI Air Medical into our network,” but that the medevac company had requested unreasonably high rates. She said that, in arbitration, it typically requests $56,000 per flight.
+
+Dr. Brian McHugh, a neurosurgeon from Long Island, N.Y., has repeatedly received letters from Anthem challenging his awards on the grounds they are too expensive. Dr. McHugh often wins arbitration awards that are 40 times higher than what Anthem typically pays, according to federal data.
+
+He said other doctors at his practice had stopped seeing Anthem patients.
+
+Ms. Kiryluik said the insurer does not use a financial threshold as a “basis for holding payment,” and that it no longer uses the letter Dr. McHugh received.
+
+Anthem, like all major insurers, supported the No Surprises Act when Congress was writing the legislation during the first Trump administration. But over the last six years, the company’s executives have soured on the law’s arbitration system, saying that it encourages abusive billing. Many of the high awards have been for scheduled procedures, not the emergency care the law was written to address.
+
+Anthem defends its nonpayment policies as intentional. In a 13-page report, it estimated that 60 percent of its cases that arbitrators had decided should never have qualified. This year, it has not paid 83 percent of arbitration claims, according to the HaloMD data, a substantial jump from previous years.
+
+The Labor Department, which oversees large employer health plans, is investigating Anthem’s failure to pay arbitration awards, according to documents The Times obtained. Ms. Kiryluik, the Anthem spokeswoman, said the plan was cooperating with the investigation.
+
+The 400,000 claims that HaloMD shared with The Times make up around two-thirds of the total arbitration cases it has won since 2024. The data set only includes cases for which HaloMD could reliably track payments to doctors.
+
+Anthem and other insurers contend that HaloMD is part of the problem. They say Halo typically submits unreasonably high bids to arbitration, sometimes winning 113 times typical insurer payments. The company has also been accused of filing a high volume of ineligible claims. Five insurers have sued Halo, accusing it of fraudulent behavior. Three of them, including one from Anthem, have been dismissed in federal court, on the grounds that courts can’t review the arbitrators’ decisions.
+
+HaloMD spokesman Patrick Velliky said that the insurers’ lawsuits were “an attempt to intimidate physicians and clinicians out of seeking fair and sustainable reimbursement.”
+
+The law set up a series of deadlines and procedures that doctors need to follow. They limited access to the system to certain situations. Cases where the patient has a government plan, like Medicare or Medicaid, are not eligible. Nor are situations where the doctor already has a contract with the health plan.
+
+Insurers say they sometimes see doctors winning two times for the same care — first in a state-level system to resolve medical billing disputes, and then again through federal arbitration.
+
+“We’re not going to pay it twice,” said Josh Goldberg, executive director of heath policy at Health Care Service Corporation, which covers 27 million people through six Blue Cross affiliates. “This is just a situation where we’re a little bit between a rock and a hard place.”
+
+The insurer is “not the final decider,” said Ms. Keith. She described Anthem’s strategy as “high-risk” because it flouts binding arbitration decisions.
+
+But insurers expressed frustration that the system incentivizes arbitrators to find claims eligible. They get paid a flat fee for each dispute they resolve. If they rule a case is ineligible, they earn nothing.
+
+New Movement in Congress
+
+The No Surprises Act gives the Trump administration authority to fine health insurers $100 for each day they do not pay an arbitration award. So far, it has not issued a single penalty.
+
+Doctors have submitted hundreds of complaints about unpaid awards to the Centers for Medicare and Medicaid Services, which oversee the system. Those that The Times spoke with said they had rarely received a response.
+
+“There has to be some enforcement,” said Thomas LaGreca, a partner at Callagy Law, which files claims for providers. He estimates that 27 percent of clients claims remain unpaid six months after arbitration decisions. Health plans also said that C.M.S. had failed to respond to thousands of complaints about the large number of ineligible claims.
+
+Spokespeople for both C.M.S. and the Labor Department declined to respond to questions about why they had not issued penalties to enforce the No Surprises Act.
+
+A Trump administration spokesman told The Times in July that “the system is being gamed” by doctors and that the government was “actively working to clean it up.” The administration has not yet announced any policy changes.
+
+Congress has recently taken a greater interest in reform, with one Senate committee hosting round table meetings and a top House Democrat introducing new legislation.
+
+“There are problems on both sides, and I’ll readily admit that,” Representative Greg Murphy, Republican of North Carolina, said in an interview.
+
+But Mr. Murphy, who worked as a urologist before running for office, said he believed that the “majority of abuses” had been committed by insurers who do not pay awards. He has introduced legislation that would stiffen penalties for nonpayment.
+
+“I ran a small business,” he said. “If I don’t have income, guess what happens to the business? It dies.”
+
+Senator Bill Cassidy, Republican of Louisiana, chairs the Senate Health Committee and was an architect of the No Surprises Act. He has told those involved in the process that he views fixing its problems before he leaves office in January as a legacy project.
+
+Representative Frank Pallone Jr., Democrat of New Jersey, was also an author of the original law. He has a different idea: abolishing the complex arbitration system altogether. Last month, he introduced a bill that would resolve billing disputes by setting a flat payment for doctors at the level insurers typically pay.
+
+Mr. Pallone has been skeptical of arbitration supporting it as part of a compromise to get the surprise billing ban passed. He said the reality was even more chaotic than he had predicted. “We have the proof with the facts that shows that this arbitration system is out of hand,” he said.

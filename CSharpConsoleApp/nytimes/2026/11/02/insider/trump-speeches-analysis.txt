@@ -1,0 +1,70 @@
+================================================================================
+trump-speeches-analysis.html
+Source: PreloadedData  Paragraphs: 27  Words: 1373/1375
+================================================================================
+
+SUMMARY
+
+To those who have followed President Trump closely, the finding was striking and unsurprising at the same time: His public speeches have become more profane, more absolutist, longer-winded and less coherent over the past decade. That was the central conclusion of an analysis, blending artificial intelligence and old-fashioned reporting, by my colleagues Peter Baker and Dylan Freedman. DYLAN: The first time we ran this analysis, it cost more than $1,000 in A.I. token credits, took me weeks to develop the approach and had some embarrassing mistakes.
+
+ARTICLE
+
+How We Reviewed 7 Million Words Uttered by Trump
+Two Times journalists, blending A.I. analysis and traditional reporting, evaluated public speeches to spot trends.
+By Mike Abrams, Peter Baker and Dylan Freedman
+Published 2026-11-02 23:06 UTC
+https://www.nytimes.com/2026/11/02/insider/trump-speeches-analysis.html
+
+To those who have followed President Trump closely, the finding was striking and unsurprising at the same time: His public speeches have become more profane, more absolutist, longer-winded and less coherent over the past decade.
+
+That was the central conclusion of an analysis, blending artificial intelligence and old-fashioned reporting, by my colleagues Peter Baker and Dylan Freedman. It was a follow-up to a similar study they conducted in 2024.
+
+I asked them to explain their work and — particularly for those skeptical of A.I. — to elaborate on the methodology published with the article. These are edited excerpts from our conversation.
+
+How and when did you first realize A.I. could help assess the president’s language?
+
+DYLAN FREEDMAN: Two months before the 2024 presidential election, I heard Peter talk about a story assessing Trump’s rhetoric in a meeting. I approached him afterward and told him I thought A.I. might be able to help us surface anecdotes. It was my first time meeting him, and I honestly didn’t know if it would work well enough, as the technology was much more nascent.
+
+Peter and I ended up working together over the next few weeks. He would ask if we could quantify Trump’s use of negative language, swearwords, excessively rambling passages and so on. And I would translate his queries into computer code and prompts to pull excerpts. We both ended up reading a 120-page document I prepared of excerpts from Trump’s rallies and speeches over nine years, according to a five-paragraph prompt of criteria we devised, and the best ones made it into the story.
+
+We didn’t simply trust the A.I. analysis but treated it as a tip, so we checked every excerpt in context. And we relied on more basic statistical analyses of word frequencies to assess his range of vocabulary.
+
+PETER BAKER: What Dylan came up with was a fresh way to try to measure what we could see or hear but can be challenging to contextualize. The idea was not to make the A.I. analysis the entirety of our reporting but to complement our reporting, to provide a useful data point and to help us draw judgments. This is the advantage of having smart, tech-savvy people like Dylan working with old Luddites like me.
+
+How did you and your editors make the judgment call about using an analysis of speech to assess the mental fitness of another person given that we do not have medical records?
+
+PETER: We’re naturally wary of diagnosing someone when we’re not doctors, and we’re likewise reluctant to rely heavily on doctors who have not examined him themselves. The White House physician who does examine him releases only a brief summary of his status, not original medical records. So we focus on describing what we can see and hear and measure.
+
+The analysis that Dylan came up with gives us a metric that helps us go beyond impressions and quantify changes in speaking patterns. We want to give readers something concrete in addition to observations. But at the same time, we are cautious about drawing overly definitive conclusions, focusing instead on providing information to readers who can make their own judgments.
+
+In your article, a White House spokesman defended the president, pointing to his “sharpness, unmatched energy, relentless work ethic and historic accessibility.” Did anyone who supports him specifically address our findings?
+
+PETER: His supporters like to point to his fairly vigorous travel schedule of campaign rallies over the past month or so — “28 days in a row of this crap,” as Trump himself described it — as proof of his physical vitality. But when it comes to whether he is growing more erratic with age, they usually brush off the question, saying it’s just Trump being Trump.
+
+How do you prompt a tool like Anthropic’s Claude to define, as you reported, “rambling and confusing digressions”?
+
+DYLAN: It’s not so straightforward. First, I don’t just prompt a chatbot like you might do using the app or website. Instead, I write computer code to gather all of Trump’s speeches (from Roll Call’s Factba.se), split them into chunks of text and then feed each chunk one by one into Claude. This helps ensure the results are more comprehensive and consistent.
+
+Second, it takes a lot of iterations to get right. My first prompt did look like asking Claude to find “rambling and confusing digressions,” but it flagged something like 60 percent of Trump’s speech as a positive hit, which is too much text to be useful.
+
+I used the excerpts we pulled for our 2024 story as a reference and developed a prompt that was much more specific, looking at several prongs, like how much a given passage of text meanders, uses non sequiturs, displays obvious signs of confusion, reflects absurdity, or uses cruel and dehumanizing language. I ask Claude to return a score between 0 and 10 for each passage, so that we could decide what score range is useful later. I also ran tests to ensure the excerpts we had manually labeled positive hits in 2024 were also flagged positively.
+
+What other reporting is important to include in work like this?
+
+DYLAN: Beyond anything, this is a human story, leveraging Peter’s expertise now covering his sixth presidential administration. The A.I. analysis is extra quantitative muscle that supplements, but doesn’t replace, the essential human reporting. Peter had covered many of these speeches in person. He knew the right questions to ask. He could review the excerpts we did use and ensure they weren’t taken out of context. I like to think that the best uses of A.I. are where it’s the middle layer of a sandwich of human judgment and review.
+
+The methodology you published mentions a manual review of hundreds of passages of Trump’s speeches. But the A.I. analysis covered 6,500 passages. How do you assess accuracy using just a portion of what was reviewed by Claude?
+
+DYLAN: There’s no one right or established way to do an analysis like this. The field is new. But I have been in the trenches with these types of stories for a few years now and try to lean on best practices across statistics, A.I. and journalism.
+
+I ran an evaluation using our 2024 story as reference. I iterated on my prompts with Claude until I was able to accurately flag the same passages as positive and negative hits. As in 2024, Peter and I manually reviewed hundreds of excerpts. In 2026, the amount of false negatives, or passages that were flagged but shouldn’t have been, was vanishingly small according to our own judgment. At the same time, you always have to worry about false negatives, missing things that you shouldn’t have and about confirmation bias, or using A.I. to reinforce what you assume is true.
+
+I would not have felt comfortable publishing a sweeping statement about Trump’s frequency of rambling or confusing digressions that relied on A.I. without detailing our approach transparently in the methodology section.
+
+How has this technology changed in the past couple of years?
+
+DYLAN: The first time we ran this analysis, it cost more than $1,000 in A.I. token credits, took me weeks to develop the approach and had some embarrassing mistakes. For instance, in 2024 the A.I. analysis we ran flagged Trump talking about a hurricane in Asheville, N.C., as something that would never happen in a million years, or about his assassination attempts as illusions of grandeur. Both actually happened, but the A.I. model wasn’t updated to reflect those recent unlikely events. We didn’t end up using either example in the story.
+
+This time, the approach was much more seamless. It cost less money and was more accurate. A.I. helped write some of the analysis code and generate dashboards — both of which we reviewed. I also had more experience knowing not to assume that the A.I. understands where you’re coming from. Because of that, our prompt ended up exceeding 1,000 words so that it could be as specific and clear as possible.
+
+A.I. is not perfect; it still makes obvious mistakes and can mislead you into a false sense of affirmation. But wielded carefully, it can be a powerful search tool to sift through the more than seven million words of Trump’s speeches over the past decade.
