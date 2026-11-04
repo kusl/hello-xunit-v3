@@ -1,6 +1,6 @@
 ================================================================================
 animals-grief-death.html
-Source: PreloadedData  Paragraphs: 43  Words: 1847/1867
+Source: PreloadedData  Paragraphs: 43  Words: 1848/1868
 ================================================================================
 
 SUMMARY
@@ -83,7 +83,7 @@ Still, Dr. Glasper is reluctant to say that the mice are in mourning. “Our dat
 
 That’s a critical question, said Zoe Donaldson, a behavioral neuroscientist at the University of Colorado Boulder. “Yearning is what differentiates grief from depression,” she said.
 
-Some emerging research, from Dr. Donaldson and others, suggests that voles might yearn for missing mates. Dopamine, which plays a crucial role in motivation, seems to drive a vole’s desire for its partner. The hormone spikes when voles are seeking out their mates or anticipating reuniting with them. And several studies suggest that a five- to seven-day separation may increase a vole’s to reunite with its partner and amplify dopamine signaling in the brain.
+Some emerging research, from Dr. Donaldson and others, suggests that voles might yearn for missing mates. Dopamine, which plays a crucial role in motivation, seems to drive a vole’s desire for its partner. The hormone spikes when voles are seeking out their mates or anticipating reuniting with them. And several studies suggest that a five- to seven-day separation may increase a vole’s motivation to reunite with its partner and amplify dopamine signaling in the brain.
 
 Dr. Donaldson, who said she had initially been dismissive of the idea that the monogamous rodents could mourn, now believes that prairie voles experience “something akin to grief.”
 

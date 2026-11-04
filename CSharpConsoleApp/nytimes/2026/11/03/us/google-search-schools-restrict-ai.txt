@@ -1,0 +1,70 @@
+================================================================================
+google-search-schools-restrict-ai.html
+Source: PreloadedData  Paragraphs: 27  Words: 1042/1047
+================================================================================
+
+SUMMARY
+
+Google announced Tuesday that early next year it would turn off artificial intelligence tools in its popular software for K-12 students, unless school administrators explicitly choose to make such tools available. But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Google search. And Google is synonymous with internet search, a crucial tool for students across the globe.
+
+ARTICLE
+
+Google Will Turn Off Search for Schools That Reject A.I.
+Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.
+By Dana Goldstein and Natasha Singer
+Published 2026-11-03 14:00 UTC
+https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html
+
+Google announced Tuesday that early next year it would turn off artificial intelligence tools in its popular software for K-12 students, unless school administrators explicitly choose to make such tools available.
+
+Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I.
+
+But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Google search.
+
+A.I. features are now a standard part of Google’s commercially available search engine. “Search and A.I. are deeply integrated,” said Chris Phillips, vice president for education at Google. If a school has banned A.I., he added, students “will not have access to search, and they’ll see a message from their school that indicates it’s not available.”
+
+Google is by far the dominant technology player in K-12 classrooms. Google’s suite of education apps — including Gmail, Docs and an assignment platform called Classroom — is ubiquitous. Google Chromebooks, low-cost laptops, are the most widely issued student devices in U.S. schools. And Google is synonymous with internet search, a crucial tool for students across the globe.
+
+The company’s new strategy underscores Google’s powerful role in American education. If school leaders want continued student access to search within the company’s ecosystem, they will be forced to embrace Google’s A.I.
+
+Lina Khan, a former chair of the Federal Trade Commission, said in a statement that Google was using its “search monopoly to coerce schools” into adopting its A.I. She added that multiple courts had found the tech giant liable for violating antitrust laws.
+
+“This latest move shows it remains unchastened,” Ms. Khan said of Google’s new A.I. changes for schools. “As the public increasingly pushes back against the use of AI in schools,” she added, “Google is making clear it will punish those who don’t fall in line.”
+
+In recent months, Google has been promoting its Gemini chatbot as a valuable educational tool, saying it can aid teachers in planning lessons and serve as a personalized tutor for students. A new student feature within Gemini, Guided Learning, is supposed to make it harder for students to use A.I. to cheat.
+
+“We’re evolving our approach,” said Mr. Phillips. He promised tools that would “support the productive struggle” of learning and tamp down on students turning to A.I. for easy answers.
+
+In August, Google turned on A.I. features as the default option inside its Classroom app for K-12 schools that had allowed students separate access to the company’s Gemini chatbot. The move upset some school leaders, who felt schools should be able to decide how and when students used Google’s A.I.
+
+Google’s August change will now be reversed.
+
+Parent activists have been pushing back against the use of A.I. in schools, and against screen time more generally. While A.I. chatbots can be useful tools for research and coding, they can also easily be used to cheat on school assignments and can provide false information. Research shows chatbots can also hinder critical thinking and ensnare adolescents in emotional dependency.
+
+Last week, New York State passed a chatbot safety law that would prohibit companies from providing a variety of A.I. features for minors. And in September, the nation’s two largest school districts, in New York City and Los Angeles — both Google clients — broadly restricted student access to generative artificial intelligence on school devices.
+
+In response to Google’s Tuesday announcement, Mayor Zohran Mamdani of New York City wrote on social media, “No corporation should have the power to dictate how we teach our children. Our public schools exist to serve students, not to grow the profit margin of Big Tech.”
+
+Officials in the Los Angeles Unified School District have said that they were hoping students would be able to conduct Google searches with A.I. overviews turned off. The overviews are A.I.-generated summaries that appear at the top of searches. They can dissuade students from seeking out multiple sources of information.
+
+On Monday, Google executives said that for districts that do allow A.I., there will be two options for search inside school-issued accounts, beginning in early 2027. One option will be search with A.I. overviews and A.I. chats turned on, similar to the current consumer experience. The other will be search using Guided Learning, the student feature within Google’s Gemini chatbot.
+
+Guided Learning is intended to guide students through a topic step-by-step without providing them with answers that could short-circuit learning. It is supposed to offer an experience modeled on one-to-one tutoring.
+
+The consumer version of Guided Learning is already available within Gemini, and can enable cheating. In a reporter’s test, it produced a detailed essay in response to an Advanced Placement history prompt.
+
+There are greater restrictions in the school version that is currently being piloted, according to Brit Mennuti, product lead for Google Classroom. She said teachers would be able to review students’ chatbot transcripts, among other capabilities.
+
+Richard Culatta, the chief executive of ISTE+ASCD, a nonprofit group promoting “meaningful” school technology use, applauded Google’s plan to turn off its A.I. services for students by default in K-12 schools.
+
+Tech companies, he added, should also enable schools to turn off AI features within search engines. “Our position is that schools should be able to have search that does not have A.I.-generated results in it for students,” Mr. Culatta said. (Mr. Culatta’s group has received funding from Google and other tech companies.)
+
+Kelly Clancy is a New York City public school parent and leader in groups calling for an A.I. moratorium in schools.
+
+She said her seventh-grade son used Google search daily to complete assignments, such as a recent earth science project that required him to learn about lab safety.
+
+“We have to go back to the drawing board on how we are teaching kids to research,” she said, suggesting that students could use alternatives such as physical libraries or competing search engines that allow more control over A.I.
+
+Morgan Polikoff, an education professor at the University of Southern California, said Google’s decision could further energize the anti-tech movement percolating among parents and educators.
+
+“This is a particularly clear example of the tech industry going out of its way to force A.I. on us all — even if we have said we don’t want it,” he said.

@@ -1,0 +1,48 @@
+================================================================================
+apple-earnings.html
+Source: PreloadedData  Paragraphs: 16  Words: 831/831
+================================================================================
+
+SUMMARY
+
+In the three months through September, Apple’s revenue grew nearly 12 percent from a year earlier, to $114.48 billion. Apple’s warning about component costs like memory chips came after increasing alarm on Wall Street about the technology industry’s spending binge on A.I., and just one business day after Apple reclaimed the title of the world’s most valuable publicly traded company. Apple’s services revenue grew nearly 10 percent to $31.57 billion, slightly less than analysts expected.
+
+ARTICLE
+
+Apple’s Profit Grows 12% Despite Component Price Worries
+The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.
+By Kalley Huang
+Published 2026-11-02 21:46 UTC
+https://www.nytimes.com/2026/11/02/technology/apple-earnings.html
+
+Apple said on Monday that its profits were being squeezed by the artificial intelligence boom, which has caused the prices of components that go into its devices to soar.
+
+The consumer electronics giant’s warning cast a shadow over what otherwise would have been a strong quarter. In the three months through September, Apple’s revenue grew nearly 12 percent from a year earlier, to $114.48 billion. Profit also rose nearly 12 percent, to $30.71 billion. Both numbers topped Wall Street’s expectations, and lifted Apple to a record for revenue and profit in a fiscal year, which ended in September.
+
+Apple’s warning about component costs like memory chips came after increasing alarm on Wall Street about the technology industry’s spending binge on A.I., and just one business day after Apple reclaimed the title of the world’s most valuable publicly traded company. Its share price dropped as much as 4 percent in after-hours trading on Monday.
+
+“What we’re seeing with memory pricing right now is unprecedented,” said John Ternus, Apple’s new chief executive, in a call with analysts and investors on Monday. He added that the company expected memory costs to continue increasing beyond the current quarter.
+
+Despite its deep pockets and sprawling supply chain, Apple is vulnerable to the ripple effects of A.I. Unlike other big technology companies, Apple has not invested heavily in it. But the company is facing a global shortage in memory and storage chips because so many of those components are being used for the A.I. chips that fill giant data centers.
+
+Other companies have also warned that the memory chip shortage is hurting their business. Last week, Intel said its core business selling chips for personal computers was suffering because component prices were skyrocketing. Intel’s stock price dropped more than 29 percent a day later.
+
+“We’re seeing less flexibility in the supply chain than normal,” Sabih Khan, Apple’s chief operating officer, said on the call. He added that the company had agreed to spend $33 billion more with component suppliers from June to September. Apple had not had its chief operating officer join an earnings call in years.
+
+Apple has taken steps to address the pressure on its profits. In June, it raised the prices of its Macs and iPads. In July, it made the starting prices for the new iPhone 18 Pro and older models of the iPhone $100 higher than their predecessors. Apple has also created a new high end for some of its products, including the iPhone Duo, a foldable smartphone that starts at $1,999, and the touch-screen MacBook Pro, which starts at $2,899.
+
+Apple’s forecast for the current quarter did not inspire investors. The company said overall revenue in the current quarter would grow between 7 and 10 percent, more than analysts expected. But it said services revenue would grow between 8 and 9 percent, while analysts expected about 11 percent, according to FactSet.
+
+Apple also said its gross margin for the current quarter would narrow to between 45 and 46 percent, in line with analyst expectations. That means that for every dollar it makes in revenue, it expects to spend more — 54 to 55 cents — to produce its products and services.
+
+When Apple introduced the new iPhone Pro in July, it refreshed the smartphone with a more advanced chip and camera system, a longer battery life and three new colors. These changes have helped increase iPhone sales 17 percent from a year earlier, to $57.58 billion.
+
+Apple’s business in China, the largest smartphone market in the world, was a disappointment. Sales there rose 21 percent to $17.54 billion, short of analyst expectations. The company’s iPhones still made up 19 percent of smartphone shipments to distributors in China in the quarter — more than all of its local rivals, except Huawei — according to Counterpoint Research, which tracks the smartphone market.
+
+“China also was impacted by the same supply constraint dynamics,” Kevan Parekh, Apple’s chief financial officer, said in an interview. “I think that is a factor that could be driving some of the differences” between what analysts expected and what Apple reported, he added.
+
+Apple’s services revenue grew nearly 10 percent to $31.57 billion, slightly less than analysts expected. The company has been quietly raising the prices for some of its services, including its streaming service, Apple TV, which in August cost $14.99 per month, up from $12.99.
+
+The company saw mixed results in other parts of its core business. Sales of Macs rose more than 23 percent to $10.79 billion. Sales of iPads fell more than 10 percent to $6.23 billion. Sales of wearables, which include the Apple Watch and AirPods, fell nearly 5 percent to $8.3 billion.
+
+Apple has “a combination of what seems to be a decent product refresh cycle, new product innovation, a shift to more premium products,” said Charles Rinehart, chief investment officer at Johnson Investment Counsel, an asset management firm. The question for the company, he added, is how effectively it can use those tools to offset rising costs.

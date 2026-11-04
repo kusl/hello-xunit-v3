@@ -1,0 +1,36 @@
+================================================================================
+new-york-times-earnings.html
+Source: PreloadedData  Paragraphs: 10  Words: 397/396
+================================================================================
+
+SUMMARY
+
+The New York Times Company said on Wednesday that it had added 420,000 digital-only subscribers in the third quarter, boosting its total number of paid subscribers to 13.8 million. The company has added about 1.46 million digital-only subscribers in the past 12 months, though it had a slower second quarter with the addition of 280,000 subscribers. Total revenue for the third quarter was $768.5 million, an increase of 9.7 percent from the same time period last year.
+
+ARTICLE
+
+The New York Times Adds 420,000 Digital Subscribers
+The additions in the third quarter keep the company roughly on track to meet its goal of 15 million subscribers by the end of next year, after a slower second quarter.
+By Katie Robertson
+Published 2026-11-04 12:09 UTC
+https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html
+
+The New York Times Company said on Wednesday that it had added 420,000 digital-only subscribers in the third quarter, boosting its total number of paid subscribers to 13.8 million.
+
+The results keep the company roughly on pace to meet its stated goal of 15 million subscribers by the end of 2027 across the news report as well as Wirecutter, Cooking, Games and the Athletic sports news site. The company has added about 1.46 million digital-only subscribers in the past 12 months, though it had a slower second quarter with the addition of 280,000 subscribers.
+
+Total revenue for the third quarter was $768.5 million, an increase of 9.7 percent from the same time period last year. Adjusted operating profit was $149.6 million, up from $131.4 million in the third quarter of last year.
+
+Adjusted operating costs were $618.9 million, an increase of 8.7 percent year over year, which the company said was due to higher compensation and benefits expenses, higher general and administrative costs, and higher marketing and promotion costs. The company had forecast an increase of 8 to 9 percent.
+
+Revenue from digital-only subscriptions grew 14.6 percent year over year, to $421.3 million for the quarter. Digital-only average revenue per user, a metric used to measure the health of subscription businesses, was $9.93, up slightly from the same time last year.
+
+But print subscriptions continued to fall. The Times now has 540,000 print subscribers, down from 570,000 a year earlier.
+
+Digital advertising revenue was up 12 percent to $109.9 million. Revenue from affiliate, licensing and other categories increased 6.2 percent to $78.4 million.
+
+Meredith Kopit Levien, the company’s chief executive, said in a statement that The Times’s “subscriber growth was powered by strong engagement and retention,” and that the company had increased its profit “while continuing to invest in growth areas like video.”
+
+The Times had $1.26 billion in cash and marketable securities at the end of September. The company in September formally expressed interest in buying Letterboxd, a social platform for film lovers, The Times reported. (A spokeswoman declined to comment.)
+
+For the fourth quarter, the company forecast an increase of 12 to 15 percent in digital-only subscription revenue compared with the same period a year ago, and a high-single-digit to low-double-digit increase in digital advertising revenue. It also forecast a year-over-year increase of 6 to 8 percent in adjusted operating costs in the fourth quarter.

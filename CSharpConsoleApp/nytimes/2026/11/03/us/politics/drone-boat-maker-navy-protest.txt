@@ -1,0 +1,60 @@
+================================================================================
+drone-boat-maker-navy-protest.html
+Source: PreloadedData  Paragraphs: 21  Words: 719/721
+================================================================================
+
+SUMMARY
+
+A federal judge has found that the U.S. Navy improperly barred the drone boat provider Saildrone Inc. from competing for a potentially lucrative contract, a striking victory for a small defense-technology company. Saildrone and another similarly situated drone boat company, Blue Water Autonomy, then sued the government in the Washington-based Federal Court of Claims, alleging that the Navy’s evaluation process had been improper. The judge also ordered that until the evaluation is completed, the Navy must not obligate any more than $1.5 billion for the construction of the type of drone boat Saildrone seeks to build.
+
+ARTICLE
+
+Drone Boat Maker Saildrone Wins Protest Over Navy Contract
+A federal judge’s ruling on the side of the small defense contractor was a rarity, as most company protests against government bidding decisions do not prevail.
+By Kate Kelly
+Published 2026-11-03 23:31 UTC
+https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html
+
+A federal judge has found that the U.S. Navy improperly barred the drone boat provider Saildrone Inc. from competing for a potentially lucrative contract, a striking victory for a small defense-technology company.
+
+Saildrone, based in Alameda, Calif., bid earlier this year for a chance to build a new type of unmanned vessel for the Navy, taking advantage of budget dollars provided by President Trump’s sprawling domestic policy bill he signed into law last year. But after the initial phase of competition, the company was excluded from demonstrating its boat at sea, ruining its chances to be selected for the new program.
+
+Saildrone and another similarly situated drone boat company, Blue Water Autonomy, then sued the government in the Washington-based Federal Court of Claims, alleging that the Navy’s evaluation process had been improper.
+
+The Navy disagreed. But in an opinion dated Nov. 3, a claims court judge sided with Saildrone.
+
+“The court finds that the Navy engaged in disparate treatment, and thus acted in an arbitrary and capricious manner in its review of Saildrone’s proposal,” Judge Philip S. Hadji wrote.
+
+Contrastingly, the judge found that the Navy’s review — and elimination — of Blue Water Autonomy for the drone boat contract was reasonable, denying its protest.
+
+The fierce competition for the drone boat contract was explored in a New York Times article over the summer.
+
+In his opinion, Judge Hadji demanded that the Navy offer Saildrone a new opportunity to test its vessel for the Navy at sea — the final, and most rigorous, step of the competition after which contract decisions are made.
+
+The judge also ordered that until the evaluation is completed, the Navy must not obligate any more than $1.5 billion for the construction of the type of drone boat Saildrone seeks to build. That cap leaves about $600 million untouched for a period.
+
+A Navy spokeswoman did not immediately respond to requests for comment.
+
+In a statement Monday, Richard Jenkins, Saildrone’s chief executive, said that “the future of naval warfare will be fought on the water, not in a courtroom. We are eager to move beyond this litigation and return our entire focus to delivering world-leading maritime autonomy for the U.S. Navy.”
+
+Judge Hadji’s decision marks an unusual victory for the industry, in which most company protests against government bidding decisions do not prevail. It is also a challenge for the Defense Department as it tries to streamline its sourcing and purchasing of equipment to better arm troops.
+
+Under Defense Secretary Pete Hegseth, the Pentagon has sought to modernize and quicken the procurement process. Prolonged waits for contracts and funding are so customary that contractors sometimes refer to the gaps between developments — periods so long that they can go out of business before government money arrives — as “the valley of death.”
+
+The bidding to build medium-sized unmanned surface vessels, as the competition at issue in Saildrone’s lawsuit was known, was supposed to exemplify the department’s new approach.
+
+Drone-based defense equipment has become increasingly critical in war zones like Ukraine, and the Navy has been trying to build out a drone vessel program for years. The merits of such equipment were apparent in June, when a sea drone rescued two downed helicopter pilots from the Strait of Hormuz.
+
+But the medium drone boat program was messy from the start, leaving some participants confused and frustrated about the Navy’s review process.
+
+Saildrone and Blue Water each filed suit in late June, contending that their respective elimination from the sea trial phase of the competition was unjust.
+
+Tony Mazzeo, a former Navy lawyer who represents government contractors at the Norfolk, Va.-based Woods Rogers, said Saildrone’s favorable ruling was notable because winning a fight over a government bidding process “is an uphill battle.”
+
+Mr. Mazzeo noted that in fiscal year 2025, the Government Accountability Office, which adjudicates bid protests, sustained just 14 percent of the protests it got. The Court of Claims where Saildrone sued has a higher legal threshold, he said, indicating that a company’s chances of success there are even slimmer.
+
+He added that the opinion was significant for technical reasons, too.
+
+By allowing the case to go forward despite the Navy’s argument that it was the wrong legal venue for the suit, the Court of Claims, he said, “arguably expanded its jurisdiction,” and could soon be hearing more similar cases.
+
+Kitty Bennett contributed research.
