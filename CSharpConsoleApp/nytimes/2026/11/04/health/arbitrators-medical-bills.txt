@@ -1,0 +1,66 @@
+================================================================================
+arbitrators-medical-bills.html
+Source: PreloadedData  Paragraphs: 25  Words: 895/895
+================================================================================
+
+SUMMARY
+
+The federal government plans to end contracts with two arbitration firms that settle medical billing disputes under the No Surprises Act, a consumer protection law that has come under scrutiny for high payouts for doctors. But doctors have flooded the system with millions of cases and have prevailed overwhelmingly, winning more than 85 percent of them in 2025, according to the most recent federal data. Network Medical Review Company has handled 363,000 cases and sided with doctors in 70.8 percent of them, according to the Turquoise analysis.
+
+ARTICLE
+
+Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar
+The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.
+By Margot Sanger-Katz and Sarah Kliff
+Published 2026-11-04 21:53 UTC
+https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html
+
+The federal government plans to end contracts with two arbitration firms that settle medical billing disputes under the No Surprises Act, a consumer protection law that has come under scrutiny for high payouts for doctors.
+
+Congress passed the law in 2020 to protect patients from surprise bills when they saw a doctor who did not have a contract with their health plan, such as in emergencies. The law, which took effect in 2022, calls for health care providers and insurers to settle on a price and when they cannot, for arbitrators to review an offer from each side, and pick one.
+
+When the law passed, its authors expected the system to be used rarely and decisions generally to be split between the sides. But doctors have flooded the system with millions of cases and have prevailed overwhelmingly, winning more than 85 percent of them in 2025, according to the most recent federal data. Many have received awards dozens of times higher than usual insurer rates.
+
+One New York plastic surgery practice won $440,000 for breast reduction surgeries in arbitration, The New York Times previously reported, and a surgical assistant in New Jersey won $106,500 for assisting on lower back surgery.
+
+The law has been a financial boon for the arbitration firms as well. The government contracts with 17 firms to handle the millions of cases that now flow through the arbitration process. The arbitrators set their own fees, earning $425 to $800 for each dispute they settle, and they have collectively earned $742 million between 2022 and 2025.
+
+While the contractors are all supposed to follow the same rules, federal data shows that outcomes vary dramatically between the arbitrators.
+
+Some outside experts have argued that, because the arbitrators are paid per case, they have an incentive to side with the doctors to keep them coming back to the system. Doctors appear to win their cases at similar rates when they request modest or huge payments.
+
+Insurers, who have argued that the arbitrators frequently decide cases that should not even be eligible for the process, have declined to pay some awards.
+
+The arbitrators’ contracts last five years, and the government is now reviewing those awarded in 2022.
+
+Two firms, Island Peer Review Organization and Network Medical Review Company, were notified on Wednesday that the government does not plan to renew their contracts, according to a notice published that day.
+
+The notice did not say why the companies’ applications had been denied.
+
+An FAQ document published this summer provided possible grounds for denial, which included application paperwork errors, a lack of staff training, conflicts of interest or a failure to decide cases accurately.
+
+In a statement, Christopher Krepich, a spokesman for the Centers for Medicare and Medicaid Services, which oversees the program, said the firms’ applications had been denied for performance reasons.
+
+“The departments determined that these entities did not substantially comply with the standards governing their performance during their current certification terms,” he said.
+
+Island Peer Review Organization was not immediately available for comment. It had been finding in doctors’ favor 96.5 percent of the time, the highest of any arbitration firm, according to an analysis by the health data firm Turquoise. It has handled nearly 450,000 disputes through the end of last year, according to federal data.
+
+That work had transformed the finances of the small Long Island nonprofit firm, increasing its revenues from $68 million in 2022 to $171 million in 2025, according to public tax filings, as Stat News reported.
+
+Network Medical Review Company has handled 363,000 cases and sided with doctors in 70.8 percent of them, according to the Turquoise analysis. It is a privately held company, so information on its finances is not publicly available.
+
+It plans to appeal the decision, a National Medical Review Company spokeswoman said, adding that the firm “reviews claims in a comprehensive, balanced and efficient manner.”
+
+The firms have decided cases that were highlighted in Times reporting on the arbitration system. Network Medical Review Company awarded an assistant breast surgeon $220,000 for his work on a breast reduction surgery. (Another firm awarded the primary surgeon an additional $220,000 for the case.) Island Peer Review Organization awarded an assistant surgeon $50,000 for work on a prostate surgery, 27 times the fee paid to the main surgeon in the case.
+
+In recent weeks, the administration has announced that eight other firms have met the initial criteria to earn another five-year contract. Some of those arbitrators have similar records of lopsided and high awards to medical providers. Others are still being reviewed.
+
+The two firms losing contracts will have 30 days to dispute the government’s decision. The process must be completed by the end of the year.
+
+The disparate win rates and high-dollar awards have caught the attention of Congress, where interest in revising the law is growing. Representative Frank Pallone Jr., Democrat of New Jersey, introduced legislation last month proposing to abolish the arbitration system entirely.
+
+He has also opened an investigation into the arbitration firms, sending them detailed requests for information on how they make their decisions.
+
+The Trump administration has also signaled some interest in reforms. “The system is being gamed to get higher prices, and C.M.S. is actively working to clean it up,” Mr. Krepich, the agency spokesman, told The Times in July.
+
+This appears to be their first action to change the arbitration system.
