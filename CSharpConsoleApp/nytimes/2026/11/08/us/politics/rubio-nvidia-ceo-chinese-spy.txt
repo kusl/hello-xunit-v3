@@ -1,0 +1,52 @@
+================================================================================
+rubio-nvidia-ceo-chinese-spy.html
+Source: PreloadedData  Paragraphs: 18  Words: 838/838
+================================================================================
+
+SUMMARY
+
+Secretary of State Marco Rubio oversaw the drafting of the highly classified memo this past spring warning top Trump administration officials that Nvidia’s chief executive, Jensen Huang, was in a close relationship with a Chinese spy, multiple people briefed on the matter said. The document was based on classified intelligence from electronic surveillance of Alice Huang, a Chinese citizen who was a senior executive at a Singapore-based company that was buying Nvidia’s advanced artificial intelligence chips and being investigated for illegally smuggling them into China. U.S. officials had concluded that Ms. Huang was in a close relationship with the Nvidia chief, who is no relation, and that she had been recruited to spy by China’s top intelligence agency, the Ministry of State Security.
+
+ARTICLE
+
+Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy
+The secretary of state’s role in drafting a secret memo highlights how top officials were concerned this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.
+By Maggie Haberman, Jonathan Swan, Julian E. Barnes and Tripp Mickle
+Published 2026-11-08 18:37 UTC
+https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html
+
+Secretary of State Marco Rubio oversaw the drafting of the highly classified memo this past spring warning top Trump administration officials that Nvidia’s chief executive, Jensen Huang, was in a close relationship with a Chinese spy, multiple people briefed on the matter said.
+
+The document was based on classified intelligence from electronic surveillance of Alice Huang, a Chinese citizen who was a senior executive at a Singapore-based company that was buying Nvidia’s advanced artificial intelligence chips and being investigated for illegally smuggling them into China. U.S. officials had concluded that Ms. Huang was in a close relationship with the Nvidia chief, who is no relation, and that she had been recruited to spy by China’s top intelligence agency, the Ministry of State Security.
+
+Mr. Rubio’s involvement in warning administration officials about the situation has not been previously reported. It highlights how concerns about the relationship and the spying were known to senior officials even as Mr. Huang, a pivotal figure in the explosive growth of A.I., remained an influential voice with Mr. Trump over policy on the issue.
+
+Mr. Huang has opposed calls for more tightly regulating the export of the most advanced A.I. chips and has pushed to be able to sell all but the most recently developed technology to China, the main competitor to the United States in the global rush for A.I. supremacy.
+
+On Sunday, Nvidia said it was opening an investigation into Mr. Huang after he acknowledged that he had been intimate with Ms. Huang, though the company said it had “no reason to believe that either national security or Nvidia secrets were compromised.”
+
+In a message to the company, Mr. Huang apologized.
+
+“I was unfaithful to my wife,” he said. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”
+
+A State Department spokesman and a White House spokeswoman declined to comment.
+
+Mr. Rubio’s memo was circulated to administration officials with high-level security clearances ahead of a trip Mr. Trump took to China in May, the people briefed on the matter said. They spoke on the condition of anonymity to discuss sensitive material.
+
+Despite his status as an A.I. pioneer and head of one of the world’s most valuable companies, Mr. Huang was initially left off the list of major business and tech executives invited to join Mr. Trump in China. It is unclear whether the exclusion was connected to the memo. By that point, a number of people inside the administration were concerned about Mr. Huang’s influence on the president’s policy of only lightly regulating A.I., people briefed on the matter said.
+
+After Mr. Trump saw media coverage about Mr. Huang being absent from the delegation, the president asked him to join the trip by meeting Air Force One during a layover in Alaska. The president drafted a social media post saying that it was an honor to have “the Great Jensen Huang,” and other business leaders “journeying to the Great Country of China where I will be asking President Xi, a Leader of extraordinary distinction, to ‘open up’ China so that these brilliant people can work their magic.”
+
+The New York Times reported last month that Mr. Trump was briefed roughly a year ago that the U.S. intelligence community had electronic surveillance of Ms. Huang, and believed that she was an operative working for China’s intelligence services. The surveillance revealed a close relationship between Ms. Huang and a U.S. citizen. When officials asked for the name of the U.S. citizen to be “unmasked” — given Americans’ identities are routinely protected from foreign surveillance — it was revealed to be the Nvidia chief executive.
+
+The president chose at that point not to take any action. He has viewed Nvidia’s chips as integral to America’s competition with China in A.I. He sees Nvidia’s success as crucial to maintaining a robust stock market.
+
+Ms. Huang speaks English well and has relationships with executives at the highest levels of the A.I. chip industry, including with Mr. Huang and the leaders of Gigabyte, one of the top assemblers of Nvidia supercomputers, people who have met her said.
+
+It is unclear when Ms. Huang first met Nvidia’s leader. In 2024, around the time the two of them were photographed together with other industry executives at a bar in Taipei, her company, Megaspeed, began a multibillion-dollar purchase of advanced A.I. microchips.
+
+Nvidia officials have said that Mr. Huang’s interactions with Ms. Huang were “not unusual or unexpected” and consistent with the kinds of meetings he has with any of Nvidia’s many customers. The company has also said customers like Megaspeed do not receive classified business information.
+
+In recent years, Megaspeed, despite having essentially a storefront office and little local footprint, purchased $2 billion worth of Nvidia’s products. Megaspeed builds data centers in Southeast Asia that rent out their computing power to Alibaba, the giant Chinese internet company. U.S. officials suspect Megaspeed has been helping smuggle restricted advanced Nvidia chips into China.
+
+Ms. Huang has not responded to attempts to reach her.

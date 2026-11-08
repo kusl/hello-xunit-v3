@@ -1,0 +1,76 @@
+================================================================================
+nvidia-investigation-jensen-huang-china.html
+Source: PreloadedData  Paragraphs: 29  Words: 1411/1416
+================================================================================
+
+SUMMARY
+
+Nvidia said on Sunday that it was opening an investigation into Jensen Huang, its chief executive and co-founder, after he acknowledged to the company’s board that he had been intimate with a business executive who U.S. intelligence determined was a Chinese spy. Mr. Huang’s relationship with the woman, who goes by Alice Huang, became a U.S. government concern after surveillance revealed that she was feeding information directly to Beijing. In a message to the company, Mr. Huang apologized.
+
+ARTICLE
+
+Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy
+Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.
+By Tripp Mickle, Maggie Haberman, Jonathan Swan, Julian E. Barnes and Ana Swanson
+Published 2026-11-08 20:01 UTC
+https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html
+
+Nvidia said on Sunday that it was opening an investigation into Jensen Huang, its chief executive and co-founder, after he acknowledged to the company’s board that he had been intimate with a business executive who U.S. intelligence determined was a Chinese spy.
+
+Mr. Huang’s relationship with the woman, who goes by Alice Huang, became a U.S. government concern after surveillance revealed that she was feeding information directly to Beijing. The revelation raised troubling possibilities because Mr. Huang is one of the most powerful figures in the A.I. revolution as well as an influential ally of President Trump.
+
+In a message to the company, Mr. Huang apologized. “I was unfaithful to my wife,” he said. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”
+
+Nvidia’s board said that it had “no reason to believe that either national security or Nvidia secrets were compromised,” but that “the board’s inquiry will examine all available information.” It said Mr. Huang “fully supports the review and has committed to cooperating with it.” The board did not provide more details about the investigation or how long it would take.
+
+Mr. Huang, 63, will continue to lead the company during the investigation, the board said. As a co-founder, he has set up a unique structure at Nvidia where he dictates all aspects of its business while overseeing some 60 people who directly report to him.
+
+“Today’s news will not slow Nvidia,” said John Rizzo, a company spokesman. “Jensen is committed to continuing to lead Nvidia as C.E.O. without interruption.”
+
+The New York Times reported last month that American intelligence agencies had discovered that Mr. Huang had developed a close relationship with a Chinese citizen and chip buyer, who U.S. officials concluded was gathering intelligence for Beijing.
+
+The chip buyer was Ms. Huang or Huang Le, whose biography said she worked in China as a TV reporter before becoming a top executive at a Singapore-based data center company that had become one of Nvidia’s biggest customers in Southeast Asia. It bought more than $4.8 billion in chips since June 2024.
+
+Nvidia has continued doing business with Ms. Huang’s company, Megaspeed, even after The Times reported last year that the Commerce Department was investigating whether the company was helping China smuggle restricted A.I. chips. (Mr. Huang and Ms. Huang are not related.)
+
+Nvidia and Mr. Huang initially said there was nothing problematic or unusual about his relationship with Ms. Huang. In an interview with Bloomberg News last month, he said that his interactions with Ms. Huang had been “related to Megaspeed, and it was all completely normal and not unusual.”
+
+The relationship and affair are a rare misstep for Mr. Huang.
+
+Over the past three years, he could do no wrong. His chipmaker, which makes the technology to build artificial intelligence, grew into one of the world’s most valuable companies and the engine of the data center boom powering the U.S. economy. Mr. Trump became an ally and invited him on Air Force One. He started being followed by autograph-seeking throngs at events. And his black leather jackets, which he wears daily, became collectors’ items.
+
+As his business boomed, Mr. Huang moved his family to the center of it. Spencer, his son, is a director of product management who plays a leading role in the company’s robotics efforts. Madison, his daughter, is a senior director of product marketing, also works in robotics and on the company’s communications and marketing efforts. His son-in-law, Nico Caprez, is on the company’s business development team.
+
+Mr. Huang has credited his wife, Lori, whom he married in 1985, with making it possible for him to build the company. They met when he was a teenage engineering student at Oregon State University. She was one of three women in a 250-person engineering lab. Mr. Huang, who had skipped two grades of high school, arranged to be in her lab group and tried to impress her with his intellect.
+
+“I know I look like a child and therefore her first impression of me is that I’m pretty smart,” Mr. Huang said during a 2024 discussion about his career at Hong Kong University of Science and Technology. “I walked up to her and said, ‘Do you want to see my homework?’ Then I made her a promise: ‘If you do homework with me every Sunday, I promise you, you’ll get straight A’s.’”
+
+Mr. Huang also promised her that by the age of 30 he would be the chief executive of a company. He fulfilled that promise when he co-founded Nvidia in 1993 soon after he turned 30.
+
+“Lori took care of everything and I don’t remember her complaining one time,” Mr. Huang said on the podcast “How I Built This.” “That’s the gift that she gave me.”
+
+The U.S. government, which had been investigating Megaspeed for possibly steering advanced Nvidia A.I. chips to China, began its surveillance of Ms. Huang more than a year ago. In the course of the surveillance, they found that she was in communication with a U.S. citizen who was identified as Mr. Huang.
+
+Officials who had seen that intelligence said they were certain the relationship was romantic. That undercut Nvidia’s original misleading statements to The Times and others over the course of the last year about the nature of Mr. Huang’s relationship with Ms. Huang.
+
+Mr. Trump was briefed roughly a year ago that the U.S. intelligence community had been electronically surveilling Ms. Huang.
+
+This past spring, Secretary of State Marco Rubio oversaw the drafting of a highly classified memo detailing intelligence showing that Alice Huang was recruited by the Chinese Ministry of State Security to target Mr. Huang. That memo was circulated not long before the president’s trip to China earlier this year.
+
+As news about the U.S. surveillance of Ms. Huang broke, Mr. Huang’s room to maneuver all but disappeared. Congress wanted him to testify, probably under oath, and reporting on the surveillance raised the possibility that U.S. intelligence knew the nature of his relationship with Ms. Huang.
+
+There was also pressure on Nvidia’s board. In a social media post last month, Senator Elizabeth Warren, the Massachusetts Democrat who is the ranking member on the Senate Banking Committee, which oversees chip sales abroad, said that Mr. Huang and the company’s board “owe Congress answers” about his relationship with the spy.
+
+Megaspeed was formed in 2023, when a Chinese online gaming company split off its Singaporean subsidiary. Shortly before, the U.S. government had issued its first broad ban on selling A.I. chips to China. Ms. Huang was listed as Megaspeeed’s managing director when it was created, and later described herself as its chief executive.
+
+Information on Ms. Huang’s background is largely absent from the Chinese internet, but according to an online biography, she worked at several major Chinese banks. She then joined a Shanghai-based fund that has ties to wealthy investors and technology companies with data center projects in China, according to a review of corporate and trade records compiled by the platforms WireScreen and Sayari, and an analysis by the Center for Advanced Defense Studies, a Washington nonprofit.
+
+That network of companies has helped to build a massive data center outside Shanghai that caters to the Chinese company Tencent. It also has financial links to the Chinese military establishment, through an investment in a cybersecurity subsidiary of China Electronics Technology Group, one of the country’s largest makers of military technology.
+
+As Megaspeed’s chip purchases rolled in, Mr. Huang and Ms. Huang began spending time together. In June 2024, he joined her at a bar in Taipei after a local technology trade show. They drank whiskey alongside other A.I. executives. A year later, they dined at a restaurant in Taipei with other executives. Taiwanese media captured her giving him a kiss on the cheek and standing behind him as he spoke to journalists.
+
+Their relationship became a preoccupation in Washington, where officials were already alarmed by the large volume of Megaspeed’s purchases.
+
+“This is a classic move from the CCP’s playbook — and another example of why it can never be trusted,” Representative Michael McCaul, a Republican of Texas who is the vice chair of the House Committee on Homeland Security, wrote on social media, referring to the Chinese Communist Party. “The U.S. should immediately pause the shipment of advanced AI chips to China until we can get to the bottom of this incident and ensure our national security is not being undermined.”
+
+Paul Mozur contributed reporting.

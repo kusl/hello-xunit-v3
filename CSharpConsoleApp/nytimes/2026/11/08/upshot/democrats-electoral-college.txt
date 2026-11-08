@@ -1,0 +1,82 @@
+================================================================================
+democrats-electoral-college.html
+Source: PreloadedData  Paragraphs: 29  Words: 1242/1242
+================================================================================
+
+SUMMARY
+
+Twice since 2000 — with George W. Bush and then Donald J. Trump — Republicans have lost the national popular vote but won the Electoral College. Since 2007, 18 Democratic-run states and the District of Columbia have joined a legal framework that would pledge their Electoral College votes to the nationwide popular vote winner, rather than the winner in their state. The states already in the pact represent 222 electoral votes.
+
+ARTICLE
+
+Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?
+Midterm victories have given states the opportunity to elevate the national popular vote, but obstacles like legal challenges would loom.
+By Ben Blatt
+Published 2026-11-08 10:01 UTC
+https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html
+
+Twice since 2000 — with George W. Bush and then Donald J. Trump — Republicans have lost the national popular vote but won the Electoral College. That has left many Democrats furious with the system.
+
+Eliminating the Electoral College would require a constitutional amendment, a highly unlikely prospect in a polarized nation. But after Tuesday’s midterm elections, Democrats will soon have enough power in statehouses across the country to try to circumvent it without an amendment.
+
+Since 2007, 18 Democratic-run states and the District of Columbia have joined a legal framework that would pledge their Electoral College votes to the nationwide popular vote winner, rather than the winner in their state. The effect of the pact, if enacted and enforced, would be the same as replacing the Electoral College with the popular vote. The pledge would activate only if the states in the pact accounted for at least 270 electoral votes, the majority needed to win.
+
+The states already in the pact represent 222 electoral votes. On Tuesday, Democrats in Arizona, Nevada, Michigan, Pennsylvania and Wisconsin achieved a “trifecta,” winning control of both chambers in their state legislatures and governor’s offices. If these states all joined the pact, they would represent a total of 283 electoral votes. That would be enough for the agreement, called the National Popular Vote Interstate Compact, to go into effect:
+
+Those states would need to pass laws to join the effort, and a trifecta does not ensure they will. In 2019, for example, the Nevada State Assembly and Senate voted to join the pact, but Gov. Steve Sisolak, a Democrat, vetoed the bill, saying it could “diminish the role of smaller states like Nevada in national electoral contests.”
+
+All five states were swing states in the 2024 election, receiving outsize attention from the presidential campaigns — the kind of attention that the pact’s supporters say is unfairly focused on just a handful of battleground states. They say the agreement would bring the idea of “one person, one vote” to the presidential contest nationwide.
+
+On a more partisan level, Democratic lawmakers may see an incentive to join the pact if they think a future Democrat might win the national popular vote but lose their state.
+
+Lawmakers in all five states have introduced legislation to join the pact in recent years. Among them, Robert Wirch, a state senator in Wisconsin, said he had redrafted his bill. And Carrie Rheingans, a Democrat in the Michigan House of Representatives, told The New York Times that “the time is right.”
+
+There is some room to spare. Pennsylvania and Michigan would have to join, but just two of Wisconsin, Arizona or Nevada would also need to join to reach 270 electoral votes.
+
+Would it be as simple as that? Here are some possible obstacles:
+
+It could be challenged in court
+
+Such a compact would face a variety of legal challenges.
+
+The pact most likely violates a part of the Constitution known as the compact clause, said William G. Ross, a professor of law and ethics at Samford University.
+
+The Supreme Court has ruled that the compact clause prohibits agreements between states that “interfere with the just supremacy of the United States” without consent from Congress, Professor Ross said. The circumvention of the Electoral College would qualify as interfering with the supremacy of the federal government because it changes the outcome of the presidential election, he said.
+
+Michael Morley, a law professor at Florida State University, said the agreement would probably survive compact clause objections but would run afoul of state constitutions requiring voters in statewide elections to be residents of the state. If the national popular vote were used as the deciding factor for a state’s Electoral College votes, he said, it would essentially be granting voter eligibility to citizens of other states.
+
+Additionally, Professor Morley and others have questioned whether the compact would be enforceable. Imagine a scenario where Republicans win the popular vote but Democrats win the traditional Electoral College. If there were concerns, legitimate or not, that the vote had been suppressed in other states, would Democratic officials still go through with selecting electors for the Republican Party?
+
+Although the compact has language forbidding states to leave in the six-month period before a president’s term ends, states that had once willingly entered into the compact could try to challenge it in court.
+
+“I don’t know that a federal court would order a state to appoint electors against the will of both its executive as well as the will of its own voters,” Professor Morley said.
+
+The pact could exist in 2028, then collapse because of population change
+
+Many Democratic states are either losing population or failing to grow and, as a result, are in line to lose Electoral College votes after the 2030 census.
+
+According to a Times analysis, the current states in the pact and the five new trifecta states could have a total of 275 Electoral College votes in 2032 instead of the 283 they currently have. That means the pact would need all five new trifecta states to stay afloat. If it went into effect in 2028 with just four of them, it would fall apart in the next election cycle.
+
+And although unlikely, if the population shifts are more severe, the pact could drop below 270 even if all five new trifecta states joined. (Of course, it is possible other states could join.)
+
+The compact’s language says it would not go into effect if the number of electors were under 270 for a given presidential election.
+
+States could flip to Republican control and leave the pact
+
+If states can vote to join the pact, they can also vote to leave. As long as they do it six months before a presidential inauguration, it would just require passing a new law.
+
+Right now, the states in the pact and the other trifecta states are under robust Democratic control. But this could always change after the next election. Arizona had a Republican trifecta as recently as 2022. Michigan and Wisconsin had a Republican trifecta in 2018.
+
+Patrick Rosenstiel, who has been pushing for the compact as part of the National Popular Vote group since 2007, says it would be politically difficult for lawmakers to remove it once in place. He pointed to a Pew Research poll from 2024 in which 63 percent of Americans said they would prefer a national popular vote.
+
+“After the first use, this is going to be a far more popular system than the current system,” he said.
+
+A pact backed by Democrats could wind up helping Republicans
+
+It’s not a given that the pact would help Democrats in 2028, let alone in perpetuity. If the pact backfired, there could be a pact-member revolt.
+
+It’s not far-fetched. Although changes in voting patterns tend to affect multiple states, in 2004, if John Kerry had flipped just 1.1 percent of Mr. Bush’s voters in Ohio alone, he would have lost the popular vote and won the Electoral College.
+
+The electoral math favors winning sparsely populated states: No matter how small, these states are guaranteed three electoral votes. A bigger factor is that the winner-take-all nature of the Electoral College favors parties that can maintain a small lead in large states.
+
+It’s hard to predict future trends, but if Democrats were to eke out a win in Texas, for example, while losing some of their winning margins in New York and California, they could become beneficiaries of the Electoral College.
