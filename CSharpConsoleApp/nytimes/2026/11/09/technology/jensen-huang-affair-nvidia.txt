@@ -1,0 +1,74 @@
+================================================================================
+jensen-huang-affair-nvidia.html
+Source: PreloadedData  Paragraphs: 28  Words: 1321/1323
+================================================================================
+
+SUMMARY
+
+Over the past four years, Jensen Huang has become the maestro of the artificial intelligence boom and its most essential billionaire executive. Mr. Huang, 63, will continue to lead Nvidia during the investigation. Mr. Huang has also stacked Nvidia’s board with early investors and business partners.
+
+ARTICLE
+
+Is Jensen Huang Too Powerful to Be Punished by Nvidia?
+The chief executive has a tight grip on his company, presenting a challenge for Nvidia’s board, which is investigating his affair with a woman believed to be a Chinese spy.
+By Kalley Huang and Tripp Mickle
+Published 2026-11-09 10:04 UTC
+https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html
+
+Over the past four years, Jensen Huang has become the maestro of the artificial intelligence boom and its most essential billionaire executive.
+
+Nvidia, the company he co-founded in 1993, controls an estimated 90 percent of the market for the computer chips used in the big artificial intelligence projects that are driving the U.S. economy. That dominance has made Mr. Huang one of the wealthiest people in the world, as well as an ally of President Trump.
+
+Few Silicon Valley executives, with the exception of Tesla’s Elon Musk and Apple’s Steve Jobs, have been as synonymous with their companies as Mr. Huang. He manages all aspects of Nvidia’s business as chief executive, and his family members have steadily risen through the ranks of the company.
+
+That sweeping control underscores the challenge now facing Nvidia’s board of directors. On Sunday, it opened an investigation into Mr. Huang’s conduct after he admitted to having a romantic relationship with a businesswoman who U.S. intelligence agencies have determined is a spy for China.
+
+“While the board has no reason to believe that either national security or Nvidia secrets were compromised, the board’s inquiry will examine all available information,” Nvidia’s board said in a statement. “Jensen fully supports the review and has committed to cooperating with it.”
+
+The company’s independent board members will choose an outside counsel to investigate, and a company spokesman said that Mr. Huang would not be part of the selection process.
+
+Mr. Huang, 63, will continue to lead Nvidia during the investigation. In a message to Nvidia’s employees on Sunday, he apologized. “I was unfaithful to my wife,” he wrote. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”
+
+Mr. Huang, who is the largest Nvidia individual shareholder with a 3.56 percent stake, has led Nvidia to the top of Wall Street and elbowed his way through Washington. He has done it with a flat organizational structure and an executive team of more than 60 direct reports, putting him at the center of the company’s day-to-day operations.
+
+If the board decides to punish Mr. Huang, there is no obvious successor, or even high-profile internal candidate, to run his giant chip company. That was not the case at Apple, when Tim Cook seamlessly took over for Mr. Jobs shortly before his death from pancreatic cancer.
+
+In its early years, Nvidia made chips known as graphics processing units, which were mostly used in video games. Then, more than a decade ago, Mr. Huang bet that Nvidia’s chips could also be used for A.I. development and poured billions of dollars into making software and chips.
+
+That gamble has paid off. Nvidia was the first publicly traded company to be valued at $5 trillion. Over this year and 2027, Amazon, Google, Meta and Microsoft are expected to spend a combined $1.842 trillion on capital expenditures like A.I. data centers, according to S&P Global Visible Alpha. Nvidia’s chips fill those data centers.
+
+“Everything he talks about drives the industry,” Bob O’Donnell, the chief analyst at TECHnalysis Research, a technology research firm, said of Mr. Huang. “He’s had the Midas touch with technology.”
+
+The demand for Nvidia’s chips has been so intense that Larry Ellison, a co-founder of the software company Oracle, in 2024 recalled a sushi dinner in Palo Alto, Calif., where he and Elon Musk, the chief executive of Tesla and SpaceX, begged Mr. Huang for more chips.
+
+“Please take our money,” Mr. Ellison recalled telling Mr. Huang. “Take more of it. You’re not taking enough of it. We need you to take more of our money, please.”
+
+Nvidia’s meteoric rise turned Mr. Huang into a celebrity. One of his signature black leather jackets sold at auction for nearly $1 million. Nvidia’s developer conference became the hottest ticket in Silicon Valley, with attendees queuing for hours to see Mr. Huang speak.
+
+Mr. Huang began being swarmed by people seeking autographs at events, including a woman who asked him to sign her chest. Amid all the hubbub, he has continued to lead Nvidia with what Silicon Valley veterans have called “a reality distortion field” akin to that of Apple’s Mr. Jobs.
+
+“When I believe it in my mind — you know how it is — you manifest a future, and that future is so convincing, there’s no way it won’t happen,” Mr. Huang said on a podcast in March.
+
+Mr. Huang’s ascent helped him gain favor with Mr. Trump. After skipping the inauguration, which many tech executives attended, Mr. Huang flew to Mar-a-Lago for a donor dinner and impressed Mr. Trump with his personal story as a Taiwanese immigrant who had co-founded what had become the world’s most valuable company. (Nvidia’s share price has dipped in recent weeks, and Apple was more valuable as of last week’s trading.)
+
+The two men speak regularly by phone. Mr. Trump has called and interrupted Mr. Huang during an appearance at a recent tech conference and also during one of Nvidia’s companywide meetings.
+
+Mr. Huang has played an outsize role in shaping Mr. Trump’s policy on A.I. Last year, he persuaded the administration to reverse restrictions on chip sales to China. This year, he helped derail a plan to create a regulatory process to evaluate A.I. systems and ensure they are safe, according to two people familiar with his involvement. In its place, he helped push through a pledge by the leaders of major A.I. companies to make sure their products adhere to voluntary safeguards.
+
+“If I believe that I’m about to launch a product that is unsafe, it is completely in my ability, my power and my responsibility, and I’m incentivized to do so, to not launch the product,” Mr. Huang said as he explained his opposition to A.I. regulation on “The Ezra Klein Show” podcast in September.
+
+Mr. Huang has become known for an unorthodox management style. On a podcast in 2023, he dismissed traditional organizational charts, saying that “none of that stuff makes any sense to me.” He leads Nvidia largely through meetings that focus on particular projects and include people from all levels of the company, from recent college graduates to top executives. He says he reads several thousands emails a day from people across the company.
+
+Mr. Huang has also stacked Nvidia’s board with early investors and business partners. Two of the 10 board members have ties to the venture capital firms that first invested in Nvidia in 1993, and another two were executives at a chip designer that worked with Nvidia in the 1990s.
+
+Among the other board members are the former president of Taco Bell, the former chief marketing officer of the National Football League and an engineering professor. Mr. Huang has viewed Nvidia’s board primarily as a governance requirement, rather than as an important part of the company’s strategy or execution, according to three former employees.
+
+Over the past few years, Mr. Huang has given his children more power and authority at Nvidia, according to five current and former employees. His son, Spencer, is a director of product management and plays a leading role in Nvidia’s robotics efforts. His daughter, Madison, is a senior director of product marketing who also works on robotics, as well as communications and marketing. And his son-in-law, Nico Caprez, works on business development for the company.
+
+The family’s growing role in the business has frustrated some at the company and created the impression that Mr. Huang is nurturing his children to eventually succeed him. It has created unusual power dynamics in meetings because the children have direct access to Mr. Huang, who has the final say on all major decisions at Nvidia. Some of the company’s customers, suppliers and advisers have also begun cultivating relationships with the children.
+
+It is unclear how long the board’s investigation will take. But even if it ousts Mr. Huang, he has said it should have many options for successors.
+
+His children are potentially among them.
+
+Don Clark contributed reporting.

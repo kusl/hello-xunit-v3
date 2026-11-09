@@ -1,0 +1,120 @@
+================================================================================
+ai-chat-privacy.html
+Source: RenderedHtml  Paragraphs: 48  Words: 2361
+================================================================================
+
+SUMMARY
+
+Companies can use your information for advertising. Companies are training their AI models with your data. AI companies can give your chats to law enforcement.
+
+ARTICLE
+
+AI Companies Can Read Your Private Chats. Here’s What to Do About It.
+Your chats may be subject to human review and even requests from law enforcement. Here’s what to do if you’re concerned about privacy.
+By Max Eddy
+Published 2026-10-30 00:00 UTC
+https://www.nytimes.com/wirecutter/advice/ai-chat-privacy/
+
+People are telling AI chatbots very personal details about their lives: their fears, their aspirations, their desires, their various rashes and the locations thereof.
+
+But there are very real risks in trusting the quality and safety of the medical advice — or any kind of advice — that an AI chatbot dispenses. Just as important, your conversations with a chatbot are easily seen by the companies behind the AI, and it’s not always clear how those private details are being used.
+
+You have a few ways to limit them from seeing or storing your most personal information, and you can use a number of AI alternatives that don’t require you to hand over what is essentially a journal of your deepest thoughts and symptoms.
+
+Your AI chats are a treasure trove of data
+
+It’s not hard to see the appeal of AI chatbots. They’re responsive, and they have access to information that the humans in your life might not. I’ve chatted with all the AI chatbots mentioned in this article, and I’ve been struck by how many bots keep conversations open-ended, inviting me to use them more. It feels immediately intimate — sometimes alarmingly so. And that’s not without consequence.
+
+In a recent survey of nearly 2,000 Americans by DuckDuckGo, 32% of respondents said that they had told an AI chatbot something that they had withheld from the people closest to them. According to OpenAI, over 230 million people ask ChatGPT health-related questions each week.
+
+The most widely used chatbots — Anthropic’s Claude, Google’s Gemini, and OpenAI’s ChatGPT — implicitly or explicitly encourage you to share personal information so that they can carry out your instructions. If you’re using AI to plan a trip, for instance, it’ll be most useful if you tell it how many people are traveling, if any of them are children, what airports are convenient for you, and so on.
+
+(Disclosure: The New York Times has sued OpenAI, the owner of ChatGPT, and Microsoft claiming copyright infringement of news content related to AI systems. The two companies have denied those claims.)
+
+But at the same time, all three of the major AI companies have statements in their documentation that discourage users from sharing personal information. Google’s is the most blunt: “Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”
+
+In general, when you’re using a chatbot from Anthropic, Google, or OpenAI, the company can see what you’re saying and how the chatbot responds. Companies also gather a variety of information about your device that can be used to identify you; this gives them enormous insight into you and your habits, which they can use in a variety of ways. Meta, which just launched its Muse agent, says that the chatbot uses “a secure computer” that can securely access your most private information — your calendar, email inbox, passwords, and so on. But, like the other AI companies, Meta can also see what you tell Muse and how Muse responds.
+
+Humans might read your chats. Just because you’re speaking with a chatbot, that doesn’t mean your conversation stays with a machine. OpenAI and Anthropic may use human reviewers to evaluate their assistants’ responses, which can include large chunks of conversations. Google also uses human reviewers. These chats typically have identifiable information removed, but it may not be perfectly anonymous. Meta says that humans may see your interactions with its AI products.
+
+Companies can use your information for advertising. Some AI companies, such as Anthropic, do not have advertising. Others, like OpenAI, do. OpenAI allows you to disable ad customization, but that only limits the information available for targeting ads to the current chat you’re in. The only way to fully disable ads in ChatGPT is to enroll in a paid ad-free plan or to use a no-cost ad-free plan with more usage limits.
+
+Because of the sprawling nature of Google’s business, it isn’t always obvious which interactions with the company’s products are used to target advertising. For example, Gemini chats are not used for advertising, but if you use Gemini to make a purchase with Google Wallet, that data may be used for advertising.
+
+And while ads in AI chats are still in their early days, Eric Null, director of the Privacy and Data Project at the Center for Democracy and Technology, warns of potential dangers. He described a hypothetical scenario where companies might use AI to make inferences not only about people’s tastes but also their current state of mind.
+
+“If the chatbot thinks or knows you're inebriated in that moment, then they might serve you an ad for something that someone wants you to impulse-buy,” Null said.
+
+Companies are training their AI models with your data. The large-language models that power AI chatbots are built and fine-tuned on huge amounts of data from a variety of sources, often including your conversations.
+
+“You’re just feeding the machine,” said Chester Wisniewski, a security expert at digital security company Sophos. “Everything you [say] to it is being used to also train it.”
+
+Null told us that there are few legal requirements that limit how a company uses data: “A company can just say in their privacy policy, which we know consumers don’t actually read, ‘We collect data for the purpose of training our AI systems.’”
+
+“You only need those words in your privacy policy to justify the mass collection of any data you want,” Null said.
+
+AI companies can give your chats to law enforcement. Every company is obliged to respond to legal requests for information from law enforcement, and AI companies are no different. In fact, AI chat logs have already played a role in some cases.
+
+In one case, the ChatGPT conversations of a person suspected of starting the Palisades wildfire were presented as evidence against him. In another case, OpenAI was sued for not proactively engaging with law enforcement when an individual engaged in disturbing ChatGPT interactions prior to carrying out a school shooting.
+
+Null told us that people are accustomed to certain kinds of information, such as medical history shared with a doctor or legal advice from a lawyer, being protected from law enforcement. “But if you are sharing the same information with your chatbot, and law enforcement comes knocking, there’s not much that’s going to stop the company from sharing that information,” he said.
+
+Health data gets few protections. Some people use AI chatbots to get medical advice before seeking treatment from an actual doctor, but those conversations aren’t as locked down as you might think.
+
+Anthropic says that it may disclose your health information to law enforcement and use aggregated health data to develop its products. OpenAI has a specific tool called ChatGPT Health for handling conversations about medical information, and the company says it won’t use that data for model training but might use it to improve the safety of its models. OpenAI also doesn’t use health data for advertising, but it may show ads for health-related products and use the context of your chats to decide on the ads to show you.
+
+Exposing health data could have unexpected consequences. Wisniewski gave the hypothetical example of a person asking AI for advice about obtaining an abortion while in a US state where such operations are illegal, which could become part of a law enforcement investigation.
+
+How to protect your privacy while using AI
+
+When you start using an AI chatbot, you don’t fill out a questionnaire, but your conversations can divulge plenty of details about you that the AI then stores to make your experience more personal. That’s a feature, not a bug. But if there are such things that you wouldn’t want the world to know, think twice before spilling your guts to a chatbot.
+
+It’s not always clear what information AI companies have about you. As with most websites, when a person uses a chatbot, the AI company gathers data about that user’s location and devices. As part of their model-training efforts, AI companies have purchased enormous data sets and gathered even more information from the public internet. The companies haven’t necessarily connected these disparate dots of your data, and they have said that their models shouldn’t be able to reproduce any personal information used in training.
+
+Even so, you have a few ways to protect yourself while using an AI chatbot. Just remember that none of these strategies will make you completely invisible to AI companies.
+
+Opt out of model training. Anthropic, Google, and OpenAI all have options to limit how the companies use your data to train their AI models. You can typically find these tools in the chatbot’s Settings section. Look for options that say something like “improve the model for everyone” or similar, and turn them off.
+
+Opting out from model training should prevent human reviewers from seeing your chats, but your conversations will remain accessible to the company and to law enforcement.
+
+If you’ve been using an AI chatbot for a long time and only recently changed your settings to prevent the company from using your conversations to train its models, the data it previously gathered may have already been used for training. Changing your settings or deleting your account can’t take that information back, but it can limit how new data you provide is used in the future.
+
+Use temporary chats. These ephemeral chats are a bit like using Incognito Mode in a web browser and aren’t saved to your chat history. OpenAI doesn’t use temporary chats for training its AI models. Anthropic’s Incognito Chats and Google Gemini’s Temporary Chats work in a similar way.
+
+Keep in mind that using these tools does not protect your chats from being monitored or accessed by companies or given to law enforcement. There are also some situations in which your chats can still be used for training or retained for longer periods of time, such as if your chat is flagged for violating a corporate policy.
+
+Think twice before giving feedback on AI responses or ads. Many AI companies allow you to flag good or bad responses or ads in the chats, but doing so may override your opt-outs and allow the company to use the interaction — or, often, the entire conversation — for model training. Companies may also use your conversations with tech support for model training.
+
+This can be harder to avoid than you might think. When testing AI chatbots for this article, I encountered situations where the chatbot asked which type of answer I preferred. Answering that simple question opens up your chat to model training.
+
+Another alternative: Use a more private AI chatbot
+
+Some chatbots protect your privacy more than others, though they have some limitations.
+
+DuckDuckGo’s Duck.ai (which acts as a go-between for interacting with other AI bots such as Claude or ChatGPT), Proton Lumo (a highly customized chatbot intended to protect your privacy), and Apple’s latest version of Siri in iOS 27 all promise to keep your data safer than the competitors do.
+
+When you chat with Duck.ai, DuckDuckGo takes your queries, removes identifiable metadata such as IP addresses, and asks the chatbot on your behalf. From the AI companies’ perspective, all of the messages appear to be just one among many coming from DuckDuckGo, not individual users.
+
+DuckDuckGo also has contractual agreements with Anthropic and OpenAI that require the companies not to retain or train their models on the data they receive from Duck.ai. Alternatively, you can use Duck.ai to chat with open-source models hosted by third parties. In this scenario, neither DuckDuckGo nor the third party hosting the AI model can see user interactions.
+
+Proton Lumo uses modified versions of open-source AI models, which means the company doesn’t use customer data for training.
+
+“Whenever you send a request to Lumo, it’s basically an ephemeral conversation,” Eamonn Maguire, Proton’s director of engineering for machine learning and AI, told me. Though your Lumo conversations can be saved, they’re encrypted and inaccessible to Proton.
+
+The AI offerings of DuckDuckGo and Proton are limited in comparison with their mainstream competitors. They cannot, for example, take actions on your behalf and have limited integration with apps and workflows. DuckDuckGo also requires a paid account for access to more advanced models.
+
+Apple’s Siri AI chatbot, which debuted in iOS 27, similarly puts limits on who can access data about your AI queries. Requests that on-device models can handle stay on your machine, and more complex requests are securely processed in the cloud in a way where neither Apple nor any third party can access it.
+
+Apple does offer an option to share your data for training its AI models, which includes potentially sharing audio from voice chats with Siri with human reviewers. But it’s entirely opt-in, and if you previously opted to share information for the old version of Siri you should be prompted to update your preferences.
+
+Also, Siri AI is accessible only through Apple devices; there’s no web interface, and no cross-platform apps. Apple also appears to enforce its acceptable-use policies with strict internal guardrails that limit the AI’s functionality without requiring privacy-encroaching oversight, similar to Proton’s Lumo.
+
+Meta’s Muse bot exists in what the company describes as a virtual machine in the cloud. That might sound similar to Apple’s cloud-based processing, but Meta clearly states that it can access all the information you provide to Muse. Meta says that a fully encrypted version of Muse that would keep user information away from Meta is in the works — but it’s not available yet.
+
+Whether you use AI as a personal assistant that has in-depth knowledge of your life or just as a more conversational form of web search, remember that while the chatbots might seem like trusted companions, your conversations aren’t as private as you might think. Changing some settings — and being more mindful about the information you share — may go a long way toward keeping your information, and your innermost thoughts, safe.
+
+This article was edited by Caitlin McGarry and Jason Chen.
+
+Meet your guide
+
+I write about how to get the most out of your phones and computers, whether that means keeping your photos neatly sorted or protecting yourself from scams and surveillance.

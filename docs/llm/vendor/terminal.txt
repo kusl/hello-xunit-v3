@@ -1,4 +1,4 @@
-kushal@fedora:~/Videos/dl/2026-11-08$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
+kushal@fedora:~/src/dotnet/chaos-velixir-run$ cd /home/kushal/src/dotnet/HelloXUnit; git status; time bash export.sh; time dotnet list package; time dotnet list package --outdated; time dotnet run --project CSharpConsoleApp/CSharpConsoleApp.csproj > /home/kushal/src/dotnet/HelloXUnit/docs/llm/vendor/nytimes.txt
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -33,9 +33,9 @@ Export completed successfully!
 Output file: /home/kushal/src/dotnet/HelloXUnit/docs/llm/dump.txt
 Total source size: 0.17 MB across 19 files
 
-real	0m0.601s
-user	0m0.276s
-sys	0m0.267s
+real	0m0.648s
+user	0m0.292s
+sys	0m0.269s
 Restore complete (0.8s)
 
 Build succeeded in 0.9s
@@ -51,9 +51,9 @@ Project 'CSharpUnitTests' has the following package references
    > xunit.v3                       4.0.2       4.0.2   
 
 
-real	0m2.159s
-user	0m2.368s
-sys	0m0.526s
+real	0m2.133s
+user	0m1.645s
+sys	0m0.446s
 Restore complete (0.5s)
 
 Build succeeded in 0.6s
@@ -63,22 +63,20 @@ The following sources were used:
 
 The given project `CSharpClassLibrary` has no updates given the current sources.
 The given project `CSharpConsoleApp` has no updates given the current sources.
-The given project `CSharpUnitTests` has no updates given the current sources.
+Project `CSharpUnitTests` has the following updates to its packages
+   [net10.0]: 
+   Top-level Package      Requested   Resolved   Latest
+   > xunit.v3             4.0.2       4.0.2      4.0.3 
 
-real	0m4.216s
-user	0m1.782s
-sys	0m0.419s
 
-real	0m7.029s
-user	0m14.732s
-sys	0m1.589s
+real	0m2.483s
+user	0m1.892s
+sys	0m0.394s
+
+real	0m6.858s
+user	0m11.065s
+sys	0m1.304s
 kushal@fedora:~/src/dotnet/HelloXUnit$ 
-
-
-
-
-
-
 
 
 
